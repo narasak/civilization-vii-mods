@@ -4,7 +4,7 @@ Fan-made mods for Sid Meier's Civilization VII, one folder per mod.
 
 | Mod | What it does | Status |
 |---|---|---|
-| [Thai Language Pack](thai-language/) | Thai translation of the whole game (base game, all three Ages, all DLC), with bundled Thai fonts | In testing · [download](https://github.com/narasak/civilization-vii-mods/releases) |
+| [Thai Language Pack](thai-language/) | Thai translation of the whole game (base game, all three Ages, all DLC), with bundled Thai fonts | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834574849) · [download](https://github.com/narasak/civilization-vii-mods/releases) |
 
 ม็อดสำหรับ Sid Meier's Civilization VII ที่ทำโดยแฟนเกม แต่ละโฟลเดอร์คือหนึ่งม็อด
 ตัวแรกคือ [ม็อดภาษาไทย](thai-language/) ซึ่งแปลข้อความทั้งเกม พร้อมฟอนต์ไทยในตัว

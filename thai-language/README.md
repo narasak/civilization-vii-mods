@@ -9,12 +9,12 @@ English text: keep the game language on English.
 ## Status
 
 - 46,593 of 46,622 game strings translated (99.94%); the rest are empty strings and English grammar helpers.
-- Draft quality, machine-assisted and checked by tooling; in-game testing in progress. Reports welcome.
+- Published on the Steam Workshop (public since 2026-11-06). Machine-assisted, checked by tooling and tested in game. Reports welcome.
 - Tested on Civilization VII 1.5.0, macOS.
 
 ## Install
 
-- **Steam Workshop:** subscribe to "Thai Language Pack - ภาษาไทย" (link once public).
+- **Steam Workshop:** [subscribe to Thai Language Pack - ภาษาไทย](https://steamcommunity.com/sharedfiles/filedetails/?id=3834574849).
 - **Manual:** download `thai-language-pack-v<N>.zip` from [Releases](https://github.com/narasak/civilization-vii-mods/releases) and unzip it into your Mods folder
   (macOS `~/Library/Application Support/Civilization VII/Mods/`, Windows `%LOCALAPPDATA%\Firaxis Games\Sid Meier's Civilization VII\Mods\`).
 
