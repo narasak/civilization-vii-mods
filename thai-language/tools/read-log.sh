@@ -21,7 +21,7 @@ for line in sys.stdin:
     scans += 1; worst = max(worst, d.get("ms", 0))
     for f in d.get("found", []): spots.setdefault(f["el"], f)
 print(f"  {scans} scan(s), slowest {worst} ms, {len(spots)} place(s)")
-for k, f in spots.items(): print(f"  {f[\"ratio\"]}  {k}  [{f[\"text\"]}]")
+for k, f in spots.items(): print("  %s  %s  [%s]" % (f["ratio"], k, f["text"]))
 '
 echo "== font URLs that failed (UI.log)"
 grep -n "lth-.*\.ttf" "$L/UI.log" | head -20 || echo "  none failed"
