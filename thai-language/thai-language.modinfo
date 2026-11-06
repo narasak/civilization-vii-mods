@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="lth-thai-language" version="9" xmlns="ModInfo">
+<Mod id="lth-thai-language" version="10" xmlns="ModInfo">
 	<Properties>
 		<!-- ASCII ONLY. Thai here is drawn on the Add-Ons screen, where our font is not loaded, so it
 		     shows as empty boxes. (It was first blamed for a crash on quit; a control run with NO third-party mods (2026-11-06 08:28) crashed identically, so the crash is not ours.)

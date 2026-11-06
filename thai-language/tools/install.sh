@@ -19,5 +19,14 @@ for f in lth-Sarabun-Regular lth-Sarabun-SemiBold lth-Kanit-Medium lth-Kanit-Sem
 done
 
 mkdir -p "$DEST"
-rsync -a --delete --delete-excluded --exclude tools --exclude work --exclude translations --exclude glossary --exclude .gitignore --exclude fonts/src --exclude '.DS_Store' "$HERE/" "$DEST/"
+# ALLOWLIST: only what the game loads plus the font licences. This was an exclude list until
+# 2026-11-06, when new folders (dist/, workshop/) silently rode along into the v10 package.
+rsync -a --delete --delete-excluded \
+  --include '/thai-language.modinfo' --include '/README.md' \
+  --include '/text/' --include '/text/gen/' --include '/text/gen/*.xml' \
+  --include '/ui/' --include '/ui/*.js' \
+  --include '/fonts/' --include '/fonts/lth-*.ttf' --include '/fonts/OFL-*.txt' \
+  --include '/core/' --include '/core/ui/' --include '/core/ui/themes/' --include '/core/ui/themes/default/' \
+  --include '/core/ui/themes/default/panel-animations.css' \
+  --exclude '*' "$HERE/" "$DEST/"
 echo "installed -> $DEST"

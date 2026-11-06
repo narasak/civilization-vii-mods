@@ -18,7 +18,7 @@
  * single read-only audit in the front end that logs to UI.log ("LTH: audit") if a gap ever appears.
  */
 
-const BUILD = 'v9';
+const BUILD = 'v10';
 const FAMILY_BODY = 'LTH-Sarabun';
 const FAMILY_TITLE = 'LTH-Kanit';
 const MOD_ID = 'lth-thai-language';
@@ -131,7 +131,11 @@ function leadingScan() {
         const fs = parseFloat(cs.fontSize);
         const lh = parseFloat(cs.lineHeight);   // NaN for 'normal', which the font's own metrics space well
         if (!(fs > 0) || !(lh > 0) || lh / fs >= LEADING_MIN) continue;
-        if (el.getBoundingClientRect().height < lh * 1.8) continue;   // one line: nothing to collide with
+        // Content height, not the box: padding made a one-line plot-tooltip row read as two lines
+        // ("div.min-w-62 > div.relative > div", 2026-11-06 16:05; one line in the screenshot).
+        const content = el.getBoundingClientRect().height - (parseFloat(cs.paddingTop) || 0) - (parseFloat(cs.paddingBottom) || 0)
+            - (parseFloat(cs.borderTopWidth) || 0) - (parseFloat(cs.borderBottomWidth) || 0);
+        if (content < lh * 1.8) continue;   // one line: nothing to collide with
         const key = pathOf(el);
         if (leadingSeen.has(key)) continue;
         leadingSeen.add(key);

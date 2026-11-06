@@ -11,6 +11,9 @@ LTH_DEST="$STAGE" "$HERE/tools/install.sh"
 ZIP="$HERE/dist/thai-language-pack-v$VER.zip"
 rm -f "$ZIP"
 (cd "$HERE/dist" && zip -qr "$ZIP" lth-thai-language -x '*.DS_Store')
+# Every file must be one the game loads (or a font licence): anything else means the allowlist broke.
+stray=$(unzip -Z1 "$ZIP" | grep -v '/$' | grep -v -E '^lth-thai-language/(thai-language\.modinfo|README\.md|text/gen/[0-9]+-(game|shell)\.xml|ui/lth-thai-fonts\.js|fonts/(lth-[A-Za-z-]+\.ttf|OFL-[A-Za-z]+\.txt)|core/ui/themes/default/panel-animations\.css)$' || true)
+[ -z "$stray" ] || { echo "PACKAGE HAS FILES THE MOD DOES NOT SHIP:"; echo "$stray"; exit 1; }
 n=$(unzip -l "$ZIP" | tail -1 | awk '{print $2}')
 [ "$n" -ge 15 ] || { echo "PACKAGE IMPLAUSIBLE: only $n files in $ZIP"; exit 1; }
 echo "packaged $n files -> $ZIP ($(du -h "$ZIP" | cut -f1))"

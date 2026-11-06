@@ -2298,38 +2298,38 @@
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_LEADER_DEFEATED", "en_sha": "0be13fde0d22", "status": "draft", "th": "ผู้นำถูกโค่นล้มแล้ว"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_MISSING_GAME_DIPLOMACY", "en_sha": "46f718e0a447", "status": "draft", "th": "ไม่พบข้อมูลการทูตของเกม"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_MISSING_PLAYER_DIPLOMACY", "en_sha": "d88a6f9dc75f", "status": "draft", "th": "ไม่พบข้อมูลการทูตของผู้เล่น"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_ALLIES", "en_sha": "c9577fc28e92", "status": "draft", "th": "คุณต้องเป็นพันธมิตรกันจึงจะเริ่มปฏิบัติการทางการทูตนี้ได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_AT_WAR", "en_sha": "2f1fa04c0d0b", "status": "draft", "th": "คุณต้องอยู่ในภาวะสงครามจึงจะเริ่มปฏิบัติการทางการทูตนี้ได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_ALLIES", "en_sha": "c9577fc28e92", "status": "draft", "th": "ต้องเป็นพันธมิตรกันจึงจะเริ่มได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_AT_WAR", "en_sha": "2f1fa04c0d0b", "status": "draft", "th": "ต้องอยู่ในภาวะสงครามจึงจะเริ่มได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_ENOUGH_ENVOYS", "en_sha": "f994fb21adff", "status": "draft", "th": "ทูตไม่เพียงพอที่จะเริ่มปฏิบัติการทางการทูต"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NOT_SUZERAIN", "en_sha": "8a48e91b5a08", "status": "draft", "th": "คุณไม่ได้เป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]ของ[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]นี้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_ACTION_TYPE", "en_sha": "cf3033765f81", "status": "draft", "th": "ไม่พบประเภทของปฏิบัติการทางการทูต"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_SETTLEMENT_INITIAL", "en_sha": "cdaa1ae96c5a", "status": "draft", "th": "คุณต้องมีถิ่นฐานอย่างน้อยหนึ่งแห่งจึงจะเริ่มปฏิบัติการนี้ได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_SETTLEMENT_INITIAL", "en_sha": "cdaa1ae96c5a", "status": "draft", "th": "ต้องมีถิ่นฐานอย่างน้อย 1 แห่งจึงจะเริ่มได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_SETTLEMENT_TARGET", "en_sha": "c25cbfa9462b", "status": "draft", "th": "ผู้เล่นอีกฝ่ายต้องมีถิ่นฐานอย่างน้อยหนึ่งแห่งจึงจะเริ่มปฏิบัติการนี้ได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_TOWNS_INITIAL", "en_sha": "0216cbba00e7", "status": "draft", "th": "คุณต้องมีเมืองอย่างน้อยหนึ่งแห่งจึงจะเริ่มปฏิบัติการนี้ได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_TOWNS_TARGET", "en_sha": "458c00032300", "status": "draft", "th": "ผู้เล่นอีกฝ่ายต้องมีเมืองอย่างน้อยหนึ่งแห่งจึงจะเริ่มปฏิบัติการนี้ได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_UNITS_CLOSE", "en_sha": "137b0a19ed6f", "status": "draft", "th": "คุณไม่สามารถเริ่มปฏิบัติการทางการทูตนี้ได้ เนื่องจากไม่มียูนิตตั้งแต่ 2 ยูนิตขึ้นไปที่อยู่ใกล้กันพอ"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_TOWNS_INITIAL", "en_sha": "0216cbba00e7", "status": "draft", "th": "ต้องมีเมืองอย่างน้อย 1 แห่งจึงจะเริ่มได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_TOWNS_TARGET", "en_sha": "458c00032300", "status": "draft", "th": "อีกฝ่ายต้องมีเมืองอย่างน้อย 1 แห่งจึงจะเริ่มได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_UNITS_CLOSE", "en_sha": "137b0a19ed6f", "status": "draft", "th": "เริ่มไม่ได้ เพราะไม่มียูนิต 2 ยูนิตขึ้นไปอยู่ใกล้กันพอ"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_NO_VISION", "en_sha": "bf91f835eca1", "status": "draft", "th": "คุณยังไม่พบหมู่บ้านของพวกเขา"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_OVER_MAX_WITH_PLAYER_PROJECT", "en_sha": "f107d840f8b0", "status": "draft", "th": "ดำเนินโครงการนี้กับผู้นำผู้นี้ครบจำนวนครั้งสูงสุดแล้ว"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_PERMANENT_ALLIANCE", "en_sha": "3bd2d1c3c7d5", "status": "draft", "th": "คุณไม่สามารถยุติพันธมิตรกับสมาชิกในทีมได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_PREVIOUS_PROJECT_IN_COOLDOWN", "en_sha": "7b8b84f953d0", "status": "draft", "th": "ปฏิบัติการทางการทูตประเภทนี้ยังอยู่ในช่วงพักกับผู้นำผู้นี้อีก {1_turns} เทิร์น"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_PROJECT_NOT_UNLOCKED", "en_sha": "fcd6e354b13d", "status": "draft", "th": "ปฏิบัติการทางการทูตนี้ยังไม่ได้ปลดล็อก"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET", "en_sha": "a7ab94fdcedc", "status": "draft", "th": "ไม่สามารถประกาศสงครามได้ เนื่องจากยังไม่เข้าเงื่อนไขเหตุแห่งสงคราม"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT", "en_sha": "34ff172f2245", "status": "draft", "th": "ไม่สามารถประกาศสงครามได้ เนื่องจากมีสนธิสัญญาป้องกันร่วม"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS", "en_sha": "3d407f4fc28c", "status": "draft", "th": "ไม่สามารถประกาศสงครามกับสมาชิกในทีมได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_PEACE_OPPOSING_IDEOLOGIES", "en_sha": "ca6f51d61cdb", "status": "draft", "th": "ฝ่ายที่มีอุดมการณ์ตรงข้ามกันไม่สามารถมีสันติภาพต่อกันได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET", "en_sha": "a7ab94fdcedc", "status": "draft", "th": "ประกาศสงครามไม่ได้ ยังไม่เข้าเงื่อนไขเหตุแห่งสงคราม"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT", "en_sha": "34ff172f2245", "status": "draft", "th": "ประกาศสงครามไม่ได้ เพราะติดสนธิสัญญาป้องกันร่วม"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS", "en_sha": "3d407f4fc28c", "status": "draft", "th": "ประกาศสงครามกับเพื่อนร่วมทีมไม่ได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_PEACE_OPPOSING_IDEOLOGIES", "en_sha": "ca6f51d61cdb", "status": "draft", "th": "อุดมการณ์ตรงข้ามกันทำสันติภาพกันไม่ได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_WAR_SAME_IDEOLOGIES", "en_sha": "710dda1c584f", "status": "draft", "th": "อารยธรรมที่มีอุดมการณ์เดียวกันไม่สามารถทำสงครามต่อกันได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT", "en_sha": "7ba9804e6148", "status": "draft", "th": "ไม่สามารถประกาศสงครามได้เร็วเกินไปหลังทำสันติภาพ อีก {1_turns} เทิร์นจึงจะประกาศสงครามได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_FORMAL_NEEDS_HOSTILE", "en_sha": "3ce3ad647a3e", "status": "draft", "th": "ไม่สามารถเริ่มสงครามอย่างเป็นทางการได้ หากยังไม่มี [icon:RELATIONSHIP] ความสัมพันธ์แบบเป็นปรปักษ์"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_FORMAL_NEEDS_HOSTILE", "en_sha": "3ce3ad647a3e", "status": "draft", "th": "สงครามอย่างเป็นทางการต้องมี [icon:RELATIONSHIP] ความสัมพันธ์แบบเป็นปรปักษ์ก่อน"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY", "en_sha": "79d48730ed50", "status": "draft", "th": "ยังเร็วเกินไปที่จะเริ่มสงคราม อีก {1_turns} เทิร์นจึงจะประกาศสงครามได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT", "en_sha": "8a8d3c6bfadf", "status": "draft", "th": "ไม่สามารถทำสันติภาพได้เร็วเกินไปหลังประกาศสงคราม อีก {1_turns} เทิร์นจึงจะทำสันติภาพได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END", "en_sha": "7b367761429a", "status": "draft", "th": "สงครามจะไม่สิ้นสุด"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_RELATIONSHIP_LEVEL", "en_sha": "d26b056bb38e", "status": "draft", "th": "คุณต้องมี [icon:RELATIONSHIP] ความสัมพันธ์อย่างน้อยระดับ {1_Relationship} จึงจะเริ่มปฏิบัติการทางการทูตนี้ได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REQUIRES_UNIT", "en_sha": "5ecab7cbc575", "status": "draft", "th": "ปฏิบัติการทางการทูตต้องใช้ยูนิตในการเริ่ม"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_TEAM_ESPIONAGE", "en_sha": "86599f21f871", "status": "draft", "th": "คุณไม่สามารถสอดแนมเพื่อนร่วมทีมได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_TEAM_ESPIONAGE", "en_sha": "86599f21f871", "status": "draft", "th": "สอดแนมเพื่อนร่วมทีมไม่ได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_VILLAGE_NO_BEFRIEND", "en_sha": "76785a790ff3", "status": "draft", "th": "ค่ายพักแรมไม่สามารถผูกมิตรได้ และไม่สามารถกลายเป็น[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]ได้"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR", "en_sha": "5e9e49c612ba", "status": "draft", "th": "คุณไม่สามารถเริ่มปฏิบัติการทางการทูตนี้ได้ เนื่องจากอยู่ในภาวะสงคราม"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR_WITH_THEIR_ALLY", "en_sha": "1b367adf5278", "status": "draft", "th": "คุณไม่สามารถเริ่มปฏิบัติการทางการทูตนี้ได้ เนื่องจากคุณกำลังทำสงครามกับ {1_AllyName} ซึ่งเป็นพันธมิตรของพวกเขา"}
-{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR_WITH_YOUR_ALLY", "en_sha": "5e7f63e6ce86", "status": "draft", "th": "คุณไม่สามารถเริ่มปฏิบัติการทางการทูตนี้ได้ เนื่องจากพวกเขากำลังทำสงครามกับ {1_AllyName} ซึ่งเป็นพันธมิตรของคุณ"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR", "en_sha": "5e9e49c612ba", "status": "draft", "th": "เริ่มไม่ได้ขณะอยู่ในภาวะสงคราม"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR_WITH_THEIR_ALLY", "en_sha": "1b367adf5278", "status": "draft", "th": "เริ่มไม่ได้ เพราะคุณกำลังรบกับ {1_AllyName} พันธมิตรของพวกเขา"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_WAR_WITH_YOUR_ALLY", "en_sha": "5e7f63e6ce86", "status": "draft", "th": "เริ่มไม่ได้ เพราะพวกเขากำลังรบกับ {1_AllyName} พันธมิตรของคุณ"}
 {"tag": "LOC_DIPLOMACY_ACTION_FORM_ALLIANCE_DESCRIPTION", "en_sha": "17d830b498d1", "status": "draft", "th": "สถาปนาพันธมิตรกับผู้นำอื่น"}
 {"tag": "LOC_DIPLOMACY_ACTION_FORM_ALLIANCE_DISABLED", "en_sha": "78f28a837586", "status": "draft", "th": "[icon:RELATIONSHIP] ความสัมพันธ์ของคุณยังไม่ดีพอที่จะก่อตั้ง [icon:PLAYER_RELATIONSHIP_ALLIANCE] พันธมิตร"}
 {"tag": "LOC_DIPLOMACY_ACTION_FORM_ALLIANCE_NAME", "en_sha": "2e126c919428", "status": "draft", "th": "ก่อตั้งพันธมิตร"}
