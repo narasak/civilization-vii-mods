@@ -4,7 +4,10 @@
 Paths in a VDF must be absolute, so it is generated per machine into dist/ (not committed).
 Run tools/package.sh first: the content folder is the gated build in dist/lth-thai-language.
 
-  tools/workshop_vdf.py ["change note"]
+  tools/workshop_vdf.py [--private] [--no-preview] ["change note"]
+
+--no-preview: steamcmd uploads the preview through legacy Steam Cloud, which Civ VII refuses
+("Access Denied" after content uploaded fine, 2026-11-06); this sends everything else.
 
 First upload: workshop/published_id.txt is absent -> publishedfileid 0 creates a NEW item, uploaded
 PRIVATE (visibility 2). steamcmd then prints the new id: save it in workshop/published_id.txt so every
@@ -34,7 +37,8 @@ def main():
     ver = re.search(r'<Mod id="lth-thai-language" version="(\d+)"', modinfo).group(1)
     id_path = os.path.join(MOD, 'workshop', 'published_id.txt')
     pid = open(id_path).read().strip() if os.path.isfile(id_path) else '0'
-    note = sys.argv[1] if len(sys.argv) > 1 else f'Version {ver}'
+    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    note = args[0] if args else f'Version {ver}'
     fields = [
         ('appid', APP_ID),
         ('publishedfileid', pid),
@@ -44,7 +48,9 @@ def main():
         ('description', open(os.path.join(MOD, 'workshop', 'description.txt'), encoding='utf-8').read().strip()),
         ('changenote', note),
     ]
-    if pid == '0':
+    if '--no-preview' in sys.argv:
+        fields = [f for f in fields if f[0] != 'previewfile']
+    if pid == '0' or '--private' in sys.argv:
         fields.append(('visibility', '2'))  # private until tested from the Workshop copy
     out = os.path.join(MOD, 'dist', 'workshop_item.vdf')
     with open(out, 'w', encoding='utf-8') as f:
