@@ -1,0 +1,6 @@
+{
+  "name": "lth-workshop-tools",
+  "private": true,
+  "description": "Steam Workshop calls steamcmd cannot make (item preview). Needs the Steam client running and logged in as the item owner.",
+  "dependencies": { "steamworks.js": "0.4.0" }
+}

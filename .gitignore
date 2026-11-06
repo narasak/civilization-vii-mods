@@ -19,3 +19,6 @@ __pycache__/
 
 # Release builds (tools/package.sh)
 */dist/
+
+# npm installs for tools
+node_modules/
