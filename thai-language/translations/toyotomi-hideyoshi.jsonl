@@ -1,0 +1,362 @@
+{"tag": "LOC_10160A_COMPLETION", "en_sha": "cbcc10f800a2", "status": "draft", "th": "สังคม {1_CIVILIZATION_ADJ} คือสังคมติดอาวุธ การพกอาวุธเป็นเครื่องหมายแสดงสถานะ โดยเฉพาะสำหรับทหารผ่านศึก เมื่ออารมณ์คุกรุ่น ดาบก็ถูกชักออกจากฝัก และความขัดแย้งก็กลายเป็นการฆาตกรรม หรือไม่ ฮิเดโยชิคิด มันอาจกลายเป็นการปฏิวัติ"}
+{"tag": "LOC_10160A_STORYTITLE", "en_sha": "9a15f141fba4", "status": "draft", "th": "ถนนสีเลือด"}
+{"tag": "LOC_10160B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10160B_NAME", "en_sha": "c96ac28f3844", "status": "draft", "th": "ให้พวกเขาเก็บดาบไว้ สังคมที่มีอาวุธไม่ต้องฝึกมากนัก"}
+{"tag": "LOC_10160C_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10160C_NAME", "en_sha": "1191ec4903b0", "status": "draft", "th": "ริบดาบจากประชาชน"}
+{"tag": "LOC_10161A_COMPLETION", "en_sha": "96bb8aa3c352", "status": "draft", "th": "คาตานางาริเริ่มขึ้นแล้ว นั่นคือการล่าดาบ บ้านของชาวนาถูกค้นจนกระจุยกระจาย ยุ้งฉางถูกตรวจค้น และใบดาบก็ทับถมกันเป็นกองพะเนิน จนถึงบัดนี้ ตระกูลขุนนางยังคงติดสินบน วิงวอน หรือท้าทายจนรอดพ้นจากการล่าได้สำเร็จ แต่พวกเขานี่เองที่อาจเป็นภัยต่อฮิเดโยชิมากที่สุด"}
+{"tag": "LOC_10161A_STORYTITLE", "en_sha": "2375a0ccdc47", "status": "draft", "th": "คาตานางาริ"}
+{"tag": "LOC_10161B_DESCRIPTION", "en_sha": "d0d8b5a4ccf3", "status": "draft", "th": "{1_reward} แก่ผู้บัญชาการทั้งหมด"}
+{"tag": "LOC_10161B_NAME", "en_sha": "8e0c440879e0", "status": "draft", "th": "ขุนนางพกดาบได้ สามัญชนพกไม่ได้ นั่นคือพระราชโองการ"}
+{"tag": "LOC_10161C_DESCRIPTION", "en_sha": "079734e59449", "status": "draft", "th": "{1_reward} ในนคร"}
+{"tag": "LOC_10161C_NAME", "en_sha": "069bbc171bad", "status": "draft", "th": "เหล่าขุนนางควรลับฝีปากแทนจะดีกว่า ริบดาบของพวกเขา"}
+{"tag": "LOC_10162A_COMPLETION", "en_sha": "7b50e9367acf", "status": "draft", "th": "โทโยโทมิพินิจเหล่ามิชชันนารีต่างชาติ สายตากวาดจากใบหน้าหนึ่งไปยังอีกใบหน้าหนึ่ง พวกเขาอ้างว่ามาด้วยพันธกิจแห่งสันติและความรัก และว่าไม่ขึ้นต่ออำนาจใดนอกจากพระเป็นเจ้า แต่ถ้อยคำแห่งสันติอาจซ่อนกริชไว้ได้ไม่ต่างจากแขนเสื้อของชุดคามิชิโมะ แท้จริงแล้วพวกเขารับใช้นายผู้ใดกันแน่?"}
+{"tag": "LOC_10162A_STORYTITLE", "en_sha": "e50092287394", "status": "draft", "th": "นักบวชยี่สิบหกคน"}
+{"tag": "LOC_10162B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10162B_NAME", "en_sha": "ac40f7968970", "status": "draft", "th": "พวกเขาเป็นอย่างที่อ้างจริง"}
+{"tag": "LOC_10162C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10162C_NAME", "en_sha": "7b42dd300c00", "status": "draft", "th": "พวกเขาหมายบ่อนทำลายการปกครองของโทโยโทมิ"}
+{"tag": "LOC_10163A_COMPLETION", "en_sha": "8f7d30031a76", "status": "draft", "th": "เหล่ามิชชันนารีถูกส่งไปปรึกษากับนายที่พวกเขาอ้างถึงแล้ว ณ สรวงสวรรค์ เรื่องนี้จะก่อให้เกิดกรณีพิพาททางการทูต แต่ภายในพระราชวัง โทโยโทมิ ฮิเดโยชิหลับอย่างสบายใจ ขณะที่นักการทูตของเขาต่างครุ่นคิดว่าจะชี้แจงต่อมหาอำนาจต่างชาติอย่างไร"}
+{"tag": "LOC_10163A_STORYTITLE", "en_sha": "70c7884c0406", "status": "draft", "th": "มรณสักขียี่สิบหกคน"}
+{"tag": "LOC_10163B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10163B_NAME", "en_sha": "0f5bc3a3dfe9", "status": "draft", "th": "โยนความผิดให้โจร"}
+{"tag": "LOC_10163C_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10163C_NAME", "en_sha": "51b0afe1324e", "status": "draft", "th": "ไม่พูดอะไร"}
+{"tag": "LOC_10164A_COMPLETION", "en_sha": "d27149199225", "status": "draft", "th": "เสียงกลองจังหวะเชื่องช้า บทสนทนาที่ขับร้องยืดยาวอย่างประหลาด หน้ากาก ละครโนกำลังแสดงอยู่ โทโยโทมินั่งชมอย่างดื่มด่ำ ถูกพาล่องลอยไปด้วยสุนทรียะราวกับมาจากอีกโลกหนึ่ง ข้าง ๆ เขา เสนาบดีชั้นสูงผู้หนึ่งกรนเบา ๆ"}
+{"tag": "LOC_10164A_STORYTITLE", "en_sha": "5316117f665b", "status": "draft", "th": "ทางออกของละครโน"}
+{"tag": "LOC_10164B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10164B_NAME", "en_sha": "cd89372d5152", "status": "draft", "th": "ต้องส่งเสริมความซาบซึ้งให้มากกว่านี้"}
+{"tag": "LOC_10164C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10164C_NAME", "en_sha": "48b7ffaa6a32", "status": "draft", "th": "บางทีสามัญชนอาจชอบสิ่งที่... สามัญกว่านี้"}
+{"tag": "LOC_10164D_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10164D_NAME", "en_sha": "6169d6da42a9", "status": "draft", "th": "มากกว่านี้! อุดหนุนโรงละคร! เขียนการแสดงใหม่!"}
+{"tag": "LOC_10166A_COMPLETION", "en_sha": "9981d3ca9044", "status": "draft", "th": "นักแสดงละครโนสวมหน้ากากเฉกเช่นทหารสวมหมวกเกราะ ต่างมุ่งจะครอบงำ ต่างมุ่งจะยัดเยียดความจริงของตนให้แก่โลกที่ต่อต้าน โทโยโทมิรู้สึกคุ้นเคยในโรงละครพอ ๆ กับในสนามรบ โรงละครในนครที่โทโยโทมิพิชิตต่างแข่งขันกันเชิดชูมรดกของเขา"}
+{"tag": "LOC_10166A_STORYTITLE", "en_sha": "91849a168543", "status": "draft", "th": "วัฒนธรรมและการพิชิต"}
+{"tag": "LOC_10166B_DESCRIPTION", "en_sha": "9fcec2ec8876", "status": "draft", "th": "+1 ช่องทรัพยากรในถิ่นฐานที่มีโรงอุปรากรและถูกยึดได้ในยุคนี้"}
+{"tag": "LOC_10166B_NAME", "en_sha": "42dc439e5c2f", "status": "draft", "th": "สิ่งเหล่านี้จะแสดงความมั่งคั่งที่ได้จากการพิชิต"}
+{"tag": "LOC_10166C_DESCRIPTION", "en_sha": "da0f120fd62c", "status": "draft", "th": "{1_reward} ในถิ่นฐานที่ยึดได้ในยุคนี้"}
+{"tag": "LOC_10166C_NAME", "en_sha": "0ae01bcc2064", "status": "draft", "th": "ที่เหล่านี้จะเป็นสถานที่ให้เข้าใจวิถีต่างชาติได้ดียิ่งขึ้น"}
+{"tag": "LOC_10167A_COMPLETION", "en_sha": "ed8b28c1901d", "status": "draft", "th": "นักการทูตของโทโยโทมิฝากความหวังไว้มากกับพันธมิตรระหว่างเขากับฟรีดริชมหาราช ทั้งคู่ต่างเป็นปรมาจารย์ด้านการทหาร และต่างประกาศว่ารักการละครยิ่งนัก แต่ทั้งสองก็มีความแตกต่าง ฟรีดริชผู้สูงศักดิ์และสง่างามโดยกำเนิด กับฮิเดโยชินักรบผู้สร้างตัวขึ้นมาเอง ราชสำนักเฝ้ารอขณะที่สายตาของฮิเดโยชิกวาดอ่านจดหมายฉบับล่าสุดของฟรีดริช"}
+{"tag": "LOC_10167A_STORYTITLE", "en_sha": "41446ecc1c15", "status": "draft", "th": "โรงละครแห่งสงคราม"}
+{"tag": "LOC_10167B_DESCRIPTION", "en_sha": "1664f7bea825", "status": "draft", "th": "เมื่อคุณเริ่มโครงการร่วมกับฟรีดริช แนวรบเฉียง ความสัมพันธ์ +5"}
+{"tag": "LOC_10167B_NAME", "en_sha": "f05fac242de4", "status": "draft", "th": "\"บากะ!\" ฮิเดโยชิอุทานพลางโยนจดหมายทิ้ง"}
+{"tag": "LOC_10167C_DESCRIPTION", "en_sha": "09d4c3bdfbdc", "status": "draft", "th": "เมื่อคุณเริ่มการคว่ำบาตรต่อฟรีดริช แนวรบเฉียง ความสัมพันธ์ -5"}
+{"tag": "LOC_10167C_NAME", "en_sha": "2dd3330a18b2", "status": "draft", "th": "\"โอโมชิโรอิ!\" ฮิเดโยชิยิ้มพลางพับจดหมายอย่างระมัดระวัง"}
+{"tag": "LOC_10167_ALTA_COMPLETION", "en_sha": "ed8b28c1901d", "status": "draft", "th": "นักการทูตของโทโยโทมิฝากความหวังไว้มากกับพันธมิตรระหว่างเขากับฟรีดริชมหาราช ทั้งคู่ต่างเป็นปรมาจารย์ด้านการทหาร และต่างประกาศว่ารักการละครยิ่งนัก แต่ทั้งสองก็มีความแตกต่าง ฟรีดริชผู้สูงศักดิ์และสง่างามโดยกำเนิด กับฮิเดโยชินักรบผู้สร้างตัวขึ้นมาเอง ราชสำนักเฝ้ารอขณะที่สายตาของฮิเดโยชิกวาดอ่านจดหมายฉบับล่าสุดของฟรีดริช"}
+{"tag": "LOC_10167_ALTA_STORYTITLE", "en_sha": "41446ecc1c15", "status": "draft", "th": "โรงละครแห่งสงคราม"}
+{"tag": "LOC_10167_ALTB_DESCRIPTION", "en_sha": "a7ce2763f33c", "status": "draft", "th": "เมื่อคุณเริ่มโครงการร่วมกับฟรีดริช บาโรก ความสัมพันธ์ +5"}
+{"tag": "LOC_10167_ALTB_NAME", "en_sha": "f05fac242de4", "status": "draft", "th": "\"บากะ!\" ฮิเดโยชิอุทานพลางโยนจดหมายทิ้ง"}
+{"tag": "LOC_10167_ALTC_DESCRIPTION", "en_sha": "7f7f35fcf941", "status": "draft", "th": "เมื่อคุณเริ่มการคว่ำบาตรต่อฟรีดริช บาโรก ความสัมพันธ์ -5"}
+{"tag": "LOC_10167_ALTC_NAME", "en_sha": "2dd3330a18b2", "status": "draft", "th": "\"โอโมชิโรอิ!\" ฮิเดโยชิยิ้มพลางพับจดหมายอย่างระมัดระวัง"}
+{"tag": "LOC_10168A_COMPLETION", "en_sha": "cd220454db92", "status": "draft", "th": "ญี่ปุ่นข้างขึ้นข้างแรมดุจดวงจันทร์ ทว่ายังคงเป็นพลังที่มั่นคงเสมอมา ทั้งแรงดึงเข้าหาตนเองแห่งยุคเฮอัง ความโกลาหลบ้าคลั่งแห่งยุคเซ็นโงกุ และบัดนี้คือการโถมทะยานสู่อนาคตแห่งยุคเมจิ เหนือสิ่งทั้งปวงคือวิสัยทัศน์ของฮิเดโยชิ ภารกิจของเขา..."}
+{"tag": "LOC_10168A_STORYTITLE", "en_sha": "e063003d3418", "status": "draft", "th": "คัมปากุ"}
+{"tag": "LOC_10168B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10168B_NAME", "en_sha": "2d07cbbbf789", "status": "draft", "th": "เพื่อความเหนือกว่าทางการทหาร"}
+{"tag": "LOC_10168C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10168C_NAME", "en_sha": "d48f1100d97d", "status": "draft", "th": "เพื่อความจริงและความงาม"}
+{"tag": "LOC_10168D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10168D_NAME", "en_sha": "e8b42089c03a", "status": "draft", "th": "เพื่อสันติภาพ"}
+{"tag": "LOC_10169A_COMPLETION", "en_sha": "2ee2ce3d623e", "status": "draft", "th": "ความทะเยอทะยานของโทโยโทมิทำให้เขาต้องจ่ายราคา นอกดินแดนของเขา ผู้คนมองเขาอย่างดีที่สุดก็เป็นนักฉวยโอกาสผู้ไร้ปรานี อย่างเลวร้ายที่สุดก็เป็นทรราช แต่สิ่งเหล่านี้เป็นเพียงเรื่องเล่า และเรื่องเล่าก็เขียนได้ แก้ไขได้ และนำมาแสดงใหม่ได้ โทโยโทมิจรดพู่กันลงบนกระดาษ เขาจะเป็นผู้ประพันธ์เรื่องราวชีวิตของตนเอง เขาเขียนว่า..."}
+{"tag": "LOC_10169A_STORYTITLE", "en_sha": "6a3b050c558e", "status": "draft", "th": "อำนาจแข็งและอำนาจอ่อน"}
+{"tag": "LOC_10169B_DESCRIPTION", "en_sha": "4082d7dbab85", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้วัฒนธรรม"}
+{"tag": "LOC_10169B_NAME", "en_sha": "bdc11f210926", "status": "draft", "th": "การดิ้นรนของเขาในฐานะฮิโยชิมารุ ชาวนาผู้ต่ำต้อย"}
+{"tag": "LOC_10169C_DESCRIPTION", "en_sha": "4082d7dbab85", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้วัฒนธรรม"}
+{"tag": "LOC_10169C_NAME", "en_sha": "53786b4c0629", "status": "draft", "th": "การพิชิตในสนามรบของเขาในฐานะคัมปากุ"}
+{"tag": "LOC_10170A_COMPLETION", "en_sha": "9af1d78918da", "status": "draft", "th": "สิ่งที่ร้ายแรงยิ่งกว่าหน้าไม้และปืนคาบชุดคือความกลัว เมื่อเสียงอาวุธปะทะดังกระหึ่มขึ้น ข้าศึกก็แตกพ่าย ความกล้าบ้าบิ่นของฮิเดโยชิได้กลายเป็นอาวุธในตัวมันเอง"}
+{"tag": "LOC_10170A_STORYTITLE", "en_sha": "afcff39218a2", "status": "draft", "th": "คมดาบฉับไว"}
+{"tag": "LOC_10170B_DESCRIPTION", "en_sha": "76874cde92c2", "status": "draft", "th": "{1_reward} แก่ยูนิตทหารราบ"}
+{"tag": "LOC_10170B_NAME", "en_sha": "1a19bae131cf", "status": "draft", "th": "ความกลัวพอกพูนทับถมดุจหิมะถล่ม"}
+{"tag": "LOC_10170C_DESCRIPTION", "en_sha": "76874cde92c2", "status": "draft", "th": "{1_reward} แก่ยูนิตทหารราบ"}
+{"tag": "LOC_10170C_NAME", "en_sha": "f94e5a5f0406", "status": "draft", "th": "ต้องระมัดระวังบ้าง"}
+{"tag": "LOC_10186A_COMPLETION", "en_sha": "392a15a41cca", "status": "draft", "th": "ลานปราสาทฮิเมจิจัดงานมัตสึริทุกปีใหม่ ร่มหลากสีแต่งแต้มกำแพงปราสาทสีขาวด้วยสีเหลือง แดง เขียว และน้ำเงิน ใจกลางงานมีรถเข็นเต็มไปด้วยอาหาร ทั้งข้าวปั้นโอนิกิริยัดไส้หัวไชเท้า โซบะเต้าหู้ทอดชามร้อนกรุ่น และขนมดังโงะเสียบไม้ย่างไฟ ปีนี้โทโยโทมิได้พาพันธมิตรของเขาคือฮิมิโกะมาด้วย"}
+{"tag": "LOC_10186A_STORYTITLE", "en_sha": "9b0ebbf1a290", "status": "draft", "th": "ฮิมิโกะกับฮิเดโยชิไปเที่ยวฮิเมจิ"}
+{"tag": "LOC_10186B_DESCRIPTION", "en_sha": "c54c2900c91e", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้อาหาร"}
+{"tag": "LOC_10186B_NAME", "en_sha": "df7446285675", "status": "draft", "th": "ให้ฮิมิโกะดูแลร้านขายอาหารในงานมัตสึริ"}
+{"tag": "LOC_10186C_DESCRIPTION", "en_sha": "5c48c1e258a2", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้ความสุข"}
+{"tag": "LOC_10186C_NAME", "en_sha": "293d408a0244", "status": "draft", "th": "ให้ฮิมิโกะดูแลความบันเทิงในงานมัตสึริ"}
+{"tag": "LOC_ATTRIBUTENODE_TOYOTOMI_HIDEYOSHI_L1_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_TOYOTOMI_HIDEYOSHI_L1_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_TOYOTOMI_HIDEYOSHI_L2_DESCRIPTION", "en_sha": "4de93be80438", "status": "draft", "th": "+15% การผลิตในการสร้างสิ่งก่อสร้างและสิ่งมหัศจรรย์ที่มีช่องผลงานชิ้นเอก"}
+{"tag": "LOC_ATTRIBUTENODE_TOYOTOMI_HIDEYOSHI_L2_NAME", "en_sha": "750e224918f8", "status": "draft", "th": "โหนดคุณลักษณะทางวัฒนธรรม"}
+{"tag": "LOC_BADGE_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "6ac9c5246f58", "status": "draft", "th": "เหรียญตราโทโยโทมิ ฮิเดโยชิ 1"}
+{"tag": "LOC_BADGE_TOYOTOMI_HIDEYOSHI_P_NAME", "en_sha": "d59787010753", "status": "draft", "th": "เหรียญตราโทโยโทมิ ฮิเดโยชิ 2"}
+{"tag": "LOC_BANNER_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "9f1da1ed5d5e", "status": "draft", "th": "แบนเนอร์โทโยโทมิ ฮิเดโยชิ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TOYOTOMI_HIDEYOSHI_1_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TOYOTOMI_HIDEYOSHI_1_NAME", "en_sha": "e42f83a9d7e4", "status": "draft", "th": "การอุทิศของโทโยโทมิ ฮิเดโยชิ ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TOYOTOMI_HIDEYOSHI_2_DESCRIPTION", "en_sha": "9145ab6629d1", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_SCIENCE] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TOYOTOMI_HIDEYOSHI_2_NAME", "en_sha": "ca6629789990", "status": "draft", "th": "การอุทิศของโทโยโทมิ ฮิเดโยชิ ยุคแห่งการสำรวจ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TOYOTOMI_HIDEYOSHI_1_DESCRIPTION", "en_sha": "a08b7076c302", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TOYOTOMI_HIDEYOSHI_1_NAME", "en_sha": "ca3039484014", "status": "draft", "th": "การอุทิศของโทโยโทมิ ฮิเดโยชิ ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TOYOTOMI_HIDEYOSHI_2_DESCRIPTION", "en_sha": "9145ab6629d1", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_SCIENCE] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TOYOTOMI_HIDEYOSHI_2_NAME", "en_sha": "f6312ea0c636", "status": "draft", "th": "การอุทิศของโทโยโทมิ ฮิเดโยชิ ยุคสมัยใหม่ - ทางวัฒนธรรม"}
+{"tag": "LOC_DIPLOMACY_AGENDA_TOYOTOMI_HIDEYOSHI_DESC", "en_sha": "5346b1abd949", "status": "draft", "th": "ชอบผู้นำที่มี[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตทางบก[/TIP]และ [icon:YIELD_CULTURE] วัฒนธรรมมากที่สุด ไม่ชอบผู้นำที่มียูนิตทางบกน้อยที่สุดหรือมี [icon:YIELD_CULTURE] วัฒนธรรมน้อยที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_TOYOTOMI_HIDEYOSHI_DESC_DISLIKES", "en_sha": "4d888b0ee4a0", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิไม่ชอบผู้นำที่มียูนิตทางบกน้อยที่สุดหรือมี [icon:YIELD_CULTURE] วัฒนธรรมน้อยที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_TOYOTOMI_HIDEYOSHI_DESC_LIKES", "en_sha": "1a92b77fe1ff", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิชอบผู้นำที่มี[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตทางบก[/TIP]และ [icon:YIELD_CULTURE] วัฒนธรรมมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "7615d0ff7e50", "status": "draft", "th": "คัมปากุ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "ce2d968e3524", "status": "draft", "th": "คุณธรรมนั้นรวดเร็ว"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "6ff9af9a32f8", "status": "draft", "th": "ข้าโน้มน้าวท่านไม่สำเร็จ ก็ได้ จงพุ่งเข้าใส่คมดาบของเราเถิด"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "259a1dbd1a01", "status": "draft", "th": "ข้าเอื้อมเกินตัวไป ดั่งลิงที่เอื้อมคว้าดวงจันทร์"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "fae6328d5667", "status": "draft", "th": "ผู้ที่เคยเรียกข้าว่าลิง เรียกข้าว่าลูกชาวนา บัดนี้เรียกข้าว่านายท่าน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "fae6328d5667", "status": "draft", "th": "ผู้ที่เคยเรียกข้าว่าลิง เรียกข้าว่าลูกชาวนา บัดนี้เรียกข้าว่านายท่าน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "fae6328d5667", "status": "draft", "th": "ผู้ที่เคยเรียกข้าว่าลิง เรียกข้าว่าลูกชาวนา บัดนี้เรียกข้าว่านายท่าน"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_TOYOTOMI_HIDEYOSHI", "en_sha": "a74128e007bb", "status": "draft", "th": "ตกลงตามนั้น"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_TOYOTOMI_HIDEYOSHI", "en_sha": "4619fbee5297", "status": "draft", "th": "ท่านคิดว่าข้าโง่หรือ"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_TOYOTOMI_HIDEYOSHI", "en_sha": "c91b97f598cc", "status": "draft", "th": "ละครจบแล้ว ท่านเลิกแสร้งโง่ได้แล้ว"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_TOYOTOMI_HIDEYOSHI", "en_sha": "550af0eafc3c", "status": "draft", "th": "ให้ข้าอุ่นรองเท้าของท่านไว้ในอกเสื้อเถิด"}
+{"tag": "LOC_LEADER_CHAIN_1310A_COMPLETION", "en_sha": "a0d5eb4514b3", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชินั่งตรงข้ามกับพระภิกษุผู้เป็นปรมาจารย์ในตำนานที่กระดานโกะ หมากหล่นลงบนกระดานทีละเม็ด แป๊ะ แป๊ะ เมื่อเกมจบลง โทโยโทมิก็พ่ายแพ้ อีกครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1310A_STORYTITLE", "en_sha": "0dac5d11d7b8", "status": "draft", "th": "นิกไก ปรมาจารย์โกะ"}
+{"tag": "LOC_LEADER_CHAIN_1310B_COMPLETION", "en_sha": "eb85140b1284", "status": "draft", "th": "การสร้างสิ่งมหัศจรรย์มีความสำคัญอย่างไร? มิใช่ศิลปะ มิใช่ฝีมือของช่าง มิใช่สุนทรียะของรูปทรงที่เสร็จสมบูรณ์ ไม่ - แต่คือความพยายามอย่างแน่วแน่ การจัดระเบียบ และความมุ่งมั่นในเป้าหมายที่นำไปสู่สิ่งนี้ ความทุ่มเทเดียวกันที่ทำให้ช่างก่ออิฐวางอิฐได้อย่างแม่นยำสม่ำเสมอ ย่อมทำให้พลธนูเล็งได้แม่นและทหารฟันได้เฉียบขาดเช่นกัน"}
+{"tag": "LOC_LEADER_CHAIN_1310B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1310B_IMPERATIVE", "en_sha": "50eb77eb6b44", "status": "draft", "th": "ก่อตั้งถิ่นฐานภายในระยะ 5 ช่องจากใจกลางนครของถิ่นฐานของผู้เล่นอื่น"}
+{"tag": "LOC_LEADER_CHAIN_1310B_NAME", "en_sha": "1a36c2b610a4", "status": "draft", "th": "มุ่งการก่อสร้างขนานใหญ่ - การดูแข็งแกร่งก็คือความแข็งแกร่ง"}
+{"tag": "LOC_LEADER_CHAIN_1310B_STORYTITLE", "en_sha": "0dac5d11d7b8", "status": "draft", "th": "นิกไก ปรมาจารย์โกะ"}
+{"tag": "LOC_LEADER_CHAIN_1310C_COMPLETION", "en_sha": "a435d312808d", "status": "draft", "th": "ผู้ส่งสาส์นคลี่แผนที่การรบลงบนกระดานโกะของโทโยโทมิ โทโยโทมิพิจารณาตำแหน่งกองทหารของตนและแนวป้องกันของศัตรู \"อาตาริ\" เขาพึมพำอย่างพอใจ"}
+{"tag": "LOC_LEADER_CHAIN_1310C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1310C_IMPERATIVE", "en_sha": "8895154a9297", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์"}
+{"tag": "LOC_LEADER_CHAIN_1310C_NAME", "en_sha": "a19d69efa9a9", "status": "draft", "th": "มุ่งการรุกราน - ความกล้าบ้าบิ่นคือความแข็งแกร่ง"}
+{"tag": "LOC_LEADER_CHAIN_1310C_STORYTITLE", "en_sha": "0dac5d11d7b8", "status": "draft", "th": "นิกไก ปรมาจารย์โกะ"}
+{"tag": "LOC_LEADER_CHAIN_1310D_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1310D_NAME", "en_sha": "6f8dc808a7c1", "status": "draft", "th": "โทโยโทมิชักดาบออกมาผ่ากระดานเป็นสองท่อนอย่างเรียบร้อย จบเกม"}
+{"tag": "LOC_LEADER_CHAIN_1311A_COMPLETION", "en_sha": "8ca19b9b65f8", "status": "draft", "th": "การแสดงละครเริ่มขึ้น เสียงโครมครามและเสียงหัวเราะดังขึ้นเมื่อฮโยตโตโกะเหยียบถังน้ำแล้วล้มหน้าคะมำ ภาพเคลื่อนไหวหลากสีพร่าเลือนเมื่อนักเล่นกลบดบังฉากไว้ เสียงดนตรีรื่นเริงดังกระหึ่ม ผู้ชมต่างตกอยู่ในมนตร์สะกด แต่โทโยโทมิไม่รู้สึกเช่นนั้น ทั้งหมดนี้ช่างตื้นเขินนัก"}
+{"tag": "LOC_LEADER_CHAIN_1311A_STORYTITLE", "en_sha": "770eaabe27d6", "status": "draft", "th": "การพิชิตทางวัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1311B_COMPLETION", "en_sha": "96822a14382b", "status": "draft", "th": "ศิลปะแขนงใหม่ที่เรียกว่าโนก่อตัวขึ้นภายใต้การอุปถัมภ์ของโทโยโทมิ ศิลปะนี้โอบรับสิ่งพิลึก สิ่งแปลกประหลาด และสิ่งเหนือโลก - อันเป็นความงามอันประเสริฐ"}
+{"tag": "LOC_LEADER_CHAIN_1311B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1311B_IMPERATIVE", "en_sha": "0454a2caae4a", "status": "draft", "th": "มีสิ่งมหัศจรรย์ในถิ่นฐาน 3 แห่งที่แตกต่างกัน"}
+{"tag": "LOC_LEADER_CHAIN_1311B_NAME", "en_sha": "8f545768161c", "status": "draft", "th": "แสวงหาสิ่งที่มีแก่นสารกว่านี้"}
+{"tag": "LOC_LEADER_CHAIN_1311B_STORYTITLE", "en_sha": "770eaabe27d6", "status": "draft", "th": "การพิชิตทางวัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1311C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1311C_NAME", "en_sha": "ed6caeac1cf6", "status": "draft", "th": "แต่มหาชนดูจะชอบมัน"}
+{"tag": "LOC_LEADER_CHAIN_1312A_COMPLETION", "en_sha": "56964a198ba9", "status": "draft", "th": "โทโยโทมินั่งอยู่ในค่ายทหาร เฝ้ามองเหล่าทหารเดินเข้าออกโดยไม่เอ่ยวาจาใด เขายกนิ้วขึ้นห้ามมิให้ผู้ใดถาม แล้วหันกลับไปเฝ้ามองต่อ ผู้คน - แม้แต่ทหารในยามสงคราม - หาได้มองโลกตามที่มันเป็นไม่ หากแต่มองตามที่ตนคาดหวังจะเห็น ด้วยเหตุนี้ พวกเขาจึงคาดเดาได้"}
+{"tag": "LOC_LEADER_CHAIN_1312A_STORYTITLE", "en_sha": "e3f29ee41dab", "status": "draft", "th": "ทวนกระแส"}
+{"tag": "LOC_LEADER_CHAIN_1312B_COMPLETION", "en_sha": "4a62ec4e9d82", "status": "draft", "th": "ทหารที่ไม่พร้อมรบหาใช่ทหารไม่ พวกเขาเป็นเพียงคนธรรมดา และไม่นานก็จะกลายเป็นศพ"}
+{"tag": "LOC_LEADER_CHAIN_1312B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1312B_IMPERATIVE", "en_sha": "a0a3827747d7", "status": "draft", "th": "ปราบยูนิต 3 ยูนิตภายในเทิร์นเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1312B_NAME", "en_sha": "2da212400f01", "status": "draft", "th": "ถ้าเช่นนั้น ชัยชนะย่อมมาจากการทำลายแบบแผน"}
+{"tag": "LOC_LEADER_CHAIN_1312B_STORYTITLE", "en_sha": "e3f29ee41dab", "status": "draft", "th": "ทวนกระแส"}
+{"tag": "LOC_LEADER_CHAIN_1312C_DESCRIPTION", "en_sha": "3221bb0a3cf2", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] วัฒนธรรมบนผลงานชิ้นเอกทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1312C_NAME", "en_sha": "24c940aebccc", "status": "draft", "th": "ค้นหอจดหมายเหตุโบราณเพื่อหาความรู้แจ้ง"}
+{"tag": "LOC_LEADER_CHAIN_1313A_COMPLETION", "en_sha": "ed9623ef8aef", "status": "draft", "th": "โทโยโทมิเฝ้าดูทหารของเขาซ้อมประลอง แต่ละคนเคลื่อนไหวไปพร้อมกับอีกฝ่าย เป็นการผสมผสานของความหวาดหวั่น การรอคอย การประเมิน และการเคลื่อนไหว เขาคิดว่าพวกเขากำลังร่ายรำมากกว่าต่อสู้"}
+{"tag": "LOC_LEADER_CHAIN_1313A_STORYTITLE", "en_sha": "ae23ef909b67", "status": "draft", "th": "การร่ายรำ"}
+{"tag": "LOC_LEADER_CHAIN_1313B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1313B_NAME", "en_sha": "99e00c16e205", "status": "draft", "th": "ละครคือสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1313C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1313C_NAME", "en_sha": "13d3e3d39d25", "status": "draft", "th": "สงครามคือละคร"}
+{"tag": "LOC_LEADER_CHAIN_1314A_COMPLETION", "en_sha": "0e3ef4634ce6", "status": "draft", "th": "การพิชิตต้องอาศัยมากกว่าการยึดป้อมปราการทางยุทธศาสตร์หรือการวางแนวควบคุม วิถีความคิด จินตนาการ และความฝันก็ถูกพิชิตได้เช่นกัน โทโยโทมิครุ่นคิดถึงวิธีทำสงครามกับจิตใจควบคู่ไปกับร่างกาย"}
+{"tag": "LOC_LEADER_CHAIN_1314A_STORYTITLE", "en_sha": "46d331ab087a", "status": "draft", "th": "สงครามแห่งละคร ละครแห่งสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1314B_COMPLETION", "en_sha": "1f7147b02792", "status": "draft", "th": "ประชาชนที่ขาดผลงานทางวัฒนธรรมอาจยอมรับการปกครองของต่างชาติได้ง่ายกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1314B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1314B_IMPERATIVE", "en_sha": "2193371758b3", "status": "draft", "th": "ปล้นสะดมเตาเผา พลับพลา สิ่งก่อสร้างเฉพาะตัว หรือสิ่งปรับปรุงเฉพาะตัว"}
+{"tag": "LOC_LEADER_CHAIN_1314B_NAME", "en_sha": "a24c6bffa89c", "status": "draft", "th": "ก้าวแรกคือการตัดทรัพยากรของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1314B_STORYTITLE", "en_sha": "46d331ab087a", "status": "draft", "th": "สงครามแห่งละคร ละครแห่งสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1314C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1314C_NAME", "en_sha": "ff57398a578a", "status": "draft", "th": "ก้าวแรกคือการพัฒนาจินตนาการของเราเอง"}
+{"tag": "LOC_LEADER_CHAIN_1315A_COMPLETION", "en_sha": "484a96fc6938", "status": "draft", "th": "การจัดหาเสบียงสำหรับโรงละครเป็นเรื่องยากลำบากเสมอในยามสงคราม ถึงกระนั้น โรงละครของโทโยโทมิก็ยังได้รับการตกแต่งอย่างดีที่สุดเสมอ สิ่งสำคัญย่อมต้องได้รับความสำคัญ"}
+{"tag": "LOC_LEADER_CHAIN_1315A_STORYTITLE", "en_sha": "8599397c494a", "status": "draft", "th": "ฝ่ายอุปกรณ์ประกอบฉาก"}
+{"tag": "LOC_LEADER_CHAIN_1315B_COMPLETION", "en_sha": "96955266b539", "status": "draft", "th": "เปลวไฟริบหรี่อยู่บนโคมหิน แสงสะท้อนระยิบระยับบนเครื่องแต่งกายของนักแสดงระบำ ขณะชมการแสดง โทโยโทมิหวนคิดถึงนครต่าง ๆ ที่เขาเคยเห็นลุกเป็นไฟ"}
+{"tag": "LOC_LEADER_CHAIN_1315B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1315B_IMPERATIVE", "en_sha": "b2ccbdb6d3c4", "status": "draft", "th": "ปรับปรุงทรัพยากรในดินแดนโพ้นทะเลเพิ่มอีก 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1315B_NAME", "en_sha": "d26ac0bbbe7d", "status": "draft", "th": "โรงละครจะเปล่งประกาย"}
+{"tag": "LOC_LEADER_CHAIN_1315B_STORYTITLE", "en_sha": "8599397c494a", "status": "draft", "th": "ฝ่ายอุปกรณ์ประกอบฉาก"}
+{"tag": "LOC_LEADER_CHAIN_1316A_COMPLETION", "en_sha": "b0b78317aebc", "status": "draft", "th": "โทโยโทมิตรวจพลทหารของเขา - น้อยเกินไป โดยเฉพาะเมื่อคำนึงถึงภัยคุกคามที่อยู่นอกพรมแดน แต่จังหวะเวลาอันเหมาะสมอาจไม่รอให้เขาเตรียมพร้อม บางทียุทธศาสตร์และความกล้าหาญอย่างแท้จริงอาจเอาชนะจำนวนได้"}
+{"tag": "LOC_LEADER_CHAIN_1316A_STORYTITLE", "en_sha": "785954c205c4", "status": "draft", "th": "ดาบในฝัก"}
+{"tag": "LOC_LEADER_CHAIN_1316B_COMPLETION", "en_sha": "810998ebf5f0", "status": "draft", "th": "ดาบถูกชักออกจากฝักแล้ว จงโจมตี!"}
+{"tag": "LOC_LEADER_CHAIN_1316B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1316B_IMPERATIVE", "en_sha": "d4e0d3877b64", "status": "draft", "th": "ประกาศสงครามจู่โจมภายใน {1_turn_timer}"}
+{"tag": "LOC_LEADER_CHAIN_1316B_NAME", "en_sha": "3d8b5fb04e16", "status": "draft", "th": "ฉวยโอกาสนี้ไว้"}
+{"tag": "LOC_LEADER_CHAIN_1316B_STORYTITLE", "en_sha": "785954c205c4", "status": "draft", "th": "ดาบในฝัก"}
+{"tag": "LOC_LEADER_CHAIN_1316C_DESCRIPTION", "en_sha": "3555c006bb62", "status": "draft", "th": "{1_reward} ยูนิตทหารราบ"}
+{"tag": "LOC_LEADER_CHAIN_1316C_NAME", "en_sha": "d0f80e516dcf", "status": "draft", "th": "สะสมกำลังพลก่อน"}
+{"tag": "LOC_LEADER_CHAIN_1317A_COMPLETION", "en_sha": "11e665c962da", "status": "draft", "th": "การผจญภัยโพ้นทะเลของโทโยโทมิประสบความสำเร็จ เรือของเขาข้ามมหาสมุทรและ - โดยส่วนใหญ่ - ไปถึงจุดหมาย ในครั้งนี้"}
+{"tag": "LOC_LEADER_CHAIN_1317A_STORYTITLE", "en_sha": "ff09b82e9c26", "status": "draft", "th": "หวนคืนสู่อิมจิน"}
+{"tag": "LOC_LEADER_CHAIN_1317B_COMPLETION", "en_sha": "b7e68ea8c8b8", "status": "draft", "th": "การพิชิตแต่ละครั้งคือกระจกที่สะท้อนความรุ่งโรจน์แห่งนครหลวงของโทโยโทมิ เป็นกระจกที่หม่นมัว แต่ยังคงมีเงาของภาพแห่งความงามปรากฏอยู่"}
+{"tag": "LOC_LEADER_CHAIN_1317B_DESCRIPTION", "en_sha": "3e3ab0b53d44", "status": "draft", "th": "ผู้บัญชาการกองทัพพร้อมยูนิตทหารราบ ยูนิตระยะไกล ยูนิตทหารม้า และยูนิตปิดล้อม"}
+{"tag": "LOC_LEADER_CHAIN_1317B_IMPERATIVE", "en_sha": "3d9b52150e06", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์ในถิ่นฐานที่ยึดได้ในยุคนี้ในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1317B_NAME", "en_sha": "0152457bccd6", "status": "draft", "th": "บัดนี้ จงทำให้นครเหล่านี้รุ่งโรจน์"}
+{"tag": "LOC_LEADER_CHAIN_1317B_STORYTITLE", "en_sha": "ff09b82e9c26", "status": "draft", "th": "หวนคืนสู่อิมจิน"}
+{"tag": "LOC_LEADER_CHAIN_1318A_COMPLETION", "en_sha": "7cfbbe155f58", "status": "draft", "th": "\"หากเจ้าไม่ขับขาน ข้าจะโน้มน้าวเจ้าเอง\" เรื่องเล่าที่แพร่หลายเกี่ยวกับการปกครองของโทโยโทมิว่าไว้เช่นนั้น - ไม่ว่าด้วยการโน้มน้าวหรือการบีบบังคับ เขาย่อมได้ตามที่ต้องการ แต่ก็ยังมีผู้ที่ไม่ถูกโน้มน้าวอยู่"}
+{"tag": "LOC_LEADER_CHAIN_1318A_STORYTITLE", "en_sha": "e4cdec26ce6d", "status": "draft", "th": "คาบูกิการเมือง"}
+{"tag": "LOC_LEADER_CHAIN_1318B_COMPLETION", "en_sha": "258a4756116c", "status": "draft", "th": "เหล่านักแสดงขับขาน พวกเขายิ้ม พวกเขาร่ายรำ ทหารเดินสวนสนามไปตามถนน"}
+{"tag": "LOC_LEADER_CHAIN_1318B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1318B_IMPERATIVE", "en_sha": "149acf292b0b", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์ 3 แห่งในถิ่นฐานที่ยึดได้ในยุคนี้"}
+{"tag": "LOC_LEADER_CHAIN_1318B_NAME", "en_sha": "14068bf07105", "status": "draft", "th": "ทำให้เป็นเยี่ยงอย่าง - ทุกผู้จะร้องเพลงสรรเสริญโทโยโทมิ"}
+{"tag": "LOC_LEADER_CHAIN_1318B_STORYTITLE", "en_sha": "e4cdec26ce6d", "status": "draft", "th": "คาบูกิการเมือง"}
+{"tag": "LOC_LEADER_CHAIN_1318C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1318C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1318D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1318D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1319A_COMPLETION", "en_sha": "f04791ca8234", "status": "draft", "th": "โทโยโทมิไม่เคยหลีกหนีความเป็นไปได้ของยุคใหม่ บัดนี้ โลกแตกสลายและถูกสร้างขึ้นใหม่ทุกปีที่ผ่านไป เขาได้เรียนรู้ที่จะพิชิตแผ่นดินและท้องทะเลแล้ว - และบัดนี้เขาทอดสายตาขึ้นสู่ฟากฟ้า"}
+{"tag": "LOC_LEADER_CHAIN_1319A_STORYTITLE", "en_sha": "84dc0f7e3577", "status": "draft", "th": "ฟ้ามืดมิด"}
+{"tag": "LOC_LEADER_CHAIN_1319B_COMPLETION", "en_sha": "ae499441ce5d", "status": "draft", "th": "ขณะที่เครื่องบินทิ้งระเบิดของโทโยโทมิทะยานขึ้นจากสนามบิน เขาก็ตระหนักว่านี่คือโฉมหน้าใหม่ของสงคราม เขากำเครื่องรับวิทยุไว้แน่นขณะที่นิ้วมือปวดร้าวโหยหาดาบคาตานะ เขาออกคำสั่งให้ถล่มนครให้ราบผ่านโทรศัพท์ ขณะที่ลำคออยากตะโกนสั่งการข้ามสนามรบ"}
+{"tag": "LOC_LEADER_CHAIN_1319B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1319B_IMPERATIVE", "en_sha": "013a30377d08", "status": "draft", "th": "มีเครื่องบินทิ้งระเบิดและ/หรือเครื่องบินทิ้งระเบิดหนัก 10 ลำ"}
+{"tag": "LOC_LEADER_CHAIN_1319B_NAME", "en_sha": "23cfb81d750a", "status": "draft", "th": "ดาบนั้นใกล้ชิด แต่ระเบิดได้ผลกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1319B_STORYTITLE", "en_sha": "84dc0f7e3577", "status": "draft", "th": "ฟ้ามืดมิด"}
+{"tag": "LOC_LEADER_CHAIN_1319C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1319C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1319D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1319D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_TOYOTOMI_HIDEYOSHI_DESCRIPTION", "en_sha": "268fac74d7dd", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตทางบก[/TIP]สร้าง[b][icon:DAMAGED] ความเสียหายสองเท่า[/b]เมื่อโจมตียูนิตฝ่ายตรงข้าม แต่ยูนิตทั้งหมดของคุณได้รับ [icon:DAMAGED] ความเสียหายสองเท่าเมื่อป้องกัน ยูนิตของคุณ[b][icon:Action_Heal] ฟื้นฟู[/b]เพิ่มอีก 5 HP และเพิ่มเป็นสองเท่าหากอยู่บน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP][b][icon:YIELD_CULTURE] ทางวัฒนธรรม [/b]หรือ[B][icon:WONDER] สิ่งมหัศจรรย์[/B] [b]+25% [icon:YIELD_PRODUCTION] การผลิต[/b]ในการสร้าง[b][icon:YIELD_CULTURE] สิ่งก่อสร้างทางวัฒนธรรม[/b] ผลนี้[b]เพิ่มเป็นสองเท่า[/b]ใน[TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นครที่ยึดมาได้[/TIP]จากยุคใดก็ตาม "}
+{"tag": "LOC_LEADER_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "3b47fb949d9d", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิ"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_TOYOTOMI_HIDEYOSHI", "en_sha": "542ea72377d0", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิ ท่านไต่เต้าจากบุตรชาวนาขึ้นเป็นผู้ปกครอง แม้ผู้อื่นอาจเย้ยหยันฐานะและรูปลักษณ์ของท่าน แต่ไม่มีผู้ใดกล้าทำเช่นนั้นต่อหน้าท่าน ด้วยพลังใจอันแรงกล้า คู่แข่งของท่านถูกผลักให้ถอยร่น และท่านก็แผ่อำนาจตามหลังพวกเขาไป คัมปากุฮิเดโยชิ จงคว้าโอกาสนี้ไว้ และชูธงของท่านขึ้น"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_TOYOTOMI_HIDEYOSHI_ANY", "en_sha": "97a17aa9da98", "status": "draft", "th": "หากคิดว่าจะสำเร็จ ก็จะสำเร็จ หากคิดว่าจะล้มเหลว ก็จะล้มเหลว"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_HONEBAMI_DESCRIPTION", "en_sha": "fb9844b92953", "status": "draft", "th": "ผู้กลืนกินกระดูก"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_HONEBAMI_FUNCTIONAL_DESCRIPTION", "en_sha": "2db18579e07e", "status": "draft", "th": "[B]+1 [icon:Action_Move] การเคลื่อนที่[/B] สำหรับยูนิตระดับ 3"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_HONEBAMI_NAME", "en_sha": "e6d0636d62f9", "status": "draft", "th": "ดาบโฮเนบามิ"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_KABUTO_DESCRIPTION", "en_sha": "ca0a724ae0a4", "status": "draft", "th": "ต้องรดน้ำเป็นประจำ"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_KABUTO_FUNCTIONAL_DESCRIPTION", "en_sha": "a7c82a92d5f4", "status": "draft", "th": "[B]+3 [icon:YIELD_DIPLOMACY][/B] ต่อ[B]ยุค[/B]"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_KABUTO_NAME", "en_sha": "fe7b5f10c065", "status": "draft", "th": "หมวกคาบูโตะ"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_TEA_CEREMONY_KIT_DESCRIPTION", "en_sha": "61802c2996f0", "status": "draft", "th": "วาบิซาบิในถ้วยชา"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_TEA_CEREMONY_KIT_FUNCTIONAL_DESCRIPTION", "en_sha": "b39936b83bd5", "status": "draft", "th": "[B]+20% [icon:YIELD_PRODUCTION][/B] ในการสร้างแท่นบูชา วิหาร และพิพิธภัณฑ์"}
+{"tag": "LOC_MEMENTO_TOYOTOMI_HIDEYOSHI_TEA_CEREMONY_KIT_NAME", "en_sha": "d19997869262", "status": "draft", "th": "ชุดพิธีชงชา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_ANTIQUITY_DESC", "en_sha": "de39dbdc9146", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคโบราณ ทำภารกิจเพื่อสร้างสิ่งอันน่าอัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_ANTIQUITY_NAME", "en_sha": "770eaabe27d6", "status": "draft", "th": "การพิชิตทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_EXPLORATION_DESC", "en_sha": "c2be734c50e8", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อโจมตีภัยคุกคามที่ใกล้เข้ามาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_EXPLORATION_NAME", "en_sha": "46d331ab087a", "status": "draft", "th": "สงครามแห่งละคร ละครแห่งสงคราม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_MODERN_DESC", "en_sha": "3f20cd83e78b", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคสมัยใหม่ ทำภารกิจเพื่อนำสิ่งมหัศจรรย์ไปสู่ถิ่นฐานที่พิชิตได้ในแดนไกลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_A_MODERN_NAME", "en_sha": "e4cdec26ce6d", "status": "draft", "th": "คาบูกิการเมือง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_ANTIQUITY_DESC", "en_sha": "711397d0c8eb", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคโบราณ ทำภารกิจเพื่อแสดงความร้ายกาจของเหล่าทหารของคุณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_ANTIQUITY_NAME", "en_sha": "e3f29ee41dab", "status": "draft", "th": "ทวนกระแส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_EXPLORATION_DESC", "en_sha": "4e7e72c2a134", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อรวบรวมทรัพยากรจากดินแดนโพ้นทะเลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_EXPLORATION_NAME", "en_sha": "785954c205c4", "status": "draft", "th": "ดาบในฝัก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_MODERN_DESC", "en_sha": "5051fee73f14", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ ในยุคสมัยใหม่ ทำภารกิจเพื่อเตรียมฝูงเครื่องบินทิ้งระเบิดมหาประลัยให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TOYOTOMI_HIDEYOSHI_QUEST_B_MODERN_NAME", "en_sha": "84dc0f7e3577", "status": "draft", "th": "ฟ้ามืดมิด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "d5ff5529209d", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "ed8cded0f3f5", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "e2837efcf762", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "46f589a42570", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "b844022ca6fb", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "388fa8b82154", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "7af29c610479", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "7cfb21b30820", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_DESC", "en_sha": "d0cbe0c4d751", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "afeb6ea07f22", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "8400fd45d50a", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "08f600541a57", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "408ee33ac574", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "4c21c8c32d97", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "d91d1c82106c", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_VICTORY_DESC", "en_sha": "821af4e7db8a", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DEITY_VICTORY_DESC", "en_sha": "dce33a72f141", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "2614a5666598", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "0de7c4c2efab", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "f9c852daaa35", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "dcf9a4d35afc", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "dc27c9267663", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "6b8a64b2daea", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "1de807b46ed0", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "344eb5b3785a", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "6c3c478f8537", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "9920f5741ce3", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "9723a4d0e288", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "9a070bd11463", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_VICTORY_DESC", "en_sha": "bc68fbe810f3", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "b35eea8c3e27", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "3a14a788d27d", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "44d37d020403", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "dd33ab49716f", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "b47fe1daaa54", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "dd64bd72a2ac", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "5fbd0a2f60fe", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "3193bb803c1d", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "241f75df6816", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "333ea23a350b", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "503d7244d9e9", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "045320a286f0", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "c5b847f7b264", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "990126c389a3", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_VICTORY_DESC", "en_sha": "31cc2df56810", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_1_DESC", "en_sha": "c8ac31cf956d", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_2_DESC", "en_sha": "2815abf426f6", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_3_DESC", "en_sha": "0f43d8cd2777", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a89699d44efe", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "33303f891f06", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "e55d5f3c8d97", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "0368d3db28a0", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "373141519999", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "f1c0be92396f", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_VICTORY_DESC", "en_sha": "b7acd38af8eb", "status": "draft", "th": "เล่นเป็นโทโยโทมิ ฮิเดโยชิ คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TOYOTOMI_HIDEYOSHI_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_MODULE_TOYOTOMI_HIDEYOSHI_DESCRIPTION", "en_sha": "633747baf7d7", "status": "draft", "th": "มีผู้นำใหม่ คือ โทโยโทมิ ฮิเดโยชิ"}
+{"tag": "LOC_MODULE_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "3b47fb949d9d", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิ"}
+{"tag": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_TOYOTOMI_HIDEYOSHI_L2_DESCRIPTION", "en_sha": "f9d318a62176", "status": "draft", "th": "ปลดล็อกตำนาน +15% [icon:YIELD_PRODUCTION] การผลิตในการสร้าง [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างและ [icon:WONDER] สิ่งมหัศจรรย์ที่มีช่อง [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอก"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TOYOTOMI_HIDEYOSHI_L1_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TOYOTOMI_HIDEYOSHI_L1_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_1", "en_sha": "964d1a345323", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิ หนึ่งในสามผู้ปกครองผู้ยิ่งใหญ่แห่งยุคเซ็นโงกุอันแตกแยกของญี่ปุ่น เป็นบุคคลที่โดดเด่นด้วยความทะเยอทะยานและเล่ห์เหลี่ยม ความภักดีและความกล้าบ้าบิ่น เขาก้าวขึ้นมาจากความไร้ชื่อเสียงจนได้เป็นคัมปากุ (ผู้สำเร็จราชการ ซึ่งมักเป็นผู้ปกครองตัวจริง) ของญี่ปุ่น และใฝ่ฝันจะโค่นจักรวรรดิที่ทรงอำนาจที่สุดในโลกขณะนั้น นั่นคือจีนสมัยราชวงศ์หมิง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_2", "en_sha": "9d37f88a8627", "status": "draft", "th": "ฮิเดโยชิมิได้เกิดมาในนามโทโยโทมิ เดิมเขาชื่อฮิโยชิมารุ บุตรของอาชิงารุ (ทหารราบ) และไม่มีบันทึกถึงชีวิตช่วงต้นในฐานะสามัญชนของเขา เมื่อเวลาผ่านไป เขาเปลี่ยนจากนักผจญภัยพเนจรมาเป็นข้ารับใช้ของขุนนางชั้นผู้น้อย ท่ามกลางความโกลาหลในปลายศตวรรษที่ 16 ระหว่างสงครามไม่รู้จบของยุคเซ็นโงกุ เขาได้เข้าไปอยู่ในวงโคจรของไดเมียวโอดะ โนบุนางะ ในฐานะผู้ถือรองเท้าแตะ ทว่าวีรกรรมสำคัญของโทโยโทมิคือการบุกจู่โจมปราสาทอินาบายามะอย่างอาจหาญ ซึ่งเป็นศึกชี้ขาดที่ทำให้ชัยชนะของตระกูลโอดะเหนือคู่แข่งมั่นคง โอดะ โนบุนางะเตรียมการบุกเต็มกำลังตามแบบฉบับอันดุดันของเขา แต่โทโยโทมิ (ซึ่งขณะนั้นใช้ชื่อคิโนชิตะ โทคิจิโร) กับพรรคพวกราวสิบคนได้ปีนภูเขาด้านหลังปราสาทขึ้นไปใต้แสงจันทร์ ครั้นกองทัพของโอดะบุกเข้ามายามรุ่งสาง คณะของโทโยโทมิก็อยู่ภายในแล้วและเปิดประตูรับ การบุกครั้งนั้นรวมถึงชัยชนะต่อเนื่องของโอดะที่ตามมา ทำให้เขาได้รับตำแหน่งแม่ทัพ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_3", "en_sha": "44aefbb75766", "status": "draft", "th": "โอดะถูกลอบสังหารในปี 1582 เมื่อข้ารับใช้คนหนึ่งทรยศเขา โทโยโทมิตามล่าและสังหารกบฏผู้นั้น แล้วอ้างสิทธิ์สืบทอดอำนาจของโอดะ ช่วงหลายปีต่อมาเป็นยุคแห่งการพิชิตและรวบรวมอำนาจ โทโยโทมิต้องเผชิญหน้ากับกองทัพชาวนาของอิกโกอิกกิ กลุ่มพระนักรบ และผู้ที่หมายจะเป็นผู้ปกครอง ในปี 1585 โทโยโทมิได้รับตำแหน่งสูงสุดที่เขาจะได้รับได้ในที่สุด คือคัมปากุ (ผู้สำเร็จราชการ) และได้รับพระราชทานชื่อสกุลโทโยโทมิ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_4", "en_sha": "c1573e419b24", "status": "draft", "th": "ในปี 1591 การพิชิตญี่ปุ่นเสร็จสิ้นลง โทโยโทมิจึงหันไปมองนอกประเทศ โดยเห็นจีนสมัยราชวงศ์หมิงเป็นเป้าหมายของการขยายดินแดนต่อไป และว่ากันว่ารวมถึงอินเดียและเอเชียตะวันออกเฉียงใต้ด้วย ทว่าการพิชิตหมิงหมายถึงการยกพลขึ้นบก และโทโยโทมิเห็นว่าโชซอนน่าจะเป็นที่มั่นหัวหาดสำหรับกองกำลังที่ใหญ่กว่า แม้จะเลื่องชื่อในด้านการโน้มน้าวใจ โทโยโทมิก็ไม่อาจชักจูงทูตเกาหลีให้ทรยศเจ้าเหนือหัวของตนในราชสำนักหมิงได้ เขาจึงหันไปใช้วิธีที่ดุดันกว่า เขาเปิดการรุกรานสองครั้ง ซึ่งรู้จักกันในชื่อสงครามอิมจิน เพื่อยึดครองคาบสมุทรนี้ แม้กองทัพของโทโยโทมิจะยึดครองเกาหลีได้เป็นส่วนใหญ่ ในท้ายที่สุดการบุกทั้งสองครั้งก็พ่ายแพ้ เพราะกองทัพเรือเกาหลีภายใต้การนำของแม่ทัพเรืออี ซุนชิน ตีโอบและเอาชนะกองเรือญี่ปุ่นด้วยกลยุทธ์ที่เหนือกว่า เนื่องจากฝ่ายญี่ปุ่นไม่คุ้นเคยกับชายฝั่งเกาหลี และยังตัดเส้นทางส่งกำลังบำรุงของญี่ปุ่นได้อีกด้วย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_5", "en_sha": "51ee9be0d706", "status": "draft", "th": "โทโยโทมิถึงแก่กรรมเมื่ออายุ 61 ปี โดยแสดงความเสียใจต่อความทะเยอทะยานของตน และเตือนผู้สืบทอดให้ระวังอิทธิพลและอำนาจที่กำลังเติบโตของขุนศึกผู้ทะเยอทะยานอีกคนหนึ่ง คือโทกูงาวะ อิเอยาซุ แต่พวกเขาก็ทำไม่สำเร็จ โทกูงาวะได้พิสูจน์ตนว่าเป็นผู้นำสันติภาพมาสู่ญี่ปุ่นที่บอบช้ำจากสงครามคนสุดท้ายและเด็ดขาดที่สุด และสมัยเอโดะที่ตามมาก็เป็นยุคแห่งตระกูลโทกูงาวะ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_6", "en_sha": "6e486714423e", "status": "draft", "th": "โทโยโทมิเป็นบุคคลที่ซับซ้อน การก้าวขึ้นมาจากความไร้ชื่อเสียงโดยไม่มีเชื้อสายหรือตระกูลใดคอยหนุนหลังความทะเยอทะยาน ทำให้เขาต้องใส่ใจอย่างถี่ถ้วนว่าสิ่งใดทำให้อำนาจน่าดึงดูด สำหรับโทโยโทมิ สิ่งนั้นมิใช่เพียงประสิทธิภาพทางยุทธศาสตร์ แต่ยังรวมถึงการบ่มเพาะศิลปะด้วย เขาเป็นผู้อุปถัมภ์พิธีชงชา และโดยเฉพาะอย่างยิ่งละครโน ซึ่งเป็นการแสดงอันประณีตและเฉพาะกลุ่มที่มีแบบแผนสูง ด้วยวิธีนี้ เขาจึงมิได้เป็นเพียงตัวแทนแห่งฝีมือของขุนนักรบเท่านั้น แต่ยังเป็นตัวแทนแห่งความประณีตของขุนนางผู้ทรงวัฒนธรรมอีกด้วย เขายังเข้าไปมีบทบาทในการบริหารบ้านเมืองอย่างลึกซึ้ง และในฐานะคัมปากุ เขาพูดด้วยอำนาจของจักรพรรดิ แม้เขาจะไม่มีวันได้เป็นจักรพรรดิเอง แต่เขาก็เป็นผู้กำหนดว่าพระราชอำนาจจะไปอยู่ที่ใดและจะทำสิ่งใด"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_7", "en_sha": "682a2905583e", "status": "draft", "th": "ในด้านส่วนตัว แม้จะใส่ใจกับภาพลักษณ์อันประณีตและมีฝีมือทางยุทธศาสตร์อย่างรอบคอบ โทโยโทมิก็อาจบันดาลโทสะได้อย่างรุนแรง ความไม่ให้เกียรติทูตเกาหลีของเขาอาจเป็นสิ่งที่บ่อนทำลายแผนพิชิตหมิงของเขาเอง และครั้งหนึ่งซึ่งเป็นที่เลื่องลือ เขาสั่งด้วยความเดือดดาลให้ผู้ใต้บังคับบัญชาคนหนึ่ง คือปรมาจารย์ชา เซ็น โนะ ริคิว ทำอัตวินิบาตกรรม แต่ความหุนหันพลันแล่นของเขาก็อาจเป็นคุณได้เช่นกัน เพราะมันแผ่ไปถึงการด้นสดในการแสดงละครโนที่ปกติเขาจัดวางไว้อย่างพิถีพิถัน ทั้งนักประวัติศาสตร์และผู้สังเกตการณ์ร่วมสมัยต่างระบุว่า โทโยโทมิผู้กระฉับกระเฉงและแสดงอารมณ์อย่างเปิดเผยนั้น ช่างแตกต่างอย่างชัดเจนจากบุคลิกอันเป็นพิธีการและนิ่งสงบของผู้ปกครองญี่ปุ่นก่อนหน้า (และหลังจาก) เขา แม้จะเป็นที่ถกเถียง โทโยโทมิก็เป็นบุคคลที่มีชีวิตชีวาอย่างยิ่ง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TOYOTOMI_HIDEYOSHI_CHAPTER_HISTORY_PARA_8", "en_sha": "06b830f4cb8e", "status": "draft", "th": "โทโยโทมิ ฮิเดโยชิ ผู้เกิดมาจากความว่างเปล่าและลุกขึ้นพร้อมความฝันที่จะพิชิตโลก เป็นที่จดจำในด้านความทะเยอทะยาน แต่มรดกของเขายังคงอยู่ในความโอ่อ่าตระการตาของวัฒนธรรมชั้นสูงของญี่ปุ่น และเขาได้ช่วยปูทางมิใช่เพียงให้แก่การบริหารบ้านเมืองในสมัยเอโดะที่จะมาถึง แต่ยังรวมถึงศิลปะของสมัยนั้นด้วย"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_EXPLORATION_1_DESCRIPTION", "en_sha": "05d74bf59862", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_EXPLORATION_1_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_EXPLORATION_2_DESCRIPTION", "en_sha": "ee8223cc949e", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_EXPLORATION_2_NAME", "en_sha": "aa0bfb526c1a", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_MODERN_1_DESCRIPTION", "en_sha": "77f8553ed4c0", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_MODERN_1_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_MODERN_2_DESCRIPTION", "en_sha": "8891a56cac33", "status": "draft", "th": "ในฐานะโทโยโทมิ ฮิเดโยชิ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t   +15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_TOYOTOMI_HIDEYOSHI_MODERN_2_NAME", "en_sha": "261442392230", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_TOYOTOMI_HIDEYOSHI_NAME", "en_sha": "3f04377c4036", "status": "draft", "th": "มหาผู้รวมแผ่นดิน"}
+{"tag": "LOC_TRAIT_LEADER_TOYOTOMI_HIDEYOSHI_ABILITY_DESCRIPTION", "en_sha": "85cee8d92c0f", "status": "draft", "th": "[BLIST][LI][TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตทางบก[/TIP]สร้าง[b][icon:DAMAGED] ความเสียหายสองเท่า[/b]เมื่อโจมตียูนิตฝ่ายตรงข้าม แต่ยูนิตทั้งหมดของคุณได้รับ[b][icon:DAMAGED] ความเสียหายสองเท่า[/b]เมื่อป้องกัน[LI]ยูนิตของคุณ[b][icon:Action_Heal] ฟื้นฟู[/b]เพิ่มอีก 5 HP และเพิ่มเป็นสองเท่าหากอยู่บน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP][b][icon:YIELD_CULTURE] ทางวัฒนธรรม [/b]หรือ[B][icon:WONDER] สิ่งมหัศจรรย์[/B] [LI][b]+25% [icon:YIELD_PRODUCTION] การผลิต[/b]ในการสร้าง[b][icon:YIELD_CULTURE] สิ่งก่อสร้างทางวัฒนธรรม[/b] ผลนี้[b]เพิ่มเป็นสองเท่า[/b]ใน[TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นครที่ยึดมาได้[/TIP]จากยุคใดก็ตาม[/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_TOYOTOMI_HIDEYOSHI_ABILITY_NAME", "en_sha": "3f04377c4036", "status": "draft", "th": "มหาผู้รวมแผ่นดิน"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TOYOTOMI_HIDEYOSHI_DESCRIPTION", "en_sha": "b6bde79504aa", "status": "draft", "th": "เล่นเป็น [B]โทโยโทมิ ฮิเดโยชิ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TOYOTOMI_HIDEYOSHI_FRENCH_EMPIRE_TOOLTIP", "en_sha": "ec35005d8e95", "status": "draft", "th": "[B]จักรวรรดิฝรั่งเศส[/B] เสริมกลยุทธ์ของ [B]โทโยโทมิ ฮิเดโยชิ[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TOYOTOMI_HIDEYOSHI_MEIJI_TOOLTIP", "en_sha": "fdf97ee57400", "status": "draft", "th": "[B]โทโยโทมิ ฮิเดโยชิ[/B] มาจากญี่ปุ่น"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TOYOTOMI_HIDEYOSHI_MONGOLIA_TOOLTIP", "en_sha": "fb1267d531bb", "status": "draft", "th": "[B]โทโยโทมิ ฮิเดโยชิ[/B] มาจากทวีปเดียวกับ [B]มองโกเลีย[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TOYOTOMI_HIDEYOSHI_ROME_TOOLTIP", "en_sha": "a960498ad345", "status": "draft", "th": "[B]โรม[/B] เสริมกลยุทธ์ของ [B]โทโยโทมิ ฮิเดโยชิ[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_VICTORY_LEADER_TOYOTOMI_HIDEYOSHI", "en_sha": "fbc28ce54fbc", "status": "draft", "th": "วันอันยิ่งใหญ่ แต่ยังมีแผนการสำหรับวันพรุ่งนี้ที่ต้องร่างไว้"}

@@ -1,0 +1,351 @@
+{"tag": "LOC_10135A_COMPLETION", "en_sha": "3a7ab15d0d78", "status": "draft", "th": "เพื่อนบ้านที่เป็นปรปักษ์กำลังเหยียดหยามพรมแดนของ {1_civilization_adj} เหล่าทหารกระหายจะเดินทัพ แต่แม่ทัพเรืออีต้องเลือกประตูที่จะยกทัพออกไปเพื่อให้ภารกิจสำเร็จ ทิศตะวันตก ธาตุโลหะ หมายถึงการทำลายล้าง ทิศตะวันออก ธาตุไม้ หมายถึงความร่วมมือ"}
+{"tag": "LOC_10135A_STORYTITLE", "en_sha": "f4a58095a262", "status": "draft", "th": "ธาตุแห่งการเลือก"}
+{"tag": "LOC_10135B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10135B_NAME", "en_sha": "38df71c97df9", "status": "draft", "th": "ไปทางตะวันตก นี่คือภารกิจแห่งการใช้กำลัง"}
+{"tag": "LOC_10135C_DESCRIPTION", "en_sha": "95782e2bfd69", "status": "draft", "th": "+25% [icon:YIELD_DIPLOMACY] อิทธิพลสำหรับปฏิบัติการทางการทูต \"ผูกมิตรกับขั้วอำนาจอิสระ\""}
+{"tag": "LOC_10135C_NAME", "en_sha": "f724ff207c7c", "status": "draft", "th": "ไปทางตะวันออก ความร่วมมือจะให้ผลตอบแทน"}
+{"tag": "LOC_10136A_COMPLETION", "en_sha": "10d91f9277c4", "status": "draft", "th": "ข่าวลือเรื่องความประพฤติไม่เหมาะสมของกัปตันผู้หนึ่งอยู่บนปากของทุกคนในราชสำนักของอี ซุนชิน กัปตันอีกนายกล่าวหาว่าเขาขัดคำสั่งของแม่ทัพเรือให้บุกเต็มกำลัง แต่กัปตันผู้นั้นปกป้องการตัดสินใจของตนที่เลือกโจมตีก่อกวนแทน เขาอ้างว่าคำสั่งนั้นจะนำลูกน้องของเขาเข้าสู่กับดักซุ่มโจมตีโดยตรง"}
+{"tag": "LOC_10136A_STORYTITLE", "en_sha": "72d2b9e08dc5", "status": "draft", "th": "บททดสอบความไว้ใจ"}
+{"tag": "LOC_10136B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10136B_NAME", "en_sha": "eaa03e9ccd27", "status": "draft", "th": "เชื่อในวิจารณญาณของกัปตัน"}
+{"tag": "LOC_10136C_DESCRIPTION", "en_sha": "3ffdf217f2c3", "status": "draft", "th": "{1_reward} แต่ผู้บัญชาการกองเรือถูกส่งกลับไปยังดินแดนของตน"}
+{"tag": "LOC_10136C_NAME", "en_sha": "0c6a83272318", "status": "draft", "th": "รัฐไม่อาจยอมรับการขัดคำสั่ง"}
+{"tag": "LOC_10137A_COMPLETION", "en_sha": "c9f9d0b02bb2", "status": "draft", "th": "กล่องเคลือบแล็กเกอร์ที่พบในห้องกัปตันบนเรือของข้าศึกบรรจุพัดทองคำเล่มหนึ่ง พัดสลักนามของผู้นำฝ่ายนั้น โทโยโทมิ ฮิเดโยชิ อาจเป็นของกำนัลก็ได้ อี ซุนชินแค่นเสียงหยันเครื่องประดับอันฟุ่มเฟือยไร้ประโยชน์ชิ้นนี้"}
+{"tag": "LOC_10137A_STORYTITLE", "en_sha": "a64c47dcad42", "status": "draft", "th": "พัดทองคำ"}
+{"tag": "LOC_10137B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10137B_NAME", "en_sha": "3abe150ffc6b", "status": "draft", "th": "โยนมันลงทะเล"}
+{"tag": "LOC_10137C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10137C_NAME", "en_sha": "916090aa27df", "status": "draft", "th": "บริจาคมันให้วัด"}
+{"tag": "LOC_10138A_COMPLETION", "en_sha": "378ab3e210f6", "status": "draft", "th": "กองเรือของข้าศึกมีจำนวนมากกว่ากองกำลังของอี ซุนชินหลายเท่า ทว่ายุทธศาสตร์อันแยบยลของเขาทำให้ได้ที่มั่น บัดนี้ถึงเวลาวางกับดัก"}
+{"tag": "LOC_10138A_STORYTITLE", "en_sha": "385dfdcd0e1d", "status": "draft", "th": "เป็นเพียงตัวเลข"}
+{"tag": "LOC_10138B_DESCRIPTION", "en_sha": "fc3dc2c9fde0", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10138B_NAME", "en_sha": "903049909ae1", "status": "draft", "th": "แสร้งล่าถอยเพื่อล่อพวกมันออกมา"}
+{"tag": "LOC_10138C_DESCRIPTION", "en_sha": "cc7ea2a6c07e", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10138C_NAME", "en_sha": "a22db6bfe358", "status": "draft", "th": "ตัดเส้นทางเสบียงของพวกมัน"}
+{"tag": "LOC_10139A_COMPLETION", "en_sha": "f35552ea8627", "status": "draft", "th": "อี ซุนชินกลับสู่ฐานทัพด้วยหัวใจที่โศกเศร้า สหายร่วมดื่มยามเย็นของเขาหายไปหนึ่งคน จันทร์ที่กำลังลับฟ้าสาดแสงลงบนใบหน้าอันหม่นหมองของลูกเรือ คืนนี้คงมีน้อยคนที่จะหลับสนิท"}
+{"tag": "LOC_10139A_STORYTITLE", "en_sha": "4384a65c347c", "status": "draft", "th": "ฮันซันโด"}
+{"tag": "LOC_10139B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10139B_NAME", "en_sha": "54cf1abdf1d1", "status": "draft", "th": "สร้างศาลเจ้าเพื่อแสดงความเคารพ"}
+{"tag": "LOC_10139C_DESCRIPTION", "en_sha": "1c86fed33a74", "status": "draft", "th": "{1_reward} แก่ผู้บัญชาการทั้งหมดที่มีอยู่ในปัจจุบัน"}
+{"tag": "LOC_10139C_NAME", "en_sha": "1ca75476f661", "status": "draft", "th": "รำลึกถึงเขาด้วยลานฝึกยิงธนู"}
+{"tag": "LOC_10140A_COMPLETION", "en_sha": "cb1d477c2d52", "status": "draft", "th": "รายงานข่าวกรองแจ้งแก่อี ซุนชินว่าซามูไรผู้อาจหาญผู้นี้เคยวางแผนจะรวมแผ่นดินเป็นหนึ่งและช่วงชิงดินแดนของเพื่อนบ้าน ความฝันอันยิ่งใหญ่ก็จบลงเพียงเท่านี้ ขุนศึกผู้มีอนาคตบัดนี้นอนพ่ายยับเยิน ความหยิ่งผยองของเขาเป็นเพียงเครื่องค้ำยันไร้ประโยชน์เมื่อเผชิญศัตรูที่แข็งแกร่งกว่า"}
+{"tag": "LOC_10140A_STORYTITLE", "en_sha": "3af032f52c2e", "status": "draft", "th": "ขุนศึกล่มสลาย"}
+{"tag": "LOC_10140B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10140B_NAME", "en_sha": "1a14f95c1a03", "status": "draft", "th": "ความกลมเกลียวเป็นเป้าหมายที่ยิ่งใหญ่กว่าการพิชิต"}
+{"tag": "LOC_10140C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10140C_NAME", "en_sha": "4833273ed863", "status": "draft", "th": "ผู้นำที่ชาญฉลาดย่อมแสดงความถ่อมตน"}
+{"tag": "LOC_10141A_COMPLETION", "en_sha": "dba32f47c9ad", "status": "draft", "th": "ขณะที่เรือเต่าของข้าศึกจมลงใต้คลื่น อี ซุนชินทึ่งในการออกแบบของมัน ต้องเป็นอัจฉริยะเป็นแน่ที่คิดค้นเรือเช่นนี้ขึ้นมา ทั้งระดมยิงและเคลื่อนที่ได้คล่องแคล่วขณะต้านทานการยิงของข้าศึกได้อย่างชาญฉลาด บางทีวิศวกรชาว {1_civilization_adj} อาจพัฒนาวิธีรับมือได้"}
+{"tag": "LOC_10141A_STORYTITLE", "en_sha": "246f50654307", "status": "draft", "th": "เต่าเจ้าปัญญา"}
+{"tag": "LOC_10141B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10141B_NAME", "en_sha": "a5b67dc725a1", "status": "draft", "th": "ร่วมกับวิศวกรออกแบบแผนผัง"}
+{"tag": "LOC_10141C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10141C_NAME", "en_sha": "94862e745227", "status": "draft", "th": "กองเรือของเรามีขีดความสามารถเหลือเฟืออยู่แล้ว"}
+{"tag": "LOC_10142A_COMPLETION", "en_sha": "5a7044d8b977", "status": "draft", "th": "ยามบ่ายคล้อย เรือลาดตระเวนลำหนึ่งนำข่าวสารมาจากแผ่นดินใหญ่ ทหารผ่านศึกผู้หนึ่งอ้าปากค้างเมื่อได้รับข่าวร้าย มารดาที่ป่วยมานานของเขาได้จากไปแล้ว ในห้องของอี ซุนชิน เขาขอลาพัก โดยยกหน้าที่ต่อครอบครัวขึ้นมาอ้าง"}
+{"tag": "LOC_10142A_STORYTITLE", "en_sha": "85f5c0be5e89", "status": "draft", "th": "มารดาผู้ป่วยไข้"}
+{"tag": "LOC_10142B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10142B_NAME", "en_sha": "ff1b4fd3be82", "status": "draft", "th": "ให้เวลาเขาได้ไว้ทุกข์"}
+{"tag": "LOC_10142C_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10142C_NAME", "en_sha": "39d9f338b69d", "status": "draft", "th": "หน้าที่ของเขาคืออยู่กับกองทหาร"}
+{"tag": "LOC_10142D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10142D_NAME", "en_sha": "a6a6facdb4c2", "status": "draft", "th": "ความกตัญญู (เซี่ยว) คือคุณธรรมที่สำคัญที่สุด"}
+{"tag": "LOC_10143A_COMPLETION", "en_sha": "f873ae50e993", "status": "draft", "th": "ขณะที่การรบดำเนินไปอย่างดุเดือด อี ซุนชินเหลือบเห็นธงผืนหนึ่งลอยอยู่ท่ามกลางซากเรือ เขารีบสั่งให้กะลาสีลากมันขึ้นมา เมื่อถูกลากผ่านคลื่น ธงก็เลื่อนหลุดเผยให้เห็นใบหน้าหนึ่ง ดังที่อี ซุนชินคาดไว้ มันคือผู้บัญชาการของข้าศึก หรืออย่างน้อยก็สิ่งที่หลงเหลือของเขา ธงผืนนั้นบัดนี้กลายเป็นผ้าห่อศพของเขา"}
+{"tag": "LOC_10143A_STORYTITLE", "en_sha": "388dbc3ebe33", "status": "draft", "th": "ธงลอยน้ำ"}
+{"tag": "LOC_10143B_DESCRIPTION", "en_sha": "1c86fed33a74", "status": "draft", "th": "{1_reward} แก่ผู้บัญชาการทั้งหมดที่มีอยู่ในปัจจุบัน"}
+{"tag": "LOC_10143B_NAME", "en_sha": "490c8af2f2a3", "status": "draft", "th": "ขอให้เขาพบความสงบใต้คลื่น"}
+{"tag": "LOC_10143C_DESCRIPTION", "en_sha": "fc3dc2c9fde0", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10143C_NAME", "en_sha": "41de806d39ca", "status": "draft", "th": "แขวนคอเขาไว้กับเสากระโดงเรือ"}
+{"tag": "LOC_10144A_COMPLETION", "en_sha": "0e2663183a58", "status": "draft", "th": "วิชาการแบบขงจื๊อและประวัติศาสตร์โชซอนผสานกันท่ามกลางความงามของอนุสรณ์สถานในนคร อี ซุนชินได้รับแรงบันดาลใจจากภาพเหล่านั้น จึงประกาศก่อตั้งคยูจังกัก สถานที่สำหรับรักษาและเผยแพร่ความรู้แห่งความรุ่งเรืองของโชซอน"}
+{"tag": "LOC_10144A_STORYTITLE", "en_sha": "da5bab985151", "status": "draft", "th": "คยูจังกัก"}
+{"tag": "LOC_10144B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10144B_NAME", "en_sha": "d8d847b496ce", "status": "draft", "th": "อุดมคติแห่งลัทธิขงจื๊อจะเป็นที่รู้จักของทุกคน"}
+{"tag": "LOC_10144C_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10144C_NAME", "en_sha": "8a3df00c051d", "status": "draft", "th": "วิทยาศาสตร์คือกุญแจสู่อนาคตของเรา"}
+{"tag": "LOC_10144D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10144D_NAME", "en_sha": "adab56191d67", "status": "draft", "th": "นักท่องเที่ยวจะกระตุ้นเศรษฐกิจ"}
+{"tag": "LOC_ATTRIBUTENODE_YI_SUN_SIN_L1_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_YI_SUN_SIN_L1_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_YI_SUN_SIN_L2_DESCRIPTION", "en_sha": "87bbfd5f0359", "status": "draft", "th": "+1 ให้กับโบนัสการอยู่ติดกันของสิ่งก่อสร้างมาตรฐานด้านทอง การผลิต และวิทยาศาสตร์"}
+{"tag": "LOC_ATTRIBUTENODE_YI_SUN_SIN_L2_NAME", "en_sha": "8067915ad320", "status": "draft", "th": "โหนดคุณลักษณะทางวิทยาศาสตร์"}
+{"tag": "LOC_BADGE_YI_SUN_SIN_NAME", "en_sha": "9d90a30ece97", "status": "draft", "th": "เหรียญตราอี ซุนชิน 1"}
+{"tag": "LOC_BADGE_YI_SUN_SIN_P_NAME", "en_sha": "5f2d8cca942e", "status": "draft", "th": "เหรียญตราอี ซุนชิน 2"}
+{"tag": "LOC_BANNER_YI_SUN_SIN_NAME", "en_sha": "dd682b289a5c", "status": "draft", "th": "แบนเนอร์อี ซุนชิน"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_YI_SUN_SIN_1_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_YI_SUN_SIN_1_NAME", "en_sha": "61fe72b5bc2e", "status": "draft", "th": "การอุทิศของอี ซุนชิน ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_YI_SUN_SIN_2_DESCRIPTION", "en_sha": "38cfc418d071", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_SCIENCE] วิทยาศาสตร์ +15% แลกกับ [icon:YIELD_CULTURE] วัฒนธรรม -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_YI_SUN_SIN_2_NAME", "en_sha": "877d33fdf5b9", "status": "draft", "th": "การอุทิศของอี ซุนชิน ยุคแห่งการสำรวจ - ทางวิทยาศาสตร์"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_YI_SUN_SIN_1_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_YI_SUN_SIN_1_NAME", "en_sha": "526d979f7081", "status": "draft", "th": "การอุทิศของอี ซุนชิน ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_YI_SUN_SIN_2_DESCRIPTION", "en_sha": "38cfc418d071", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_SCIENCE] วิทยาศาสตร์ +15% แลกกับ [icon:YIELD_CULTURE] วัฒนธรรม -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_YI_SUN_SIN_2_NAME", "en_sha": "ac68f2dcd2a1", "status": "draft", "th": "การอุทิศของอี ซุนชิน ยุคสมัยใหม่ - ทางวิทยาศาสตร์"}
+{"tag": "LOC_DIPLOMACY_AGENDA_YI_DESC", "en_sha": "42cfcd46bfa7", "status": "draft", "th": "ชอบผู้นำที่มีทั้งกองทัพเรือที่แข็งแกร่งและสิ่งก่อสร้างป้อมปราการ ไม่ชอบผู้นำที่ไม่มีทั้งกองทัพเรือและสิ่งก่อสร้างป้อมปราการ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_YI_DESC_DISLIKES", "en_sha": "f8b992db3397", "status": "draft", "th": "อี ซุนชินไม่ชอบผู้นำที่ไม่มีทั้งกองทัพเรือและสิ่งก่อสร้างป้อมปราการ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_YI_DESC_LIKES", "en_sha": "e7db61b25198", "status": "draft", "th": "อี ซุนชินชอบผู้นำที่มีทั้งกองทัพเรือที่แข็งแกร่งและสิ่งก่อสร้างป้อมปราการ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_YI_NAME", "en_sha": "69317ff4ccdf", "status": "draft", "th": "เรือ 13 ลำ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_YI_SUN_SIN_ANY", "en_sha": "64d893d3ab46", "status": "draft", "th": "ความฝันของข้าแสดงลางบอกเหตุ ท่านคือปลาที่ถูกเสียบไม้"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_YI_SUN_SIN_ANY", "en_sha": "7d47ecda4297", "status": "draft", "th": "ความใจร้อนจะนำความพินาศมาสู่ท่าน จงรอบคอบมั่นคงดั่งขุนเขาจะดีกว่า"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_YI_SUN_SIN_ANY", "en_sha": "16c0aaa0ddac", "status": "draft", "th": "กระแสน้ำเหล่านี้เอาชนะข้าได้ แล้วจะเป็นอย่างไรต่อ ข้าหลงอยู่กลางทะเลและถูกลืมเลือน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_YI_SUN_SIN_ANY", "en_sha": "6588bb9f701c", "status": "draft", "th": "ข้าคืออี ซุนชิน มาเล่นหมากล้อมบาดุกกันสักกระดานเถิด ข้าจะได้รู้ว่าท่านเป็นคนเช่นไร"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_YI_SUN_SIN_ANY", "en_sha": "6588bb9f701c", "status": "draft", "th": "ข้าคืออี ซุนชิน มาเล่นหมากล้อมบาดุกกันสักกระดานเถิด ข้าจะได้รู้ว่าท่านเป็นคนเช่นไร"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_YI_SUN_SIN_ANY", "en_sha": "6588bb9f701c", "status": "draft", "th": "ข้าคืออี ซุนชิน มาเล่นหมากล้อมบาดุกกันสักกระดานเถิด ข้าจะได้รู้ว่าท่านเป็นคนเช่นไร"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_YI_SUN_SIN", "en_sha": "ac96ba964f5b", "status": "draft", "th": "ยุทธศาสตร์อันชาญฉลาดย่อมทำให้ใจแกร่งรับสิ่งที่จะมาถึง"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_YI_SUN_SIN", "en_sha": "637e03505e17", "status": "draft", "th": "เช่นนี้ก็ไม่ต่างจากฝากปลาไว้กับแมว"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_YI_SUN_SIN", "en_sha": "56dfec92dfa3", "status": "draft", "th": "ท่านกำลังลองดีกับเสือ"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_YI_SUN_SIN", "en_sha": "4f2916c5c3b0", "status": "draft", "th": "ท่านสมควรได้รับคำยกย่องจากข้า"}
+{"tag": "LOC_LEADER_CHAIN_1270A_COMPLETION", "en_sha": "0cc300d631b2", "status": "draft", "th": "เสียงของประชาชนชาว {1_CIVILIZATION_ADJ} ก้องกังวานด้วยความหวังต่ออนาคต อี ซุนชินรู้ดีว่าตนต้องรักษาความผาสุกของพวกเขาไว้ ชายฝั่งอุดมสมบูรณ์ทว่าเปราะบาง หน้าที่เรียกร้องให้มีแผนการป้องกัน"}
+{"tag": "LOC_LEADER_CHAIN_1270A_STORYTITLE", "en_sha": "14c74103320e", "status": "draft", "th": "วิถีแห่งหน้าที่"}
+{"tag": "LOC_LEADER_CHAIN_1270B_COMPLETION", "en_sha": "939020b6dc88", "status": "draft", "th": "เรือของ {1_CIVILIZATION_ADJ} พิทักษ์ความปลอดภัยของประชาชน"}
+{"tag": "LOC_LEADER_CHAIN_1270B_DESCRIPTION", "en_sha": "29fa55696291", "status": "draft", "th": "การเลื่อนขั้นฟรีสำหรับผู้บัญชาการกองเรือที่มีอยู่ในปัจจุบัน"}
+{"tag": "LOC_LEADER_CHAIN_1270B_IMPERATIVE", "en_sha": "d6fe0c7155d8", "status": "draft", "th": "มียูนิตทางเรือ 4 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1270B_NAME", "en_sha": "1ebdcf904aae", "status": "draft", "th": "สร้างกองเรือเพื่อพิทักษ์ชายฝั่ง"}
+{"tag": "LOC_LEADER_CHAIN_1270B_STORYTITLE", "en_sha": "14c74103320e", "status": "draft", "th": "วิถีแห่งหน้าที่"}
+{"tag": "LOC_LEADER_CHAIN_1270C_COMPLETION", "en_sha": "343bf5157e87", "status": "draft", "th": "ศิลปะแห่งสงครามต้องอาศัยจิตใจที่พร้อมเสมอ"}
+{"tag": "LOC_LEADER_CHAIN_1270C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1270C_IMPERATIVE", "en_sha": "b3698d25c05a", "status": "draft", "th": "สร้างห้องสมุดและวิจัยความเชี่ยวชาญเทคโนโลยี 2 รายการ"}
+{"tag": "LOC_LEADER_CHAIN_1270C_NAME", "en_sha": "fe12f8b7f681", "status": "draft", "th": "ศึกษายุทธศาสตร์ของเหล่าปรมาจารย์"}
+{"tag": "LOC_LEADER_CHAIN_1270C_STORYTITLE", "en_sha": "14c74103320e", "status": "draft", "th": "วิถีแห่งหน้าที่"}
+{"tag": "LOC_LEADER_CHAIN_1270D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1270D_NAME", "en_sha": "47984a9e2c03", "status": "draft", "th": "การป้องกันมาเป็นรองการเติบโต"}
+{"tag": "LOC_LEADER_CHAIN_1271A_COMPLETION", "en_sha": "313418f41799", "status": "draft", "th": "ขณะที่เพื่อนบ้านผู้อิจฉาจ้องมองชายฝั่งของ {1_CIVILIZATION_ADJ} อี ซุนชินประเมินกองเรือของตน เรือที่แข็งแรงเป็นเพียงส่วนหนึ่งของกองทัพเรือที่เกรียงไกร แม่ทัพเรือก็ต้องเป็นผู้นำที่มีวินัยด้วย คนเช่นนี้หายากและมีค่ายิ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1271A_STORYTITLE", "en_sha": "a42d26d5a826", "status": "draft", "th": "คุณค่าของแม่ทัพเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1271B_COMPLETION", "en_sha": "4b64c830c7eb", "status": "draft", "th": "แม่ทัพเรือผู้มั่นคงมีค่ายิ่งกว่าเรือร้อยลำ"}
+{"tag": "LOC_LEADER_CHAIN_1271B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1271B_IMPERATIVE", "en_sha": "9f6946ba13de", "status": "draft", "th": "มีผู้บัญชาการกองเรือที่ได้รับเหรียญเชิดชู"}
+{"tag": "LOC_LEADER_CHAIN_1271B_NAME", "en_sha": "5a4d9291a098", "status": "draft", "th": "ตอบแทนผู้ยอดเยี่ยมที่สุดด้วยเกียรติคุณอันหาได้ยาก"}
+{"tag": "LOC_LEADER_CHAIN_1271B_STORYTITLE", "en_sha": "a42d26d5a826", "status": "draft", "th": "คุณค่าของแม่ทัพเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1271C_DESCRIPTION", "en_sha": "cc7ea2a6c07e", "status": "draft", "th": "{1_reward} ยูนิตทางเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1271C_NAME", "en_sha": "048e17dd27f1", "status": "draft", "th": "ท้องทะเลจะคัดแยกคนขลาดออกจากผู้กล้า"}
+{"tag": "LOC_LEADER_CHAIN_1272A_COMPLETION", "en_sha": "7617b3db2cb5", "status": "draft", "th": "เหล่ากะลาสีของอี ซุนชินทำแผนที่ทะเลโดยอาศัยดวงดาว ทว่าชายฝั่งหินผาไม่มีเงาสะท้อนบนท้องฟ้า และสันดอนก็ไม่แยกแยะว่าใครเป็นมิตรหรือศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1272A_STORYTITLE", "en_sha": "c0913b7ea5cf", "status": "draft", "th": "หางของพยัคฆ์"}
+{"tag": "LOC_LEADER_CHAIN_1272B_COMPLETION", "en_sha": "d847f7e09b4c", "status": "draft", "th": "ชายฝั่งเป็นท่าจอดของกองเรือและเป็นกับดักของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1272B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1272B_IMPERATIVE", "en_sha": "5ef4e42117cd", "status": "draft", "th": "วิจัยความเชี่ยวชาญการนำร่องและสร้างประภาคาร"}
+{"tag": "LOC_LEADER_CHAIN_1272B_NAME", "en_sha": "9586c2e7b900", "status": "draft", "th": "หากศึกษาเพิ่มเติม เราจะเพิ่มความได้เปรียบได้อีก"}
+{"tag": "LOC_LEADER_CHAIN_1272B_STORYTITLE", "en_sha": "c0913b7ea5cf", "status": "draft", "th": "หางของพยัคฆ์"}
+{"tag": "LOC_LEADER_CHAIN_1272C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1272C_NAME", "en_sha": "601434120138", "status": "draft", "th": "แหลมนั้นเป็นที่คุ้นเคยของกะลาสีชาว{1_CIVILIZATION_ADJ}"}
+{"tag": "LOC_LEADER_CHAIN_1273A_COMPLETION", "en_sha": "42eaf179dc2f", "status": "draft", "th": "อี ซุนชินทอดสายตาข้ามคลื่นสีหม่นไปยังเส้นขอบฟ้าอันไกลโพ้น สิ่งใดรออยู่เบื้องหน้าชายฝั่งที่คุ้นเคย? บางทีอาจถึงเวลาแล้วที่ต้องกล้าเผชิญห้วงลึก"}
+{"tag": "LOC_LEADER_CHAIN_1273A_STORYTITLE", "en_sha": "c7aa024d1cb6", "status": "draft", "th": "เหนือเส้นขอบฟ้า"}
+{"tag": "LOC_LEADER_CHAIN_1273B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1273B_NAME", "en_sha": "b90354447dde", "status": "draft", "th": "กองเรือกระหายความท้าทายใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1273C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1273C_NAME", "en_sha": "e0fb09856075", "status": "draft", "th": "ขอบฟ้าใหม่ปลุกความใฝ่รู้ของนักปราชญ์ชาว{1_CIVILIZATION_ADJ}"}
+{"tag": "LOC_LEADER_CHAIN_1274A_COMPLETION", "en_sha": "bfbb8abd8d73", "status": "draft", "th": "ระยะหลังนี้ ท้องทะเลคลาคล่ำไปด้วยเรือรบของศัตรูที่คุ้มกันขบวนทรัพยากรล้ำค่า กองเรือของอี ซุนชินพร้อมจะยึดสมบัตินี้ เพราะท้องทะเลเป็นของผู้กล้า"}
+{"tag": "LOC_LEADER_CHAIN_1274A_STORYTITLE", "en_sha": "89f0377db0b3", "status": "draft", "th": "ทุกวาคือรางวัล"}
+{"tag": "LOC_LEADER_CHAIN_1274B_COMPLETION", "en_sha": "501685331522", "status": "draft", "th": "ท้องทะเลเองคือสมบัติที่ควรค่าแก่การปกป้อง"}
+{"tag": "LOC_LEADER_CHAIN_1274B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1274B_IMPERATIVE", "en_sha": "5947c1f663f8", "status": "draft", "th": "นำขบวนสมบัติที่ยึดมาได้กลับคืน"}
+{"tag": "LOC_LEADER_CHAIN_1274B_NAME", "en_sha": "76a72e79361f", "status": "draft", "th": "เรือของชาว{1_CIVILIZATION_ADJ}จะล่าดั่งพยัคฆ์"}
+{"tag": "LOC_LEADER_CHAIN_1274B_STORYTITLE", "en_sha": "89f0377db0b3", "status": "draft", "th": "ทุกวาคือรางวัล"}
+{"tag": "LOC_LEADER_CHAIN_1274C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1274C_NAME", "en_sha": "f1fd40d5a49e", "status": "draft", "th": "ความเอื้อเฟื้อนำไปสู่ความรุ่งเรือง"}
+{"tag": "LOC_LEADER_CHAIN_1275A_COMPLETION", "en_sha": "a68385fe4c9a", "status": "draft", "th": "ความละโมบของผู้อื่นเป็นภัยคุกคามที่มีอยู่เสมอ แต่อี ซุนชินไม่เคยถูกจู่โจมโดยไม่ทันตั้งตัว ขณะที่เพื่อนบ้านแย่งชิงความเป็นใหญ่ เขากลับหมายตาสมบัติที่อยู่ห่างไกล เหล่าแม่ทัพเรือต้องพร้อมรุกไปข้างหน้า"}
+{"tag": "LOC_LEADER_CHAIN_1275A_STORYTITLE", "en_sha": "c6befcac7f06", "status": "draft", "th": "ความอดทนสยบความโลภ"}
+{"tag": "LOC_LEADER_CHAIN_1275B_COMPLETION", "en_sha": "91cb04b2017f", "status": "draft", "th": "แม่ทัพเรือที่มีวินัยย่อมรู้ว่าเมื่อใดควรฉวยความได้เปรียบ"}
+{"tag": "LOC_LEADER_CHAIN_1275B_DESCRIPTION", "en_sha": "fc3dc2c9fde0", "status": "draft", "th": "{1_reward} บนยูนิตทางเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1275B_IMPERATIVE", "en_sha": "68f2d06d7aa4", "status": "draft", "th": "มีผู้บัญชาการกองเรือที่ได้รับเหรียญเชิดชู 2 เหรียญ"}
+{"tag": "LOC_LEADER_CHAIN_1275B_NAME", "en_sha": "a47d1e658f96", "status": "draft", "th": "วิถีแห่งหน้าที่เรียกร้องให้ลงมือ"}
+{"tag": "LOC_LEADER_CHAIN_1275B_STORYTITLE", "en_sha": "c6befcac7f06", "status": "draft", "th": "ความอดทนสยบความโลภ"}
+{"tag": "LOC_LEADER_CHAIN_1276A_COMPLETION", "en_sha": "eb1a16cb130f", "status": "draft", "th": "นักปราชญ์รุ่นเยาว์เดินไปตามถนนของ {1_capital} อากาศอบอวลด้วยคำถามและความใฝ่รู้ ความคิดของพวกเขามีอนาคต แต่อี ซุนชินตระหนักดีว่าความก้าวหน้าที่แท้จริงต้องอาศัยมุมมองที่หลากหลาย"}
+{"tag": "LOC_LEADER_CHAIN_1276A_STORYTITLE", "en_sha": "599c8e8ad22e", "status": "draft", "th": "ความใฝ่รู้ไร้ขีดจำกัด"}
+{"tag": "LOC_LEADER_CHAIN_1276B_COMPLETION", "en_sha": "2477dd8adb88", "status": "draft", "th": "จิตใจที่เปิดกว้างย่อมคิดค้นกลยุทธ์อันแยบยล"}
+{"tag": "LOC_LEADER_CHAIN_1276B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1276B_IMPERATIVE", "en_sha": "57737e62733b", "status": "draft", "th": "จัดวางผู้เชี่ยวชาญเพิ่มอีก 2 คนใน {1_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1276B_NAME", "en_sha": "22ab063aeb30", "status": "draft", "th": "ดึงดูดนักปราชญ์เพิ่มเพื่อขยายศูนย์กลางแห่งการเรียนรู้"}
+{"tag": "LOC_LEADER_CHAIN_1276B_STORYTITLE", "en_sha": "599c8e8ad22e", "status": "draft", "th": "ความใฝ่รู้ไร้ขีดจำกัด"}
+{"tag": "LOC_LEADER_CHAIN_1276C_DESCRIPTION", "en_sha": "3555c006bb62", "status": "draft", "th": "{1_reward} ยูนิตทหารราบ"}
+{"tag": "LOC_LEADER_CHAIN_1276C_NAME", "en_sha": "568c35ee899a", "status": "draft", "th": "ปัญญาอาจว่องไว แต่สุดท้ายกำลังย่อมชนะ"}
+{"tag": "LOC_LEADER_CHAIN_1277A_COMPLETION", "en_sha": "6debb2765246", "status": "draft", "th": "นักปราชญ์ชาว {1_CIVILIZATION_ADJ} เป็นกลุ่มแรก ๆ ที่ได้เหยียบชายฝั่งอันไกลโพ้น วัสดุใหม่กระตุ้นให้เกิดการประดิษฐ์คิดค้น และเพื่อนบ้านที่เพิ่งพบกันได้แลกเปลี่ยนความคิดใหม่ ๆ อี ซุนชินมองเห็นศักยภาพของดินแดนชายขอบที่กำลังเติบโตนี้"}
+{"tag": "LOC_LEADER_CHAIN_1277A_STORYTITLE", "en_sha": "7a8d6e445426", "status": "draft", "th": "นักสำรวจแห่งความใฝ่รู้"}
+{"tag": "LOC_LEADER_CHAIN_1277B_COMPLETION", "en_sha": "76f3eea52003", "status": "draft", "th": "การแสวงหาความรู้ใหม่ยังประโยชน์แก่สังคม {1_CIVILIZATION_ADJ} ทั้งในบ้านเกิดและโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1277B_DESCRIPTION", "en_sha": "70f0c24faec2", "status": "draft", "th": "เข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1277B_IMPERATIVE", "en_sha": "6119ffd363aa", "status": "draft", "th": "มีผู้เชี่ยวชาญ 3 คนในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1277B_NAME", "en_sha": "191915a2d8ac", "status": "draft", "th": "สร้างศูนย์กลางการเรียนรู้ท่ามกลางถิ่นใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1277B_STORYTITLE", "en_sha": "7a8d6e445426", "status": "draft", "th": "นักสำรวจแห่งความใฝ่รู้"}
+{"tag": "LOC_LEADER_CHAIN_1278A_COMPLETION", "en_sha": "b2dc2c06a2aa", "status": "draft", "th": "ท้องทะเลไม่ได้ถูกครอบครองโดยเรือเพียงลำพังอีกต่อไป - บัดนี้ยานแห่งฟากฟ้าก็มีอำนาจเหนือมันเช่นกัน หน้าที่เรียกร้องให้ตอบโต้ และอี ซุนชินพร้อมแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1278A_STORYTITLE", "en_sha": "f08f8d63edd8", "status": "draft", "th": "จากทะเลสู่ฟ้า"}
+{"tag": "LOC_LEADER_CHAIN_1278B_COMPLETION", "en_sha": "893150658a0a", "status": "draft", "th": "ข้ามทะเลและฟากฟ้า วิถีแห่งหน้าที่นำพาไปข้างหน้าไม่สิ้นสุด"}
+{"tag": "LOC_LEADER_CHAIN_1278B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1278B_IMPERATIVE", "en_sha": "e19c52c49869", "status": "draft", "th": "มีเรือบรรทุกเครื่องบินที่ได้รับเหรียญเชิดชู"}
+{"tag": "LOC_LEADER_CHAIN_1278B_NAME", "en_sha": "4bca9dc204bf", "status": "draft", "th": "เชื่อมทะเลกับท้องฟ้าเพื่อให้ชายแดนปลอดภัย"}
+{"tag": "LOC_LEADER_CHAIN_1278B_STORYTITLE", "en_sha": "f08f8d63edd8", "status": "draft", "th": "จากทะเลสู่ฟ้า"}
+{"tag": "LOC_LEADER_CHAIN_1278C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1278C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1278D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1278D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1279A_COMPLETION", "en_sha": "825edf8ae883", "status": "draft", "th": "นักวิทยาศาสตร์ชาว {1_CIVILIZATION_ADJ} ประกาศต่ออี ซุนชินว่าพวกเขาควบคุมสายฟ้าได้แล้ว ความรู้จะมีขีดจำกัดใดได้อีกเล่า ในเมื่อท้องฟ้าถูกบรรจุไว้ในหลอดไฟ อากาศรอบกายอัดแน่นไปด้วยความเป็นไปได้"}
+{"tag": "LOC_LEADER_CHAIN_1279A_STORYTITLE", "en_sha": "c1cef0b52fdd", "status": "draft", "th": "พรมแดนไร้ขีดจำกัด"}
+{"tag": "LOC_LEADER_CHAIN_1279B_COMPLETION", "en_sha": "4a01435103ec", "status": "draft", "th": "พรมแดนแห่งความรู้ไต่สูงขึ้นไม่หยุดยั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1279B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1279B_IMPERATIVE", "en_sha": "1001971d5a67", "status": "draft", "th": "มีห้องปฏิบัติการ 5 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1279B_NAME", "en_sha": "706c6215fec5", "status": "draft", "th": "ราตรีที่อาบด้วยแสงไฟเป็นเพียงจุดเริ่มต้น"}
+{"tag": "LOC_LEADER_CHAIN_1279B_STORYTITLE", "en_sha": "c1cef0b52fdd", "status": "draft", "th": "พรมแดนไร้ขีดจำกัด"}
+{"tag": "LOC_LEADER_CHAIN_1279C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1279C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1279D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1279D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_YI_SUN_SIN_DESCRIPTION", "en_sha": "55bbed16b5de", "status": "draft", "th": "สามารถสร้าง[b] [icon:UNIT_FLEET_COMMANDER] ผู้บัญชาการ[/b][TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]กองเรือ[/TIP]ได้หลังจากศึกษา[b] [icon:RADIAL_CIVICS] ความมีวินัย[/b]ในยุคโบราณ ได้รับผู้บัญชาการกองเรือเมื่อคุณค้นพบความมีวินัยและมี[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]ท่าเรือที่เข้าถึงมหาสมุทรได้ การเอาชนะข้าศึกด้วยยูนิตทางเรือจะให้ [icon:YIELD_SCIENCE] [b]วิทยาศาสตร์ [/b]เท่ากับ [b]100% [/b]ของ [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ของยูนิตที่พ่ายแพ้ เมื่อสร้าง[b]สิ่งก่อสร้างทางวิทยาศาสตร์[/b] [icon:UNIT_FLEET_COMMANDER] [b]ผู้บัญชาการกองเรือ[/b]ทั้งหมดจะได้รับ 10 XP [b]+3 [icon:YIELD_GOLD] ทอง[/b] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ต่อ XP ทุกหน่วยที่ [icon:UNIT_FLEET_COMMANDER] [b]ผู้บัญชาการกองเรือ[/b]ได้รับจากการรบ"}
+{"tag": "LOC_LEADER_YI_SUN_SIN_NAME", "en_sha": "0f8dab296119", "status": "draft", "th": "อี ซุนชิน"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_YI_SUN_SIN", "en_sha": "6576d48075e9", "status": "draft", "th": "แม้จำนวนจะไม่เป็นใจแก่ท่าน แม่ทัพเรืออี แต่ท่านวางแผนโดยอาศัยกระแสน้ำและน้ำขึ้นน้ำลง คลื่นยักษ์อาจบดบังขอบฟ้าจนมืดมิด แต่ดั่งโขดหินแห่งมย็องนยัง เมื่อคลื่นแตกซัด ท่านจะยังคงยืนหยัดอยู่ ไม่หวั่นไหว ไม่เคลื่อนคลอน ไม่ยอมจำนน จงเข้าประจำการ และยึดประชาชนของท่านไว้ให้มั่นต้านกระแสคลื่น"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_YI_SUN_SIN_ANY", "en_sha": "ceaede1f3399", "status": "draft", "th": "ผู้ที่แสวงหาความตายจะได้มีชีวิต และผู้ที่แสวงหาชีวิตจะต้องตาย"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_GEOBUKSEON_BLUEPRINT_DESCRIPTION", "en_sha": "2a105d1a4bcf", "status": "draft", "th": "จงระวังหัวมังกร"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_GEOBUKSEON_BLUEPRINT_FUNCTIONAL_DESCRIPTION", "en_sha": "ab57ba64116a", "status": "draft", "th": "[B]+2 [icon:NAR_REW_COMBAT] พลังการรบ[/B] แก่[B]ยูนิตทางเรือ[/B]เมื่อป้องกัน"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_GEOBUKSEON_BLUEPRINT_NAME", "en_sha": "1052d92ba656", "status": "draft", "th": "พิมพ์เขียวเรือเต่า"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_GEOBUKSEON_BLUEPRINT_PREVIEW", "en_sha": "bef937afa3b4", "status": "draft", "th": "+{1_Amount} จากพิมพ์เขียวเรือเต่า"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_JANGGEOM_DESCRIPTION", "en_sha": "c322aec0bd91", "status": "draft", "th": "เพื่อย้อมขุนเขาและสายน้ำ"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_JANGGEOM_FUNCTIONAL_DESCRIPTION", "en_sha": "995eb6233f19", "status": "draft", "th": "+20% [B]XP[/B] ของ[B]ผู้บัญชาการกองเรือ[/B]"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_JANGGEOM_NAME", "en_sha": "6f2c777b7697", "status": "draft", "th": "ดาบชังกอม"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_NANJUNG_ILGI_DESCRIPTION", "en_sha": "abd3f6fac2fa", "status": "draft", "th": "ถ้อยคำของแม่ทัพเรือ"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_NANJUNG_ILGI_FUNCTIONAL_DESCRIPTION", "en_sha": "7a3295ca304e", "status": "draft", "th": "[B]+20% [icon:YIELD_PRODUCTION][/B] ในการสร้าง[B]สิ่งก่อสร้าง [icon:YIELD_SCIENCE] วิทยาศาสตร์[/B]"}
+{"tag": "LOC_MEMENTO_YI_SUN_SIN_NANJUNG_ILGI_NAME", "en_sha": "2e519b0bfdc6", "status": "draft", "th": "บันทึกนันจุงอิลกี"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_ANTIQUITY_DESC", "en_sha": "d8ca7f7cad63", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคโบราณ ทำภารกิจเพื่อค้นหากัปตันผู้เป็นแบบอย่างให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_ANTIQUITY_NAME", "en_sha": "a42d26d5a826", "status": "draft", "th": "คุณค่าของแม่ทัพเรือ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_EXPLORATION_DESC", "en_sha": "15ac1d6e2ab3", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อจับเหยื่อของคุณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_EXPLORATION_NAME", "en_sha": "89f0377db0b3", "status": "draft", "th": "ทุกวาคือรางวัล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_MODERN_DESC", "en_sha": "d848a498e6eb", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคสมัยใหม่ ทำภารกิจเพื่อพิสูจน์ความเป็นเจ้าเหนือนภาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_A_MODERN_NAME", "en_sha": "f08f8d63edd8", "status": "draft", "th": "จากทะเลสู่ฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_ANTIQUITY_DESC", "en_sha": "cf04f7ff028f", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคโบราณ ทำภารกิจเพื่อทำแผนที่แนวชายฝั่งอันตรายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_ANTIQUITY_NAME", "en_sha": "c0913b7ea5cf", "status": "draft", "th": "หางของพยัคฆ์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_EXPLORATION_DESC", "en_sha": "c2c2f009d1e3", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อแสวงหามุมมองใหม่ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_EXPLORATION_NAME", "en_sha": "599c8e8ad22e", "status": "draft", "th": "ความใฝ่รู้ไร้ขีดจำกัด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_MODERN_DESC", "en_sha": "901ffdb61d08", "status": "draft", "th": "ในฐานะอี ซุนชิน ในยุคสมัยใหม่ ทำภารกิจเพื่อผลักดันขอบเขตแห่งความรู้ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_YI_SUN_SIN_QUEST_B_MODERN_NAME", "en_sha": "c1cef0b52fdd", "status": "draft", "th": "พรมแดนไร้ขีดจำกัด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "082f93e2b84a", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "495598bf2897", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "6c4ea4bb087b", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "432171d8b084", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "0347b9829a8b", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "e6e118c0226f", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "5b3f2b6c590c", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "e163ab25ff28", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_DESC", "en_sha": "1e6aef580d15", "status": "draft", "th": "เล่นเป็นอี ซุนชิน จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "5c7a228728b5", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "12d7ca37fec9", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "55cf18add9e4", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "a82577c39d8d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "c882bea094ac", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "b42dce92f4c6", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_VICTORY_DESC", "en_sha": "4a372acd5a52", "status": "draft", "th": "เล่นเป็นอี ซุนชิน คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DEITY_VICTORY_DESC", "en_sha": "45ade20e8ff3", "status": "draft", "th": "เล่นเป็นอี ซุนชิน คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "4ba338f96b9d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "ea2a06f283c0", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "096eec67c24b", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "3cc753772933", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "69c9bd37bb27", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "e71e39fa22a5", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "1dbbb933a637", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "e302f9216dcd", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "eaa58a61e177", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "8eef8b63d03d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "dd42d16f367d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "15e0aeb11e29", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_VICTORY_DESC", "en_sha": "7ac27afc5492", "status": "draft", "th": "เล่นเป็นอี ซุนชิน คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "c16e8b2e5943", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "d9b965da244c", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "d81beb53da52", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "1be729a6e971", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "4c7b1af7ee4d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "54fa9c04527b", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "d1d977b9d39d", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "f1908ce27e68", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "1328f6166b50", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "121ee6b1616c", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "7afd0779d067", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6526248a305e", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "9d4a5e35d2fd", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "6ee063cd19bb", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_VICTORY_DESC", "en_sha": "d59242cf546e", "status": "draft", "th": "เล่นเป็นอี ซุนชิน คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_1_DESC", "en_sha": "bce244e3b0a8", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_2_DESC", "en_sha": "76db97b9f33f", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_3_DESC", "en_sha": "62196bb1ee7a", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a30d48356784", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "392495131c94", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "b29ee3eba7c0", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "751e11d91a1a", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "3dacf71458b3", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "8b14913a7bba", "status": "draft", "th": "เล่นเป็นอี ซุนชิน ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_VICTORY_DESC", "en_sha": "9ba5e86d5b98", "status": "draft", "th": "เล่นเป็นอี ซุนชิน คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_YI_SUN_SIN_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_MODULE_YI_SUN_SIN_DESCRIPTION", "en_sha": "3b00ad354da5", "status": "draft", "th": "มีผู้นำใหม่ คือ อี ซุนชิน"}
+{"tag": "LOC_MODULE_YI_SUN_SIN_NAME", "en_sha": "0f8dab296119", "status": "draft", "th": "อี ซุนชิน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_YI_SUN_SIN_L1_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_YI_SUN_SIN_L1_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_LEGEND_YI_SUN_SIN_L2_DESCRIPTION", "en_sha": "80074a1013a3", "status": "draft", "th": "ปลดล็อกตำนาน +1 ให้กับโบนัสการอยู่ติดกันของสิ่งก่อสร้างมาตรฐานที่ให้ [icon:YIELD_GOLD] ทอง, [icon:YIELD_PRODUCTION] การผลิต และ [icon:YIELD_SCIENCE] วิทยาศาสตร์"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_1", "en_sha": "ffa3f9c35dda", "status": "draft", "th": "บางครั้งโลกก็ได้พบกับอัจฉริยะ บุคคลผู้ก้าวข้ามความท้าทายที่ไม่มีผู้ใดเอาชนะได้ อี ซุนชิน คือบุรุษเช่นนั้น และวิกฤตการณ์ที่เขาคลี่คลายได้ช่วยกอบกู้โชซอนไว้"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_2", "en_sha": "dfe7f42c7e12", "status": "draft", "th": "อีเกิดในปี 1545 ในครอบครัวที่ตกอยู่ในสภาพยากลำบาก ปู่ของเขาเป็นบัณฑิตลัทธิขงจื๊อที่ถูกพัวพันในการกวาดล้างพวกซาริม ซึ่งเป็นบัณฑิตลัทธิขงจื๊อที่ยืนหยัดต่อต้านพระราชอำนาจ เมื่อถูกขึ้นบัญชีดำจนไม่อาจไต่เต้าสู่ตำแหน่งสูงที่ปกติจะเปิดให้แก่ชนชั้นขุนนางเช่นพวกตน ตระกูลอีจึงถอยไปใช้ชีวิตอย่างเงียบ ๆ ห่างไกลจากการเมือง แม้โชคชะตาจะไม่เป็นใจ ความยึดมั่นในอุดมคติของลัทธิขงจื๊อของพวกเขาก็ไม่เคยสั่นคลอน และตลอดชีวิต อี ซุนชินได้พิสูจน์ตนว่าเป็นแบบอย่างของบุรุษตามอุดมคติขงจื๊อ ผู้อุทิศตนต่อหน้าที่และครอบครัว แม้ความสัมพันธ์กับการเมืองของเขาจะผันผวนอยู่เสมอ แต่ยู ซองรยง เพื่อนรักของเขา เป็นขุนนางผู้บริหารที่ภายหลังได้เขียนบันทึกเกี่ยวกับช่วงเวลานี้ไว้ในชื่อ \"บันทึกแห่งการทบทวนแก้ไข\" ยูเป็นเพื่อนที่ไม่เคยสิ้นศรัทธาในตัวอี และใช้เส้นสายของตนหลายครั้งเพื่อหนุนโชคชะตาของอี ซึ่งปรากฏว่าเป็นการหนุนโชคชะตาของเกาหลีด้วยเช่นกัน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_3", "en_sha": "c1573fd94367", "status": "draft", "th": "อีสอบผ่านการคัดเลือกเข้ารับราชการทหารเมื่ออายุ 31 ปี และถูกส่งไปประจำการที่ชายแดนทางเหนือของเกาหลี ซึ่งเป็นถิ่นของชาวจูร์เชน (ผู้ซึ่งต่อมากลายเป็นชาวแมนจู ผู้ปกครองจีนสมัยราชวงศ์ชิง) ที่อาศัยและปล้นสะดมตามแนวชายแดนเกาหลี ที่นี่เขาเป็นที่รู้จักในด้านความกล้าหาญ เรื่องเล่าหนึ่งกล่าวว่าเขาป้องกันป้อมชายแดนจากการซุ่มโจมตีครั้งใหญ่ของชาวจูร์เชนด้วยทหารเกาหลีเพียง 12 นาย สิ่งสำคัญในเรื่องนี้ยังได้แก่ฝีมือการยิงธนูของเขา โดยเฉพาะยูยอบจอน ลูกธนูระยะใกล้ที่พุ่งเร็วกว่า หลังจากความสำเร็จนี้ ยู เพื่อนของอี ได้ถือโอกาสแต่งตั้งอีจากผู้บัญชาการระดับภูมิภาคขึ้นเป็นหัวหน้ากองทัพเรือโชซอน การก้าวขึ้นอย่างรวดเร็วราวดาวตกนี้ข้ามลำดับการเลื่อนตำแหน่งตามปกติไปโดยสิ้นเชิง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_4", "en_sha": "181603f7cad4", "status": "draft", "th": "เมื่ออีเข้ารับตำแหน่งในกองทัพเรือ เขาพบว่ากองทัพเรืออยู่ในสภาพระส่ำระสายอย่างยิ่ง ห่างไกลจากความพร้อมที่จะป้องกันศัตรูของเกาหลี ช่วงเวลาแห่งสันติภาพในฐานะรัฐบรรณาการของจีนสมัยราชวงศ์หมิงได้ทำให้รัฐบาลเกิดความนิ่งนอนใจ ขณะเดียวกัน ญี่ปุ่นซึ่งเป็นเพื่อนบ้านอีกด้านของเกาหลีก็มีผู้ปกครองคนใหม่ผู้ทะเยอทะยาน คือโทโยโทมิ ฮิเดโยชิ ผู้หมายตาจีนไว้ เกาหลีตกอยู่ตรงกลาง และอีก็เริ่มเตรียมกองทัพเรือให้พร้อมรับความขัดแย้ง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_5", "en_sha": "00a1f9bb45e5", "status": "draft", "th": "มรดกประการหนึ่งของอีคือการใช้เรือเต่า แม้เรือแบบรุ่นก่อนหน้า (ที่เรียกว่ากวีซอน) จะเคยถูกใช้มาแล้วกว่าศตวรรษก่อน แต่ก็ถูกทิ้งร้างไปนานแล้วเมื่อถึงสมัยที่อีเป็นแม่ทัพเรือ อีตระหนักถึงช่องโหว่ทางยุทธวิธีของกองทัพเรือญี่ปุ่นซึ่งพึ่งพาการบุกขึ้นเรือข้าศึกเพื่อเอาชนะในการรบทางทะเล จึงพัฒนาเรือเต่าให้ดีขึ้นและนำออกใช้ได้อย่างได้ผลยิ่ง เรือเหล่านี้คล่องตัวสูง ติดอาวุธปืนใหญ่หลากหลายชนิด และมีชั้นหนามแหลมเพื่อต้านทานการบุกขึ้นเรือ ผลลัพธ์ที่ได้นั้นยอดเยี่ยม"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_6", "en_sha": "05b752572cd2", "status": "draft", "th": "ญี่ปุ่นบุกเกาหลีในปี 1592 และรุกเข้ามาอย่างรวดเร็ว ยึดครองถิ่นฐานส่วนใหญ่รวมถึงนครหลวง แต่การควบคุมชายฝั่งเกาหลีกลับไม่ง่ายเช่นนั้น ตลอดสงคราม อีพิสูจน์ตนว่าเป็นแม่ทัพเรือผู้ปราดเปรื่อง แม้จะไม่เคยมีประสบการณ์การรบทางทะเลมาก่อน ในการทัพครั้งแรก ด้วยกองเรือที่ประกอบด้วยเรือประมงเป็นส่วนใหญ่ แม่ทัพเรืออีทำลายเรือญี่ปุ่นได้หลายสิบลำโดยไม่เสียเรือแม้แต่ลำเดียว ปลายปีนั้น เขาใช้กลลวงอันแยบยลด้วยเรือเพียงไม่กี่ลำล่อกองกำลังญี่ปุ่นที่ใหญ่กว่ามากให้ออกจากที่มั่นตั้งรับ แล้วหันเรือกลับระดมยิงใส่ข้าศึก ทำลายหรือยึดเรือได้กว่า 50 ลำ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_7", "en_sha": "0c008a6cc174", "status": "draft", "th": "แม้กลยุทธ์อันชาญฉลาดของอีจะป้องกันมิให้ญี่ปุ่นครอบงำเกาหลีได้ทั้งหมด แต่ศัตรูที่แท้จริงของเขากลับเป็นชาวเกาหลีด้วยกันเอง เขาถูกรุมเร้าจากเพื่อนร่วมงานที่อิจฉาและขุนนางผู้บริหารที่ไร้ความสามารถ (ซึ่งเขาปฏิเสธที่จะเชื่อฟัง) จนถูกปลดจากตำแหน่งและถูกจำคุก และรอดพ้นโทษประหารมาอย่างหวุดหวิด แทนที่อี แม่ทัพเรือคนใหม่คือวอน กยุน หนึ่งในนายเรือเก่าของอี และตามบันทึกของอีเอง เป็นชายขี้ขลาดที่เอาแต่คร่ำครวญ เขาพิสูจน์ว่าไร้ความสามารถอย่างที่อีเชื่อจริง โดยเสียเรือรบไป 137 ลำจาก 150 ลำในการซุ่มโจมตีของญี่ปุ่น และทหารของเขาถูกสังหารหมู่นับหมื่นคน เมื่อกองทัพเรือเกาหลีหดเหลือน้อยจนน่าเวทนา และโทโยโทมิคุกคามอยู่ถึงหน้าประตู ราชสำนักเกาหลีจึงทบทวนจุดยืนเดิมอีกครั้ง และเรียกตัวอี ซุนชินกลับมากอบกู้พวกเขา เขาได้รับการแต่งตั้งกลับเป็นแม่ทัพเรืออีกครั้งและลงมือทำงานในทันที"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_8", "en_sha": "670d9355b0d6", "status": "draft", "th": "ด้วยเรือเพียง 13 ลำ กองทัพเรือเกาหลีมีจำนวนน้อยกว่ากองเรือญี่ปุ่นอย่างมาก ถึงกระนั้น อีก็ล่อกองเรือญี่ปุ่นเข้าสู่ช่องแคบอันตรายที่มย็องนยัง และตรงเข้าสู่กับดักซุ่มโจมตี ด้วยอัตราส่วนเกือบ 25 ต่อ 1 อีสามารถเอาชนะกองทัพเรือญี่ปุ่นได้ในหนึ่งในตัวอย่างการรบทางทะเลที่ยอดเยี่ยมที่สุดในประวัติศาสตร์ โทโยโทมิพยายามบุกเกาหลีเป็นครั้งสุดท้าย และกองทัพของเขาพ่ายแพ้ที่โนรยังในช่วงปลายปี 1598 แต่อนิจจา กระสุนลูกหลงนัดหนึ่งถูกอี ซุนชินในศึกสุดท้ายนี้ และเขาก็เสียชีวิต ทหารของเขาและประชาชนเกาหลีต่างโศกเศร้าอาลัย ด้วยตระหนักว่าเขาคือเหตุผลที่พวกเขายังคงเป็นอิสระจากแอกของญี่ปุ่น"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_YI_SUN_SIN_CHAPTER_HISTORY_PARA_9", "en_sha": "e97ededeccb6", "status": "draft", "th": "อีเป็นที่จดจำในฐานะปรมาจารย์แห่งยุทธศาสตร์ทางทะเล แม้จะไม่เคยได้รับการฝึกฝนด้านการทัพเรืออย่างเป็นทางการ เขาก็ใช้ชายฝั่งหินขรุขระของเกาหลีและเจตจำนงที่จะต่อต้านของเกาหลี นำกองทัพเรือโชซอนจากความสำเร็จที่ไม่น่าเป็นไปได้ครั้งหนึ่งไปสู่อีกครั้งหนึ่ง เขาเป็นที่จดจำเคียงข้างโฮเรโช เนลสัน และผู้บัญชาการทัพเรือคนอื่น ๆ ในฐานะแบบอย่างแห่งความมุ่งมั่น ปัญญา และชัยชนะ"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_EXPLORATION_1_DESCRIPTION", "en_sha": "445cc63a5fc2", "status": "draft", "th": "ในฐานะอี ซุนชิน จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_EXPLORATION_1_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_EXPLORATION_2_DESCRIPTION", "en_sha": "095de516d4a3", "status": "draft", "th": "ในฐานะอี ซุนชิน จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วิทยาศาสตร์, -10% วัฒนธรรม"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_EXPLORATION_2_NAME", "en_sha": "f465c2cdc6ea", "status": "draft", "th": "การอุทิศทางวิทยาศาสตร์ ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_MODERN_1_DESCRIPTION", "en_sha": "c6f38d1f81bb", "status": "draft", "th": "ในฐานะอี ซุนชิน จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_MODERN_1_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_MODERN_2_DESCRIPTION", "en_sha": "f246fbc5d1b0", "status": "draft", "th": "ในฐานะอี ซุนชิน จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t   +15% วิทยาศาสตร์, -10% วัฒนธรรม"}
+{"tag": "LOC_STRATEGYCARD_YI_SUN_SIN_MODERN_2_NAME", "en_sha": "e47ce3fb3901", "status": "draft", "th": "การอุทิศทางวิทยาศาสตร์ ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_YI_SUN_SIN_NAME", "en_sha": "269aba6484e4", "status": "draft", "th": "มหาแม่ทัพเรือ"}
+{"tag": "LOC_TRAIT_LEADER_YI_SUN_SIN_ABILITY_DESCRIPTION", "en_sha": "4cf4a26a18e9", "status": "draft", "th": "[BLIST][LI]สามารถสร้าง[b] [icon:UNIT_FLEET_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]กองเรือ[/b] ได้หลังจากศึกษา [icon:RADIAL_CIVICS] [b] ความมีวินัย[/b]ในยุคโบราณ ได้รับ [icon:UNIT_FLEET_COMMANDER] [b]ผู้บัญชาการกองเรือ[/b] เมื่อคุณค้นพบ [icon:RADIAL_CIVICS] [b]ความมีวินัย[/b] และมี[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]ท่าเรือที่เข้าถึงมหาสมุทรได้[LI]การเอาชนะข้าศึกด้วยยูนิตทางเรือจะให้ [icon:YIELD_SCIENCE] [b]วิทยาศาสตร์ [/b]เท่ากับ [b]100% [/b]ของ [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ของยูนิตที่พ่ายแพ้[LI] เมื่อสร้าง[b]สิ่งก่อสร้างทางวิทยาศาสตร์[/b] [icon:UNIT_FLEET_COMMANDER] [b]ผู้บัญชาการกองเรือ[/b]ทั้งหมดจะได้รับ 10 XP[LI]+3 [icon:YIELD_GOLD] [b]ทอง[/b] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ต่อ XP ทุกหน่วยที่ [icon:UNIT_FLEET_COMMANDER] [b]ผู้บัญชาการกองเรือ[/b]ได้รับจากการรบ[/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_YI_SUN_SIN_ABILITY_NAME", "en_sha": "103177c3865c", "status": "draft", "th": "ซัมโด ซูกุน ทงเจซา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_YI_SUN_SIN_CARTHAGE_TOOLTIP", "en_sha": "3ca3378e3cfb", "status": "draft", "th": "[B]คาร์เทจ[/B] เสริมกลยุทธ์ของ [B]อี ซุนชิน[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_YI_SUN_SIN_DESCRIPTION", "en_sha": "84cb00fdf1f2", "status": "draft", "th": "เล่นเป็น [B]อี ซุนชิน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_YI_SUN_SIN_GREAT_BRITAIN_TOOLTIP", "en_sha": "2cdf86608a5e", "status": "draft", "th": "[B]บริเตนใหญ่[/B] เสริมกลยุทธ์ของ [B]อี ซุนชิน[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_YI_SUN_SIN_SILLA_TOOLTIP", "en_sha": "8e0dab3f0f79", "status": "draft", "th": "[B]อี ซุนชิน[/B] มาจากเกาหลี"}
+{"tag": "LOC_VICTORY_LEADER_YI_SUN_SIN", "en_sha": "5160024bf25c", "status": "draft", "th": "จันทร์ที่ลอยเด่นกระจ่างสดใส พรุ่งนี้ฟ้าจะแจ่มใส และได้พักผ่อนอย่างสมควร"}

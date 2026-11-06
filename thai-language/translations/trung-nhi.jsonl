@@ -1,0 +1,25 @@
+{"tag": "LOC_ABILITY_ARMY_TRUNG_NHI_HAI_BA_TRUNG_PREVIEW", "en_sha": "aaf5f938dcce", "status": "draft", "th": "+{Amount} ไฮบ่าจึง"}
+{"tag": "LOC_MODULE_TRUNG_NHI_DESCRIPTION", "en_sha": "df60770e5f77", "status": "draft", "th": "มีผู้บัญชาการเฉพาะของจึงจัก คือ จึงญี"}
+{"tag": "LOC_MODULE_TRUNG_NHI_NAME", "en_sha": "021fa4e8c324", "status": "draft", "th": "ยูนิต - จึงญี"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_DESCRIPTION", "en_sha": "32809ad619e2", "status": "draft", "th": "พลังการรบ +5 เมื่อต่อสู้กับเขตป้อมปราการ สำหรับยูนิตทางบกภายในรัศมีบัญชาการ [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_NAME", "en_sha": "c6a4b6baa982", "status": "draft", "th": "65 ป้อมปราการ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_65_STRONGHOLDS_PREVIEW", "en_sha": "73ca7a39e0f2", "status": "draft", "th": "+{Amount} 65 ป้อมปราการ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION", "en_sha": "5df158b5c0b0", "status": "draft", "th": "ความเสียหาย +3 สำหรับจู่โจมอย่างวีรบุรุษ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_FINAL_DESCRIPTION", "en_sha": "f457e09b251f", "status": "draft", "th": "ความเสียหาย +10 สำหรับจู่โจมอย่างวีรบุรุษ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG_DESCRIPTION", "en_sha": "ef2d6e9a3782", "status": "draft", "th": "พลังการรบ +15 สำหรับผู้บัญชาการนี้เมื่อป้องกัน [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_HAI_BA_TRUNG_NAME", "en_sha": "7d461491fe76", "status": "draft", "th": "ไฮบ่าจึง"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_DESCRIPTION", "en_sha": "792d46060cd5", "status": "draft", "th": "พลังการรบ +5 สำหรับยูนิตทางบกที่อยู่บนภูมิประเทศเขตร้อนภายในรัศมีบัญชาการ [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_NAME", "en_sha": "c3e84df44249", "status": "draft", "th": "การรบในป่าทึบ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_JUNGLE_WARFARE_PREVIEW", "en_sha": "9fd7a059e7fa", "status": "draft", "th": "+{1_Amount} การรบในป่าทึบ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_DESCRIPTION", "en_sha": "7db8faf42c72", "status": "draft", "th": "พลังการรบ +3 สำหรับยูนิตทางบกภายในรัศมีบัญชาการ เมื่อมียูนิตศัตรูอยู่ติดกับจึงญีอย่างน้อย 2 ยูนิต [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_NAME", "en_sha": "87fded3c0e9c", "status": "draft", "th": "กบฏชาวหลัก"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_LAC_REBELLION_PREVIEW", "en_sha": "f36c3a623b62", "status": "draft", "th": "+{1_Amount} กบฏชาวหลัก"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_DESCRIPTION", "en_sha": "421f08eb47be", "status": "draft", "th": "พลังการรบ +5 สำหรับยูนิตทางบกภายในรัศมีบัญชาการ เมื่ออยู่ในดินแดนฝ่ายเดียวกัน [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_NAME", "en_sha": "5d09afc9d437", "status": "draft", "th": "ความทรหดและความกล้าหาญ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_METTLE_COURAGE_PREVIEW", "en_sha": "75cbdb152d72", "status": "draft", "th": "+{1_Amount} ความทรหดและความกล้าหาญ"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_DESCRIPTION", "en_sha": "f64ab5934519", "status": "draft", "th": "พลังการรบ +5 เมื่อใช้โจมตีประสานและระดมยิง [n]{LOC_PROMOTION_ARMY_TRUNG_NHI_ATTACK_DAMAGE_FINAL_DESCRIPTION}"}
+{"tag": "LOC_PROMOTION_ARMY_TRUNG_NHI_ONE_SINGLE_CRY_NAME", "en_sha": "506e88f08aa2", "status": "draft", "th": "เสียงร้องหนึ่งเดียว"}
+{"tag": "LOC_PROMOTION_TRUNG_COMMENDATION_DUTY_DESCRIPTION", "en_sha": "f776bfa7dfd2", "status": "draft", "th": "ความเสียหาย +30 สำหรับจู่โจมอย่างวีรบุรุษ"}
+{"tag": "LOC_PROMOTION_TRUNG_COMMENDATION_DUTY_NAME", "en_sha": "736f646998df", "status": "draft", "th": "สองพี่น้องผนึกกำลัง"}
+{"tag": "LOC_UNIT_TRUNG_NHI_DESCRIPTION", "en_sha": "6223305b7201", "status": "draft", "th": "ผู้บัญชาการกองทัพเฉพาะตัวของจึงจัก[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]นางมีแผนผัง[icon:NAR_REW_PROMOTION] [TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]การเลื่อนขั้น[/TIP]เฉพาะตัวที่แทนที่ภาวะผู้นำ และ[TIP:LOC_PEDIA_CONCEPTS_COMMENDATION_TOOLTIP]เหรียญเชิดชู[/TIP]เฉพาะตัว \"สองพี่น้องผนึกกำลัง\" ที่แทนที่หน้าที่ เกิดใหม่เร็วกว่า[icon:UNIT_ARMY_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]คนอื่นเมื่อพ่ายแพ้ ปรากฏตัวหลังจากได้[TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]ยูนิตทหาร[/TIP][TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ทางบก[/TIP]ยูนิตแรกของ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]เริ่มต้นพร้อม 2 [icon:NAR_REW_PROMOTION] [TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]การเลื่อนขั้น[/TIP]ในการเริ่มเกมขั้นสูงยุคแห่งการสำรวจ และเริ่มต้นพร้อม 3 [icon:NAR_REW_PROMOTION] [TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]การเลื่อนขั้น[/TIP]ในการเริ่มเกมขั้นสูงยุคสมัยใหม่"}
+{"tag": "LOC_UNIT_TRUNG_NHI_NAME", "en_sha": "d731b18f3af6", "status": "draft", "th": "จึงญี"}

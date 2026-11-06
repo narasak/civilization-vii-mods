@@ -1,0 +1,616 @@
+{"tag": "LOC_1109C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_1109C_NAME", "en_sha": "b8045d707eb4", "status": "draft", "th": "ขณะที่ชาวชอว์นีมาชุมนุมกัน ควันยาสูบสีฟ้าลอยขึ้นปะปนกับเสียงหัวเราะและเสียงสนทนา"}
+{"tag": "LOC_1497A_COMPLETION", "en_sha": "a8234d21feb0", "status": "draft", "th": "ในยุครุ่งเรืองแห่งการปกครองของชอว์นี ผู้อาวุโสแห่งกลุ่มชิลาโคเฟคือผู้ตัดสินใจทางการเมืองแทนประชาชน แต่ภายใต้รัฐบาล {1_civilization_adj} บทบาทของพวกเขากลับไม่ชัดเจน ชาวชอว์นี {2_civilizations_adj} บางคนรู้สึกว่าไม่จำเป็นต้องยึดถือวิถีเก่าอีกต่อไป ขณะที่บางคนเห็นคุณค่าของขนบธรรมเนียม"}
+{"tag": "LOC_1497A_STORYTITLE", "en_sha": "cca82a6dd6eb", "status": "draft", "th": "ชอว์นียุคใหม่"}
+{"tag": "LOC_1497B_DESCRIPTION", "en_sha": "5eeb0ffe8449", "status": "draft", "th": "{1_reward} ในนครต่อขนบธรรมเนียมชอว์นีแต่ละรายการที่ใส่ไว้"}
+{"tag": "LOC_1497B_NAME", "en_sha": "997845e0f9f0", "status": "draft", "th": "รักษาอำนาจของผู้อาวุโสไว้"}
+{"tag": "LOC_1497C_DESCRIPTION", "en_sha": "09562d16e83b", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้ทอง"}
+{"tag": "LOC_1497C_NAME", "en_sha": "bb057f3f1226", "status": "draft", "th": "ชาวชอว์นีรุ่นใหม่รับรูปแบบการปกครองใหม่"}
+{"tag": "LOC_1498A_COMPLETION", "en_sha": "3686ec2743ce", "status": "draft", "th": "ผู้อาวุโสชิลาโคเฟ ซึ่งบัดนี้เป็นพรรคการเมืองที่ดำเนินงานอยู่ภายในรัฐบาล {1_civilization_adj} ได้แสดงความกังวลเรื่องพื้นที่ล่าสัตว์ ซึ่งสำคัญต่อชาวชอว์นีมาช้านาน การรุกล้ำของเขตเมืองใหม่ ๆ คุกคามที่จะทำให้ถิ่นอาศัยของสัตว์ป่าหดหายไป"}
+{"tag": "LOC_1498A_STORYTITLE", "en_sha": "e91b206e7534", "status": "draft", "th": "สิทธิของผืนป่า"}
+{"tag": "LOC_1498B_DESCRIPTION", "en_sha": "dbb36a97b2ce", "status": "draft", "th": "{1_reward} ในนคร แต่ {2_reward} ในนคร"}
+{"tag": "LOC_1498B_NAME", "en_sha": "03749021fcba", "status": "draft", "th": "ให้ผู้อาวุโสดูแลการป่าไม้"}
+{"tag": "LOC_1498C_DESCRIPTION", "en_sha": "cb4f19b87ad1", "status": "draft", "th": "เรื่องราวจบลง"}
+{"tag": "LOC_1498C_NAME", "en_sha": "15667973d086", "status": "draft", "th": "เพิกเฉยต่อคำขอ"}
+{"tag": "LOC_1499A_COMPLETION", "en_sha": "d1a64b4b6f65", "status": "draft", "th": "เยาวชนชาวชอว์นี {1_civilization_adj} ได้ค้นพบคำสอนของเทนสกวาทาวาอีกครั้ง เมื่อห่างไกลจากอำนาจตามประเพณีของผู้อาวุโสมานาน คนหนุ่มสาวชาวชอว์นีจึงตีความคำสอนเหล่านั้นด้วยตนเอง คิดทบทวนและปรับปรุงให้เข้ากับยุคสมัยใหม่"}
+{"tag": "LOC_1499A_STORYTITLE", "en_sha": "dfb78b5891a8", "status": "draft", "th": "การฟื้นฟูชอว์นี"}
+{"tag": "LOC_1499B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_1499B_NAME", "en_sha": "fe5d8ac5308f", "status": "draft", "th": "คนหนุ่มสาวกลับสู่ลานระบำพิธี"}
+{"tag": "LOC_1499C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_1499C_NAME", "en_sha": "e2aef683674e", "status": "draft", "th": "เพลงชอว์นีดังก้องทางวิทยุ"}
+{"tag": "LOC_1500A_COMPLETION", "en_sha": "08dd1fee7477", "status": "draft", "th": "นักวางผังนครชาวชอว์นีผู้หนึ่งเปิดเผยแผนสร้างเขตอุตสาหกรรมใหม่ แต่ผู้อาวุโสแห่งชิลลิโคทีกังวลว่าแผนนี้จะทำลายแหล่งมาวาสกาเว สโกเตที่มีอายุหลายศตวรรษ"}
+{"tag": "LOC_1500A_STORYTITLE", "en_sha": "9d4085fc962b", "status": "draft", "th": "การรุกคืบของอุตสาหกรรม"}
+{"tag": "LOC_1500B_DESCRIPTION", "en_sha": "f0e983459594", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_1500B_NAME", "en_sha": "9395bd0aaa2f", "status": "draft", "th": "รับฟังคำแนะนำของผู้อาวุโส"}
+{"tag": "LOC_1500C_DESCRIPTION", "en_sha": "f0e983459594", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_1500C_NAME", "en_sha": "3910801d9785", "status": "draft", "th": "ปฏิเสธคำแนะนำของผู้อาวุโส"}
+{"tag": "LOC_1501A_COMPLETION", "en_sha": "f9d05fb0110a", "status": "draft", "th": "ยุคใหม่ต้องการเรื่องเล่าใหม่ และนักประวัติศาสตร์ได้เริ่มต้นด้วยตำราเล่มมหึมาว่าด้วยชาว {1_civilization_adj} เหล่าโฮซีปคิเลนีของชอว์นีต่างสงสัยว่าเรื่องเล่าของพวกตนจะได้ปรากฏอยู่ในหนังสือเล่มนี้มากน้อยเพียงใด"}
+{"tag": "LOC_1501A_STORYTITLE", "en_sha": "2a0b480f6e25", "status": "draft", "th": "ตำนานแห่งชาติ"}
+{"tag": "LOC_1501B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_1501B_NAME", "en_sha": "15532d8f1e2a", "status": "draft", "th": "ชาวโฮชีปคิเลนีเก็บรักษาเรื่องเล่าไว้ในชุมชนของตน"}
+{"tag": "LOC_1501C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_1501C_NAME", "en_sha": "20cc98424e48", "status": "draft", "th": "ชาวโฮชีปคิเลนีเปิดหอจดหมายเหตุและร่วมแบ่งปัน"}
+{"tag": "LOC_3713A_COMPLETION", "en_sha": "82f078ec7eba", "status": "draft", "th": "เมื่อชาวนากลับจากไร่ ชาวชอว์นีก็มารวมตัวกันเพื่อการเต้นรำขนมปัง สตรีวางขนมข้าวโพดไว้ข้างเนื้อสัตว์จากนายพราน อาหารที่ปลูกและอาหารที่หามา - ชีวิตที่ถูกฟูมฟักและชีวิตที่ถูกพรากไป ผู้คนร่ายรำ ขับร้อง และขอบคุณความอุดมสมบูรณ์ของผืนดินที่เลี้ยงดูพวกเขาและหล่อเลี้ยงอนาคตของพวกเขา"}
+{"tag": "LOC_3713A_STORYTITLE", "en_sha": "2eb88cdb5a7e", "status": "draft", "th": "ฤดูกาลที่ผันเปลี่ยน"}
+{"tag": "LOC_3713B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3713B_NAME", "en_sha": "69803fc550ba", "status": "draft", "th": "ทุ่งนาอุดมสมบูรณ์ล้นเหลือ"}
+{"tag": "LOC_3713C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3713C_NAME", "en_sha": "b5de09ff8482", "status": "draft", "th": "ผืนป่าอุดมด้วยสัตว์ป่า"}
+{"tag": "LOC_3713D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3713D_NAME", "en_sha": "eb3f5089a98b", "status": "draft", "th": "ผู้คนทั้งปวงเฉลิมฉลองอย่างรื่นเริง"}
+{"tag": "LOC_3714A_COMPLETION", "en_sha": "dd5ef5cef3b3", "status": "draft", "th": "สัตว์ป่ากลายเป็นของหายากในแดนรกร้าง และนายพรานชาวชอว์นีต่างสงสัยว่าพวกมันหายไปไหน หญิงชราผู้หนึ่งที่แอบฟังอยู่ชี้ไปยังผืนป่า นางบอกว่าต้นไม้หนาแน่นเกินไป หากต้องการให้สัตว์กลับมา พวกเขาต้องทำให้ป่าเป็นมิตรกับพวกมัน"}
+{"tag": "LOC_3714A_STORYTITLE", "en_sha": "6256b48d7d07", "status": "draft", "th": "พี่น้องที่หายไป"}
+{"tag": "LOC_3714B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3714B_NAME", "en_sha": "249a13c7f877", "status": "draft", "th": "จงจุดไฟเผาป่า"}
+{"tag": "LOC_3714C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3714C_NAME", "en_sha": "bf631f74739a", "status": "draft", "th": "ตัดต้นไม้บางส่วนก็น่าจะพอ"}
+{"tag": "LOC_3715A_COMPLETION", "en_sha": "112b23476509", "status": "draft", "th": "ชาวชอว์นีมาชุมนุมกันที่มาวาสกาเว สโกเตเพื่อหารือเรื่องประชากรที่เพิ่มขึ้นในนครหลวง หัวหน้าหลายคนกังวลว่าความหลากหลายทางวัฒนธรรมกำลังลดลง เมื่อชีวิตของผู้คนพัวพันกันมากขึ้นในย่านที่อยู่อาศัยอันแออัด"}
+{"tag": "LOC_3715A_STORYTITLE", "en_sha": "5b626a691387", "status": "draft", "th": "ณ กองไฟแห่งสภา"}
+{"tag": "LOC_3715B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3715B_NAME", "en_sha": "6111a224976e", "status": "draft", "th": "ความแตกต่างควรได้รับการรักษาไว้"}
+{"tag": "LOC_3715C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3715C_NAME", "en_sha": "7adaae3768e2", "status": "draft", "th": "ปล่อยให้วิวัฒนาการดำเนินไปตามธรรมชาติ"}
+{"tag": "LOC_3716A_COMPLETION", "en_sha": "981aed9a9e0a", "status": "draft", "th": "โฮซีปคิเลนีเตรียมสัมภาระและถุงยาของเขา ผู้คนมากมายรอคอยถ้อยคำและคำชี้แนะของเขา เช่นเดียวกับผู้ที่ยังไม่ได้ลืมตามองธรรมชาติที่แท้จริงของโลก"}
+{"tag": "LOC_3716A_STORYTITLE", "en_sha": "97434ea2b406", "status": "draft", "th": "ภูมิปัญญาโบราณ"}
+{"tag": "LOC_3716B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3716B_NAME", "en_sha": "bea98ad19978", "status": "draft", "th": "ชาวชอว์นีจะได้รับประโยชน์จากปัญญาของเขา"}
+{"tag": "LOC_3716C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3716C_NAME", "en_sha": "932f201d4deb", "status": "draft", "th": "เขาต้องเดินทางไปต่างแดน"}
+{"tag": "LOC_3717A_COMPLETION", "en_sha": "165382b64b76", "status": "draft", "th": "ผู้ไว้ทุกข์ขับลำนำแด่ร่างของคิสโปโก เนนาโต รำลึกถึงการยืนหยัดอย่างกล้าหาญของเขา และสงสัยว่าเมื่อใดความตายของเขาจะได้รับการชำระแค้น ทันใดนั้นก็มีเสียงร้องดังขึ้น: ศัตรูรายหนึ่งล้มลงแล้ว"}
+{"tag": "LOC_3717A_STORYTITLE", "en_sha": "981ed039ed9a", "status": "draft", "th": "ชีวิตแลกชีวิต"}
+{"tag": "LOC_3717B_DESCRIPTION", "en_sha": "e58423c6db3f", "status": "draft", "th": "{1_reward} ให้แก่คิสโปโก เนนาโต"}
+{"tag": "LOC_3717B_NAME", "en_sha": "f9be0a7db128", "status": "draft", "th": "เสียงโห่ร้องของนักรบดังกึกก้อง"}
+{"tag": "LOC_3717C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3717C_NAME", "en_sha": "ccf777c503e1", "status": "draft", "th": "ต้องเติมเต็มช่องว่างนี้"}
+{"tag": "LOC_3718A_COMPLETION", "en_sha": "ffb7f63c0cc3", "status": "draft", "th": "เสียงกลองดังกระหึ่มขณะที่นักรบชอว์นีเตรียมตัวออกศึก พวกเขารวบรวมเสบียงและอาวุธ แล้วเริ่มอดอาหารเพื่อชำระกายใจก่อนการต่อสู้ที่กำลังใกล้เข้ามา เสียงโห่ร้องดังอึกทึก นักรบตะโกนก้องและยิงปืนขึ้นฟ้า ร่ายรำและขับร้องเพื่อชัยชนะที่รออยู่เบื้องหน้า แล้ว - ความเงียบก็เข้าปกคลุม เมื่อพวกเขากลืนหายไปกับผืนแผ่นดินเพื่อไล่ล่าศัตรู"}
+{"tag": "LOC_3718A_STORYTITLE", "en_sha": "42f497a4838e", "status": "draft", "th": "ศึกที่กำลังมาเยือน"}
+{"tag": "LOC_3718B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3718B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_3719A_COMPLETION", "en_sha": "568314874c15", "status": "draft", "th": "ช่างเงินชาวชอว์นีได้รับคำขอให้สร้างชิ้นงานใหม่อย่างล้นหลาม ทั้งแหวนและกำไล ต่างหูและแผ่นประดับ... ทุกคนต่างปรารถนาโลหะงามนี้ ไม่นานนักทุกถิ่นฐานก็เปล่งประกายเจิดจ้ายิ่งกว่าดวงจันทร์"}
+{"tag": "LOC_3719A_STORYTITLE", "en_sha": "d4b293de1884", "status": "draft", "th": "ผู้ถักทอโลหะ"}
+{"tag": "LOC_3719B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3719B_NAME", "en_sha": "8317a48d0383", "status": "draft", "th": "เงินมีมากเท่าไรก็ไม่เคยพอ"}
+{"tag": "LOC_3719C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3719C_NAME", "en_sha": "761682fb0f01", "status": "draft", "th": "ถึงเวลาส่งออกผลงานชิ้นเอกเหล่านี้แล้ว"}
+{"tag": "LOC_3720A_COMPLETION", "en_sha": "b8da2dda48e2", "status": "draft", "th": "นครทั่วโลกต่างเรียกร้องหาสินค้าของชาวชอว์นี พ่อค้าเร่งรุดจากตลาดหนึ่งไปสู่อีกตลาดหนึ่ง เกี้ยวพาผู้ซื้อและเล่าขานเรื่องราวของบ้านเกิด"}
+{"tag": "LOC_3720A_STORYTITLE", "en_sha": "a9218ea3c1ce", "status": "draft", "th": "พ่อค้าช่างเจรจา"}
+{"tag": "LOC_3720B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3720B_NAME", "en_sha": "ac60d58846cb", "status": "draft", "th": "พวกเขาเปลี่ยนถ้อยคำให้เป็นความมั่งคั่ง"}
+{"tag": "LOC_3720C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3720C_NAME", "en_sha": "4b6e0567a1f2", "status": "draft", "th": "มิตรภาพใหม่เปิดประตูสู่โอกาส"}
+{"tag": "LOC_3721A_COMPLETION", "en_sha": "60a79ed788af", "status": "draft", "th": "นักรบชอว์นีเฉลิมฉลองการล่าที่ประสบผล ทว่าผู้อาวุโสกลับสงสัยว่าคนหนุ่มได้กล่าวขอบคุณสัตว์ทั้งหลายที่สละชีวิตให้แก่พวกเขาอย่างสมควรแล้วหรือไม่"}
+{"tag": "LOC_3721A_STORYTITLE", "en_sha": "f7b3583f89af", "status": "draft", "th": "ของกำนัลจากพงไพร"}
+{"tag": "LOC_3721B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3721B_NAME", "en_sha": "7f143bf81445", "status": "draft", "th": "ต้องรักษาประเพณีไว้ มิฉะนั้นจะถูกลืมเลือน"}
+{"tag": "LOC_3721C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3721C_NAME", "en_sha": "79f147c6c739", "status": "draft", "th": "สัตว์ที่สำนึกคุณจะแพร่พันธุ์และทำให้ป่าอุดมสมบูรณ์"}
+{"tag": "LOC_3722A_COMPLETION", "en_sha": "b4688c88d035", "status": "draft", "th": "ฝูงชนจากใกล้และไกลพากันหลั่งไหลมายังสวนสัตว์ของชาวชอว์นี สัตว์เหล่านั้นงดงามวิจิตร ทุกคนต่างตะลึงกับสัตว์แปลกประหลาด ทว่าท่ามกลางสิ่งพิเศษเหล่านั้น กลับมีสิ่งธรรมดาเดินยืดอกอยู่ตัวหนึ่ง - ไก่งวง สัตว์ที่ผู้คนเคารพมาช้านานและเป็นส่วนสำคัญของวิถีชีวิตพวกเขา"}
+{"tag": "LOC_3722A_STORYTITLE", "en_sha": "2bafeafc9d2a", "status": "draft", "th": "เปเลวา"}
+{"tag": "LOC_3722B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3722B_NAME", "en_sha": "59620d751a8c", "status": "draft", "th": "สัตว์ทุกตัวมีคุณค่าเท่าเทียมกัน"}
+{"tag": "LOC_3722C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3722C_NAME", "en_sha": "26336bbd3610", "status": "draft", "th": "ไก่งวงก็มีเสน่ห์ในแบบของมัน"}
+{"tag": "LOC_3723A_COMPLETION", "en_sha": "a3027fa3da6d", "status": "draft", "th": "ผู้เฝ้าดูดวงดาวชี้ขึ้นฟ้าเมื่อดาวหางพาดผ่านท้องนภา ครั้นหันไปมองเทคัมเซห์ พวกเขาก็เห็นเสือดำแห่งสรวงสวรรค์สะท้อนอยู่ในดวงตาของเขา กระโจนผ่านหมู่ดาว เขาเฝ้ามองสิ่งที่เป็นที่มาแห่งนามของตนลับหายไปพร้อมทางเพลิงด้วยความภาคภูมิใจที่เอ่อล้น"}
+{"tag": "LOC_3723A_STORYTITLE", "en_sha": "cde338135868", "status": "draft", "th": "วิถีแห่งเสือดำ"}
+{"tag": "LOC_3723B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3723B_NAME", "en_sha": "91e5fac5af04", "status": "draft", "th": "โชคลาภรอผู้คนอยู่"}
+{"tag": "LOC_3723C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3723C_NAME", "en_sha": "25dec6690a15", "status": "draft", "th": "การล่าครั้งหน้าจะได้ผลดี"}
+{"tag": "LOC_3724A_COMPLETION", "en_sha": "605e60f5fcf8", "status": "draft", "th": "หลังการถกเถียงอย่างยาวนาน หัวหน้าเผ่าท้องถิ่นปฏิเสธที่จะเข้าร่วมสมาพันธ์ของเทคัมเซห์ ด้วยความเหนื่อยหน่ายต่อการโต้เถียง พวกเขายื่นกล้องยาสูบแห่งสันติให้เพื่อคลายความขุ่นเคือง เทคัมเซห์ซึ่งไม่พอใจที่การเจรจาไม่คืบหน้า ถือกล้องยาสูบไว้ระหว่างนิ้วอย่างระมัดระวัง แล้วในชั่วพริบตาเดียว เขาก็หักมันออกเป็นสองท่อนและโยนเศษลงในกองไฟ \"อีกแล้วหรือ\" หัวหน้าเผ่าคนหนึ่งถอนหายใจขณะที่นักรบของเขาเร่งเร้าให้ทบทวนใหม่ \"ก็ได้...\""}
+{"tag": "LOC_3724A_STORYTITLE", "en_sha": "17052a843bb7", "status": "draft", "th": "ยุทธวิธีการเจรจา"}
+{"tag": "LOC_3724B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3724B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_3725A_COMPLETION", "en_sha": "2aac3cf8cd56", "status": "draft", "th": "เหล่าหัวหน้าเผ่าเริ่มระแวงความพยายามรวมชาติของเทคัมเซห์ พวกเขากล่าวว่านครรัฐสองแห่งก็เพียงพอแล้ว - ปล่อยให้ผู้คนกำหนดชะตากรรมและตัดสินใจด้วยตนเองเถิด!"}
+{"tag": "LOC_3725A_STORYTITLE", "en_sha": "17d78321f1ac", "status": "draft", "th": "ความแตกแยกภายใน"}
+{"tag": "LOC_3725B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3725B_NAME", "en_sha": "fee1790d8954", "status": "draft", "th": "อำนาจที่แท้จริงมาจากความสามัคคี"}
+{"tag": "LOC_3725C_DESCRIPTION", "en_sha": "644dde8db148", "status": "draft", "th": "{1_reward} แต่ความสัมพันธ์กับขั้วอำนาจอิสระทั้งหมดลดลง 2"}
+{"tag": "LOC_3725C_NAME", "en_sha": "4ba1dbe607f8", "status": "draft", "th": "การขยายดินแดนมีมากพอแล้ว"}
+{"tag": "LOC_3726A_COMPLETION", "en_sha": "2f5d0a7dca17", "status": "draft", "th": "ศัตรูรุกคืบเข้ามา และแผ่นดินของประชาชนเทคัมเซห์ก็หดแคบลง ด้วยความเดือดดาลที่ต้องสูญเสียถิ่นฐาน เขาจึงปลุกระดมดินแดนนอกพรมแดนของตน เรียกร้องต่อผู้ที่ยอมนิ่งเฉย - ผู้ซึ่งหากเขาพ่ายแพ้ ก็จะเป็นรายต่อไป"}
+{"tag": "LOC_3726A_STORYTITLE", "en_sha": "c0ba0c68fc17", "status": "draft", "th": "ศัตรูรุกคืบ"}
+{"tag": "LOC_3726B_DESCRIPTION", "en_sha": "79cb0db75983", "status": "draft", "th": "{1_reward} ให้แก่ผู้บัญชาการที่มีอยู่ในปัจจุบัน"}
+{"tag": "LOC_3726B_NAME", "en_sha": "6f1ed857981f", "status": "draft", "th": "อนาคตมีเพียงชัยชนะสำหรับผู้ที่ยังคงต่อสู้"}
+{"tag": "LOC_3726C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3726C_NAME", "en_sha": "3c1aca306e52", "status": "draft", "th": "ต้องวางความแตกต่างไว้เพื่อประโยชน์ส่วนรวม"}
+{"tag": "LOC_3727A_COMPLETION", "en_sha": "70833f48943a", "status": "draft", "th": "นครรัฐเฝ้ามองมหาอำนาจเผชิญหน้ากันในสนามรบ โดยไม่แน่ใจว่าควรอยู่วงนอกหรือเสี่ยงทุกสิ่งด้วยการเข้าร่วม แต่เทคัมเซห์ผู้ตื่นตัวอยู่เสมอจะเป็นผู้ตัดสินใจแทนพวกเขาเอง"}
+{"tag": "LOC_3727A_STORYTITLE", "en_sha": "cf9f66ebb991", "status": "draft", "th": "คำเชิญสู่สงคราม"}
+{"tag": "LOC_3727B_DESCRIPTION", "en_sha": "841981068393", "status": "draft", "th": "+15% อิทธิพลสำหรับปฏิบัติการทางการทูต \"เสริมกำลังทหาร\" กับขั้วอำนาจอิสระ"}
+{"tag": "LOC_3727B_NAME", "en_sha": "eef37708d1d6", "status": "draft", "th": "ส่งเข็มขัดแวมพัมสีดำ"}
+{"tag": "LOC_3727C_DESCRIPTION", "en_sha": "81c5d1338bce", "status": "draft", "th": "+15% อิทธิพลสำหรับปฏิบัติการทางการทูต \"ส่งเสริมการเติบโต\" กับนครรัฐ"}
+{"tag": "LOC_3727C_NAME", "en_sha": "b9210a0804f7", "status": "draft", "th": "ส่งเข็มขัดแวมพัมสีขาว"}
+{"tag": "LOC_3728A_COMPLETION", "en_sha": "372bfd53f8ea", "status": "draft", "th": "พลเรือนหวาดกลัวตัวสั่นขณะที่นักรบปล้นสะดมบ้านเรือนของพวกเขา แต่เมื่อนักรบจะจับผู้บริสุทธิ์ไปเป็นเชลย เทคัมเซห์ก็ยกมือห้ามไว้"}
+{"tag": "LOC_3728A_STORYTITLE", "en_sha": "9f1793acbde0", "status": "draft", "th": "ผู้มิใช่คู่สงคราม"}
+{"tag": "LOC_3728B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3728B_NAME", "en_sha": "70fcfe8aa7f7", "status": "draft", "th": "เลือดหลั่งมามากพอแล้ว"}
+{"tag": "LOC_3728C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3728C_NAME", "en_sha": "75fac0c3a84a", "status": "draft", "th": "เอาไปเฉพาะของมีค่า"}
+{"tag": "LOC_3729A_COMPLETION", "en_sha": "91936d253f99", "status": "draft", "th": "เหล่านักรบโห่ร้องประกาศชัยขณะที่ศัตรูล้มลงต่อหน้าความเกรี้ยวกราดของพวกเขา อีกครั้งหนึ่งที่ยุทธศาสตร์ของเทคัมเซห์ประสบผล ชาวชอว์นีฮึกเหิมด้วยผู้นำของตน พวกเขากลืนหายไปกับผืนแผ่นดินและเตรียมพร้อมสำหรับการโจมตีครั้งต่อไป"}
+{"tag": "LOC_3729A_STORYTITLE", "en_sha": "e8a5fa814076", "status": "draft", "th": "หัวหน้านักรบ"}
+{"tag": "LOC_3729B_DESCRIPTION", "en_sha": "e58423c6db3f", "status": "draft", "th": "{1_reward} ให้แก่คิสโปโก เนนาโต"}
+{"tag": "LOC_3729B_NAME", "en_sha": "5fedf9b228fb", "status": "draft", "th": "การโจมตีอย่างรวดเร็วจะบดขยี้ศัตรู"}
+{"tag": "LOC_3729C_DESCRIPTION", "en_sha": "e58423c6db3f", "status": "draft", "th": "{1_reward} ให้แก่คิสโปโก เนนาโต"}
+{"tag": "LOC_3729C_NAME", "en_sha": "9d20a4aaebc8", "status": "draft", "th": "การโจมตีที่หนักหน่วงยากจะต้านทาน"}
+{"tag": "LOC_3730A_COMPLETION", "en_sha": "70cc1c55e093", "status": "draft", "th": "ขณะที่หัวหน้าทั้งสองยืนยันความภักดีต่อกัน เทคัมเซห์ได้รับสัญลักษณ์แห่งเกียรติและมิตรภาพ - แพรสะพายที่ปลดออกจากเครื่องแบบของพันธมิตรใหม่ ของชิ้นนี้มีค่า แต่ไมตรีที่มอบให้นั้นประเมินค่ามิได้"}
+{"tag": "LOC_3730A_STORYTITLE", "en_sha": "91c48f73d3d9", "status": "draft", "th": "ของขวัญแห่งเกียรติยศ"}
+{"tag": "LOC_3730B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3730B_NAME", "en_sha": "ef80401c5cfe", "status": "draft", "th": "แสดงผ้าคาดให้ทุกคนได้เห็น"}
+{"tag": "LOC_3730C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3730C_NAME", "en_sha": "e7873ed9f716", "status": "draft", "th": "มอบผ้าคาดต่อให้พันธมิตรรายอื่น"}
+{"tag": "LOC_3731A_COMPLETION", "en_sha": "a16dfdcc5604", "status": "draft", "th": "แผ่นดินเริ่มแออัดไปด้วยสิ่งก่อสร้าง และโลกธรรมชาติก็หดเล็กลงต่อหน้ามหานคร สิ่งต่าง ๆ ถูกจับจองไปมากมาย แต่สำหรับเทคัมเซห์ แผ่นดินยังคงเป็นของทุกคน"}
+{"tag": "LOC_3731A_STORYTITLE", "en_sha": "ae8e47858167", "status": "draft", "th": "ที่ว่างระหว่างกลาง"}
+{"tag": "LOC_3731B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3731B_NAME", "en_sha": "b7d7da51a19b", "status": "draft", "th": "ธรรมชาติยังมีของขวัญอีกมากมายให้มอบ"}
+{"tag": "LOC_3731C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3731C_NAME", "en_sha": "e76b4ab51108", "status": "draft", "th": "ผืนโลกต้องได้รับการสัมผัสอย่างสงบ"}
+{"tag": "LOC_3732A_COMPLETION", "en_sha": "3ac94bc0d636", "status": "draft", "th": "เทคัมเซห์พินิจโบราณวัตถุตรงหน้า มันวางนิ่งไร้ชีวิต แต่ในความเงียบนั้น เขาได้ยินเสียงแห่งอดีต ความทรงจำที่สิ่งของเหล่านี้ได้พบเห็น และเรื่องราวที่มันอาจเล่าขาน สิ่งเหล่านี้คือเสียงของมวลมนุษยชาติ"}
+{"tag": "LOC_3732A_STORYTITLE", "en_sha": "0cc7c5781ef2", "status": "draft", "th": "เสียงสะท้อนแห่งประวัติศาสตร์"}
+{"tag": "LOC_3732B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_3732B_NAME", "en_sha": "ff9ee113624a", "status": "draft", "th": "วัตถุเหล่านี้ควรอยู่ด้วยกัน"}
+{"tag": "LOC_3732C_DESCRIPTION", "en_sha": "086b030371f1", "status": "draft", "th": "{1_reward} นักสำรวจ"}
+{"tag": "LOC_3732C_NAME", "en_sha": "4ab78558bae0", "status": "draft", "th": "โบราณวัตถุมากขึ้นก็หมายถึงเสียงที่มากขึ้น"}
+{"tag": "LOC_ABILITY_TECUMSEH_SUZERAIN_DESCRIPTION", "en_sha": "547e43610450", "status": "draft", "th": "[icon:NAR_REW_COMBAT] พลังการรบ +1 ต่อ[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_ATTRIBUTENODE_TECUMSEH_L1_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_TECUMSEH_L1_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_TECUMSEH_L2_DESCRIPTION", "en_sha": "a1b042ae7477", "status": "draft", "th": "+25% ความสัมพันธ์จากการเริ่มหรือสนับสนุนโครงการร่วม -25% ความสัมพันธ์จากการเริ่มการคว่ำบาตรหรือปฏิเสธโครงการร่วม"}
+{"tag": "LOC_ATTRIBUTENODE_TECUMSEH_L2_NAME", "en_sha": "03d1a5acc12f", "status": "draft", "th": "โหนดคุณลักษณะทางการทูต"}
+{"tag": "LOC_BADGE_TECUMSEH_NAME", "en_sha": "3389e94f10ed", "status": "draft", "th": "เหรียญตราเทคัมเซห์ 1"}
+{"tag": "LOC_BADGE_TECUMSEH_P_NAME", "en_sha": "f5519c4bc837", "status": "draft", "th": "เหรียญตราเทคัมเซห์ 2"}
+{"tag": "LOC_BANNER_TECUMSEH_NAME", "en_sha": "29b6be7aa3ec", "status": "draft", "th": "แบนเนอร์เทคัมเซห์"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TECUMSEH_1_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TECUMSEH_1_NAME", "en_sha": "89438ae9ebbb", "status": "draft", "th": "การอุทิศของเทคัมเซห์ ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TECUMSEH_2_DESCRIPTION", "en_sha": "e52f23536f30", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับ พลังการรบ -2 ของยูนิตทางเรือของคุณ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_TECUMSEH_2_NAME", "en_sha": "7671c5cace7a", "status": "draft", "th": "การอุทิศของเทคัมเซห์ ยุคแห่งการสำรวจ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TECUMSEH_1_DESCRIPTION", "en_sha": "1be1a884df1c", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TECUMSEH_1_NAME", "en_sha": "4e2158d6af21", "status": "draft", "th": "การอุทิศของเทคัมเซห์ ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TECUMSEH_2_DESCRIPTION", "en_sha": "8cb7d37fe679", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับพลังการรบ -2 ของยูนิตทางอากาศของคุณ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_TECUMSEH_2_NAME", "en_sha": "f3d547739ab0", "status": "draft", "th": "การอุทิศของเทคัมเซห์ ยุคสมัยใหม่ - ทางการทูต"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_1", "en_sha": "0d090900aa97", "status": "draft", "th": "เปโลวีกาโปซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_10", "en_sha": "70781e91f041", "status": "draft", "th": "ฮาชีปีวาซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_2", "en_sha": "f30d5bd9144b", "status": "draft", "th": "นาปีเวซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_3", "en_sha": "12ba1f4fc3af", "status": "draft", "th": "วีเกกากัมซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_4", "en_sha": "dd26db2dbfa7", "status": "draft", "th": "นาโตเปซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_5", "en_sha": "b77ecfdd01a0", "status": "draft", "th": "วีชีปีเยซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_6", "en_sha": "829205d90f8f", "status": "draft", "th": "กีตากีมีเยซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_7", "en_sha": "00294cfa368b", "status": "draft", "th": "เปโลวาปามา"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_8", "en_sha": "abad3c15a41f", "status": "draft", "th": "ฮาโกเวซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_FEMALE_9", "en_sha": "d20ac80e0f7d", "status": "draft", "th": "นีกานีปีเยซี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_1", "en_sha": "cc9990a27be6", "status": "draft", "th": "กินวีซีโม"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_10", "en_sha": "275827a2f891", "status": "draft", "th": "ปักซินวา"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_2", "en_sha": "908f42206ed0", "status": "draft", "th": "เปชเฟปโต"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_3", "en_sha": "5c528bab4453", "status": "draft", "th": "นาปีเยฮัสกา"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_4", "en_sha": "089bc570a53b", "status": "draft", "th": "นาโตเปสกาตา"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_5", "en_sha": "648a0584525a", "status": "draft", "th": "ปีเยชีกาโปวี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_6", "en_sha": "6498c7720895", "status": "draft", "th": "ฮาตาเกปี"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_7", "en_sha": "27b734430fd3", "status": "draft", "th": "โกกเวเตกวีซีโม"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_8", "en_sha": "fb37f3212d41", "status": "draft", "th": "ชีปีกเวสกากา"}
+{"tag": "LOC_CITIZEN_SHAWNEE_MALE_9", "en_sha": "ff35b422c753", "status": "draft", "th": "ฮาลาโกตากา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE1", "en_sha": "5621afd5e8cb", "status": "draft", "th": "ชีลาโกฟา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE10", "en_sha": "c06aefe95fc2", "status": "draft", "th": "เยตากาเปวากี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE11", "en_sha": "590380ffe425", "status": "draft", "th": "อีกันฮัตกี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE12", "en_sha": "a5c2aecefbee", "status": "draft", "th": "วาปาโกเนตตา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE13", "en_sha": "3babc66e9403", "status": "draft", "th": "คอร์นสตอล์กส์ทาวน์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE14", "en_sha": "63af9fa57ed1", "status": "draft", "th": "นอนเฮเลมาส์ทาวน์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE15", "en_sha": "79c41fe8b50d", "status": "draft", "th": "เนปีเปมีโฮตาปาตา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE16", "en_sha": "ea6991606358", "status": "draft", "th": "ซาวันวาโฮเตเว"}
+{"tag": "LOC_CITY_NAME_SHAWNEE17", "en_sha": "e2fd4b602652", "status": "draft", "th": "วาปาโตมีกา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE18", "en_sha": "9c4c54bf839a", "status": "draft", "th": "มากาเชกี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE19", "en_sha": "1e09f8c243e8", "status": "draft", "th": "มาวาสกาเววีกีวา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE2", "en_sha": "7eaf69414e73", "status": "draft", "th": "ปีกาวีกี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE20", "en_sha": "564d7ec494da", "status": "draft", "th": "นิวเปโกวีกี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE21", "en_sha": "ec47ba8805d7", "status": "draft", "th": "ชิลลิคอทีโอลด์ทาวน์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE22", "en_sha": "c882445e314b", "status": "draft", "th": "บลูแจ็กเก็ตส์ทาวน์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE23", "en_sha": "db10e5a64655", "status": "draft", "th": "วีชีตา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE24", "en_sha": "6fd63b3ac4e8", "status": "draft", "th": "เอสกาลาเปีย"}
+{"tag": "LOC_CITY_NAME_SHAWNEE25", "en_sha": "dd0f9cddb419", "status": "draft", "th": "มานิทู"}
+{"tag": "LOC_CITY_NAME_SHAWNEE26", "en_sha": "45dbee1e5cbc", "status": "draft", "th": "ชีโนดาฮีเชทา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE27", "en_sha": "506c3b7ad981", "status": "draft", "th": "สกาลาปปีเย"}
+{"tag": "LOC_CITY_NAME_SHAWNEE28", "en_sha": "9b55769b9f93", "status": "draft", "th": "โฮกีมา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE29", "en_sha": "e25e6f4fb4ff", "status": "draft", "th": "นีปีวาซีกวานา"}
+{"tag": "LOC_CITY_NAME_SHAWNEE3", "en_sha": "4ae4530c7e3c", "status": "draft", "th": "ทูทีส์โฮเตเว"}
+{"tag": "LOC_CITY_NAME_SHAWNEE30", "en_sha": "bef16a8272a9", "status": "draft", "th": "โกลาวาปานีโฮเตกวี"}
+{"tag": "LOC_CITY_NAME_SHAWNEE4", "en_sha": "30035b09919d", "status": "draft", "th": "เปนเฟกิมเตโก"}
+{"tag": "LOC_CITY_NAME_SHAWNEE5", "en_sha": "a7dc4e017708", "status": "draft", "th": "ไวต์โอ๊ก"}
+{"tag": "LOC_CITY_NAME_SHAWNEE6", "en_sha": "775451b72706", "status": "draft", "th": "ลิตเทิลแอกซ์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE7", "en_sha": "612e7e03b01d", "status": "draft", "th": "พรอเฟตส์ทาวน์"}
+{"tag": "LOC_CITY_NAME_SHAWNEE8", "en_sha": "70f7fb62d36c", "status": "draft", "th": "เซกักวิส"}
+{"tag": "LOC_CITY_NAME_SHAWNEE9", "en_sha": "ecd8108cb835", "status": "draft", "th": "วากาชาลลี"}
+{"tag": "LOC_CIVIC_MALEKI_KINTAKE_NAME", "en_sha": "2ebe396e0e1c", "status": "draft", "th": "มาเลกี คินตาเก"}
+{"tag": "LOC_CIVIC_MALEKI_KINTAKE_QUOTE", "en_sha": "ba577ccda3ae", "status": "draft", "th": "\"อย่าฆ่าสัตว์มากเกินกว่าที่จำเป็นต่อการเลี้ยงชีพและเครื่องนุ่งห่มของเจ้า\""}
+{"tag": "LOC_CIVIC_MALEKI_KINTAKE_QUOTE_AUTHOR", "en_sha": "7b84d33a8d08", "status": "draft", "th": "เทคัมเซห์"}
+{"tag": "LOC_CIVIC_MIYASKA_LATOWEKI_NAME", "en_sha": "0ba1adc25681", "status": "draft", "th": "มิยาสกา ลาโตเวกี"}
+{"tag": "LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE", "en_sha": "eb1335531586", "status": "draft", "th": "\"ถ้อยคำของเราเชื่อถือได้ เมื่อเรากล่าวสิ่งใด เราจะยืนหยัดตามนั้น\""}
+{"tag": "LOC_CIVIC_MIYASKA_LATOWEKI_QUOTE_AUTHOR", "en_sha": "11214d773729", "status": "draft", "th": "เคเควเปเลธี"}
+{"tag": "LOC_CIVIC_TELWATIKI_NAME", "en_sha": "c49c2b5bfe2d", "status": "draft", "th": "เทลวาติกิ"}
+{"tag": "LOC_CIVIC_TELWATIKI_QUOTE", "en_sha": "0c42108069f1", "status": "draft", "th": "\"ความพินาศใกล้เข้ามาแล้ว เว้นแต่เราจะรวมเป็นหนึ่งเพื่อต่อสู้กับศัตรูร่วมกัน\""}
+{"tag": "LOC_CIVIC_TELWATIKI_QUOTE_AUTHOR", "en_sha": "3bde90ed8c54", "status": "draft", "th": "เทคัมเซห์"}
+{"tag": "LOC_CIVIC_WYEHI_SIMEKOFI_NAME", "en_sha": "63f49b32d750", "status": "draft", "th": "วิเยฮี ซิเมโกฟี"}
+{"tag": "LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE", "en_sha": "b666f25d57ca", "status": "draft", "th": "\"ข้าคือผู้กำหนดชะตาชีวิตของข้าเอง\""}
+{"tag": "LOC_CIVIC_WYEHI_SIMEKOFI_QUOTE_AUTHOR", "en_sha": "3bde90ed8c54", "status": "draft", "th": "เทคัมเซห์"}
+{"tag": "LOC_CIVILIZATION_SHAWNEE_ADJECTIVE", "en_sha": "232745f065db", "status": "draft", "th": "ชอว์นี"}
+{"tag": "LOC_CIVILIZATION_SHAWNEE_DESCRIPTION", "en_sha": "a2b5730151e8", "status": "draft", "th": "+2 [icon:YIELD_FOOD] อาหารบนภูมิประเทศ [icon:CITY_UNIMPROVED] แม่น้ำสายเล็กและแม่น้ำที่เดินเรือได้ ในถิ่นฐานที่อยู่ติดกับแม่น้ำที่เดินเรือได้"}
+{"tag": "LOC_CIVILIZATION_SHAWNEE_FULLNAME", "en_sha": "232745f065db", "status": "draft", "th": "ชอว์นี"}
+{"tag": "LOC_CIVILIZATION_SHAWNEE_NAME", "en_sha": "232745f065db", "status": "draft", "th": "ชอว์นี"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_TECUMSEH_ANY", "en_sha": "cdd09d7ca3ee", "status": "draft", "th": "เราจะขับไล่ท่านกลับไปยังทะเล ยังถ้ำ หรือยังที่ใดก็ตามที่ท่านจากมา"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_TECUMSEH_ANY", "en_sha": "c69229bc1978", "status": "draft", "th": "ยอมให้มันถูกยึดไปหรือ บ้านและแผ่นดินที่มหาวิญญาณประทานแก่เรา ที่ซึ่งเราฝังผู้ที่กลับคืนสู่บ้านไปแล้ว ไม่มีวัน!"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_TECUMSEH_ANY", "en_sha": "1df20c5878a3", "status": "draft", "th": "บทเพลงแห่งความตายมาถึงข้าแล้ว และข้าจะขับขานมัน เมื่อร้องจบ ข้าจะไปยังที่ซึ่งหิมะแห่งฤดูหนาวไป ที่ซึ่งท่านไม่อาจไปถึง"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_TECUMSEH_ANY", "en_sha": "2d47c4fd43ff", "status": "draft", "th": "ท่านเห็นดาวที่พาดผ่านฟ้ายามราตรีดั่งสายฟ้าหรือไม่ นั่นคือข้า เทคัมเซห์ ผู้กระโจนข้ามระยะทางอันไกลโพ้น"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_TECUMSEH_ANY", "en_sha": "2d47c4fd43ff", "status": "draft", "th": "ท่านเห็นดาวที่พาดผ่านฟ้ายามราตรีดั่งสายฟ้าหรือไม่ นั่นคือข้า เทคัมเซห์ ผู้กระโจนข้ามระยะทางอันไกลโพ้น"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_TECUMSEH_ANY", "en_sha": "2d47c4fd43ff", "status": "draft", "th": "ท่านเห็นดาวที่พาดผ่านฟ้ายามราตรีดั่งสายฟ้าหรือไม่ นั่นคือข้า เทคัมเซห์ ผู้กระโจนข้ามระยะทางอันไกลโพ้น"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_TECUMSEH", "en_sha": "390c2b2da966", "status": "draft", "th": "ตกลง อย่าทำให้เราต้องเสียใจ"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_TECUMSEH", "en_sha": "29b315d116fe", "status": "draft", "th": "ไม่"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_TECUMSEH", "en_sha": "5b53d3b5ef66", "status": "draft", "th": "ท่านมาพร้อมรอยยิ้มบนใบหน้าและการฆาตกรรมในใจ"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_TECUMSEH", "en_sha": "b86c95c53eac", "status": "draft", "th": "ข้าเห็นท่านขี่ม้านำหน้าประชาชนของท่าน ดั่งต้นไม้สูงที่ยืนต้านลม"}
+{"tag": "LOC_IMPROVEMENT_MAWASKAWE_SKOTE_DESCRIPTION", "en_sha": "9d738e198a48", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุงเฉพาะตัว[/TIP]ของชอว์นี +4 [icon:YIELD_FOOD] อาหาร +1 [icon:YIELD_GOLD] ทองต่อ [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]ทรัพยากร[/TIP]แต่ละแห่งที่อยู่ติดกัน ต้องวางบน[TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]ภูมิประเทศพืชพรรณ[/TIP]และวางติดกับมาวาสกาเว สโกเตแห่งอื่นไม่ได้"}
+{"tag": "LOC_IMPROVEMENT_MAWASKAWE_SKOTE_NAME", "en_sha": "c96d55d95687", "status": "draft", "th": "มาวาสกาเว สโกเต"}
+{"tag": "LOC_IMPROVEMENT_MAWASKAWE_SKOTE_TOOLTIP", "en_sha": "d9091be339cb", "status": "draft", "th": "ต้องวางบน[TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]ภูมิประเทศพืชพรรณ[/TIP]และวางติดกับมาวาสกาเว สโกเตแห่งอื่นไม่ได้[n][TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุงเฉพาะตัว[/TIP]ของชอว์นี"}
+{"tag": "LOC_KISPOKO_NENA_TO_RESOURCE_COMBAT_DESCRIPTION", "en_sha": "0de98305c4ad", "status": "draft", "th": "+{1_Amount} ต่อ[TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]ที่ไม่ซ้ำกัน"}
+{"tag": "LOC_LEADER_CHAIN_1200A_COMPLETION", "en_sha": "2ea1004f67cc", "status": "draft", "th": "ผู้เผยพระวจนะคนใหม่ฟื้นขึ้นจากการหลับใหลราวกับความตาย เขาละทิ้งชีวิตเก่า และเล่าถึงนิมิตของทางสองแพร่ง ทางหนึ่งนำไปสู่ความสุข อีกทางหนึ่งนำไปสู่ความทุกข์ระทม เขาย้ำคำเตือนที่ผู้เป็นเจ้าแห่งชีวิตส่งผ่านมายังเขา: ความชั่วร้ายบางอย่างไม่อาจไถ่ถอนได้ แต่อนาคตยังอาจรอดพ้น เทคัมเซห์ตั้งใจฟังถ้อยคำของผู้เผยพระวจนะ แล้วจึงยื่นมือออกไปช่วยพยุงน้องชายให้ลุกขึ้นยืน"}
+{"tag": "LOC_LEADER_CHAIN_1200A_STORYTITLE", "en_sha": "fdc72eca01ae", "status": "draft", "th": "ประตูเปิดออก"}
+{"tag": "LOC_LEADER_CHAIN_1200B_COMPLETION", "en_sha": "3a62d08bac0a", "status": "draft", "th": "ขณะที่ศัตรูหนีเตลิดเข้าไปในป่ารกรอบด้าน นักรบของเทคัมเซห์ก็เฉลิมฉลองชัยชนะ เสียงพูดคุยดังขึ้นและเบาลงรอบกองไฟ เล่าขานเรื่องราวจากสนามรบและวาดฝันถึงวันพรุ่งนี้ที่ใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1200B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1200B_IMPERATIVE", "en_sha": "4c328ce04465", "status": "draft", "th": "เอาชนะยูนิต 3 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1200B_NAME", "en_sha": "eda27e45cfce", "status": "draft", "th": "ความชั่วร้ายมีชะตาเดียวกัน คือความพ่ายแพ้"}
+{"tag": "LOC_LEADER_CHAIN_1200B_STORYTITLE", "en_sha": "fdc72eca01ae", "status": "draft", "th": "ประตูเปิดออก"}
+{"tag": "LOC_LEADER_CHAIN_1200C_COMPLETION", "en_sha": "7a70fa91fa17", "status": "draft", "th": "คนแปลกหน้าเดินท่องไปตามถนน มองดูภาพที่ไม่คุ้นตาและสินค้าอันน่าตื่นตา แต่ก็เพียงไม่นาน - ผู้คนของเทคัมเซห์รู้ดีว่าจะต้อนรับหน้าใหม่และทำให้พวกเขากลายเป็นมิตรเก่าได้อย่างไร"}
+{"tag": "LOC_LEADER_CHAIN_1200C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1200C_IMPERATIVE", "en_sha": "ba029401a2f6", "status": "draft", "th": "เป็นเจ้าอธิราชของขั้วอำนาจอิสระ 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1200C_NAME", "en_sha": "f3901db0bcdf", "status": "draft", "th": "ศัตรูจะพ่ายแพ้ได้ก็ด้วยความสามัคคีเท่านั้น"}
+{"tag": "LOC_LEADER_CHAIN_1200C_STORYTITLE", "en_sha": "fdc72eca01ae", "status": "draft", "th": "ประตูเปิดออก"}
+{"tag": "LOC_LEADER_CHAIN_1200D_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1200D_NAME", "en_sha": "c3abe6124546", "status": "draft", "th": "ประชาชนจะตีความนิมิตนี้อย่างไรก็ได้"}
+{"tag": "LOC_LEADER_CHAIN_1200D_STORYTITLE", "en_sha": "fdc72eca01ae", "status": "draft", "th": "ประตูเปิดออก"}
+{"tag": "LOC_LEADER_CHAIN_1201A_COMPLETION", "en_sha": "e7bf8fdd66c6", "status": "draft", "th": "นักรบสองแถวยืนเผชิญหน้ากัน ต้องแสงไฟศักดิ์สิทธิ์ที่ลุกโชนในยามราตรี พวกเขาส่งเสียงโห่ร้องรับศึกที่กำลังจะมาถึงพร้อมกัน แต่แล้วสายตาของเทคัมเซห์ก็ถูกดึงออกจากกองทัพไปยังกองไฟ ความเงียบเข้าปกคลุมเมื่องูตัวหนึ่งเลื้อยออกมาจากเปลวเพลิง และเมื่อมันพุ่งหายลับไปในความมืด เสียงโห่ร้องก็ดังขึ้นอีกครั้ง ดังกว่าที่เคย"}
+{"tag": "LOC_LEADER_CHAIN_1201A_STORYTITLE", "en_sha": "f822213a7739", "status": "draft", "th": "ถ่านไฟที่กระจัดกระจาย"}
+{"tag": "LOC_LEADER_CHAIN_1201B_COMPLETION", "en_sha": "7aa1050a49eb", "status": "draft", "th": "ช่างฝีมือแกะสลักรูปงู และเด็ก ๆ วาดลำตัวยาวเหยียดของมันลงบนผืนดิน ทุกคนรู้ดีว่าการปรากฏตัวของงูจากกองไฟคือลางแห่งชัยชนะ"}
+{"tag": "LOC_LEADER_CHAIN_1201B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1201B_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1201B_NAME", "en_sha": "c2f1adeeb033", "status": "draft", "th": "นิมิตเผยหนทางสู่ชัยชนะ"}
+{"tag": "LOC_LEADER_CHAIN_1201B_STORYTITLE", "en_sha": "f822213a7739", "status": "draft", "th": "ถ่านไฟที่กระจัดกระจาย"}
+{"tag": "LOC_LEADER_CHAIN_1201C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1201C_NAME", "en_sha": "53f66a0c7cbf", "status": "draft", "th": "สิ่งมีชีวิตรอดจากความร้อนเช่นนี้ได้อย่างไร?"}
+{"tag": "LOC_LEADER_CHAIN_1201C_STORYTITLE", "en_sha": "f822213a7739", "status": "draft", "th": "ถ่านไฟที่กระจัดกระจาย"}
+{"tag": "LOC_LEADER_CHAIN_1202A_COMPLETION", "en_sha": "6796a318e61c", "status": "draft", "th": "ควันบางเบาลอยขึ้นจากกล้องยาสูบโทมาฮอว์กขณะที่เทคัมเซห์สูดควันเข้าปอด คินนิคินนิกที่คุกรุ่นมอบคำมั่นแห่งการเริ่มต้นใหม่ผ่านมิตรภาพและการรวมเป็นหนึ่ง แต่ใครกันที่ควรได้รับประโยชน์?"}
+{"tag": "LOC_LEADER_CHAIN_1202A_STORYTITLE", "en_sha": "e9512f1a84d7", "status": "draft", "th": "กล้องยาสูบพิธีกรรม"}
+{"tag": "LOC_LEADER_CHAIN_1202B_COMPLETION", "en_sha": "91f71d704349", "status": "draft", "th": "กล้องยาสูบโทมาฮอว์กของเทคัมเซห์ถูกส่งต่อจากมือมิตรหนึ่งสู่อีกมือหนึ่ง มิตรภาพใหม่ได้ถือกำเนิดขึ้น ณ ที่แห่งนี้ เป็นพันธมิตรอันแข็งแกร่งที่จะฝ่าพายุในภายภาคหน้า"}
+{"tag": "LOC_LEADER_CHAIN_1202B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1202B_IMPERATIVE", "en_sha": "e105c6d4207b", "status": "draft", "th": "เป็นพันธมิตรกับอารยธรรมอื่น"}
+{"tag": "LOC_LEADER_CHAIN_1202B_NAME", "en_sha": "e2535daf9c27", "status": "draft", "th": "กล้องยาสูบนี้เป็นของกำนัลที่คู่ควรแก่การเป็นพันธมิตร"}
+{"tag": "LOC_LEADER_CHAIN_1202B_STORYTITLE", "en_sha": "e9512f1a84d7", "status": "draft", "th": "กล้องยาสูบพิธีกรรม"}
+{"tag": "LOC_LEADER_CHAIN_1202C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1202C_NAME", "en_sha": "fc1186b72116", "status": "draft", "th": "ต้องใช้ยุทธวิธีเจรจาเพิ่มเติม"}
+{"tag": "LOC_LEADER_CHAIN_1202C_STORYTITLE", "en_sha": "e9512f1a84d7", "status": "draft", "th": "กล้องยาสูบพิธีกรรม"}
+{"tag": "LOC_LEADER_CHAIN_1203A_COMPLETION", "en_sha": "43877bca24c9", "status": "draft", "th": "ผู้เผยพระวจนะเรียกผู้คนจากใกล้และไกลให้มาเป็นประจักษ์พยานถึงพลังที่ผู้เป็นเจ้าแห่งชีวิตมอบให้แก่เขา เทคัมเซห์ยืนตระหง่านต่อหน้าฝูงชนที่รอคอย และย้ำสารที่ปรากฏในนิมิตของน้องชาย: ความเปลี่ยนแปลงกำลังมาถึง แต่ด้วยความเป็นหนึ่งเดียว อุปสรรคทั้งปวงจะถูกพิชิต ทันใดนั้น ดังที่ผู้เผยพระวจนะทำนายไว้ ท้องฟ้าก็มืดลงและดวงอาทิตย์ก็หายลับไป"}
+{"tag": "LOC_LEADER_CHAIN_1203A_STORYTITLE", "en_sha": "95cb7ba03b68", "status": "draft", "th": "สุริยาสีดำ"}
+{"tag": "LOC_LEADER_CHAIN_1203B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1203B_NAME", "en_sha": "026d8635bb70", "status": "draft", "th": "ผู้ศรัทธาใหม่หมายถึงทหารใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1203B_STORYTITLE", "en_sha": "95cb7ba03b68", "status": "draft", "th": "สุริยาสีดำ"}
+{"tag": "LOC_LEADER_CHAIN_1203C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1203C_NAME", "en_sha": "33903aa88e9e", "status": "draft", "th": "ข่าวปาฏิหาริย์นี้ต้องแพร่ออกไป"}
+{"tag": "LOC_LEADER_CHAIN_1203C_STORYTITLE", "en_sha": "95cb7ba03b68", "status": "draft", "th": "สุริยาสีดำ"}
+{"tag": "LOC_LEADER_CHAIN_1204A_COMPLETION", "en_sha": "0e316e3962c6", "status": "draft", "th": "ขณะที่กองกำลังศัตรูเคลื่อนเข้ามาใกล้ พลเมืองต่างเตรียมหลบหนี ผู้ส่งสารของผู้เผยพระวจนะโน้มน้าวให้ฝ่ายศัตรูตั้งค่ายอยู่ใกล้ ๆ เพื่อเตรียมการเจรจาสันติภาพ ในช่วงพักอันสั้นนี้ เทคัมเซห์ชั่งน้ำหนักระหว่างสิ่งที่สงครามสัญญาไว้กับข้อได้เปรียบของสันติภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1204A_STORYTITLE", "en_sha": "97728ccf93a9", "status": "draft", "th": "คืนก่อนศึก"}
+{"tag": "LOC_LEADER_CHAIN_1204B_COMPLETION", "en_sha": "9076dd967541", "status": "draft", "th": "ทหารล้มลงภายใต้ความเกรี้ยวกราดของนักรบของเทคัมเซห์ บัดนี้สันติภาพจะครองแผ่นดิน ด้วยมือของเทคัมเซห์"}
+{"tag": "LOC_LEADER_CHAIN_1204B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1204B_IMPERATIVE", "en_sha": "1290be121950", "status": "draft", "th": "เอาชนะผู้บัญชาการของศัตรู 1 คน"}
+{"tag": "LOC_LEADER_CHAIN_1204B_NAME", "en_sha": "913ed2460ffc", "status": "draft", "th": "เตรียมนักรบ"}
+{"tag": "LOC_LEADER_CHAIN_1204B_STORYTITLE", "en_sha": "97728ccf93a9", "status": "draft", "th": "คืนก่อนศึก"}
+{"tag": "LOC_LEADER_CHAIN_1204C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1204C_NAME", "en_sha": "e0d27aca379a", "status": "draft", "th": "การนองเลือดไม่ใช่คำตอบเสมอไป"}
+{"tag": "LOC_LEADER_CHAIN_1204C_STORYTITLE", "en_sha": "97728ccf93a9", "status": "draft", "th": "คืนก่อนศึก"}
+{"tag": "LOC_LEADER_CHAIN_1205A_COMPLETION", "en_sha": "a0cee3bb0cf8", "status": "draft", "th": "ข่าวลือแพร่สะพัดถึงแม่มดและพ่อมดที่คุกคามรากฐานของสังคมเทคัมเซห์ ผู้เผยพระวจนะเตือนถึงอำนาจที่เพิ่มพูนของพวกมัน แต่ยังมีวิธีอื่นในการรับมือกับเสียงที่เห็นต่าง"}
+{"tag": "LOC_LEADER_CHAIN_1205A_STORYTITLE", "en_sha": "95d9c07e6e03", "status": "draft", "th": "ความแตกแยกภายใน"}
+{"tag": "LOC_LEADER_CHAIN_1205B_COMPLETION", "en_sha": "97fa0a393739", "status": "draft", "th": "ความหวาดกลัวแม่มดเลือนหายไปขณะที่ความไว้วางใจของประชาชนที่มีต่อเทคัมเซห์เพิ่มพูนขึ้น เมื่อความกังวลของพวกเขาสงบลง ชีวิตก็กลับมาเปี่ยมสุขอีกครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1205B_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1205B_IMPERATIVE", "en_sha": "3ff929ba681b", "status": "draft", "th": "เริ่มการคว่ำบาตรทางการทูต 3 ครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1205B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1205B_STORYTITLE", "en_sha": "95d9c07e6e03", "status": "draft", "th": "ความแตกแยกภายใน"}
+{"tag": "LOC_LEADER_CHAIN_1206A_COMPLETION", "en_sha": "2eab000640af", "status": "draft", "th": "เทคัมเซห์กล่าวต่อเพื่อนบ้านใหม่ด้วยทั้งไฟแห่งความมุ่งมั่นและความเมตตา เขาประกาศว่าดินแดนของพวกเขาเป็นของพวกเขาเอง ขนบธรรมเนียมก็เช่นกัน แต่เพื่อรักษาไว้ทั้งสองสิ่ง ต้องมีความเป็นหนึ่งเดียว - และในความเป็นหนึ่งเดียวนั้นคือพลัง นักรบหนุ่มเงี่ยหูฟังข้อเสนอแห่งเกียรติยศของเขา ขณะที่ผู้อาวุโสครุ่นคิดว่านี่คือหนทางสู่การธำรงรักษาอย่างแท้จริงหรือไม่"}
+{"tag": "LOC_LEADER_CHAIN_1206A_STORYTITLE", "en_sha": "4cc0b51b5b9b", "status": "draft", "th": "เยือนดินแดนใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1206B_COMPLETION", "en_sha": "3ef0e5a86bcf", "status": "draft", "th": "นักรบจากดินแดนใกล้เคียงมาชุมนุมกันในถิ่นฐานของเทคัมเซห์ พร้อมเผชิญหน้ากับโลก เมื่อพวกเขาเปล่งเสียงร่วมกัน บทเพลงของพวกเขาก็หลอมรวมเป็นท่วงทำนองแห่งความเป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1206B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1206B_IMPERATIVE", "en_sha": "ba029401a2f6", "status": "draft", "th": "เป็นเจ้าอธิราชของขั้วอำนาจอิสระ 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1206B_NAME", "en_sha": "3ae1f0f2afa2", "status": "draft", "th": "ความภักดีของคนรุ่นใหม่ให้คำมั่นถึงอนาคตอันสดใส"}
+{"tag": "LOC_LEADER_CHAIN_1206B_STORYTITLE", "en_sha": "4cc0b51b5b9b", "status": "draft", "th": "เยือนดินแดนใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1206C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1206C_NAME", "en_sha": "b13cdd58b520", "status": "draft", "th": "ต้องเคารพความกังขาของผู้อาวุโส"}
+{"tag": "LOC_LEADER_CHAIN_1206C_STORYTITLE", "en_sha": "4cc0b51b5b9b", "status": "draft", "th": "เยือนดินแดนใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1207A_COMPLETION", "en_sha": "e69de5b18839", "status": "draft", "th": "ขณะที่แผ่นดินก่อสงครามกับมนุษยชาติ หลายคนหวาดกลัวว่าภัยพิบัติเหล่านี้คือสัญญาณแห่งความพิโรธของผู้เป็นเจ้าแห่งชีวิต ผู้ที่เคยกังขาในคำสอนของผู้เผยพระวจนะต่างกลายเป็นผู้ศรัทธา เทคัมเซห์ต้อนรับสาวกใหม่เหล่านี้ แล้วส่งพวกเขาออกไปอีกครั้งเพื่อแบ่งปันสิ่งที่ค้นพบแก่โลก"}
+{"tag": "LOC_LEADER_CHAIN_1207A_STORYTITLE", "en_sha": "8bff077a4999", "status": "draft", "th": "ผืนดินสั่นสะเทือน"}
+{"tag": "LOC_LEADER_CHAIN_1207B_COMPLETION", "en_sha": "f8f9b5681883", "status": "draft", "th": "คำภาวนามากมายย่อมทรงพลังกว่าคำภาวนาเดียว ผู้เผยพระวจนะนำทางผู้ศรัทธาทั่วโลกให้ปลอบประโลมแผ่นดินที่พิโรธ และแผ่นดินก็รับฟัง"}
+{"tag": "LOC_LEADER_CHAIN_1207B_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1207B_IMPERATIVE", "en_sha": "b5974e336c0b", "status": "draft", "th": "มีถิ่นฐาน 4 แห่งที่นับถือศาสนาที่คุณก่อตั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1207B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1207B_STORYTITLE", "en_sha": "8bff077a4999", "status": "draft", "th": "ผืนดินสั่นสะเทือน"}
+{"tag": "LOC_LEADER_CHAIN_1208A_COMPLETION", "en_sha": "8ec274ee2bd7", "status": "draft", "th": "กองทัพของเทคัมเซห์เดินทัพทั่วแผ่นดิน กำจัดศัตรูและทำให้ชีวิตของพลเมืองปลอดภัย แม้สงครามยังดำเนินต่อไป แต่ความเป็นหนึ่งเดียวของประชาชนมอบพลังแก่เทคัมเซห์ เช่นเดียวกับที่ความเป็นผู้นำของเขาเสริมสายสัมพันธ์ระหว่างพวกเขาให้แน่นแฟ้น"}
+{"tag": "LOC_LEADER_CHAIN_1208A_STORYTITLE", "en_sha": "62923f44571b", "status": "draft", "th": "รวมกันเป็นหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1208B_COMPLETION", "en_sha": "dfc220a7d4cf", "status": "draft", "th": "นครหลวงของศัตรูพ่ายแพ้ต่อกองทัพผู้เป็นหนึ่งเดียว ในทุกถนน พวกเขาโห่ร้องประกาศชัยชนะ ถ้อยคำเดียวดังออกมาจากปากนับไม่ถ้วน: เทคัมเซห์!"}
+{"tag": "LOC_LEADER_CHAIN_1208B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1208B_IMPERATIVE", "en_sha": "453db7a3f06e", "status": "draft", "th": "ยึดนครหลวงของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1208B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1208B_STORYTITLE", "en_sha": "62923f44571b", "status": "draft", "th": "รวมกันเป็นหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1208C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1208C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1208C_STORYTITLE", "en_sha": "62923f44571b", "status": "draft", "th": "รวมกันเป็นหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1208D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1208D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1208D_STORYTITLE", "en_sha": "62923f44571b", "status": "draft", "th": "รวมกันเป็นหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1209A_COMPLETION", "en_sha": "1e9948dd4848", "status": "draft", "th": "ผู้คนมากมายเข้าร่วมอุดมการณ์ของเทคัมเซห์ทุกวัน หลั่งไหลผ่านประตูของเขาและส่งสาส์นมาจากแดนไกล แต่ยิ่งความวุ่นวายของโลกทวีขึ้น ผู้คนก็ยิ่งแสวงหาการชี้นำจากเขามากขึ้น"}
+{"tag": "LOC_LEADER_CHAIN_1209A_STORYTITLE", "en_sha": "7eb56ccbe8e3", "status": "draft", "th": "ประชาชนผู้เป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1209B_COMPLETION", "en_sha": "dd7ac0235963", "status": "draft", "th": "เทคัมเซห์เฝ้ามองประชาชนของเขาเจริญรุ่งเรือง - หลายชนชาติรวมเป็นหนึ่ง แต่ละชนชาติคือส่วนหนึ่งของนิมิตของผู้เผยพระวจนะที่กลายเป็นจริง ขอบฟ้าใหม่รออยู่เบื้องหน้า แต่หัตถ์ของผู้เป็นเจ้าแห่งชีวิตจะส่องทางนำไป"}
+{"tag": "LOC_LEADER_CHAIN_1209B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1209B_IMPERATIVE", "en_sha": "770fa0cb05f2", "status": "draft", "th": "มีเส้นทางการค้า 4 เส้นทาง"}
+{"tag": "LOC_LEADER_CHAIN_1209B_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1209B_STORYTITLE", "en_sha": "7eb56ccbe8e3", "status": "draft", "th": "ประชาชนผู้เป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1209C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1209C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1209C_STORYTITLE", "en_sha": "7eb56ccbe8e3", "status": "draft", "th": "ประชาชนผู้เป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1209D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1209D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1209D_STORYTITLE", "en_sha": "7eb56ccbe8e3", "status": "draft", "th": "ประชาชนผู้เป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_TECUMSEH_DESCRIPTION", "en_sha": "588951ba30c3", "status": "draft", "th": "+1 [icon:YIELD_FOOD] อาหารและ [icon:YIELD_PRODUCTION] การผลิตต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP] +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]สำหรับยูนิตทั้งหมด ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP] +2 [icon:MILITARY_VP] อำนาจครอบครอง ต่อ[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_LEADER_TECUMSEH_NAME", "en_sha": "3bde90ed8c54", "status": "draft", "th": "เทคัมเซห์"}
+{"tag": "LOC_LOADING_CIV_INTRO_TEXT_SHAWNEE", "en_sha": "7013618143d2", "status": "draft", "th": "ชาวชอว์นีเป็นนักการทูตผู้เชี่ยวชาญ ผู้เดินเท้าข้ามระยะทางไกลนับร้อยลี้ เพื่อรวบรวมกลุ่มชนที่แตกแยกให้เป็นหนึ่ง แม้ต้องเผชิญอุปสรรคอันร้ายแรง ภายใต้สายตาอันเฝ้ามองของคิสโปโก เหล่าโฮซีปคิเลนีเรียกทุกผู้ที่จะมาสู่ลานระบำพิธี เพื่อฟังนักปราศรัยกล่าว และลุกขึ้นพร้อมกันเป็นหนึ่งเดียว"}
+{"tag": "LOC_LOADING_CIV_TIPS_TEXT_SHAWNEE", "en_sha": "16687dc89ca7", "status": "draft", "th": "ความสามารถเฉพาะตัวเนเปกิฟากิและขนบธรรมเนียมทาเกซียาเก เยเปโปกิสามารถให้ผลผลิตจำนวนมากแก่สิ่งปรับปรุงริมแม่น้ำ พยายามอย่าวางเขตบนช่องเหล่านั้น เพราะจะทำให้ผลผลิตหายไป"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_TECUMSEH", "en_sha": "690f4419e1a4", "status": "draft", "th": "ที่ใดมีความแตกแยก เทคัมเซห์ ท่านพูดถึงความเป็นหนึ่งเดียว และที่ใดมีความขัดแย้ง ท่านชี้แนะด้วยเหตุผล จงรวบรวมผู้คนจากทุกดินแดนมาไว้เคียงข้าง หัวหน้าผู้ยิ่งใหญ่ เพื่อให้พวกเขาแข็งแกร่งขึ้นเมื่ออยู่ร่วมกัน และฝ่าฟันพายุที่กำลังจะมาถึง"}
+{"tag": "LOC_LOADING_VO_SHAWNEE", "en_sha": "2428be1e7a39", "status": "draft", "th": "ฤดูใบไม้ผลิมาเยือนผืนป่า ชาวชอว์นีจะสร้างมรดกแห่งความเป็นหนึ่งเดียว และความเป็นใหญ่"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_TECUMSEH_ANY", "en_sha": "af6f3c98fbc1", "status": "draft", "th": "บรรพบุรุษของข้าเป็นนักรบ บุตรของพวกเขาก็เป็นนักรบ จากพวกเขาข้าได้รับมาเพียงชีวิต ตัวตนของข้าทุกวันนี้ข้าสร้างขึ้นเอง"}
+{"tag": "LOC_MEMENTO_TECUMSEH_POTESKWATE_DESCRIPTION", "en_sha": "5be8a8da9493", "status": "draft", "th": "ครกและสากจากไม้"}
+{"tag": "LOC_MEMENTO_TECUMSEH_POTESKWATE_FUNCTIONAL_DESCRIPTION", "en_sha": "d6044da1f307", "status": "draft", "th": "[B]+1 [icon:YIELD_FOOD][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]สำหรับ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_MEMENTO_TECUMSEH_POTESKWATE_NAME", "en_sha": "046611d579b1", "status": "draft", "th": "โปเตสกวาเต"}
+{"tag": "LOC_MEMENTO_TECUMSEH_POTESKWATE_UNLOCK_TITLE", "en_sha": "86850953b61a", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของเทคัมเซห์"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_DESCRIPTION", "en_sha": "a19264277ac0", "status": "draft", "th": "สัญลักษณ์แห่งสหภาพ"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_FUNCTIONAL_DESCRIPTION", "en_sha": "8127c5239c2b", "status": "draft", "th": "[B]+1 [icon:YIELD_PRODUCTION][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]สำหรับ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_NAME", "en_sha": "51b93d2914bc", "status": "draft", "th": "เข็มขัดวามพัม"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WAMPUM_BELT_UNLOCK_TITLE", "en_sha": "44478edf9b7e", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของเทคัมเซห์"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WARCLUB_COMBAT_PREVIEW", "en_sha": "804744e67c9d", "status": "draft", "th": "+{1_Amount} ของที่ระลึกกระบองศึก"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WARCLUB_DESCRIPTION", "en_sha": "0c258331df33", "status": "draft", "th": "อย่าหลับใหลอีกต่อไป"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WARCLUB_FUNCTIONAL_DESCRIPTION", "en_sha": "d2e273fd4da0", "status": "draft", "th": "[B]+1 [icon:NAR_REW_COMBAT][/B] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]สำหรับ[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WARCLUB_NAME", "en_sha": "0527651f696d", "status": "draft", "th": "กระบองศึก"}
+{"tag": "LOC_MEMENTO_TECUMSEH_WARCLUB_UNLOCK_TITLE", "en_sha": "699bbe8972f0", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของเทคัมเซห์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_ANTIQUITY_DESC", "en_sha": "512bac4e3ba2", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคโบราณ ทำภารกิจเพื่อทำตามลางบอกเหตุของเหล่านักรบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_ANTIQUITY_NAME", "en_sha": "f822213a7739", "status": "draft", "th": "ถ่านไฟที่กระจัดกระจาย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_EXPLORATION_DESC", "en_sha": "2c2ddb544ed2", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเตรียมพร้อมเหล่านักรบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_EXPLORATION_NAME", "en_sha": "97728ccf93a9", "status": "draft", "th": "คืนก่อนศึก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_MODERN_DESC", "en_sha": "dd5eb7792519", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคสมัยใหม่ ทำภารกิจเพื่อปลุกกำลังใจประชาชนในยามสงครามให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_A_MODERN_NAME", "en_sha": "62923f44571b", "status": "draft", "th": "รวมกันเป็นหนึ่ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_ANTIQUITY_DESC", "en_sha": "00dbb27773c4", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคโบราณ ทำภารกิจเพื่อส่งต่อกล้องยาสูบโทมาฮอว์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_ANTIQUITY_NAME", "en_sha": "e9512f1a84d7", "status": "draft", "th": "กล้องยาสูบพิธีกรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_EXPLORATION_DESC", "en_sha": "45e24c826e70", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อรวมเพื่อนบ้านเป็นหนึ่งให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_EXPLORATION_NAME", "en_sha": "4cc0b51b5b9b", "status": "draft", "th": "ท่องดินแดนใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_MODERN_DESC", "en_sha": "7a4503643e22", "status": "draft", "th": "ในฐานะเทคัมเซห์ ในยุคสมัยใหม่ ทำภารกิจเพื่อนำทางโลกด้วยการค้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_TECUMSEH_QUEST_B_MODERN_NAME", "en_sha": "7eb56ccbe8e3", "status": "draft", "th": "ประชาชนผู้เป็นหนึ่งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_COMPLETE_SERPENT_MOUND_DESC", "en_sha": "7ce717370353", "status": "draft", "th": "เล่นเป็นชอว์นี สร้างเนินงูให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_COMPLETE_SERPENT_MOUND_NAME", "en_sha": "47c9d9966553", "status": "draft", "th": "เนินงู"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_FOUR_MAJOR_TRIUMPHS_DESC", "en_sha": "e93a18fb5e37", "status": "draft", "th": "เล่นเป็นชอว์นี ทำไทรอัมพ์สำคัญทางการทูตหรือทางเศรษฐกิจให้สำเร็จ 4 รายการภายในยุคจุดสูงสุดครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_SHAWNEE_FOUR_MAJOR_TRIUMPHS_NAME", "en_sha": "657b27cc0781", "status": "draft", "th": "ไทรอัมพ์สำคัญ 4 รายการของชอว์นี"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "1cd82afd40aa", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "93ff97753fa5", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "2a8cf4b15817", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "5c010cb8a4ff", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "d4b906eeab3e", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "10642694f4ff", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "d8d1e1ab545f", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "3c3b24c53073", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_DESC", "en_sha": "0389214f714c", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "65c0c5500202", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "37acebafb3cd", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "4d8c97bf892c", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "2bdf8e9a7993", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "32bff96d016b", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "31beeae05f75", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_DESC", "en_sha": "c43022d2bf66", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DEITY_VICTORY_DESC", "en_sha": "86b496c6bef5", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "758b76dbd9d7", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "e1fcc044398a", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "740cee718e78", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "fb6dc78d9b62", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "f7236a77155d", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "2b872f535088", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "3f2025ed725d", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "ac040350d68f", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "3bd712e16892", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "9143d5716b49", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "2188b231ea6b", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "5d11ab2762a6", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_DESC", "en_sha": "02645df75c53", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "820faacc4752", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "0914ef2dbf68", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "c78c6c81835b", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b8d40acbe215", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "0cd046768a21", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "30b7dd9843d9", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "6ed96cd4cfb4", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "3559804bf012", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "ea0f56a34a58", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "20939b91a000", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "62b08b2f48bf", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "0c5b4c35dc58", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "d48a3910bd3e", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "abf189a38110", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_DESC", "en_sha": "07b8a6828e48", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_1_DESC", "en_sha": "a1a9227c2bee", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_2_DESC", "en_sha": "511384b69636", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_3_DESC", "en_sha": "e09db54cb1a2", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a6f352edc286", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "249b83222f17", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "20192a663ecb", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "838431d484ec", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "c93b8aec0fe7", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "89495e989bf2", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_DESC", "en_sha": "a02b624ba10f", "status": "draft", "th": "เล่นเป็นเทคัมเซห์ คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_TECUMSEH_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_MODULE_SHAWNEE_TECUMSEH_DESCRIPTION", "en_sha": "d49a4eee096d", "status": "draft", "th": "มีผู้นำใหม่ คือ เทคัมเซห์ และอารยธรรมใหม่ในยุคแห่งการสำรวจ คือ ชอว์นี"}
+{"tag": "LOC_MODULE_SHAWNEE_TECUMSEH_NAME", "en_sha": "39c31161c415", "status": "draft", "th": "ชอว์นี/เทคัมเซห์"}
+{"tag": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_TECUMSEH_L2_DESCRIPTION", "en_sha": "4e249e40cf22", "status": "draft", "th": "ปลดล็อกตำนาน +25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่มหรือสนับสนุน [icon:ENDEAVOR] โครงการร่วม -25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่ม [icon:SANCTIONS] การคว่ำบาตรหรือการปฏิเสธ [icon:ENDEAVOR] โครงการร่วม"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_TECUMSEH_L1_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_MOD_CIV_WONDER_PRODUCTION_SHAWNEE_DESCRIPTION", "en_sha": "6dd4cfc9e223", "status": "draft", "th": "+30% [icon:YIELD_PRODUCTION] การผลิตจากการเป็น [icon:WONDER] สิ่งมหัศจรรย์ประจำชอว์นี"}
+{"tag": "LOC_NODE_CIVIC_AQ_SHAWNEE_ORIGINS_NAME", "en_sha": "0e696874d4a4", "status": "draft", "th": "ต้นกำเนิดชอว์นี"}
+{"tag": "LOC_NODE_CIVIC_MO_SHAWNEE_MODERNIZATION_NAME", "en_sha": "b9d951f0b109", "status": "draft", "th": "ชอว์นีสมัยใหม่"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_1", "en_sha": "5deb5f719cf2", "status": "draft", "th": "การขยายตัวสู่ทิศตะวันตกของอาณานิคมอเมริกาก่อให้เกิดความขัดแย้งกับชนเผ่าพื้นเมืองอเมริกันอยู่เสมอ ชุมชนพื้นเมืองต่างดิ้นรนต้านทานการรุกคืบของชาวอาณานิคมด้วยตนเอง และก็ยากลำบากที่จะรวมตัวกันเผชิญภัยคุกคามนี้ ความแตกแยกทางสังคม การเมือง และวัฒนธรรมระหว่างพวกเขาฝังรากลึกและยากจะก้าวข้าม แต่ในปี 1783 สมาพันธ์ชนเผ่าได้รวมตัวกันในภูมิภาคเกรตเลกส์และได้ชัยชนะครั้งสำคัญหลายครั้งเหนือสหรัฐอเมริกา แม้พันธมิตรนี้จะอยู่ได้ไม่นาน แต่แนวคิดเรื่องแนวร่วมที่เป็นหนึ่งเดียวได้หยั่งรากในใจของนักรบหนุ่มชาวชอว์นีผู้หนึ่ง ซึ่งได้เห็นทั้งการรุ่งเรืองและล่มสลายของมัน และตั้งปณิธานที่จะสร้างมันขึ้นใหม่"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_2", "en_sha": "1fa8fa318f44", "status": "draft", "th": "เทคัมเซห์ ซึ่งชื่อมีความหมายว่า \"เสือดำข้ามฟากฟ้า\" ถือกำเนิดในปี 1768 ขณะที่ดาวตกพาดผ่านท้องฟ้ายามราตรี แม้วัยเยาว์จะเต็มไปด้วยความยากลำบาก แต่ไม่นานเขาก็โดดเด่นเหนือเพื่อนพ้องในฐานะผู้นำและนักรบที่มีอนาคต เทคัมเซห์เป็นนักล่าและนักสู้ที่ช่ำชอง แม้เขาจะวิ่งหนีจากการรบครั้งแรกเมื่ออายุ 14 ปี แต่เขาก็อับอายกับพฤติกรรมนั้นและตั้งมั่นว่าจะไม่ให้เกิดขึ้นอีก (และมันก็ไม่เกิดขึ้นอีกเลย) เขายังมีเสน่ห์ เฉลียวฉลาด และเป็นนักพูดผู้มีพรสวรรค์ ชอบอารมณ์ขันและมีไหวพริบทางการทูต เขาเติบโตท่ามกลางความขัดแย้งระหว่างชาวอาณานิคมกับชุมชนชอว์นีของเขา จึงเลือกเรียนภาษาอังกฤษตั้งแต่ยังเยาว์ แม้เขามักปกปิดความสามารถนี้และพูดแต่ภาษาชอว์นีในการเจรจาทางการทูต"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_3", "en_sha": "40cad0f76dda", "status": "draft", "th": "เมื่อถึงทศวรรษ 1780 ชาวอาณานิคมอเมริกันกำลังรุกเข้าสู่ดินแดนตะวันตกเฉียงเหนือ ภูมิภาคระหว่างแม่น้ำโอไฮโอกับเกรตเลกส์ สมาพันธ์หลวม ๆ ของชนเผ่าต่าง ๆ รวมถึงชาวชอว์นีภายใต้หัวหน้าเผ่าบลูแจ็กเก็ต ได้ต่อต้านการรุกคืบนี้โดยได้รับความช่วยเหลือจากอังกฤษ แต่หลังสมาพันธ์นี้พ่ายแพ้ในยุทธการที่ฟอลเลนทิมเบอส์ ซึ่งเทคัมเซห์ได้เข้าร่วมด้วย หัวหน้าเผ่าหลายคนก็ลงนามยกดินแดนของตนให้แก่สหรัฐอเมริกาในสนธิสัญญากรีนวิลล์ปี 1795 เทคัมเซห์คัดค้านการกระทำนี้อย่างแข็งขัน ตลอดหลายปีต่อมา อิทธิพลของเขาเหนือชาวชอว์นีในท้องถิ่นเพิ่มพูนขึ้น - แต่การผงาดขึ้นอย่างไม่คาดคิดของน้องชายได้เปลี่ยนเส้นทางชีวิตของเขา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_4", "en_sha": "1977b590ff62", "status": "draft", "th": "ลาลาเวทิกาไม่เคยแสดงแววโดดเด่นเลย ต่างจากเทคัมเซห์ เขาขี้ขลาด ไร้ความสามารถ และติดสุรา ทั้งยังเคยทำปืนลั่นใส่ตาตนเองจนบอดข้างหนึ่งเมื่อยังเด็ก ถึงกระนั้น ในปี 1805 เขาเริ่มเห็นนิมิตที่ผู้เป็นเจ้าแห่งชีวิต เทพสูงสุดของชาวชอว์นี เผยให้เห็นชะตากรรมของผู้ที่ดำเนินชีวิตอย่างมีคุณธรรม (และผู้ที่หันหลังให้) ลาลาเวทิกาเปลี่ยนชื่อเป็นเทนสกวาทาวา \"ประตูที่เปิดอยู่\" และเริ่มเผยแผ่จิตวิญญาณรูปแบบใหม่ ซึ่งปฏิเสธสินค้าและวิถีปฏิบัติของชาวยุโรป และยึดถือเพียงคุณค่าและวิถีชีวิตตามขนบดั้งเดิม"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_5", "en_sha": "8cee0a6d5db3", "status": "draft", "th": "เทนสกวาทาวาผู้เผยพระวจนะสถาปนาตนเป็นผู้นำทางจิตวิญญาณคนใหม่ของหมู่บ้าน เทคัมเซห์ในฐานะหัวหน้าทางการเมืองและการสงคราม ตัดสินใจยืนเคียงข้างความเชื่อของน้องชาย ทั้งสองได้ผู้ติดตามคนสำคัญหลายคนจากชนเผ่าใกล้เคียง แต่ก็ถูกต่อต้านจากชาวชอว์นีกลุ่มอื่น - ขณะที่บลูแจ็กเก็ต อดีตผู้นำสมาพันธ์ เข้าร่วมกับพวกเขา แบล็กฮูฟผู้ทรงอำนาจแห่งวาปาโคเนตากลับปฏิเสธที่จะยอมรับ สองพี่น้องยังดึงดูดความสนใจของเจ้าหน้าที่อาณานิคมในท้องถิ่น ซึ่งไม่สบายใจกับขบวนการทางจิตวิญญาณใหม่นี้และศักยภาพที่จะรวมชนเผ่าต่าง ๆ เข้าด้วยกัน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_6", "en_sha": "6cfe33769e70", "status": "draft", "th": "ในปี 1808 เทคัมเซห์และเทนสกวาทาวาย้ายไปทางตะวันตกไกลขึ้น และก่อตั้งหมู่บ้านพรอเฟตส์ทาวน์ ที่ซึ่งพวกเขารวบรวมผู้ติดตามจำนวนมากจากหลากหลายชนเผ่า ความสงบสุขของพวกเขาถูกทำลายลงเพียงหนึ่งปีต่อมาด้วยสนธิสัญญาฟอร์ตเวย์น ซึ่งวิลเลียม เฮนรี แฮร์ริสัน ผู้ว่าการดินแดนอินเดียนา เจรจาซื้อที่ดินกับชนเผ่าหลายเผ่าโดยกีดกันชาวชอว์นีออกไป เทคัมเซห์โกรธแค้นต่อข้อตกลงในสนธิสัญญานี้ และเผชิญหน้ากับแฮร์ริสันด้วยตนเองเพื่อให้ยกเลิกสนธิสัญญา โดยประกาศว่าแผ่นดินเป็นของทุกชนเผ่า ดังนั้นจึงไม่มีผู้ใดขายได้ เมื่อกลับบ้านมือเปล่า เขาเริ่มสร้างสมาพันธ์ระหว่างชนเผ่าอย่างจริงจัง โดยส่งเสริมเป้าหมายสองประการ คือความเป็นหนึ่งเดียวของชนพื้นเมืองอเมริกัน และการรักษาวิถีดั้งเดิมของแต่ละชนเผ่า"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_7", "en_sha": "1b4a49c67203", "status": "draft", "th": "ขณะที่นักรบหลั่งไหลเข้าสู่พรอเฟตส์ทาวน์มากขึ้นเรื่อย ๆ เทคัมเซห์ก็มอบหมายให้เทนสกวาทาวาดูแลบ้านเมือง แล้วออกเดินทางไปทั่ว เขาเดินทางไกลลงไปทางใต้ เป็นระยะทางหลายพันไมล์ พูดคุยกับชุมชนมากมาย และปลุกเร้าให้นักรบหนุ่มเข้าร่วมอุดมการณ์ของเขา การเดินทางครั้งนี้แทบไม่ประสบผลในแง่การเกณฑ์คน แต่ถ้อยคำของเทคัมเซห์ได้หว่านเมล็ดพันธุ์ที่ผลิดอกออกผลในความขัดแย้งครั้งต่อ ๆ มา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_8", "en_sha": "bcc5e6972156", "status": "draft", "th": "ระหว่างที่เทคัมเซห์ไม่อยู่ แฮร์ริสันได้ยกทัพไปยังพรอเฟตส์ทาวน์เพื่อโค่นเทนสกวาทาวา เทคัมเซห์เคยเตือนน้องชายไม่ให้ยั่วยุความตึงเครียดกับชาวอเมริกัน แต่ผู้เผยพระวจนะกลับสั่งโจมตีก่อนที่การเจรจากับแฮร์ริสันจะเริ่มขึ้น แม้แฮร์ริสันจะสูญเสียทหารมากกว่า แต่ยุทธการที่ทิปปิแคนูก็จบลงด้วยชัยชนะของฝ่ายอเมริกัน และพรอเฟตส์ทาวน์ถูกเผาวอดในเวลาต่อมา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_CHAPTER_HISTORY_PARA_9", "en_sha": "756ddccfce6e", "status": "draft", "th": "สมาพันธ์ของเทคัมเซห์ดูเหมือนจะแตกกระจาย แต่เขาเริ่มฟื้นฟูขึ้นใหม่ทันทีที่กลับจากการเดินทางอันยาวไกล เพียงไม่กี่เดือนต่อมา เขาก็นำผู้ติดตามเข้าเป็นพันธมิตรกับอังกฤษเมื่อสงครามปี 1812 ปะทุขึ้น บุคลิกภาพและความเฉียบแหลมทางการทหารของเขาได้รับความไว้วางใจและชื่นชมจากผู้บัญชาการชาวอังกฤษอย่างรวดเร็ว และเขาได้รับมอบหมายให้ประสานกองกำลังชนพื้นเมืองอเมริกัน จนกระทั่งเสียชีวิตในยุทธการที่แม่น้ำเทมส์ในปี 1813 แม้การเสียชีวิตของเขาจะทำให้สมาพันธ์สิ้นสุดลง แต่วิสัยทัศน์และมรดกของเทคัมเซห์ได้ทำให้เขากลายเป็นวีรบุรุษพื้นบ้านที่ยังคงเป็นที่จดจำมาจนถึงปัจจุบัน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_TECUMSEH_TITLE", "en_sha": "fe1d88792c5e", "status": "draft", "th": "{LOC_LEADER_TECUMSEH_NAME}"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_1", "en_sha": "7d7d6691eb9a", "status": "draft", "th": "ต้นกำเนิดของชนเผ่าชอว์นียังคลุมเครือ แต่เป็นที่เชื่อกันอย่างกว้างขวางว่าพวกเขาสืบเชื้อสายมาจากวัฒนธรรมฟอร์ตเอนเชียนต์แห่งหุบเขาแม่น้ำโอไฮโอ (ราว ค.ศ. 1000-1650) ชาวฟอร์ตเอนเชียนต์ก้าวพ้นสมัยวูดแลนด์ตอนปลายมาพร้อมความเข้าใจใหม่เกี่ยวกับการปลูกข้าวโพดและเทคนิคการเกษตร นำไปสู่วิถีชีวิตที่ลงหลักปักฐานมากขึ้นและถิ่นฐานที่ใหญ่ขึ้น พวกเขาไม่ได้รวมกันเป็นรัฐเดียว แต่มีวัฒนธรรมร่วมกันทั้งด้านการจัดระเบียบสังคม ความเชื่อทางศาสนา รูปแบบทางศิลปะ และการสร้างเนินดิน ซึ่งแผ่ขยายข้ามกลุ่มการเมืองและกลุ่มภาษาอันหลากหลาย"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_2", "en_sha": "4815549faf73", "status": "draft", "th": "หมู่บ้านฟอร์ตเอนเชียนต์ซึ่งปกครองโดยหัวหน้าและสภา ใช้อำนาจได้เพียงภายในกำแพงของตน อิทธิพลทางการเมืองไม่ได้แผ่ไปถึงหมู่บ้านอื่น และไม่มีศูนย์กลางอำนาจใหญ่ใด ๆ หมู่บ้านฤดูร้อนซึ่งสร้างขึ้นอย่างถาวรเป็นหมู่บ้านเกษตรกรรมที่รองรับผู้คนได้ถึง 500 คน หมู่บ้านเหล่านี้จะถูกทิ้งร้างในฤดูหนาว เมื่อผู้คนแยกย้ายไปยังค่ายล่าสัตว์ฤดูหนาวที่เคลื่อนย้ายได้ ค่ายละไม่เกิน 30 คน ครั้นฤดูใบไม้ผลิมาถึง ชาวฟอร์ตเอนเชียนต์ก็กลับมารวมกันที่หมู่บ้านฤดูร้อนอีกครั้ง วัฏจักรการย้ายถิ่นนี้ก่อให้เกิดพิธีกรรมเฉลิมฉลองการผลัดเปลี่ยนของฤดูกาล"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_3", "en_sha": "bef40d258e4a", "status": "draft", "th": "สินค้ายุโรปจำนวนมากเดินทางมาถึงหุบเขาแม่น้ำโอไฮโอผ่านการค้ากับชาวโฮเดโนโชนีในช่วงคริสต์ศตวรรษที่ 16 และต้นคริสต์ศตวรรษที่ 17 แต่เมื่อชาวยุโรปกลุ่มแรกมาถึงในทศวรรษ 1650 ชาวฟอร์ตเอนเชียนต์ก็หายไปแล้ว เหตุผลที่แท้จริงของการย้ายถิ่นยังคงไม่ชัดเจน หลักฐานทางโบราณคดีบ่งชี้ว่าโรคอย่างไข้ทรพิษ (ซึ่งน่าจะมากับพ่อค้า) ระบาดในหุบเขาแม่น้ำโอไฮโอหลายระลอก สังคมเพื่อนบ้านก็ก้าวร้าวขึ้นเรื่อย ๆ เมื่อสงครามบีเวอร์จุดชนวนความรุนแรงและการขยายอำนาจจากทางตะวันออก เมื่อหุบเขาแม่น้ำโอไฮโอยิ่งอันตรายขึ้นจากแรงกดดันภายนอกเหล่านี้ ชาวฟอร์ตเอนเชียนต์ก็ดูเหมือนจะเลือกย้ายถิ่นแทนที่จะเสี่ยงอยู่ในมาตุภูมิต่อไป ระหว่างการเดินทาง ความแตกต่างระหว่างชนเผ่าค่อย ๆ หลอมรวมกัน ก่อเกิดยุคใหม่แห่งอัตลักษณ์ใหม่"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_4", "en_sha": "96871ad32de5", "status": "draft", "th": "ชอว์นีเป็นหนึ่งในชนเผ่าที่อยู่ในช่วงเปลี่ยนผ่านเหล่านี้ เช่นเดียวกับบรรพชนฟอร์ตเอนเชียนต์ หมู่บ้านยังคงเป็นศูนย์กลางของอำนาจและความภักดี และการนำแบ่งออกเป็นหัวหน้าฝ่ายพลเรือนกับหัวหน้าฝ่ายสงคราม การผลัดเปลี่ยนฤดูกาลได้รับการเฉลิมฉลองด้วยพิธีกรรมสำคัญ โดยเฉพาะระบำขนมปังในฤดูใบไม้ผลิและฤดูใบไม้ร่วง ชนเผ่าแบ่งย่อยออกเป็น 5 กลุ่ม ได้แก่ ชาลากาวทา คิสโปโกทา เมโกเช เปโกวิทา และทาเวกิลา แต่ละกลุ่มมีบทบาททางสังคมที่กำหนดไว้เพื่อชนเผ่าโดยรวม"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_5", "en_sha": "0e7f09ab2872", "status": "draft", "th": "นับตั้งแต่ปรากฏครั้งแรกในบันทึกประวัติศาสตร์สมัยอาณานิคมในปี 1674 ชาวชอว์นีก็เป็นนักเดินทางอยู่แล้ว ตลอดหลายทศวรรษต่อมา พวกเขาปรากฏตัวอยู่เสมอ ณ จุดตัดของการติดต่อระหว่างชาวยุโรปกับชนพื้นเมืองอเมริกัน ทำหน้าที่เป็นตัวกลางระหว่างสองโลก พวกเขาตั้งถิ่นฐานไปทั่วชายฝั่งตะวันออก มักทำหน้าที่เป็นพ่อค้า ล่าม และนักการทูต ภาษาชอว์นีถึงขั้นกลายเป็นภาษากลางทางการค้า"}
+{"tag": "LOC_PEDIA_PAGE_CIVILIZATION_SHAWNEE_CHAPTER_HISTORY_PARA_6", "en_sha": "bd8a218bd141", "status": "draft", "th": "เมื่อคริสต์ศตวรรษที่ 18 ดำเนินไป ความเป็นปรปักษ์ระหว่างอาณานิคมกับชนพื้นเมืองก็รุนแรงขึ้นเรื่อย ๆ ชาวชอว์นีจำนวนมาก รวมถึงชนเผ่าแอลกอนเควียนอื่น ๆ หวนกลับสู่หุบเขาแม่น้ำโอไฮโอ อันเป็นที่ที่บรรพชนฟอร์ตเอนเชียนต์ของพวกเขาเคยอาศัยอยู่ ทว่าอาณานิคมสหรัฐฯ ยังคงรุกคืบไปทางตะวันตก ยึดครองดินแดนและขับไล่ชนเผ่าต่าง ๆ ออกจากถิ่นที่อยู่ หัวหน้าฝ่ายสงครามชาวชอว์นีหลายคนลุกขึ้นต่อต้านการขยายตัวนี้ ที่โดดเด่นที่สุดคือเทคัมเซห์ ผู้ก่อตั้งสมาพันธ์ข้ามชนเผ่าขนาดใหญ่เพื่อรวมชนพื้นเมืองอเมริกันอันหลากหลายและต้านทานการรุกคืบของสหรัฐฯ หลังจากเขาเสียชีวิตในสนามรบเมื่อปี 1813 สมาพันธ์ก็แตกสลาย และชาวชอว์นีก็ค่อย ๆ อพยพไปทางตะวันตกไกลออกไป ปัจจุบันมีชนเผ่าชอว์นีที่ได้รับการรับรองจากรัฐบาลกลาง 3 เผ่าตั้งอยู่ในโอคลาโฮมา ได้แก่ ชนเผ่าชอว์นี ชนเผ่าแอบเซนทีชอว์นี และชนเผ่าชอว์นีตะวันออก"}
+{"tag": "LOC_PEDIA_PAGE_IMPROVEMENT_MAWASKAWE_SKOTE_CHAPTER_HISTORY_PARA_1", "en_sha": "98d703b8c8ca", "status": "draft", "th": "มาวาสกาเว สโกเต หรือ \"กองไฟแห่งสภา\" คือศูนย์กลางของการปรึกษาหารือภายในเผ่าและระหว่างเผ่า ในอดีต ไฟจะถูกจุดขึ้นเมื่อต้องตัดสินใจเรื่องที่ส่งผลต่อชุมชนชอว์นีทั้งหมด และผู้แทนที่ได้รับเลือกจะมาชุมนุมกันเพื่อหารือแต่ละเรื่องจนกว่าจะได้ข้อยุติ มาวาสกาเว สโกเตเป็นพื้นที่แห่งความเคารพซึ่งกันและกัน ที่ผู้ได้รับผลกระทบมีโอกาสได้พูดและได้รับการรับฟัง การดูแลรักษาไฟนั้นถือเป็นกิจอันศักดิ์สิทธิ์ และยังคงเป็นส่วนสำคัญของขนบธรรมเนียมชอว์นีมาจนถึงทุกวันนี้"}
+{"tag": "LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_MALEKI_KINTAKE_CHAPTER_HISTORY_PARA_1", "en_sha": "e1f5d336fa06", "status": "draft", "th": "ถิ่นฐานของชาวชอว์นีมักสร้างขึ้นในพื้นที่ที่มีข้อได้เปรียบทางธรรมชาติ ซึ่งมักเป็นเขตรอยต่อระบบนิเวศที่เข้าถึงทรัพยากรได้หลากหลาย ขณะเดียวกัน ชาวชอว์นีก็ปรับเปลี่ยนผืนดินอย่างยั่งยืนเพื่อตอบสนองความต้องการของตน \"มาเลกี คินตาเก\" (\"ถิ่นอาศัยที่วางแผนไว้\") เหล่านี้ช่วยให้เก็บเกี่ยวอาหารได้มากที่สุด พร้อมกับส่งเสริมการฟื้นตัวและการเพิ่มพูนของความอุดมสมบูรณ์ทางธรรมชาติ การจัดการป่าเป็นองค์ประกอบสำคัญของกระบวนการนี้ การตัดต้นไม้และการเผาป่าตามแผนช่วยกำจัดพืชพรรณส่วนเกินเพื่อเปิดพื้นที่ให้แก่เกษตรกรรม พื้นที่นี้ยังเอื้อให้พุ่มไม้ผลเบอร์รีและแหล่งอาหารป่าอื่น ๆ แพร่ขยาย ซึ่งดึงดูดสัตว์ใหญ่อย่างหมีและกวางที่สามารถล่าได้"}
+{"tag": "LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_MIYASKA_LATOWEKI_CHAPTER_HISTORY_PARA_1", "en_sha": "c350cad92000", "status": "draft", "th": "ชาวชอว์นีเป็นนักเดินทาง พวกเขาอาศัยอยู่ในถิ่นฐานต่าง ๆ และเอื้ออำนวยการค้าตั้งแต่อ่าวเชซาพีกไปจนถึงหุบเขาแม่น้ำซาวันนา สัญลักษณ์สำคัญแห่งการมีอยู่ของพวกเขาคือการที่ภาษาชอว์นีได้รับการใช้เป็นภาษาการค้าหลัก หรือ \"มิยาสกา ลาโตเวกี\" (\"ภาษากลาง\") ทั่วชายฝั่งตะวันออก ภาษาชอว์นีซึ่งเป็นภาษาในกลุ่มแอลกองเควียนกลาง ถูกมองว่าเรียนรู้ได้ไม่ยากทั้งในหมู่ชนเผ่าอื่นและชาวอาณานิคม จึงสามารถเชื่อมโยงผู้คนหลากหลายข้ามเส้นแบ่งทางวัฒนธรรมในยุคที่การสื่อสารเช่นนี้มีความสำคัญยิ่ง"}
+{"tag": "LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_TELWATIKI_CHAPTER_HISTORY_PARA_1", "en_sha": "0340d8d008e9", "status": "draft", "th": "แม้ในอดีตจะมีประชากรไม่มาก แต่ชาวชอว์นีมีอิทธิพลอย่างมากต่อประวัติศาสตร์ช่วงต้นของสหรัฐอเมริกา ส่วนใหญ่เป็นเพราะทักษะทางการทูตอันยอดเยี่ยม พวกเขาเจริญรุ่งเรืองในพื้นที่ก้ำกึ่งระหว่างโลกของชาวยุโรปกับชนพื้นเมืองอเมริกัน อยู่ร่วมกันในหมู่บ้านของชนเผ่าอื่น และสร้างพันธมิตรกับทุกฝ่ายผ่านบทบาทพ่อค้า ผู้นำทาง และล่าม ด้วยความเข้าใจในภูมิทัศน์ทางสังคมและการเมืองที่ซับซ้อน ชาวชอว์นีจึงใช้ความรู้ทางการทูตผ่าน \"เทลวาติกิ\" ซึ่งเป็นวิธีการยุให้ฝ่ายต่าง ๆ ขัดแย้งกันเอง ด้วยการขับเคลื่อนโลกรอบตัว พวกเขาจึงรักษาความยืนยาวและความเจริญรุ่งเรืองของผู้คนของตนไว้ได้"}
+{"tag": "LOC_PEDIA_PAGE_NODE_CIVIC_EX_SHAWNEE_WYEHI_SIMEKOFI_CHAPTER_HISTORY_PARA_1", "en_sha": "f9f4a55c5bd7", "status": "draft", "th": "ชุมชนชาวชอว์นีจัดระเบียบภายใต้ปรัชญา \"วิเยฮี ซิเมโกฟี\" ซึ่งเป็นรูปแบบหนึ่งของความเสมอภาคนิยม ตำแหน่งทางสังคมส่วนใหญ่ไม่ได้สืบทอดทางสายเลือด แต่ขึ้นอยู่กับคุณงามความดีและความสำเร็จในชีวิตของแต่ละคน และความเป็นผู้นำก็กระจายอยู่ในบุคคลทางการเมืองหลายคน การบริหารแบ่งออกเป็นผู้นำฝ่ายพลเรือนและผู้นำฝ่ายทหาร หัวหน้าฝ่ายพลเรือนคัดเลือกจากตระกูลชาลากอว์ทาและดำรงตำแหน่งตลอดชีวิต ส่วนหัวหน้าสงครามได้รับการยกขึ้นสู่ตำแหน่งผู้นำตามทักษะและผลงานส่วนบุคคล หมู่บ้านชอว์นียังมีสภาปกครองที่ประกอบด้วยผู้อาวุโสทั้งชายและหญิง ซึ่งคอยไกล่เกลี่ยและชี้นำชุมชน"}
+{"tag": "LOC_PEDIA_PAGE_UNIT_HOCEEPKILENI_CHAPTER_HISTORY_PARA_1", "en_sha": "973939685ec4", "status": "draft", "th": "โฮซีปคิเลนี หรือ \"หมอยา\" คือผู้นำทางจิตวิญญาณของชาวชอว์นี พวกเขาเป็นสื่อกลางระหว่างโลกกายภาพกับโลกเหนือธรรมชาติ และนำทางชุมชนในความสัมพันธ์กับสิ่งศักดิ์สิทธิ์ การรักษาโรคเป็นทักษะสำคัญส่วนหนึ่งของโฮซีปคิเลนี โดยรักษาความเจ็บป่วยทางกายทั้งด้วยยาและด้วยวิธีทางจิตวิญญาณ อย่างไรก็ตาม โฮซีปคิเลนียังช่วยคลี่คลายความตึงเครียดทางสังคมและข้อพิพาทในชุมชน เยียวยารอยร้าวในหมู่ผู้คนด้วย"}
+{"tag": "LOC_PEDIA_PAGE_UNIT_KISPOKO_NENA_TO_CHAPTER_HISTORY_PARA_1", "en_sha": "cb9af3c0a6a1", "status": "draft", "th": "การสงครามของชาวชอว์นีพึ่งพาความรู้เรื่องผืนแผ่นดินมากพอ ๆ กับความเก่งกาจในการรบ คิสโปโก เนนาโต หรือ \"นักรบ\" แต่ละคนได้รับการฝึกฝนตั้งแต่ยังเยาว์ให้ชำนาญการใช้อาวุธและผูกพันกับผืนป่า ซึ่งมักทำผ่านการล่าสัตว์ ยุทธวิธีของชาวชอว์นีอาศัยการซุ่มโจมตีและการใช้ภูมิประเทศเพื่อให้ได้เปรียบทางยุทธวิธีเป็นหลัก นักรบอาจรออยู่ในตำแหน่งเดิมนานหลายวัน นิ่งสนิทอยู่ในพุ่มไม้ ก่อนจู่โจมศัตรูที่ไม่ทันระวังตัว พวกเขาเคลื่อนไหวอย่างรวดเร็วและเงียบเชียบโดยไม่มีเกราะถ่วงรั้ง กลมกลืนไปกับผืนป่า แล้วปรากฏตัวขึ้นเพื่อโจมตีอย่างร้ายกาจก่อนจะหายลับไปอย่างรวดเร็วดังที่มา ยุทธศาสตร์เหล่านี้เพิ่มประสิทธิภาพให้กองนักรบขนาดเล็ก จนสามารถเอาชนะกองกำลังที่ใหญ่กว่ามากได้"}
+{"tag": "LOC_PEDIA_PAGE_WONDER_SERPENT_MOUND_CHAPTER_HISTORY_PARA_1", "en_sha": "28e4fc788801", "status": "draft", "th": "บนที่ราบสูงในรัฐโอไฮโอปัจจุบัน ณ บริเวณหลุมอุกกาบาตโบราณ ชนพื้นเมืองได้สร้างเนินดินคดเคี้ยวเป็นรูปงูยักษ์ สถานที่นี้น่าจะได้รับเลือกเพราะภูมิประเทศที่แปลกตา และผู้คนหลากหลายกลุ่มได้ร่วมกันก่อสร้างต่อเติมมานานกว่าพันปี ระหว่าง 320 ปีก่อนคริสตกาลถึง ค.ศ. 1400 เนินดินขดตัวไปบนผืนดินอย่างกลมกลืนกับภูมิทัศน์ และปากของงูดูเหมือนกำลังกลืนวัตถุรูปวงรี ซึ่งอาจเป็นไข่ (และอาจเคยเป็นที่ตั้งของวิหาร)"}
+{"tag": "LOC_PEDIA_PAGE_WONDER_SERPENT_MOUND_CHAPTER_HISTORY_PARA_2", "en_sha": "f7ff69910b4b", "status": "draft", "th": "จุดประสงค์ที่แท้จริงของเนินดินนี้ยังคงเป็นปริศนา เนื่องจากไม่มีบันทึกเป็นลายลักษณ์อักษรจากยุคนั้น แต่ผู้คนในภูมิภาคนี้สร้างเนินดินและมีความเชื่อเกี่ยวกับงูยักษ์ในตำนานมาช้านาน ตัวอย่างเช่น วัฒนธรรมมิสซิสซิปเปียน (ซึ่งมีความเกี่ยวข้องแต่ไม่ได้เชื่อมโยงโดยตรงกับเนินงู) มีชื่อเสียงจากการสร้างเนินดินขนาดมหึมาที่คาโฮเคีย และรูปงูมีเขาก็ปรากฏอยู่ในตำนานของชาวชอว์นีและตำนานอื่น ๆ ด้วย"}
+{"tag": "LOC_PROFILE_TITLE_TECUMSEH", "en_sha": "5592325dc3fc", "status": "draft", "th": "หัวหน้าเผ่า"}
+{"tag": "LOC_QUOTE_AUTHOR_WONDER_SERPENT_MOUND", "en_sha": "7b84d33a8d08", "status": "draft", "th": "เทนสกวาทาวา"}
+{"tag": "LOC_QUOTE_WONDER_SERPENT_MOUND", "en_sha": "4a1426efbdfe", "status": "draft", "th": "พระผู้สร้างทรงขับขานแก่เราผ่านสายลมและสายน้ำที่ไหลริน ผ่านเสียงนกร้องและเสียงหัวเราะของเด็ก ๆ และทรงสอนดนตรีแก่เรา"}
+{"tag": "LOC_RIVER_KILEKINIKA_FIPI_NAME", "en_sha": "bd2de19f8d9d", "status": "draft", "th": "คิเลคินิคาฟีปี"}
+{"tag": "LOC_RIVER_K_TEKANI_FIPI_NAME", "en_sha": "a4d4fb9d1750", "status": "draft", "th": "คเตกานีฟีปี"}
+{"tag": "LOC_RIVER_M_SIFIPIWIKI_NAME", "en_sha": "14cce210029c", "status": "draft", "th": "มซิฟิปิวิกี"}
+{"tag": "LOC_RIVER_PELEWA_FIPI_NAME", "en_sha": "dfb06c8fe1a1", "status": "draft", "th": "เปเลวาฟีปี"}
+{"tag": "LOC_RIVER_P_SIKFI_FIPI_NAME", "en_sha": "7c741fa09c52", "status": "draft", "th": "พซิกฟีฟีปี"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_1_DESCRIPTION", "en_sha": "13a9b8dc26d5", "status": "draft", "th": "ในฐานะเทคัมเซห์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_1_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_2_DESCRIPTION", "en_sha": "e5d0cb36b9e6", "status": "draft", "th": "ในฐานะเทคัมเซห์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางเรือ"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_EXPLORATION_2_NAME", "en_sha": "cac1bdd6013a", "status": "draft", "th": "การอุทิศทางการทูต ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_MODERN_1_DESCRIPTION", "en_sha": "78e91a61f791", "status": "draft", "th": "ในฐานะเทคัมเซห์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_MODERN_1_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_MODERN_2_DESCRIPTION", "en_sha": "075283b6a865", "status": "draft", "th": "ในฐานะเทคัมเซห์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางอากาศ"}
+{"tag": "LOC_STRATEGYCARD_TECUMSEH_MODERN_2_NAME", "en_sha": "79f5438c1d7d", "status": "draft", "th": "การอุทิศทางการทูต ยุคสมัยใหม่"}
+{"tag": "LOC_TECUMSEH_MOD_SUZERAIN_COMBAT_DESCRIPTION", "en_sha": "6e7ceb901c61", "status": "draft", "th": "+{1_Amount} นิจาอากิยากูลาอัคเว"}
+{"tag": "LOC_TITLE_TECUMSEH_NAME", "en_sha": "5592325dc3fc", "status": "draft", "th": "หัวหน้าเผ่า"}
+{"tag": "LOC_TOT_30031A_COMPLETION", "en_sha": "181cf3b755c8", "status": "draft", "th": "หัวหน้าเผ่าสองคนพร้อมนักรบขนาบข้างก้าวเข้าสู่เรือนประชุม ขณะที่คณะผู้แทนชอว์นีเฝ้ามอง ภายใต้สายตาของชาวชอว์นี ความคับข้องใจถูกระบายออกมาด้วยน้ำเสียงตึงเครียดแต่ยั้งคิด นักการทูตชอว์นีเสนอข้อเสนอว่า จงรวมกันเป็นหนึ่ง เพราะยังมีภัยคุกคามที่ใหญ่หลวงกว่าเพื่อนบ้านของตน"}
+{"tag": "LOC_TOT_30031A_STORYTITLE", "en_sha": "5fcadc89636c", "status": "draft", "th": "ชิลิโคเฟ"}
+{"tag": "LOC_TOT_30031B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_TOT_30031B_NAME", "en_sha": "f79bb842ce03", "status": "draft", "th": "ความพยายามเช่นนี้จะได้ผลดีขึ้นมากหากมีคณะนักการทูต"}
+{"tag": "LOC_TOT_30031C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_TOT_30031C_NAME", "en_sha": "93d8ab84c12f", "status": "draft", "th": "นักการทูตชอว์นีให้คำแนะนำได้ แต่ไม่มากไปกว่านั้น"}
+{"tag": "LOC_TOT_30074A_COMPLETION", "en_sha": "fa902c0cb217", "status": "draft", "th": "นักการทูตชาวชอว์นีผู้มีชื่อเสียงคนหนึ่งเสนอให้จัดตั้งสมัชชา รัฐที่ด้อยกว่าจะได้มาประชุมและระบายความคับข้องใจภายใต้การคุ้มครองของชอว์นี โดยปราศจากการแทรกแซงของมหาอำนาจ นักเศรษฐศาสตร์ชาวชอว์นีมองว่านี่คือโอกาสในการก่อตั้งสันนิบาตการค้า หรือกระทั่งตลาดหลักทรัพย์ชอว์นี"}
+{"tag": "LOC_TOT_30074A_STORYTITLE", "en_sha": "e4296a3fb8c6", "status": "draft", "th": "สันนิบาตชอว์นี"}
+{"tag": "LOC_TOT_30074B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_TOT_30074B_NAME", "en_sha": "2331311ec379", "status": "draft", "th": "การทูตที่สมเหตุสมผลมักไม่เดินตามผลประโยชน์ทางเศรษฐกิจ"}
+{"tag": "LOC_TOT_30074C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_TOT_30074C_NAME", "en_sha": "e66662544776", "status": "draft", "th": "การทูตที่สมเหตุสมผลย่อมเดินตามผลประโยชน์ทางเศรษฐกิจเสมอ"}
+{"tag": "LOC_TRADITION_BREAD_DANCE_II_DESCRIPTION", "en_sha": "cb708ff2257f", "status": "draft", "th": "[B]+8 [icon:YIELD_CULTURE][/B] ใน [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมืองเกษตรกรรม[/TIP]และ [B]+8 [icon:YIELD_FOOD][/B] ใน [icon:YIELD_TOWNS] เมืองประมง"}
+{"tag": "LOC_TRADITION_BREAD_DANCE_II_NAME", "en_sha": "636c82bfc872", "status": "draft", "th": "ระบำขนมปัง II"}
+{"tag": "LOC_TRADITION_BREAD_DANCE_I_DESCRIPTION", "en_sha": "a5f04cd1ef8f", "status": "draft", "th": "[B]+4 [icon:YIELD_CULTURE][/B] ใน [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมืองเกษตรกรรม[/TIP]และ [B]+4 [icon:YIELD_FOOD][/B] ใน [icon:YIELD_TOWNS] เมืองประมง"}
+{"tag": "LOC_TRADITION_BREAD_DANCE_I_NAME", "en_sha": "ff140a2d13dc", "status": "draft", "th": "ระบำขนมปัง I"}
+{"tag": "LOC_TRADITION_HELIKHILENAWEWIPE_II_DESCRIPTION", "en_sha": "4a55398c2d50", "status": "draft", "th": "[B]+50% [icon:YIELD_DIPLOMACY][/B] สำหรับการเริ่มและดำเนิน[icon:DEFAULT_PROJECT] [TIP:LOC_PEDIA_CONCEPTS_PROJECTS_TOOLTIP]โครงการ[/TIP] [icon:PROJECT] ผูกมิตรกับขั้วอำนาจอิสระ"}
+{"tag": "LOC_TRADITION_HELIKHILENAWEWIPE_II_NAME", "en_sha": "2add9d6b3c1e", "status": "draft", "th": "เฮลิคีเลนาเววิเป II"}
+{"tag": "LOC_TRADITION_HELIKHILENAWEWIPE_I_DESCRIPTION", "en_sha": "35b3448bbec4", "status": "draft", "th": "[B]+33% [icon:YIELD_DIPLOMACY][/B] สำหรับการเริ่มและดำเนิน[icon:DEFAULT_PROJECT] [TIP:LOC_PEDIA_CONCEPTS_PROJECTS_TOOLTIP]โครงการ[/TIP] [icon:PROJECT] ผูกมิตรกับขั้วอำนาจอิสระ"}
+{"tag": "LOC_TRADITION_HELIKHILENAWEWIPE_I_NAME", "en_sha": "f47cedd7b417", "status": "draft", "th": "เฮลิคีเลนาเววิเป I"}
+{"tag": "LOC_TRADITION_KAKAWFE_PAFKOTAWETA_DESCRIPTION", "en_sha": "2bd420afce29", "status": "draft", "th": "[B]+1 [icon:YIELD_CULTURE][/B] และ [B]+2 [icon:YIELD_GOLD][/B] ต่อทุกครั้งที่พายุ น้ำท่วม หรือภูเขาไฟปะทุมอบความอุดมสมบูรณ์ใน[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]นี้[TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]และ [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]จะไม่ [icon:DAMAGED] ได้รับความเสียหายจากพายุ"}
+{"tag": "LOC_TRADITION_KAKAWFE_PAFKOTAWETA_NAME", "en_sha": "79a7306b31bb", "status": "draft", "th": "คากอว์เฟ ปาฟโกตาเวตา"}
+{"tag": "LOC_TRADITION_NIWIITIKEEMEKONAAKI_DESCRIPTION", "en_sha": "acf80cc1e674", "status": "draft", "th": "[B]+1 [icon:YIELD_CULTURE][/B] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ที่อยู่บน [icon:CITY_RURAL] มาวาสกาเว สโกเต ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_TRADITION_NIWIITIKEEMEKONAAKI_II_DESCRIPTION", "en_sha": "fcd4dcaf241a", "status": "draft", "th": "[B]+2 [icon:YIELD_CULTURE][/B] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ที่อยู่บน [icon:CITY_RURAL] มาวาสกาเว สโกเต ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_TRADITION_NIWIITIKEEMEKONAAKI_II_NAME", "en_sha": "ae6a71c90dba", "status": "draft", "th": "นิวีติกีเมโกนากิ II"}
+{"tag": "LOC_TRADITION_NIWIITIKEEMEKONAAKI_NAME", "en_sha": "e223929a5e78", "status": "draft", "th": "นิวีติกีเมโกนากิ I"}
+{"tag": "LOC_TRADITION_SHAWNEE_SYNCRETISM_ANTIQUITY_DESCRIPTION", "en_sha": "93e71ff251d8", "status": "draft", "th": "[B]+1 [icon:YIELD_DIPLOMACY][/B] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ที่อยู่ติด[TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]แม่น้ำที่เดินเรือได้[/TIP] [B]+2 [icon:YIELD_GOLD][/B] ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_TRADITION_SHAWNEE_SYNCRETISM_ANTIQUITY_NAME", "en_sha": "cc7844f933bf", "status": "draft", "th": "ของกำนัลเชิงยุทธศาสตร์ I"}
+{"tag": "LOC_TRADITION_SHAWNEE_SYNCRETISM_MODERN_DESCRIPTION", "en_sha": "27e2b7e85d22", "status": "draft", "th": "[B]+2 [icon:YIELD_DIPLOMACY][/B] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ที่อยู่ติด[TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]แม่น้ำที่เดินเรือได้[/TIP] [B]+4 [icon:YIELD_GOLD][/B] ต่อ [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]แต่ละแห่งที่คุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
+{"tag": "LOC_TRADITION_SHAWNEE_SYNCRETISM_MODERN_NAME", "en_sha": "0b1d10af3682", "status": "draft", "th": "ของกำนัลเชิงยุทธศาสตร์ II"}
+{"tag": "LOC_TRADITION_SHAWNEE_SYNCRETISM_TOOLTIP", "en_sha": "021a3ec0bb55", "status": "draft", "th": "ของกำนัลเชิงยุทธศาสตร์"}
+{"tag": "LOC_TRADITION_TAKESIYAKE_YEPEPOKI_DESCRIPTION", "en_sha": "cd31243a6c09", "status": "draft", "th": "[B]+2 [icon:YIELD_PRODUCTION][/B] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน [icon:CITY_UNIMPROVED] ภูมิประเทศทุนดรา ทะเลทราย และที่ราบใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ค่าเหล่านี้จะเพิ่มเป็น 2 เท่าหากช่องนั้นเป็นภูมิประเทศ[TIP:LOC_PEDIA_CONCEPTS_NAVIGABLE_RIVER_TOOLTIP]แม่น้ำที่เดินเรือได้[/TIP]ด้วย"}
+{"tag": "LOC_TRADITION_TAKESIYAKE_YEPEPOKI_NAME", "en_sha": "7061ad4ec084", "status": "draft", "th": "ทาเกซียาเก เยเปโปกิ"}
+{"tag": "LOC_TRAIT_LEADER_TECUMSEH_ABILITY_DESCRIPTION", "en_sha": "6feff73dff10", "status": "draft", "th": "[BLIST][LI][B]+1 [icon:YIELD_FOOD] อาหาร[/B]ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน[B][icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP][/B] และ [B]+1 [icon:YIELD_PRODUCTION] การผลิต[/B]ต่อยุคใน[B][icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP][/B] ต่อ[B][icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B]แต่ละแห่งที่คุณเป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B][LI][B]+1 [icon:NAR_REW_COMBAT] พลังการรบ[/B]สำหรับ[B][TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP][/B]และ[B][TIP:LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP]ยูนิตระยะไกล[/TIP][/B]ทั้งหมด ต่อ[B][icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B]แต่ละแห่งที่คุณเป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B][LI][B]+2 [icon:MILITARY_VP] [TIP:LOC_PEDIA_CONCEPTS_DOMINION_TOOLTIP]อำนาจครอบครอง[/TIP][/B] ต่อ[B][icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B]แต่ละแห่งที่คุณเป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B][LI][B][icon:INDEPENDENT_POWER] [TIP:LOC_PEDIA_CONCEPTS_INDEPENDENT_POWER_TOOLTIP]ขั้วอำนาจอิสระ[/TIP][/B]ทั้งหมดเริ่มต้นด้วยท่าที[B][icon:PLAYER_RELATIONSHIP_FRIENDLY] เป็นมิตร[/B]กับคุณ[/BLIST]"}
+{"tag": "LOC_TRAIT_LEADER_TECUMSEH_ABILITY_NAME", "en_sha": "868908931108", "status": "draft", "th": "นิจาอากิยากูลาอัคเว"}
+{"tag": "LOC_TRAIT_SHAWNEE_ABILITY_AQ_DESCRIPTION", "en_sha": "ecd110dfa6ea", "status": "draft", "th": "[BLIST][LI][B]+1 [icon:YIELD_FOOD] อาหาร[/B] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]และ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ที่อยู่บน [icon:CITY_UNIMPROVED] [B]ภูมิประเทศแม่น้ำสายเล็กและแม่น้ำที่เดินเรือได้[/B]ใน[B][TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP][/B]ที่อยู่ติดกับ[B]แม่น้ำที่เดินเรือได้[/B][/BLIST]"}
+{"tag": "LOC_TRAIT_SHAWNEE_ABILITY_EX_DESCRIPTION", "en_sha": "fa0b27a96769", "status": "draft", "th": "[BLIST][LI][B]+2 [icon:YIELD_FOOD] อาหาร[/B] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]และ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ที่อยู่บน [icon:CITY_UNIMPROVED] [B]ภูมิประเทศแม่น้ำสายเล็กและแม่น้ำที่เดินเรือได้[/B]ใน[B][TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP][/B]ที่อยู่ติดกับ[B]แม่น้ำที่เดินเรือได้[/B][LI][B]+1 [icon:RADIAL_RESOURCES] ความจุทรัพยากร[/B]ใน[B][icon:NOTIFICATION_SELECT_CAPITAL] นครหลวง[/B] ต่อ[B][icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B]แต่ละแห่งที่คุณเป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B][LI][B]+30%[icon:YIELD_PRODUCTION] การผลิต[/B] ในการสร้าง[B]เนินงู[/B][/BLIST]"}
+{"tag": "LOC_TRAIT_SHAWNEE_ABILITY_MO_DESCRIPTION", "en_sha": "4a9f4eafd51a", "status": "draft", "th": "[BLIST][LI][B]+3 [icon:YIELD_FOOD] อาหาร[/B] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]และ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ที่อยู่บน [icon:CITY_UNIMPROVED] [B]ภูมิประเทศแม่น้ำสายเล็กและแม่น้ำที่เดินเรือได้[/B]ใน[B][TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP][/B]ที่อยู่ติดกับ[B]แม่น้ำที่เดินเรือได้[/B][LI][B]+1 [icon:RADIAL_RESOURCES] ความจุทรัพยากร[/B]ใน[B][icon:NOTIFICATION_SELECT_CAPITAL] นครหลวง[/B] ต่อ[B][icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B]แต่ละแห่งที่คุณเป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B][/BLIST]"}
+{"tag": "LOC_TRAIT_SHAWNEE_ABILITY_NAME", "en_sha": "90eaeb48969a", "status": "draft", "th": "เนเปกิฟากิ"}
+{"tag": "LOC_TREE_CIVICS_EX_SHAWNEE_NAME", "en_sha": "0935520b9e60", "status": "draft", "th": "หลักการพลเมืองชอว์นี"}
+{"tag": "LOC_UNIT_HOCEEPKILENI_DESCRIPTION", "en_sha": "6ba76edb7457", "status": "draft", "th": "มิชชันนารีเฉพาะตัวของชอว์นี +1 [icon:Action_Move] การเคลื่อนที่ การข้ามแม่น้ำไม่ทำให้[icon:Action_Move] การเคลื่อนที่ของยูนิตนี้สิ้นสุดลง"}
+{"tag": "LOC_UNIT_HOCEEPKILENI_NAME", "en_sha": "7825f91b578d", "status": "draft", "th": "โฮซีปคิเลนี"}
+{"tag": "LOC_UNIT_KISPOKO_NENA_TO_2_DESCRIPTION", "en_sha": "2def59833baa", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 2 ของชอว์นี +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ต่อ[icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]ที่ไม่ซ้ำกันแต่ละชนิด"}
+{"tag": "LOC_UNIT_KISPOKO_NENA_TO_3_DESCRIPTION", "en_sha": "5460503e392d", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 3 ของชอว์นี +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ต่อ[icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]ที่ไม่ซ้ำกันแต่ละชนิด"}
+{"tag": "LOC_UNIT_KISPOKO_NENA_TO_BASE_DESCRIPTION", "en_sha": "41476a1b733a", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวของชอว์นี +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ต่อ[icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]ที่ไม่ซ้ำกันแต่ละชนิด"}
+{"tag": "LOC_UNIT_KISPOKO_NENA_TO_DESCRIPTION", "en_sha": "38f0b9f35668", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 1 ของชอว์นี +1 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ต่อ[icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]ที่ไม่ซ้ำกันแต่ละชนิด"}
+{"tag": "LOC_UNIT_KISPOKO_NENA_TO_NAME", "en_sha": "aac7da3c5dbf", "status": "draft", "th": "คิสโปโก เนนาโต"}
+{"tag": "LOC_UNLOCK_CITY_STATES_DESCRIPTION", "en_sha": "b62a4c1d5f55", "status": "draft", "th": "เป็น[B][TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP][/B]ของ[B][TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP][/B] 2 แห่ง"}
+{"tag": "LOC_UNLOCK_CITY_STATES_NARRATIVE", "en_sha": "2295876bae3e", "status": "draft", "th": "อำนาจในดินแดนของ{1_Civilization_Adj} มิได้ถือกำเนิดจากพระราชวังเพียงแห่งเดียว หากแต่มาจากเครือข่ายพันธมิตรทางการทูตที่มาบรรจบกัน ณ ที่แห่งนั้น คำสอนของศาสดาเทนสกวาทาวาเริ่มแพร่หลายในหมู่ผู้คนที่เดินทางไปมาระหว่างนครรัฐกับนครของ{1_Civilization_Adj} อันเป็นบทเรียนแห่งความสามัคคีเมื่อต้องเผชิญความเปลี่ยนแปลง"}
+{"tag": "LOC_UNLOCK_CITY_STATES_TOOLTIP", "en_sha": "e68e0066ec39", "status": "draft", "th": "[B]ชอว์นี[/B]เป็นมิตรกับชาติเล็ก ๆ จำนวนมาก"}
+{"tag": "LOC_UNLOCK_CITY_STATES_UNLOCK", "en_sha": "7315054aae19", "status": "draft", "th": "คุณได้ปลดล็อกชอว์นีด้วยการเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]ของ[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP] 2 แห่ง"}
+{"tag": "LOC_UNLOCK_HIDES_DESCRIPTION", "en_sha": "90f5f308d503", "status": "draft", "th": "ปรับปรุง[B]หนังสัตว์[/B] 3 แห่ง"}
+{"tag": "LOC_UNLOCK_HIDES_NARRATIVE", "en_sha": "e55c76645c7c", "status": "draft", "th": "นายพรานดักสัตว์จากป่าเข้าสู่นครยามรุ่งอรุณ แบกหนังสัตว์ที่ฟอกและขึงไว้แล้วเพื่อนำไปขายในตลาด บางครั้งพ่อค้าที่กระหายการค้าก็ออกมาดักพบพวกเขาถึงนอกประตูนคร - หนังสัตว์ได้กลายเป็นสิ่งสำคัญยิ่งต่อเศรษฐกิจของ{1_Civilization_Adj}... เช่นเดียวกับผู้ที่จัดหามันมา"}
+{"tag": "LOC_UNLOCK_HIDES_TOOLTIP", "en_sha": "232fa16f5fa8", "status": "draft", "th": "[B]หนังสัตว์[/B]เป็นสินค้าสำคัญของ[B]ชอว์นี[/B]"}
+{"tag": "LOC_UNLOCK_HIDES_UNLOCK", "en_sha": "0c756c0766f3", "status": "draft", "th": "คุณได้ปลดล็อกชอว์นีด้วยการปรับปรุงทรัพยากรหนังสัตว์ 3 แห่ง"}
+{"tag": "LOC_UNLOCK_PLAY_AS_MISSISSIPPI_SHAWNEE_DESCRIPTION", "en_sha": "580a82153df4", "status": "draft", "th": "[B]ชาวมิสซิสซิปเปียน [/B] อยู่ร่วมสมัยกับบรรพบุรุษของ [B]ชาวชอว์นี [/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_SHAWNEE_AMERICA_TOOLTIP", "en_sha": "683c6ef8e53c", "status": "draft", "th": "[B]ชอว์นี[/B] มาจากทวีปเดียวกับ [B]อเมริกา[/b]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_SHAWNEE_DESCRIPTION", "en_sha": "9ac9391b4317", "status": "draft", "th": "เล่นเป็น [B]ชอว์นี[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_SHAWNEE_MEXICO_TOOLTIP", "en_sha": "858bab11aa91", "status": "draft", "th": "[B]ชอว์นี[/B] มาจากทวีปเดียวกับ [B]เม็กซิโก[/b]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_SHAWNEE_SHAWNEE_TOOLTIP", "en_sha": "cc79bf788bf6", "status": "draft", "th": "[B]ชอว์นี[/B] สามารถยืนหยัดอยู่ได้ตลอดทุกยุค"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_AMERICA_TOOLTIP", "en_sha": "5e09af17d9a4", "status": "draft", "th": "[B]เทคัมเซห์[/B] อาศัยอยู่ในดินแดนที่ต่อมาถูกยึดครองโดย [B]อเมริกา[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_DESCRIPTION", "en_sha": "dcacb9e36cce", "status": "draft", "th": "เล่นเป็น [B]เทคัมเซห์[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_HAWAII_TOOLTIP", "en_sha": "1bb400819809", "status": "draft", "th": "\n\t\t\t\t[B]เทคัมเซห์[/B] เป็นชนพื้นเมืองแห่งทวีปอเมริกา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_MEXICO_TOOLTIP", "en_sha": "8ed49eb3533f", "status": "draft", "th": "[B]เทคัมเซห์[/B] มาจากอเมริกาเหนือ"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_MISSISSIPPIAN_TOOLTIP", "en_sha": "f8a5e7339095", "status": "draft", "th": "บรรพบุรุษของ [B]เทคัมเซห์[/B] เป็นเพื่อนบ้านของ [B]ชาวมิสซิสซิปเปียน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_TECUMSEH_TOOLTIP", "en_sha": "7f02121af7f3", "status": "draft", "th": "[B]เทคัมเซห์[/B] นำ [B]ชอว์นี[/B]"}
+{"tag": "LOC_VICTORY_LEADER_TECUMSEH", "en_sha": "8b47d1295d6a", "status": "draft", "th": "วิญญาณนำเรามาถึงที่นี่ สัตว์ป่าและผืนดินอันอุดมจะทำให้เรารุ่งเรือง"}
+{"tag": "LOC_WONDER_SERPENT_MOUND_DESCRIPTION", "en_sha": "bfac8c62808f", "status": "draft", "th": "+4 [icon:YIELD_DIPLOMACY] +3 [icon:YIELD_SCIENCE] และ +2 [icon:YIELD_PRODUCTION] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุงเฉพาะตัว[/TIP]ทั้งหมดใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]ต้องวางบนทุ่งหญ้า"}
+{"tag": "LOC_WONDER_SERPENT_MOUND_NAME", "en_sha": "47c9d9966553", "status": "draft", "th": "เนินงู"}
+{"tag": "LOC_WONDER_SERPENT_MOUND_TOOLTIP", "en_sha": "9e0ee48b339d", "status": "draft", "th": "+3 [icon:YIELD_SCIENCE] และ +2 [icon:YIELD_PRODUCTION] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุงเฉพาะตัว[/TIP]ทั้งหมดใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้[N]ต้องวางบนทุ่งหญ้า"}

@@ -1,0 +1,426 @@
+{"tag": "LOC_10105A_COMPLETION", "en_sha": "d58968d5199d", "status": "draft", "th": "ในสายตาของอเล็กซานเดอร์ เจงกิสข่านนักขี่ม้าเป็นคนน่ารังเกียจและหยิ่งยโส ทัพม้าของเขาปล้นสะดมไปทั่วแผ่นดินราวกับเป็นของตน ต้องยอมรับว่าม้าของพวกเขาเป็นสายพันธุ์แท้และว่องไว น่าเสียดายที่ผู้ขี่เป็นพวกอนารยชน"}
+{"tag": "LOC_10105A_STORYTITLE", "en_sha": "3870d69ebfd9", "status": "draft", "th": "ผู้พิชิตมีได้เพียงหนึ่ง"}
+{"tag": "LOC_10105C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10105C_NAME", "en_sha": "eec097268633", "status": "draft", "th": "ม้ารับใช้นายได้ทุกคน"}
+{"tag": "LOC_10106B_COMPLETION", "en_sha": "abbcceed1495", "status": "draft", "th": "โลกนี้มีที่ว่างให้ผู้พิชิตเพียงผู้เดียว"}
+{"tag": "LOC_10106B_DESCRIPTION", "en_sha": "866b28657b89", "status": "draft", "th": "ผู้บัญชาการที่มีระดับสูงสุดได้รับการเลื่อนขั้นยุทธวิธีจู่โจมฉับพลัน (หรือได้รับค่าประสบการณ์มากพอที่จะเลื่อนระดับ)"}
+{"tag": "LOC_10106B_IMPERATIVE", "en_sha": "7105175dd1ca", "status": "draft", "th": "พิชิตถิ่นฐานจากเจงกิสข่าน"}
+{"tag": "LOC_10106B_NAME", "en_sha": "817b9510e415", "status": "draft", "th": "สั่งสอนให้รู้ที่ทางของตน"}
+{"tag": "LOC_10106B_STORYTITLE", "en_sha": "3870d69ebfd9", "status": "draft", "th": "ผู้พิชิตมีได้เพียงหนึ่ง"}
+{"tag": "LOC_10107A_COMPLETION", "en_sha": "7a4d35c9ae1d", "status": "draft", "th": "สุราไหลรินในงานเลี้ยงขณะที่นักคิดชาว {1_CIVILIZATION_ADJ} ถกเถียงถึงความก้าวหน้าล่าสุดด้านการเขียน นักปราชญ์ผู้หนึ่งเสนอว่ามันอาจเป็นรูปแบบสำหรับบันทึกเรื่องราวของวีรบุรุษชาว {2_CIVILIZATION_ADJ} หรือแม้แต่ของอเล็กซานเดอร์เอง กวีตาบอดผู้หนึ่งขับขานอยู่ที่มุมห้อง ริมฝีปากแย้มยิ้ม"}
+{"tag": "LOC_10107A_STORYTITLE", "en_sha": "c67cd92fd28b", "status": "draft", "th": "กวีตาบอด"}
+{"tag": "LOC_10107B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10107B_NAME", "en_sha": "950e085e087c", "status": "draft", "th": "นำนักเขียนไปด้วยในการทัพครั้งต่อไป"}
+{"tag": "LOC_10107C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10107C_NAME", "en_sha": "eb85f76e8c0e", "status": "draft", "th": "การเขียนเป็นเครื่องมือของพ่อค้า"}
+{"tag": "LOC_10107D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10107D_NAME", "en_sha": "989c4aadbf08", "status": "draft", "th": "ว่าจ้างให้คัดลอกเรื่องเล่าของกวี"}
+{"tag": "LOC_10108A_COMPLETION", "en_sha": "89b7f8702e9d", "status": "draft", "th": "การทัพครั้งนี้หนักหนาสาหัส และกองทัพของอเล็กซานเดอร์ดูพร้อมจะก่อกบฏได้ทุกเมื่อ ตลอดสงคราม หญิงท้องถิ่นจำนวนมากได้เข้ามาอยู่ในค่าย ทว่าการศึกไม่เหลือที่ว่างให้การเฉลิมฉลอง บางทีค่ำคืนแห่งความรื่นเริงสักคืนอาจเยียวยาจิตใจที่อ่อนล้าจากสงครามของพวกเขาได้"}
+{"tag": "LOC_10108A_STORYTITLE", "en_sha": "201c29505b2e", "status": "draft", "th": "ปลุกขวัญกำลังใจ"}
+{"tag": "LOC_10108B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10108B_NAME", "en_sha": "0ae1eff6a294", "status": "draft", "th": "ให้ทุกคนที่ประสงค์ได้แต่งงาน เปิดถังเหล้าเลย!"}
+{"tag": "LOC_10108C_DESCRIPTION", "en_sha": "c2457bf3eede", "status": "draft", "th": "{1_reward} แก่ยูนิตทหารม้า แต่ยูนิตทหารม้าทั้งหมดได้รับความเสียหาย 33"}
+{"tag": "LOC_10108C_NAME", "en_sha": "2c59c1be9d77", "status": "draft", "th": "พวกเขารอมาได้นานถึงเพียงนี้แล้ว เดินทัพต่อไป"}
+{"tag": "LOC_10109A_COMPLETION", "en_sha": "bfdcf32493bc", "status": "draft", "th": "อาชาฝีเท้าเร็วและสำริดแวววาวคือเครื่องหมายของเฮไทรอยขณะที่พวกเขาบุกทะลวงข้ามสนามรบ สร้างความปั่นป่วนแก่แนวรบข้าศึก ม้าของ {1_CIVILIZATION_ADJ} เป็นสายพันธุ์ชั้นเลิศ คู่ควรกับนักรบชั้นยอดที่ขี่มัน ไม่มีแม่ทัพผู้ใดอ้างได้ว่ามีกองกำลังที่ภักดีเช่นนี้"}
+{"tag": "LOC_10109A_STORYTITLE", "en_sha": "687de5e95366", "status": "draft", "th": "เหล่าสหายศึก"}
+{"tag": "LOC_10109B_DESCRIPTION", "en_sha": "68e678f258f9", "status": "draft", "th": "+5 การรักษาแก่ยูนิตทหารม้า"}
+{"tag": "LOC_10109B_NAME", "en_sha": "5f2e7eac7666", "status": "draft", "th": "ม้าคือสหายที่ใกล้ชิดที่สุดของบุรุษ"}
+{"tag": "LOC_10109C_DESCRIPTION", "en_sha": "750fee5ba664", "status": "draft", "th": "{1_reward} แก่ผู้บัญชาการทั้งหมดที่มีอยู่ในปัจจุบัน"}
+{"tag": "LOC_10109C_NAME", "en_sha": "8296cf4d9512", "status": "draft", "th": "ร่วมขี่ม้าไปกับผู้ที่ไว้ใจได้เท่านั้น"}
+{"tag": "LOC_10110A_COMPLETION", "en_sha": "df687517dbe5", "status": "draft", "th": "มีข่าวลือหนาหูว่าไม่มีสิ่งใดทำร้ายอเล็กซานเดอร์ได้ ศึกแล้วศึกเล่า เขารอดพ้นจากการโจมตีที่ถึงตายและฟื้นตัวจากบาดแผลได้อย่างรวดเร็ว ดวงตาของกอร์กอนบนโล่ของเขาเป็นประกายราวกับมีชีวิต เหล่าทหารต่างรอคอยการรบครั้งต่อไปอย่างกระตือรือร้น แม้บางคนจะลอบมองกอร์กอนอยู่ห่าง ๆ"}
+{"tag": "LOC_10110A_STORYTITLE", "en_sha": "79d2d011913c", "status": "draft", "th": "โล่อีจิสอันประหลาด"}
+{"tag": "LOC_10110B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10110B_NAME", "en_sha": "ed43d8035710", "status": "draft", "th": "ของประทานจากสวรรค์เช่นนี้คือเครื่องหมายของวีรบุรุษแท้"}
+{"tag": "LOC_10110C_DESCRIPTION", "en_sha": "1e7ac85f370d", "status": "draft", "th": "{1_reward} แก่ยูนิตทหารม้า"}
+{"tag": "LOC_10110C_NAME", "en_sha": "69525a552ba1", "status": "draft", "th": "ถวายเครื่องสังเวยเพื่อโชคลาภที่มากขึ้น"}
+{"tag": "LOC_10111A_COMPLETION", "en_sha": "975a20751e80", "status": "draft", "th": "ถิ่นฐานกรีกแห่งสุดท้ายได้ล่มสลายลงแล้ว นักปราชญ์และเพื่อนร่วมชาติของนครนั้นบัดนี้ต้องขึ้นต่ออเล็กซานเดอร์ ผู้คนของนครหายไปในทะเลแห่งใบหน้าชาว {1_CIVILIZATION_ADJ} ทุกสิ่งย่อมสิ้นสุดลงตามกาลเวลา ทว่าโลกดูราวกับถอนหายใจให้กับสิ่งที่อาจเคยเป็นไปได้"}
+{"tag": "LOC_10111A_STORYTITLE", "en_sha": "a662ee1b0259", "status": "draft", "th": "อวสานแห่งเฮลลาส"}
+{"tag": "LOC_10111B_DESCRIPTION", "en_sha": "414d420d020e", "status": "draft", "th": "{1_STORY_CITY} กลายเป็นนครหลวงของคุณและความไม่สงบถูกขจัด {2_Capital} กลายเป็นนครหากเงื่อนไขอนุญาต"}
+{"tag": "LOC_10111B_NAME", "en_sha": "eb8c29e41683", "status": "draft", "th": "เฮลลาสจะเป็นหัวใจดวงใหม่ของอาณาจักร"}
+{"tag": "LOC_10111C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10111C_NAME", "en_sha": "8c4e700c9651", "status": "draft", "th": "นำหินอ่อนไปใช้ประโยชน์เพื่อความต้องการของ {1_CIVILIZATION_ADJ} ได้"}
+{"tag": "LOC_10111D_DESCRIPTION", "en_sha": "4412dd3b4c9e", "status": "draft", "th": "+1 ฮอปไลต์ระดับ 2 ใน {1_STORY_CITY}"}
+{"tag": "LOC_10111D_NAME", "en_sha": "f3cf095f3ee9", "status": "draft", "th": "รวมชาวกรีกเข้าเป็นส่วนหนึ่งของกองทัพ"}
+{"tag": "LOC_10112A_COMPLETION", "en_sha": "914434a51d35", "status": "draft", "th": "หอกซาริสซายาวเหยียดของกองฟาแลงซ์ของอเล็กซานเดอร์อาจดูเทอะทะในสายตาคนนอก แต่แม้แต่ทหารฮอปไลต์กรีกผู้เลื่องชื่อก็ยังพ่ายแพ้ต่อระยะของมัน โล่ยาวของพวกเขาไม่อาจต้านแรงกดดันจากแถวหอกที่เรียงซ้อนกันได้ และแม้แต่ชาวกรีกก็ยังรู้สึกหวาดกลัว"}
+{"tag": "LOC_10112A_STORYTITLE", "en_sha": "0fb3c706e907", "status": "draft", "th": "จากฟาแลงซ์สู่ฟาแลงซ์"}
+{"tag": "LOC_10112B_DESCRIPTION", "en_sha": "76874cde92c2", "status": "draft", "th": "{1_reward} แก่ยูนิตทหารราบ"}
+{"tag": "LOC_10112B_NAME", "en_sha": "017aa1d69d4c", "status": "draft", "th": "เมื่อชาวกรีกล่มสลาย ก็แทบไม่มีสิ่งใดสูญเสีย"}
+{"tag": "LOC_10112C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10112C_NAME", "en_sha": "5018015a658e", "status": "draft", "th": "อย่างน้อยบทกวีของพวกเขาก็ควรค่าแก่การรักษาไว้"}
+{"tag": "LOC_10113A_COMPLETION", "en_sha": "5ba9ed6b0ef8", "status": "draft", "th": "กษัตริย์และอาจารย์ของพระองค์เดินไปตามทางเดินแห่งอะโครโพลิส ถกกันในประเด็นที่เห็นต่าง อริสโตเติลยืนยันว่ามนุษย์ควรทั้งปกครองและถูกปกครองเสมอกัน แม้ผู้ที่มิใช่ชาวกรีกจะเหมาะที่สุดที่จะอยู่ใต้การปกครองของกษัตริย์กรีกผู้เหนือกว่า อเล็กซานเดอร์ใคร่ครวญถึงหนทางที่ดีที่สุดสำหรับผู้ที่ปรารถนาจะปกครองทุกสิ่ง"}
+{"tag": "LOC_10113A_STORYTITLE", "en_sha": "5c1276f38816", "status": "draft", "th": "ว่าด้วยความเป็นกษัตริย์"}
+{"tag": "LOC_10113B_DESCRIPTION", "en_sha": "8f251b55e586", "status": "draft", "th": "{1_reward} บนอะโครโพลิส"}
+{"tag": "LOC_10113B_NAME", "en_sha": "62daa6856386", "status": "draft", "th": "โลกนี้มีชาวกรีก และมีพวกอนารยชน"}
+{"tag": "LOC_10113C_DESCRIPTION", "en_sha": "da0f120fd62c", "status": "draft", "th": "{1_reward} ในถิ่นฐานที่ยึดได้ในยุคนี้"}
+{"tag": "LOC_10113C_NAME", "en_sha": "ed8e0a15b5d8", "status": "draft", "th": "มวลมนุษย์ล้วนเกิดและตายเหมือนกัน"}
+{"tag": "LOC_10114A_COMPLETION", "en_sha": "83b22b692ac0", "status": "draft", "th": "ที่แท้เซอร์ซีสผู้นี้ก็คือผู้ปกครองที่ฟุ้งเฟ้อและเสื่อมทราม ผู้อ้างตนเป็นราชาเหนือพวกอนารยชนนับไม่ถ้วน เขาดูใส่ใจเครื่องทรงมากกว่าการป้องกัน ใส่ใจมงกุฎมากกว่าราชอาณาจักร อเล็กซานเดอร์เคยหวังว่าจะได้พบศัตรูที่คู่ควร"}
+{"tag": "LOC_10114A_STORYTITLE", "en_sha": "0b725e7ab770", "status": "draft", "th": "ราชาแห่งความรื่นเริง"}
+{"tag": "LOC_10114B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10114B_NAME", "en_sha": "6243f56f2cdf", "status": "draft", "th": "อีกไม่นานเซอร์ซีสจะได้ประจักษ์พลังของ {1_CIVILIZATION_ADJ}"}
+{"tag": "LOC_10114C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10114C_NAME", "en_sha": "6783ee93c1d6", "status": "draft", "th": "อาภรณ์หรูหรามีไว้สำหรับผู้ไร้ปัญญา"}
+{"tag": "LOC_10114D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10114D_NAME", "en_sha": "67fca236a896", "status": "draft", "th": "คนเช่นนี้ยากนักที่จะได้ใจผู้ภักดี"}
+{"tag": "LOC_10115A_COMPLETION", "en_sha": "71341ded797e", "status": "draft", "th": "พื้นดินสะเทือนด้วยเสียงฝีเท้าของทหารอเล็กซานเดอร์ที่หลั่งไหลเข้าสู่นครหลวงที่แตกพ่าย พระราชวังอันโอ่อ่าของเซอร์ซีสตั้งตระหง่านอยู่ใจกลางนคร รอคอยชะตากรรมของตน"}
+{"tag": "LOC_10115A_STORYTITLE", "en_sha": "e5f183b730b4", "status": "draft", "th": "ชะตากรรมของความเสื่อมทราม"}
+{"tag": "LOC_10115B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10115B_NAME", "en_sha": "a5bfd5239573", "status": "draft", "th": "ปล้นสมบัติไป แล้วปล่อยที่นี่ให้ผุพัง"}
+{"tag": "LOC_10115C_DESCRIPTION", "en_sha": "42e3e0e43064", "status": "draft", "th": "{1_reward} แต่สิ่งปลูกสร้างแบบสุ่มใน {2_STORY_CITY} ถูกปล้นสะดม"}
+{"tag": "LOC_10115C_NAME", "en_sha": "28305d1154d1", "status": "draft", "th": "เผาผลาญกลิ่นเหม็นของเซอร์ซีสให้สิ้น"}
+{"tag": "LOC_10115D_DESCRIPTION", "en_sha": "a46707662446", "status": "draft", "th": "เพิ่มช่องผลงานชิ้นเอกให้แก่ {1_STORY_CITY}"}
+{"tag": "LOC_10115D_NAME", "en_sha": "ed86df195896", "status": "draft", "th": "อุทิศสิ่งก่อสร้างนี้แด่เทพเจ้าของ {1_CIVILIZATION_ADJ}"}
+{"tag": "LOC_10116A_COMPLETION", "en_sha": "401c40b1855b", "status": "draft", "th": "บิวซีฟาลัส ม้าคู่ใจของอเล็กซานเดอร์ ร่วมรบเคียงข้างเขามาช้านาน ทั้งสองต่อสู้และพิชิตมาด้วยกัน แต่บัดนี้มันนอนแน่นิ่ง บาดเจ็บสาหัสจนถึงแก่ชีวิต และแพทย์ส่ายหน้าอย่างโศกเศร้า บุรุษใดเล่าจะทนรับความเศร้าโศกเช่นนี้ได้!"}
+{"tag": "LOC_10116A_STORYTITLE", "en_sha": "4b79bbbbc363", "status": "draft", "th": "เพื่อนรักของบุรุษ"}
+{"tag": "LOC_10116B_DESCRIPTION", "en_sha": "165fcd032946", "status": "draft", "th": "{1_reward} และ {2_reward} แก่ยูนิตทั้งหมด"}
+{"tag": "LOC_10116B_NAME", "en_sha": "3da83587514f", "status": "draft", "th": "จัดพิธีศพอันยิ่งใหญ่ให้สหายผู้ยิ่งใหญ่ที่สุด"}
+{"tag": "LOC_10116C_DESCRIPTION", "en_sha": "bf08361a4a8b", "status": "draft", "th": "{1_reward} และ +10% [icon:GROWTH_RATE] อัตราการเติบโตในถิ่นฐาน"}
+{"tag": "LOC_10116C_NAME", "en_sha": "c3c825a11e3a", "status": "draft", "th": "จัดงานเลี้ยงเฉลิมฉลองชีวิตอันคุ้มค่าของเขา"}
+{"tag": "LOC_10117A_COMPLETION", "en_sha": "b02bd13cf817", "status": "draft", "th": "ภายในเขตแดนของนครแห่งใหม่ของอเล็กซานเดอร์ มีเกวียนเทียมวัวเก่า ๆ คันหนึ่งถูกผูกไว้ด้วยปมที่ไม่มีใครแก้ได้ ตำนานเล่าว่าผู้ใดคลายปมและแก้เกวียนนี้ออกได้ ผู้นั้นจะได้ปกครองทั้งทวีป"}
+{"tag": "LOC_10117A_STORYTITLE", "en_sha": "b84733ad57fd", "status": "draft", "th": "ตำนานแห่งปม"}
+{"tag": "LOC_10117B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10117B_NAME", "en_sha": "2b1d0f69257d", "status": "draft", "th": "ฟันปมให้ขาดเป็นสองท่อน แค่นั้นมันก็คลายแล้ว"}
+{"tag": "LOC_10117C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10117C_NAME", "en_sha": "400f4665537f", "status": "draft", "th": "ถอดแอกออกจากเกวียนเพื่อให้เห็นปลายเชือก"}
+{"tag": "LOC_10118A_COMPLETION", "en_sha": "5aa13b0f641a", "status": "draft", "th": "นักพรตเปลือยกลุ่มหนึ่งอาศัยอยู่ในดินแดนนี้ และอเล็กซานเดอร์ใคร่รู้ว่าแนวคิดของพวกเขาแตกต่างจากนักปรัชญาชาว {1_CIVILIZATION_ADJ} อย่างไร นักพรตผู้ไร้อาภรณ์คนหนึ่งเสนอให้ประชันปริศนากัน ดูเหมือนการประลองปัญญาจะเป็นที่นิยมไปทุกหนแห่ง"}
+{"tag": "LOC_10118A_STORYTITLE", "en_sha": "36329f48eb30", "status": "draft", "th": "ปริศนาสำหรับเหล่านักพรตเปลือย"}
+{"tag": "LOC_10118B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10118B_NAME", "en_sha": "a20fd42557b4", "status": "draft", "th": "สิ่งใดมาก่อน - กลางคืนหรือกลางวัน?"}
+{"tag": "LOC_10118C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10118C_NAME", "en_sha": "482cf6a35c4c", "status": "draft", "th": "สิ่งใดแข็งแกร่งกว่า - ชีวิตหรือความตาย?"}
+{"tag": "LOC_10118D_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_10118D_NAME", "en_sha": "06aee76a0987", "status": "draft", "th": "การพิชิตไม่เหลือเวลาให้ปริศนา"}
+{"tag": "LOC_10119A_COMPLETION", "en_sha": "5691f844eb90", "status": "draft", "th": "\"กลางวันมาก่อนแน่นอน ก่อนอยู่หนึ่งคืนพอดี\" นักพรตเปลือยคนแรกตอบ \"ไร้สาระ\" อีกคนแย้ง \"กลางคืนต่างหากที่มาก่อน ก่อนอยู่หนึ่งวันพอดี\" อเล็กซานเดอร์ส่ายหน้าแล้วตั้งคำถามข้อต่อไป"}
+{"tag": "LOC_10119A_STORYTITLE", "en_sha": "36329f48eb30", "status": "draft", "th": "ปริศนาสำหรับเหล่านักพรตเปลือย"}
+{"tag": "LOC_10119B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10119B_NAME", "en_sha": "7bfb8750410a", "status": "draft", "th": "มนุษย์จะกลายเป็นเทพได้อย่างไร?"}
+{"tag": "LOC_10119C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10119C_NAME", "en_sha": "3f8637740038", "status": "draft", "th": "ชีวิตที่คุ้มค่ายาวนานเพียงใด?"}
+{"tag": "LOC_10120A_COMPLETION", "en_sha": "2161db3bc0f4", "status": "draft", "th": "นักพรตกล่าวเสียงเบา \"ผู้ตายนั้นนับไม่ถ้วน ทว่ามองไม่เห็น ชีวิตแข็งแกร่งกว่าเพราะแบกรับความทุกข์ทั้งปวงของพวกเขาไว้\" อีกคนครุ่นคิด \"ชีวิตเปรียบดังดวงตะวัน แรงกล้าเมื่ออยู่สูงสุด แล้วอ่อนแรงลงเมื่อคล้อยต่ำ และในที่สุดก็เลือนหายไป\" อเล็กซานเดอร์พอใจ จึงถามข้อต่อไป"}
+{"tag": "LOC_10120A_STORYTITLE", "en_sha": "36329f48eb30", "status": "draft", "th": "ปริศนาสำหรับเหล่านักพรตเปลือย"}
+{"tag": "LOC_10120B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10120B_NAME", "en_sha": "6823380cb707", "status": "draft", "th": "สัตว์ใดฉลาดที่สุด?"}
+{"tag": "LOC_10120C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_10120C_NAME", "en_sha": "cb0c92c2c7cf", "status": "draft", "th": "สัตว์ใดโหดร้ายที่สุด?"}
+{"tag": "LOC_10121A_COMPLETION", "en_sha": "dc63c995ecfc", "status": "draft", "th": "คำถามของอเล็กซานเดอร์จุดประกายการถกเถียงอย่างคึกคัก เพราะไม่มีผู้ใดรู้ได้แท้จริงถึงขนาดแห่งมนุษย์หรือสัตว์ เหล่านักพรตเปลือยมองเขาอย่างสนใจ กระตือรือร้นจะถามคำถามของตนบ้าง \"บอกพวกเราเถิด ราชาอเล็กซานเดอร์ มนุษย์ควรทำเช่นไรจึงจะเป็นที่รักมากที่สุด?\""}
+{"tag": "LOC_10121A_STORYTITLE", "en_sha": "36329f48eb30", "status": "draft", "th": "ปริศนาสำหรับเหล่านักพรตเปลือย"}
+{"tag": "LOC_10121B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10121B_NAME", "en_sha": "6a5b444bdebd", "status": "draft", "th": "แสวงหาอำนาจโดยไม่สร้างความหวาดกลัว"}
+{"tag": "LOC_10121C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10121C_NAME", "en_sha": "2a71f3e7a206", "status": "draft", "th": "บังคับใช้ความยุติธรรมด้วยคมดาบ"}
+{"tag": "LOC_10122A_COMPLETION", "en_sha": "57dd0b4dce70", "status": "draft", "th": "อาณาจักรของอเล็กซานเดอร์รวมเอานครที่ครั้งหนึ่งเคยเป็นแหล่งกำเนิดอารยธรรมเข้าไว้ด้วยกัน ผู้คนในนครเหล่านั้นมีขนบธรรมเนียมที่บางครั้งจุดชนวนข้อพิพาทกับพลเมืองหัวอนุรักษนิยม ขณะที่บางคนบูชากษัตริย์ดุจเทพเจ้า อีกฝ่ายกลับยืนยันว่ามนุษย์ทุกคนเท่าเทียมกัน"}
+{"tag": "LOC_10122A_STORYTITLE", "en_sha": "3a93dc72d0d9", "status": "draft", "th": "เอกภาพแห่งมนุษยชาติ"}
+{"tag": "LOC_10122B_DESCRIPTION", "en_sha": "43a9d1a3258f", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] วัฒนธรรมแก่ผู้เชี่ยวชาญ"}
+{"tag": "LOC_10122B_NAME", "en_sha": "c71283050a52", "status": "draft", "th": "วัฒนธรรมของ {1_CIVILIZATION_ADJ} จะรวมโลกเป็นหนึ่ง"}
+{"tag": "LOC_10122C_DESCRIPTION", "en_sha": "37832535001b", "status": "draft", "th": "ผู้บัญชาการที่มีระดับสูงสุดได้รับการเลื่อนขั้น +2 ครั้ง"}
+{"tag": "LOC_10122C_NAME", "en_sha": "98072367f0c5", "status": "draft", "th": "กษัตริย์อยู่สูงเหนือสามัญชนยิ่งนัก"}
+{"tag": "LOC_10123A_COMPLETION", "en_sha": "466579bd0577", "status": "draft", "th": "กษัตริย์บางองค์ปกครองด้วยการบังคับให้ทุกคนคิดเหมือนกัน แต่ในความคิดของอเล็กซานเดอร์ การปกครองตนเองคือรางวัลของความมีวินัย จิตใจอันสูงส่งไม่จำเป็นต้องถูกผูกมัดด้วยแอกแห่งอำนาจ"}
+{"tag": "LOC_10123A_STORYTITLE", "en_sha": "bcba410d8bf2", "status": "draft", "th": "ของขวัญแห่งการปกครองตนเอง"}
+{"tag": "LOC_10123B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10123B_NAME", "en_sha": "4f00ef55e045", "status": "draft", "th": "พลเมืองเสรีทำให้รัฐเข้มแข็ง"}
+{"tag": "LOC_10123C_DESCRIPTION", "en_sha": "5974a5154793", "status": "draft", "th": "+3 [icon:YIELD_CULTURE] วัฒนธรรมต่อนครรัฐที่คุณเป็นเจ้าอธิราชแต่ละแห่ง"}
+{"tag": "LOC_10123C_NAME", "en_sha": "9059c99c1088", "status": "draft", "th": "ความเป็นเจ้าอำนาจไม่จำเป็นต้องอาศัยกำลัง"}
+{"tag": "LOC_10124A_COMPLETION", "en_sha": "4f1d8612e59e", "status": "draft", "th": "เพื่อนสองคนกำลังเล่นหมากรุกในสวนสาธารณะ แต่เกมกลับได้รับความสนใจจากพวกเขาน้อยที่สุด ทั้งคู่ถกเถียงกันอย่างออกรสถึงปริศนาเก่าแก่ข้อหนึ่ง ว่าขอบเขตอันยิ่งใหญ่ที่สุดของมนุษย์คืออะไร ในที่สุดคนหนึ่งก็ลุกขึ้นยืนประกาศคำตอบของเธอ อีกคนเอ่ยเบา ๆ ว่า \"รุกฆาต\""}
+{"tag": "LOC_10124A_STORYTITLE", "en_sha": "e4c029cbe467", "status": "draft", "th": "คำถามยากและคำตอบยาก"}
+{"tag": "LOC_10124B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10124B_NAME", "en_sha": "d05d0e2c65f2", "status": "draft", "th": "ทำสิ่งที่ไม่มีมนุษย์ผู้ใดทำได้"}
+{"tag": "LOC_10124C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10124C_NAME", "en_sha": "ed5833324164", "status": "draft", "th": "ความตายอันสูงส่งปิดฉากชีวิตแห่งคุณธรรม"}
+{"tag": "LOC_10124D_DESCRIPTION", "en_sha": "5979c24e5e61", "status": "draft", "th": "รับเทคโนโลยีแรกสุดที่วิจัยได้"}
+{"tag": "LOC_10124D_NAME", "en_sha": "139cb29e86aa", "status": "draft", "th": "มนุษย์คือสัตว์ที่เจ้าเล่ห์ที่สุด"}
+{"tag": "LOC_10124E_DESCRIPTION", "en_sha": "1e1a22c0d301", "status": "draft", "th": "+1 ช่องทรัพยากรในถิ่นฐานที่มีโรงงาน"}
+{"tag": "LOC_10124E_NAME", "en_sha": "5e10f5e10195", "status": "draft", "th": "ในบรรดาสรรพสัตว์ มนุษย์ชั่วร้ายที่สุด"}
+{"tag": "LOC_ALEXANDER_ALEXANDRIA_RENAME", "en_sha": "7d3a7b514657", "status": "draft", "th": "อเล็กซานเดรีย {1_OldName}"}
+{"tag": "LOC_ALEXANDER_KING_OF_THE_WORLD_NAME", "en_sha": "b76f3915c0ce", "status": "draft", "th": "ราชาแห่งโลก"}
+{"tag": "LOC_ALEXANDER_KING_OF_THE_WORLD_SUZERAIN_PREVIEW", "en_sha": "d6874ea33a53", "status": "draft", "th": "+{1_Amount} จากราชาแห่งโลก"}
+{"tag": "LOC_ALEXANDER_KING_OF_THE_WORLD_WONDERS_PREVIEW", "en_sha": "10b5c96818cc", "status": "draft", "th": "+{1_Amount} จากสิ่งมหัศจรรย์ของราชาแห่งโลก"}
+{"tag": "LOC_ATTRIBUTENODE_ALEXANDER_L1_DESCRIPTION", "en_sha": "4de93be80438", "status": "draft", "th": "+15% การผลิตในการสร้างสิ่งก่อสร้างและสิ่งมหัศจรรย์ที่มีช่องผลงานชิ้นเอก"}
+{"tag": "LOC_ATTRIBUTENODE_ALEXANDER_L1_NAME", "en_sha": "750e224918f8", "status": "draft", "th": "โหนดคุณลักษณะทางวัฒนธรรม"}
+{"tag": "LOC_ATTRIBUTENODE_ALEXANDER_L2_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_ALEXANDER_L2_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_BADGE_ALEXANDER_NAME", "en_sha": "e874838e1eb3", "status": "draft", "th": "เหรียญตราอเล็กซานเดอร์ 1"}
+{"tag": "LOC_BADGE_ALEXANDER_P_NAME", "en_sha": "2929737f94c9", "status": "draft", "th": "เหรียญตราอเล็กซานเดอร์ 2"}
+{"tag": "LOC_BANNER_ALEXANDER_NAME", "en_sha": "8bb0d2765560", "status": "draft", "th": "แบนเนอร์อเล็กซานเดอร์"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ALEXANDER_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ALEXANDER_1_NAME", "en_sha": "e1fff8a24f89", "status": "draft", "th": "การอุทิศของอเล็กซานเดอร์ ยุคแห่งการสำรวจ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ALEXANDER_2_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ALEXANDER_2_NAME", "en_sha": "ab4785dda9d7", "status": "draft", "th": "การอุทิศของอเล็กซานเดอร์ ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ALEXANDER_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ALEXANDER_1_NAME", "en_sha": "8951b7e798c2", "status": "draft", "th": "การอุทิศของอเล็กซานเดอร์ ยุคสมัยใหม่ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ALEXANDER_2_DESCRIPTION", "en_sha": "a08b7076c302", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ALEXANDER_2_NAME", "en_sha": "82ff89ae4b42", "status": "draft", "th": "การอุทิศของอเล็กซานเดอร์ ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_DIPLOMACY_AGENDA_GODLIKE_BASILEUS_DESC", "en_sha": "2389858626ea", "status": "draft", "th": "ชอบผู้นำที่มีถิ่นฐานที่ยึดมาได้น้อยที่สุด ไม่ชอบผู้นำที่มีถิ่นฐานที่ยึดมาได้มากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_GODLIKE_BASILEUS_DESC_DISLIKES", "en_sha": "1bbc7bbdeeb8", "status": "draft", "th": "อเล็กซานเดอร์ไม่ชอบผู้นำที่มีถิ่นฐานที่ยึดมาได้มากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_GODLIKE_BASILEUS_DESC_LIKES", "en_sha": "9299828a6b77", "status": "draft", "th": "อเล็กซานเดอร์ชอบผู้นำที่มีถิ่นฐานที่ยึดมาได้น้อยที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_GODLIKE_BASILEUS_NAME", "en_sha": "cee26686b50a", "status": "draft", "th": "บาซิเลียสผู้เสมือนเทพ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_ALEXANDER_ANY", "en_sha": "bfc98e6f32ef", "status": "draft", "th": "ข้ากำลังพิชิตโลก และท่านก็เป็นส่วนหนึ่งของโลก"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_ALEXANDER_ANY", "en_sha": "d7bfed0381f0", "status": "draft", "th": "ดีเยี่ยม! ศัตรูที่ลงมือก่อนย่อมล้มลงเร็วกว่า"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_ALEXANDER_ANY", "en_sha": "829b4d8ed989", "status": "draft", "th": "ข้ามีแผนการมากมายนัก! บัดนี้โลกจะไร้ซึ่งวีรบุรุษ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_ALEXANDER_ANY", "en_sha": "4285f7467130", "status": "draft", "th": "สวัสดี ผู้ที่จะเป็นข้าแผ่นดินของข้าในไม่ช้า ท่านจะคำนับหรือไม่ก็ได้ ตามแต่ใจท่าน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_ALEXANDER_ANY", "en_sha": "4285f7467130", "status": "draft", "th": "สวัสดี ผู้ที่จะเป็นข้าแผ่นดินของข้าในไม่ช้า ท่านจะคำนับหรือไม่ก็ได้ ตามแต่ใจท่าน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_ALEXANDER_ANY", "en_sha": "4285f7467130", "status": "draft", "th": "สวัสดี ผู้ที่จะเป็นข้าแผ่นดินของข้าในไม่ช้า ท่านจะคำนับหรือไม่ก็ได้ ตามแต่ใจท่าน"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_ALEXANDER", "en_sha": "44af75a12af0", "status": "draft", "th": "ข้อเสนอนี้ยุติธรรม ในกรณีนี้ข้ายอมรับอิสรภาพของท่าน"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_ALEXANDER", "en_sha": "6c7db7a859cb", "status": "draft", "th": "ท่านคิดเรื่องนี้ขึ้นมาจากที่ใด บนขั้นบันไดเครพิสหรือ"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_ALEXANDER", "en_sha": "6078b926d427", "status": "draft", "th": "ท่านจะต้องเสียใจที่หยามเกียรติข้า ผู้ยิ่งใหญ่ที่สุดในหมู่วีรบุรุษ"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_ALEXANDER", "en_sha": "93faf81fe5d8", "status": "draft", "th": "ท่านคงเป็นสมาชิกที่ดีของเหล่าสหายทหารม้าของข้าได้"}
+{"tag": "LOC_GREATWORK_CODEX_ILIAD_NAME", "en_sha": "82c0f69a1078", "status": "draft", "th": "อีเลียด"}
+{"tag": "LOC_LEADER_ALEXANDER_DESCRIPTION", "en_sha": "7d5c44fe5073", "status": "draft", "th": "[icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]อื่นนอกจากนครหลวงที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ได้รับ [icon:YIELD_PRODUCTION] การผลิตและ [icon:YIELD_CULTURE] วัฒนธรรม +10% และเพิ่มเป็นสองเท่าหากตั้งอยู่บนทวีปที่ต่างจาก [icon:NOTIFICATION_SELECT_CAPITAL] [TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณ +2 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]สำหรับ[TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]ยูนิตทหารทางบก[/TIP] +1 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทหารเฉพาะตัว ต่อ [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]แต่ละแห่งที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]นอกเหนือจากนครหลวง (สูงสุด 6) +2 [icon:MILITARY_VP] อำนาจครอบครอง ต่อ [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]แต่ละแห่งที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]นอกเหนือจากนครหลวง [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]ที่ยกระดับเป็น [icon:YIELD_CITIES] นคร จะได้รับชื่อใหม่ตามอเล็กซานเดอร์"}
+{"tag": "LOC_LEADER_ALEXANDER_NAME", "en_sha": "33aba18cf411", "status": "draft", "th": "อเล็กซานเดอร์"}
+{"tag": "LOC_LEADER_CHAIN_1280A_COMPLETION", "en_sha": "713b656687ca", "status": "draft", "th": "อเล็กซานเดอร์สดับฟังกวีผู้ขับขานเรื่องราวของอคิลลีสผู้ยิ่งใหญ่ ผู้เป็นที่รักของเหล่าเทพเจ้า พลานุภาพของเขา โทสะของเขา - นักรบผู้เป็นที่หวาดหวั่นที่สุดซึ่งย่ำท่องสมรภูมิแห่งทรอย ทว่าเขาเองก็เคยขับเพลงและโศกาอาดูรต่อพาโทรคลัส และชะตาอันหอมหวานแห่งชีวิตยืนยาวก็ยังยั่วยวนแม้แต่ตัวเขา"}
+{"tag": "LOC_LEADER_CHAIN_1280A_STORYTITLE", "en_sha": "0eef36391bcb", "status": "draft", "th": "การเป็นวีรบุรุษ"}
+{"tag": "LOC_LEADER_CHAIN_1280B_COMPLETION", "en_sha": "440dd3d438cf", "status": "draft", "th": "เทพเจ้าย่อมประทานรางวัลแก่ผู้เกรียงไกร"}
+{"tag": "LOC_LEADER_CHAIN_1280B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1280B_IMPERATIVE", "en_sha": "34e02af2a183", "status": "draft", "th": "มีผู้บัญชาการที่ได้รับการเลื่อนขั้น 3 ครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1280B_NAME", "en_sha": "3bd07578e313", "status": "draft", "th": "เขาเป็นวีรบุรุษเพราะความกล้าหาญ"}
+{"tag": "LOC_LEADER_CHAIN_1280B_STORYTITLE", "en_sha": "0eef36391bcb", "status": "draft", "th": "การเป็นวีรบุรุษ"}
+{"tag": "LOC_LEADER_CHAIN_1280C_COMPLETION", "en_sha": "b131ecf815a7", "status": "draft", "th": "พรของเทพเจ้าเป็นที่ประจักษ์แก่ทุกผู้"}
+{"tag": "LOC_LEADER_CHAIN_1280C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1280C_IMPERATIVE", "en_sha": "82e8b0b81359", "status": "draft", "th": "มีแท่นบูชา 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1280C_NAME", "en_sha": "c8605de8f1c0", "status": "draft", "th": "เทพเจ้าโปรดผู้ที่นำของกำนัลมาถวาย"}
+{"tag": "LOC_LEADER_CHAIN_1280C_STORYTITLE", "en_sha": "0eef36391bcb", "status": "draft", "th": "การเป็นวีรบุรุษ"}
+{"tag": "LOC_LEADER_CHAIN_1280D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1280D_NAME", "en_sha": "0e984a810020", "status": "draft", "th": "วีรบุรุษในอดีตเป็นเพียงนิทานสำหรับเด็ก"}
+{"tag": "LOC_LEADER_CHAIN_1281A_COMPLETION", "en_sha": "9eb431ccfdb5", "status": "draft", "th": "อเล็กซานเดอร์ควบม้าตะลุยข้ามสมรภูมิ นำหน้าแนวรบเพื่อหว่านความหวาดผวาสู่หัวใจศัตรู ข้าศึกล้มลงทีละคน ผู้รอดชีวิตเพียงหยิบมือนำข่าวของมหาราชาและพลานุภาพอันท่วมท้นของพระองค์ไปป่าวประกาศ ความหวาดกลัวแผ่ซ่านไปทั่วแผ่นดิน"}
+{"tag": "LOC_LEADER_CHAIN_1281A_STORYTITLE", "en_sha": "05f111613a88", "status": "draft", "th": "การสร้างชื่อเสียง"}
+{"tag": "LOC_LEADER_CHAIN_1281B_COMPLETION", "en_sha": "7f98f8d24073", "status": "draft", "th": "รสชาติแห่งชัยชนะปลุกความกระหายในการพิชิต"}
+{"tag": "LOC_LEADER_CHAIN_1281B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1281B_IMPERATIVE", "en_sha": "1511dc9b18cc", "status": "draft", "th": "ยึดถิ่นฐานที่คุณไม่ได้เป็นผู้ก่อตั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1281B_NAME", "en_sha": "04fc852bd5e5", "status": "draft", "th": "ยึดดินแดนของพวกเขา นี่คือประสงค์ของเทพเจ้า"}
+{"tag": "LOC_LEADER_CHAIN_1281B_STORYTITLE", "en_sha": "05f111613a88", "status": "draft", "th": "การสร้างชื่อเสียง"}
+{"tag": "LOC_LEADER_CHAIN_1281C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1281C_NAME", "en_sha": "7813a6a3b882", "status": "draft", "th": "เงินทองสยบใจที่เดือดดาลได้ เพียงชั่วคราว"}
+{"tag": "LOC_LEADER_CHAIN_1282A_COMPLETION", "en_sha": "eccb32a388a2", "status": "draft", "th": "นักดนตรี นักแสดง และกวีมาชุมนุมกันใน {1_capital} พร้อมแข่งขันชิงรางวัลที่มอบแก่ผู้มีพรสวรรค์ที่สุด นครเต็มไปด้วยผู้ชมที่ใจจดใจจ่อ ต่างหลงใหลในนิทานและบทเพลงมากมายที่มีอเล็กซานเดอร์เป็นตัวเอก"}
+{"tag": "LOC_LEADER_CHAIN_1282A_STORYTITLE", "en_sha": "eca380f52051", "status": "draft", "th": "เทศกาลแห่งเหล่ามิวส์"}
+{"tag": "LOC_LEADER_CHAIN_1282B_COMPLETION", "en_sha": "a90b6fa73c2d", "status": "draft", "th": "ชื่อเสียงของอเล็กซานเดอร์ขจรขจายยิ่งขึ้น"}
+{"tag": "LOC_LEADER_CHAIN_1282B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1282B_IMPERATIVE", "en_sha": "e7be602318e2", "status": "draft", "th": "มีผู้เชี่ยวชาญ 2 คนในสิ่งก่อสร้างที่ให้วัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1282B_NAME", "en_sha": "61c9f45d75b8", "status": "draft", "th": "ตั้งตำแหน่งถาวรเพื่ออุทิศแด่เหล่ามิวส์"}
+{"tag": "LOC_LEADER_CHAIN_1282B_STORYTITLE", "en_sha": "eca380f52051", "status": "draft", "th": "เทศกาลแห่งเหล่ามิวส์"}
+{"tag": "LOC_LEADER_CHAIN_1282C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1282C_NAME", "en_sha": "e9e3699bdae7", "status": "draft", "th": "ออกไปโค้งคำนับพร้อมเหล่านักแสดง"}
+{"tag": "LOC_LEADER_CHAIN_1283A_COMPLETION", "en_sha": "05e10758cec5", "status": "draft", "th": "ข่าวเริ่มแพร่สะพัดว่าอเล็กซานเดอร์ได้รับพรจากเทพเจ้า หอกของศัตรูไถลผ่านตัวเขาไป และท้องฟ้าเองก็ปัดลูกธนูไม่ให้ต้องผิวกาย บทเพลงที่ผู้คนขับขานถึงเขาเป็นที่พอใจแม้แต่เหล่ามิวส์"}
+{"tag": "LOC_LEADER_CHAIN_1283A_STORYTITLE", "en_sha": "a1333ebf9938", "status": "draft", "th": "วิถีแห่งการครองโลก"}
+{"tag": "LOC_LEADER_CHAIN_1283B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1283B_NAME", "en_sha": "e904ed5b2531", "status": "draft", "th": "การพิชิตคือหนทางเดียวที่จะปกครองโลก"}
+{"tag": "LOC_LEADER_CHAIN_1283C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1283C_NAME", "en_sha": "81405a778e4c", "status": "draft", "th": "บทกวีและบทเพลงจะทำให้โลกขอเป็นของเราเอง"}
+{"tag": "LOC_LEADER_CHAIN_1284A_COMPLETION", "en_sha": "2f05af138188", "status": "draft", "th": "ดินแดนใหม่และกษัตริย์ใหม่ปลุกเร้าให้อเล็กซานเดอร์รุกคืบต่อไป ขอบเขตแห่งราชอาณาจักรของเขาจะต้องเป็นขอบเขตของโลก สิ่งใดที่น้อยกว่านั้นย่อมไม่คู่ควรกับวีรบุรุษ"}
+{"tag": "LOC_LEADER_CHAIN_1284A_STORYTITLE", "en_sha": "41c0ee01e78b", "status": "draft", "th": "สู่ฝั่งโอเคียนอส"}
+{"tag": "LOC_LEADER_CHAIN_1284B_COMPLETION", "en_sha": "91202285a939", "status": "draft", "th": "เหล่ามิวส์เฝ้ามองจากแดนไกลขณะที่โลกเปลี่ยนมือผู้ครอบครอง"}
+{"tag": "LOC_LEADER_CHAIN_1284B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1284B_IMPERATIVE", "en_sha": "cf5e73952aba", "status": "draft", "th": "ยึดถิ่นฐาน 2 แห่งในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1284B_NAME", "en_sha": "bac90531d9e5", "status": "draft", "th": "รุกต่อไป! เกียรติยศรออยู่"}
+{"tag": "LOC_LEADER_CHAIN_1284B_STORYTITLE", "en_sha": "41c0ee01e78b", "status": "draft", "th": "สู่ฝั่งโอเคียนอส"}
+{"tag": "LOC_LEADER_CHAIN_1284C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1284C_NAME", "en_sha": "83ddd6fc0d97", "status": "draft", "th": "สงครามก็ดีอยู่หรอก แต่มีเงินติดมือบ้างก็ไม่เสียหาย"}
+{"tag": "LOC_LEADER_CHAIN_1285A_COMPLETION", "en_sha": "caccd5c0dab9", "status": "draft", "th": "ระยะหลังนี้ อเล็กซานเดอร์ได้ยินทหารของตนพูดถึงผู้บัญชาการคนหนึ่งของศัตรู แม่ทัพผู้นี้มาจากทวีปอันไกลโพ้นและใช้ยุทธวิธีที่ไม่เคยมีผู้ใดพบเห็น การได้เผชิญหน้ากับเขาจะเป็นการท้าทายที่คู่ควร"}
+{"tag": "LOC_LEADER_CHAIN_1285A_STORYTITLE", "en_sha": "853eb42c2b69", "status": "draft", "th": "ยอดนักรบคู่แข่ง"}
+{"tag": "LOC_LEADER_CHAIN_1285B_COMPLETION", "en_sha": "ed5dab60c946", "status": "draft", "th": "ทหารม้าของ {1_CIVILIZATION_ADJ} น่าเกรงขามโดยแท้"}
+{"tag": "LOC_LEADER_CHAIN_1285B_DESCRIPTION", "en_sha": "1e7ac85f370d", "status": "draft", "th": "{1_reward} บนยูนิตทหารม้า"}
+{"tag": "LOC_LEADER_CHAIN_1285B_IMPERATIVE", "en_sha": "072137e6bb62", "status": "draft", "th": "เอาชนะผู้บัญชาการกองทัพในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1285B_NAME", "en_sha": "ac0bce515a96", "status": "draft", "th": "การบุกจากปีกขวาจะทำให้เขาเสียขบวน"}
+{"tag": "LOC_LEADER_CHAIN_1285B_STORYTITLE", "en_sha": "853eb42c2b69", "status": "draft", "th": "ยอดนักรบคู่แข่ง"}
+{"tag": "LOC_LEADER_CHAIN_1286A_COMPLETION", "en_sha": "3083c403959e", "status": "draft", "th": "นครแห่งใหม่ของอเล็กซานเดอร์เปล่งประกายด้วยความหวัง แต่ชาวพื้นเมืองบางส่วนต้อนรับเจ้านายคนใหม่ด้วยความกังขา สิ่งอำนวยความสะดวกในเขตเมืองจะแสดงให้เห็นถึงประโยชน์ของการปกครองของเขา แต่การแสดงออกที่ยิ่งใหญ่กว่านั้นจะขจัดความสงสัยที่ยังหลงเหลืออยู่ได้สิ้น"}
+{"tag": "LOC_LEADER_CHAIN_1286A_STORYTITLE", "en_sha": "8ecb1cf5a0ed", "status": "draft", "th": "พิชิตใจด้วยวัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1286B_COMPLETION", "en_sha": "b3d7e6daa270", "status": "draft", "th": "เรื่องราวความรุ่งโรจน์ของ {1_CIVILIZATION_ADJ} แพร่ขยายออกไปไกลยิ่งขึ้น"}
+{"tag": "LOC_LEADER_CHAIN_1286B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1286B_IMPERATIVE", "en_sha": "35714d9179ba", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์ในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1286B_NAME", "en_sha": "9a511b4f65e5", "status": "draft", "th": "สร้างสิ่งที่โลกไม่เคยเห็นมาก่อน"}
+{"tag": "LOC_LEADER_CHAIN_1286B_STORYTITLE", "en_sha": "8ecb1cf5a0ed", "status": "draft", "th": "พิชิตใจด้วยวัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1286C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1286C_NAME", "en_sha": "c91d6bdf3540", "status": "draft", "th": "เงินทองก็เปลี่ยนใจคนได้ง่ายไม่แพ้กัน"}
+{"tag": "LOC_LEADER_CHAIN_1287A_COMPLETION", "en_sha": "30ca284fb8e4", "status": "draft", "th": "ทูตจากเมืองใกล้เคียงมาพร้อมของกำนัลแด่อเล็กซานเดอร์และประชาชนชาว {1_CIVILIZATION_ADJ} แม้เขาจะเคยได้ยินถึงความยิ่งใหญ่ของนครต่าง ๆ ของอเล็กซานเดอร์ แต่เมื่อได้เห็นกับตาก็ถึงกับพูดไม่ออก นครทั้งหลายสร้างขึ้นเพื่อมนุษย์ แต่ที่นี่กลับเจิดจรัสราวกับสร้างไว้เพื่อเทพเจ้า"}
+{"tag": "LOC_LEADER_CHAIN_1287A_STORYTITLE", "en_sha": "21fab5775be5", "status": "draft", "th": "มีเพียงความจริง"}
+{"tag": "LOC_LEADER_CHAIN_1287B_COMPLETION", "en_sha": "de6433a2e670", "status": "draft", "th": "นครของ {1_CIVILIZATION_ADJ} ยินดีต้อนรับทุกผู้"}
+{"tag": "LOC_LEADER_CHAIN_1287B_DESCRIPTION", "en_sha": "43a9d1a3258f", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] วัฒนธรรมบนผู้เชี่ยวชาญ"}
+{"tag": "LOC_LEADER_CHAIN_1287B_IMPERATIVE", "en_sha": "3341d6f02273", "status": "draft", "th": "มีผู้เชี่ยวชาญ 10 คนในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1287B_NAME", "en_sha": "29407a054a37", "status": "draft", "th": "เอ่ยถึงตำแหน่งมากมายที่เปิดรับผู้มีพรสวรรค์"}
+{"tag": "LOC_LEADER_CHAIN_1287B_STORYTITLE", "en_sha": "21fab5775be5", "status": "draft", "th": "มีเพียงความจริง"}
+{"tag": "LOC_LEADER_CHAIN_1288A_COMPLETION", "en_sha": "a698271538fe", "status": "draft", "th": "ทุกเช้าที่อเล็กซานเดอร์ตื่นขึ้น ก็ยังมีโลกอีกมากมายที่อยู่นอกเงื้อมมือของเขา เส้นขอบฟ้าเย้ยหยันเขาด้วยดินแดนที่มิใช่ของเขา ความกระหายในการพิชิตของเขาจะต้องได้รับการดับ"}
+{"tag": "LOC_LEADER_CHAIN_1288A_STORYTITLE", "en_sha": "b76f3915c0ce", "status": "draft", "th": "ราชาแห่งโลก"}
+{"tag": "LOC_LEADER_CHAIN_1288B_COMPLETION", "en_sha": "7ec9b0c9e441", "status": "draft", "th": "บัดนี้สุดขอบโลกอยู่ใกล้แค่เอื้อม"}
+{"tag": "LOC_LEADER_CHAIN_1288B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1288B_IMPERATIVE", "en_sha": "72a99e0845f5", "status": "draft", "th": "ยึดนครหลวง 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1288B_NAME", "en_sha": "7e084fc14ed0", "status": "draft", "th": "แสดงให้โลกเห็นผู้ปกครองที่ชอบธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1288B_STORYTITLE", "en_sha": "b76f3915c0ce", "status": "draft", "th": "ราชาแห่งโลก"}
+{"tag": "LOC_LEADER_CHAIN_1288C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1288C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1288D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1288D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1289A_COMPLETION", "en_sha": "c1c08b533aec", "status": "draft", "th": "นักประพันธ์เพลงชาว {1_CIVILIZATION_ADJ} ผู้หนึ่งสะกดจินตนาการของคนทั้งชาติด้วยผลงานชิ้นล่าสุด - อุปรากรที่บอกเล่าตำนานของอเล็กซานเดอร์ วีรบุรุษดุจเทพเจ้า ผู้ยิ่งใหญ่ที่สุดในหมู่มนุษย์ ทั้งพลเมืองและนักท่องเที่ยวต่างได้รับแรงบันดาลใจให้ศึกษาวีรกรรมของเขามากขึ้น"}
+{"tag": "LOC_LEADER_CHAIN_1289A_STORYTITLE", "en_sha": "db2578ce5805", "status": "draft", "th": "วีรบุรุษแห่งมหากาพย์"}
+{"tag": "LOC_LEADER_CHAIN_1289B_COMPLETION", "en_sha": "03d804b1ebb4", "status": "draft", "th": "บัดนี้ประวัติศาสตร์และตำนานได้หลอมรวมเป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1289B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1289B_IMPERATIVE", "en_sha": "b08cac67f6d1", "status": "draft", "th": "มีโบราณวัตถุที่จัดแสดง 6 ชิ้น"}
+{"tag": "LOC_LEADER_CHAIN_1289B_NAME", "en_sha": "d4927025e9bc", "status": "draft", "th": "ส่งเสริมงานของนักโบราณคดีชาว{1_CIVILIZATION_ADJ}"}
+{"tag": "LOC_LEADER_CHAIN_1289B_STORYTITLE", "en_sha": "db2578ce5805", "status": "draft", "th": "วีรบุรุษแห่งมหากาพย์"}
+{"tag": "LOC_LEADER_CHAIN_1289C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1289C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1289D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1289D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_ALEXANDER", "en_sha": "77c5f55c32a5", "status": "draft", "th": "จงขับขาน โอ้ เทพีแห่งศิลปะ ถึงราชาแห่งโลก วีรบุรุษแห่งเฮลลาส โอรสแห่งซูสและแอมมอน จากเนินเขาแห่งมาซิโดเนียสู่สุดขอบแห่งโอเชียนัส นามของท่านจะเป็นเครื่องหมายแห่งขอบเขตอารยธรรม จงกุมบังเหียน อเล็กซานเดอร์ นำทัพบุกและเติมเต็มชะตากรรมของท่าน"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_ALEXANDER_ANY", "en_sha": "3e53c826e7e4", "status": "draft", "th": "สักวันหนึ่ง เหล่าเทพีมิวส์จะขับขานถึงข้า - อเล็กซานเดอร์ผู้เสมือนเทพ ผู้ยิ่งใหญ่ที่สุดในหมู่วีรบุรุษกรีก"}
+{"tag": "LOC_MEMENTO_ALEXANDER_BRIDLE_OF_BUCEPHALUS_DESCRIPTION", "en_sha": "ebbe5fc6149a", "status": "draft", "th": "หันหน้ามันเข้าหาดวงอาทิตย์"}
+{"tag": "LOC_MEMENTO_ALEXANDER_BRIDLE_OF_BUCEPHALUS_FUNCTIONAL_DESCRIPTION", "en_sha": "ab99d4f8ae37", "status": "draft", "th": "[B]+3 [icon:NAR_REW_COMBAT][/B] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]สำหรับ[TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]ยูนิตทหารม้า[/TIP]แต่ต้นทุน [B]+25% [icon:YIELD_PRODUCTION][/B] และค่าซื้อยูนิตทหารม้าเพิ่มขึ้น"}
+{"tag": "LOC_MEMENTO_ALEXANDER_BRIDLE_OF_BUCEPHALUS_NAME", "en_sha": "bbe1f2f705eb", "status": "draft", "th": "บังเหียนของบิวซีฟาลัส"}
+{"tag": "LOC_MEMENTO_ALEXANDER_BRIDLE_OF_BUCEPHALUS_UNLOCK_TITLE", "en_sha": "a9f88162ddfc", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของอเล็กซานเดอร์มหาราช"}
+{"tag": "LOC_MEMENTO_ALEXANDER_DIADEM_DESCRIPTION", "en_sha": "0c539b2dfbfc", "status": "draft", "th": "ถูกลิขิตมาให้ปกครอง"}
+{"tag": "LOC_MEMENTO_ALEXANDER_DIADEM_FUNCTIONAL_DESCRIPTION", "en_sha": "8ff5e73d9c94", "status": "draft", "th": "[B]+1 [icon:SETTLEMENT_LIMIT][/B] [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_LIMIT_TOOLTIP]ขีดจำกัดถิ่นฐาน[/TIP]ในแต่ละ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] [B]+1 [icon:YIELD_GOLD][/B] [TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]ค่าบำรุงรักษา[/TIP]ต่อยุคสำหรับ[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตภาคพื้นดิน[/TIP]ทั้งหมด"}
+{"tag": "LOC_MEMENTO_ALEXANDER_DIADEM_NAME", "en_sha": "127658d5c10f", "status": "draft", "th": "ปมกอร์เดียน"}
+{"tag": "LOC_MEMENTO_ALEXANDER_DIADEM_UNLOCK_TITLE", "en_sha": "b37d1f379ea0", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของอเล็กซานเดอร์มหาราช"}
+{"tag": "LOC_MEMENTO_ALEXANDER_ILIAD_DESCRIPTION", "en_sha": "fc9a31ce377a", "status": "draft", "th": "เพื่อเป็นวีรบุรุษ"}
+{"tag": "LOC_MEMENTO_ALEXANDER_ILIAD_FUNCTIONAL_DESCRIPTION", "en_sha": "2d35f7195e1a", "status": "draft", "th": "[B]+1 [icon:YIELD_CULTURE][/B] และ [icon:YIELD_PRODUCTION] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]อื่นนอกเหนือจาก [icon:NOTIFICATION_SELECT_CAPITAL] [TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณ"}
+{"tag": "LOC_MEMENTO_ALEXANDER_ILIAD_NAME", "en_sha": "831cfff65e13", "status": "draft", "th": "มหากาพย์อีเลียด"}
+{"tag": "LOC_MEMENTO_ALEXANDER_ILIAD_UNLOCK_TITLE", "en_sha": "c42a670a64db", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของอเล็กซานเดอร์มหาราช"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "3396842db7b4", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "c41fe0a886e0", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "4924309a97ae", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "015859394c74", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "046d5d795c0e", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "560c37046283", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "134e7df72a28", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "a4a9d67cbc44", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_DESC", "en_sha": "3479ebd04f64", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "64aec40efa89", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "0527ac1e98b3", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "d3ac62c82b9f", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "202b579a8ba6", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "cc912de9d737", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "d45dd40c2a8d", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_VICTORY_DESC", "en_sha": "e1d9ae131e23", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DEITY_VICTORY_DESC", "en_sha": "02bf6be6b09f", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "ea79c7f70671", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "132f0e4b4521", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "a1149300d6ea", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "a65499b27b88", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "b877e937c430", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "a362825218e2", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "f26674eca341", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "7d5dd17ced4e", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "aa6b0ea3e1b9", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "199f593c509c", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "e7fca7f7d90e", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "fcd4f3af7e54", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_VICTORY_DESC", "en_sha": "ca38ef4899c3", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "9a8d35040d96", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "3f07b25b483f", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "7ffc42aeafcc", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "617abf7b5ea8", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "ae68a7eba633", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "64f03af6d447", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "9646352b86a6", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "df8e4ae34f5e", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "bce9123f9b7e", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "5b4a4f095644", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "aa98e15af0de", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "319934de27ad", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "d5a2fb4b49dd", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "53d49b50ad0b", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_VICTORY_DESC", "en_sha": "3fb703f4c717", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_1_DESC", "en_sha": "6dd81814b615", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_2_DESC", "en_sha": "981f9d4f9f46", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 5 รายการ โดยสะสมจากกี่ยุคก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_3_DESC", "en_sha": "33cb0f851848", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 25 รายการ โดยสะสมจากกี่ยุคก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "9d4a57c86f19", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "3f43d21de6ef", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "151ef04b5fd6", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "303ce543fd0d", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "52ac2ca5e929", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "76cf63879391", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_VICTORY_DESC", "en_sha": "db690068b21a", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ALEXANDER_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_ANTIQUITY_DESC", "en_sha": "6f9f3ddc1902", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคโบราณ ทำภารกิจเพื่อพิชิตดินแดนเพื่อทวยเทพให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_ANTIQUITY_NAME", "en_sha": "05f111613a88", "status": "draft", "th": "การสร้างชื่อเสียง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_EXPLORATION_DESC", "en_sha": "64f7b4fe1dc0", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเติมเต็มลิขิตแห่งโชคชะตาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_EXPLORATION_NAME", "en_sha": "41c0ee01e78b", "status": "draft", "th": "สู่ฝั่งโอเคียนอส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_MODERN_DESC", "en_sha": "7f16d597b0c8", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคสมัยใหม่ ทำภารกิจเพื่อครอบครองเส้นขอบฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_A_MODERN_NAME", "en_sha": "b76f3915c0ce", "status": "draft", "th": "ราชาแห่งโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_ANTIQUITY_DESC", "en_sha": "bee2f15402df", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคโบราณ ทำภารกิจเพื่อเทิดเกียรติเหล่ามิวส์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_ANTIQUITY_NAME", "en_sha": "eca380f52051", "status": "draft", "th": "เทศกาลแห่งเหล่ามิวส์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_EXPLORATION_DESC", "en_sha": "019d08d900c3", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อปลุกความเกรงขามและความภักดีให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_EXPLORATION_NAME", "en_sha": "8ecb1cf5a0ed", "status": "draft", "th": "พิชิตใจด้วยวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_MODERN_DESC", "en_sha": "39a25b0a7964", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ ในยุคสมัยใหม่ ทำภารกิจเพื่อปลุกตำนานให้มีชีวิตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ALEXANDER_QUEST_B_MODERN_NAME", "en_sha": "db2578ce5805", "status": "draft", "th": "วีรบุรุษแห่งมหากาพย์"}
+{"tag": "LOC_MODULE_ALEXANDER_DESCRIPTION", "en_sha": "c0636dcd8e0b", "status": "draft", "th": "มีผู้นำใหม่ คือ อเล็กซานเดอร์"}
+{"tag": "LOC_MODULE_ALEXANDER_NAME", "en_sha": "33aba18cf411", "status": "draft", "th": "อเล็กซานเดอร์"}
+{"tag": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_ALEXANDER_L1_DESCRIPTION", "en_sha": "f9d318a62176", "status": "draft", "th": "ปลดล็อกตำนาน +15% [icon:YIELD_PRODUCTION] การผลิตในการสร้าง [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างและ [icon:WONDER] สิ่งมหัศจรรย์ที่มีช่อง [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอก"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ALEXANDER_L2_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ALEXANDER_L2_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_1", "en_sha": "f0ebb0882c8e", "status": "draft", "th": "อเล็กซานเดอร์ที่ 3 ซึ่งภายหลังรู้จักกันในนามอเล็กซานเดอร์มหาราช ประสูติเมื่อ 356 ปีก่อนคริสตกาล เป็นโอรสของพระเจ้าฟิลิปที่ 2 แห่งมาซิโดเนียกับโอลิมเปียส มเหสีองค์ที่สี่ แม้ในวัยเยาว์ อเล็กซานเดอร์ก็กระตือรือร้นและทะเยอทะยาน วัยรุ่นของพระองค์ส่อเค้าถึงความทะเยอทะยานอันเกินขนาด เมื่ออายุ 13 ปี พระองค์ท้าพนันกับพระบิดาว่าจะปราบม้าพันธุ์ดีแต่พยศตัวหนึ่งให้เชื่องได้ เมื่อเห็นว่าม้ากลัวเงาของตัวเอง อเล็กซานเดอร์จึงหันม้าเข้าหาดวงอาทิตย์ พูดกับมันอย่างใจเย็น แล้วขึ้นขี่ได้สำเร็จ บิวซีฟาลัส ชื่อที่พระองค์ตั้งให้ม้าตัวนั้น กลายเป็นหนึ่งในสหายที่ใกล้ชิดที่สุดของอเล็กซานเดอร์ตลอดการทัพ ถึงขั้นได้รับพิธีศพอันหรูหราเมื่อม้าสิ้นใจจากบาดแผลในสนามรบ การทัพครั้งแรกที่อเล็กซานเดอร์บัญชาการเองเกิดขึ้นเมื่อพระองค์มีอายุเพียง 15 ปี พระองค์ปราบกบฏได้สำเร็จและก่อตั้งนครแห่งแรกของพระองค์คืออเล็กซานโดรโปลิส"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_2", "en_sha": "0c929e492b41", "status": "draft", "th": "เมื่อพระเจ้าฟิลิปถูกลอบสังหารในงานเลี้ยงฉลองการสมรสเมื่อ 336 ปีก่อนคริสตกาล อเล็กซานเดอร์ก็รับตำแหน่งแม่ทัพในสงครามระหว่างชาวกรีกกับเปอร์เซียต่อ ในนาม สงครามนี้มีเป้าหมายเพื่อแก้แค้นที่ชาวเปอร์เซียปล้นเอเธนส์เมื่อกว่า 150 ปีก่อน แต่สำหรับอเล็กซานเดอร์ นี่คือก้าวแรกของการพิชิตเอเชีย กล่าวกันว่าเมื่อข้ามช่องแคบเฮลเลสพอนต์ พระองค์ปักดาบลงบนผืนดินและประกาศขอบคุณเทพเจ้าที่ประทานเอเชียให้ ต่อมาเมื่อเคลื่อนทัพลึกเข้าไปในแผ่นดิน พระองค์แวะที่กอร์ดิออน ซึ่งมีเรื่องเล่าอันเลื่องชื่อถึงเกวียนเทียมวัวเก่าที่ผูกไว้ด้วยปมอันซับซ้อน ว่ากันว่าผู้ใดแก้ปมนี้ได้จะได้ปกครองเอเชียทั้งหมด พลูทาร์กเล่าว่ามีรายงานที่ขัดแย้งกันว่าอเล็กซานเดอร์ทำให้คำทำนายเป็นจริงได้อย่างไร ส่วนใหญ่อ้างว่าพระองค์ใช้ดาบฟันปมขาด \"แก้\" ปริศนาและคว้ารางวัลไปครอง ไม่ว่าความจริงจะเป็นอย่างไร อเล็กซานเดอร์ก็ได้แสดงให้เห็นถึงสิทธิ์ในการเป็นราชาแห่งเอเชีย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_3", "en_sha": "51f69891360d", "status": "draft", "th": "ดาริอุสที่ 3 จอมกษัตริย์แห่งเปอร์เซีย ส่งแม่ทัพไปสกัดกองทัพมาซิโดเนีย แต่พวกเขาพ่ายแพ้ที่แม่น้ำกรานิคัส ซึ่งเป็นตัวอย่างแรกของสิ่งที่จะกลายเป็นยุทธศาสตร์การรบของอเล็กซานเดอร์ พระองค์ใช้ทั้งทหารราบและทหารม้า โดยใช้จุดแข็งเฉพาะตัวของแต่ละฝ่ายอย่างชาญฉลาด และพึ่งพาทหารม้าอย่างดุดันกว่าที่เคยเป็นมา พระองค์จะนำการบุกที่ปีกขวาพร้อมทหารม้าสหาย กองทหารม้าชั้นยอดของมาซิโดเนีย ผลักดันให้กองทัพข้าศึกสับสนอลหม่าน ฟาแลงซ์มาซิโดเนียและฮอปไลต์กรีกประกอบกันเป็นกำลังทหารราบของกองทัพ พวกเขาถือซาริสซา หอกยาว และจะรุกประชิดกองทัพข้าศึกตามหลังการบุกของทหารม้าเพื่อปิดล้อมกำลังของข้าศึกไว้ ต่อมาในยุทธการที่อิสซัส ดาริอุสลองใช้ยุทธวิธีใหม่ แต่อเล็กซานเดอร์ก็ชนะอีกครั้ง สองปีต่อมาในการเผชิญหน้าครั้งสุดท้ายที่เกากาเมลา อเล็กซานเดอร์ก็ชนะอีก และแม้ดาริอุสจะหลบหนีไปได้ แต่ไม่นานก็ถูกลอบสังหาร ความผิดพลาดของดาริอุสส่วนหนึ่งอยู่ที่ยุทธศาสตร์ทางทหารและการขาดประสบการณ์ แต่ยังอยู่ที่การไม่ตระหนักว่าอเล็กซานเดอร์มีความกระหายในการพิชิตที่ไม่มีวันอิ่ม ดาริอุสเสนอสันติภาพถึงสามครั้ง และทุกครั้งอเล็กซานเดอร์ก็ปฏิเสธ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_4", "en_sha": "068551559b46", "status": "draft", "th": "แหล่งข้อมูลโบราณเกี่ยวกับชีวิตของอเล็กซานเดอร์ส่วนใหญ่เป็นของชาวกรีก และวิพากษ์การที่อเล็กซานเดอร์รับขนบธรรมเนียมทางวัฒนธรรมที่มิใช่ของกรีกมาใช้ ในเปอร์เซีย อเล็กซานเดอร์เริ่มสวมเครื่องทรงของกษัตริย์บางส่วน (แต่ไม่ทั้งหมด) รวมถึงมงกุฎรัดเกล้าซึ่งต่อมากลายเป็นสัญลักษณ์ของผู้ปกครองสมัยเฮลเลนิสติก ชาวเปอร์เซียถือธรรมเนียมโพรสคิเนซิส คือการหมอบกราบลงต่ำจรดพื้นต่อหน้าผู้ปกครอง ซึ่งเป็นสิ่งที่ไม่เหมาะสมอย่างยิ่งสำหรับชาวกรีกผู้ยึดถือความเสมอภาคระหว่างมนุษย์และจะยอมก้มกราบต่อเทพเจ้าเท่านั้น แต่อเล็กซานเดอร์กลับยินยอมและถึงขั้นส่งเสริมให้ชาวเปอร์เซียปฏิบัติเช่นนั้น ชาวกรีกกล่าวหาว่าพระองค์ทรงทะนงตนเกินไปและเชื่อว่าตนเป็นเทพโดยแท้ อเล็กซานเดอร์ทรงอ้างว่าสืบเชื้อสายจากอคิลลีสและเฮอร์คิวลีส (เฮราคลีส) และจึงสืบสายจากซูสด้วย ครั้นอยู่ในอียิปต์ พระองค์ทรงอ้างว่าเทพอัมมอน (อามุน) ของอียิปต์เป็นพระบิดา เมื่อเสด็จไปเยือนเทวสถานของเทพองค์นั้น ดังที่เล่ากันว่าเฮอร์คิวลีสเคยทำมาก่อน แม้สำหรับชาวกรีกผู้นิยมประชาธิปไตยนี่จะเป็นการลบหลู่ศาสนา แต่ความเป็นกษัตริย์ผู้ทรงเทวสิทธิ์นั้นมิใช่เรื่องแปลกสำหรับชาวมาซิโดเนีย เป็นที่ยอมรับ (และถึงกับคาดหวัง) ว่าผู้ปกครองจะมีความเชื่อมโยงกับเทพเจ้า"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_5", "en_sha": "d10b0ec216df", "status": "draft", "th": "มุมมองของชาวกรีกที่มีต่ออเล็กซานเดอร์ได้แต่งแต้มทัศนะของนักประวัติศาสตร์ที่มีต่อพระองค์ตลอดยุคสมัยใหม่ จนเกิดงานเขียนจำนวนมากว่าด้วยความเสื่อมทรามและความหลงผิดว่าตนเป็นเทพของอเล็กซานเดอร์ ปัจจุบันมุมมองของเราเปลี่ยนไปสู่ความสมดุลและสมเหตุสมผลมากขึ้น เนื่องจากมีความเป็นไปได้สูงกว่าที่อเล็กซานเดอร์จะปรับเปลี่ยนการปฏิบัติตนอย่างมีกลยุทธ์ให้เหมาะกับชนชาติต่าง ๆ มากมายในอาณาจักรของพระองค์ และหลักฐานก็ชี้ว่าพระองค์ทรงตระหนักดีถึงความเป็นมนุษย์ผู้ต้องตายของตน ตลอดพระชนม์ชีพ อเล็กซานเดอร์ยังคงประพฤติตนเช่นชาวมาซิโดเนียผู้เคร่งศาสนาทั่วไป ถึงขั้นลุกจากแท่นบรรทมขณะประชวรหนักเพื่อถวายเครื่องบูชายามเช้าและแสดงความเคารพที่พึงมีต่อเทพเจ้า ซึ่งเป็นการกระทำที่ขัดกับบุคคลที่เชื่อว่าตนเป็นเทพ ความเข้าใจของเราในปัจจุบันจึงมองพระองค์ว่าเป็นผู้ที่หยิ่งผยองแต่มิได้หลงผิด - เป็นผู้นำที่จัดการกับข้อเรียกร้องอันขัดแย้งกันของกองกำลังมาซิโดเนียและเปอร์เซียได้อย่างชาญฉลาด และเข้าใจสิทธิ์โดยกำเนิดอันศักดิ์สิทธิ์ของตนภายใต้บริบทแห่งความเป็นมนุษย์ผู้ต้องตาย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_6", "en_sha": "1a162a618c8b", "status": "draft", "th": "การทัพของอเล็กซานเดอร์เริ่มต้นที่เอเชีย แต่ในช่วงรุ่งเรืองที่สุดได้แผ่ไปทั่วทะเลอีเจียน ลิแวนต์ และอียิปต์ และขยายไปทางตะวันออกผ่านดินแดนอิหร่านและอัฟกานิสถานในปัจจุบัน ไปจนถึงแม่น้ำฮิฟาซิสทางตอนเหนือของอินเดีย แม้อเล็กซานเดอร์ปรารถนาจะรุกต่อไปยังแม่น้ำคงคาและไกลกว่านั้น แต่กองทัพของพระองค์ปฏิเสธที่จะรบต่อ พระองค์จึงยกทัพกลับ โดยนำทหารเดินทัพเลียบชายฝั่งมหาสมุทรอินเดียกลับสู่เปอร์เซีย ความปรารถนาในการพิชิตของพระองค์ครอบคลุมทั้งโลก และหากโชคชะตาปล่อยให้พระองค์มีชีวิตอยู่ต่อไป พระองค์ก็อาจบรรลุเป้าหมายนั้นได้ ทว่าความเป็นมนุษย์ผู้ต้องตายของพระองค์ก็ปรากฏชัด เมื่อทรงประชวรหลังงานเลี้ยงสุรา ซึ่งน่าจะเป็นไข้มาลาเรียหรือไข้รากสาดใหญ่สายพันธุ์ท้องถิ่น ด้วยความเชื่อมั่นว่าจะหายประชวร พระองค์จึงมิได้วางแผนเรื่องผู้สืบทอด แต่กลับใช้เวลาวางแผนการทัพครั้งต่อไปข้ามแอฟริกาเหนือซึ่งไม่เคยได้ทำให้สำเร็จ พระองค์สวรรคตเมื่อ 323 ปีก่อนคริสตศักราช ขณะมีพระชนมายุ 32 พรรษา ทิ้งจักรวรรดิอันกว้างใหญ่ไว้ให้บรรดาขุนพลใต้บังคับบัญชาแย่งชิงกันอยู่หลายสิบปี"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ALEXANDER_CHAPTER_HISTORY_PARA_7", "en_sha": "4a41da79f384", "status": "draft", "th": "อเล็กซานเดอร์สามารถเผยแผ่วัฒนธรรมกรีกจากทะเลอีเจียนไปถึงอินเดียได้ในเวลาไม่ถึง 15 ปี พระองค์และทหารเดินทางไปเป็นระยะทางประมาณ 22,000 ไมล์ ผ่านภูมิประเทศที่ยากลำบากที่สุดบางแห่งบนโลก จักรวรรดิของพระองค์วางรากฐานให้แก่จักรวรรดิโรมันตะวันออก (โรมพิชิตดินแดนนี้ได้ในอีกราวสองร้อยปีต่อมา) และนครที่พระองค์ทรงก่อตั้งก็มีบทบาทสำคัญในการเผยแพร่วิทยาศาสตร์และปรัชญาในเวลาต่อมา จึงไม่เกินเลยที่จะกล่าวว่าอเล็กซานเดอร์เป็นหนึ่งในเหตุผลสำคัญที่ทำให้กรีซมีอิทธิพลอย่างลึกซึ้งต่ออารยธรรมตะวันตก"}
+{"tag": "LOC_PROFILE_TITLE_ALEXANDER", "en_sha": "ef66ad067918", "status": "draft", "th": "มหาราช"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_EXPLORATION_1_DESCRIPTION", "en_sha": "334fd95ebbfb", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_EXPLORATION_1_NAME", "en_sha": "aa0bfb526c1a", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_EXPLORATION_2_DESCRIPTION", "en_sha": "f9e8365cc2ed", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_EXPLORATION_2_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_MODERN_1_DESCRIPTION", "en_sha": "88fd0c3f5059", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_MODERN_1_NAME", "en_sha": "261442392230", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_MODERN_2_DESCRIPTION", "en_sha": "c95b758ac11b", "status": "draft", "th": "ในฐานะอเล็กซานเดอร์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_ALEXANDER_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_ALEXANDER_NAME", "en_sha": "ef66ad067918", "status": "draft", "th": "มหาราช"}
+{"tag": "LOC_TRAIT_LEADER_ALEXANDER_ABILITY_DESCRIPTION", "en_sha": "826b046541cd", "status": "draft", "th": "[BLIST][LI][icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]อื่นนอกจากนครหลวงที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ได้รับ [B]+10% [icon:YIELD_PRODUCTION] การผลิต[/B]และ [icon:YIELD_CULTURE] [B]วัฒนธรรม[/B] และเพิ่มเป็นสองเท่าหากตั้งอยู่บนทวีปที่ต่างจาก [icon:NOTIFICATION_SELECT_CAPITAL] [TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณ\n\t\t\t\t  [LI][B]+2[/B] [icon:NAR_REW_COMBAT] [B][TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP][/B] สำหรับ[B][TIP:LOC_PEDIA_CONCEPTS_MILITARY_UNIT_TOOLTIP]ยูนิตทหาร[/TIP]ทางบก[/B] [B]+1 [icon:NAR_REW_COMBAT] พลังการรบ[/B]สำหรับ[B]ยูนิตทหารเฉพาะตัว[/B] ต่อ [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]แต่ละแห่งที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]นอกเหนือจากนครหลวง (สูงสุด 6)\n\t\t\t\t  [LI][B]+2 [icon:MILITARY_VP] อำนาจครอบครอง[/B] ต่อ [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]แต่ละแห่งที่มี [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]นอกเหนือจากนครหลวง\n\t\t\t\t  [LI][icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]ที่ยกระดับเป็น [icon:YIELD_CITIES] [B]นคร[/B] จะได้รับชื่อใหม่ตามอเล็กซานเดอร์[/LIST]\n\t\t\t"}
+{"tag": "LOC_TRAIT_LEADER_ALEXANDER_ABILITY_NAME", "en_sha": "b76f3915c0ce", "status": "draft", "th": "ราชาแห่งโลก"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_ABBASID_TOOLTIP", "en_sha": "d7377c5d5029", "status": "draft", "th": "จักรวรรดิของ[B]อเล็กซานเดอร์[/B]ครอบคลุมดินแดนส่วนใหญ่เดียวกับ[B]อับบาซียะฮ์[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_DESCRIPTION", "en_sha": "ca081ef168e2", "status": "draft", "th": "เล่นเป็น [B]อเล็กซานเดอร์[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_FRENCH_EMPIRE_TOOLTIP", "en_sha": "7ac0f37e916d", "status": "draft", "th": "[B]จักรวรรดิฝรั่งเศส[/B] เสริมกลยุทธ์ของ [B]อเล็กซานเดอร์[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_GREECE_TOOLTIP", "en_sha": "513b0de6c575", "status": "draft", "th": "[B]อเล็กซานเดอร์[/B] ปกครอง [B]กรีซ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_MONGOLIA_TOOLTIP", "en_sha": "3860e982a9c3", "status": "draft", "th": "[B]มองโกเลีย[/B] เสริมกลยุทธ์ของ [B]อเล็กซานเดอร์[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ALEXANDER_PERSIA_TOOLTIP", "en_sha": "06170ddc4623", "status": "draft", "th": "[B]อเล็กซานเดอร์[/B] พิชิต [B]เปอร์เซียอะคีเมนิด[/B]"}
+{"tag": "LOC_VICTORY_LEADER_ALEXANDER", "en_sha": "08e08d8f5bdd", "status": "draft", "th": "เมื่อเทศกาลฉลองชัยจบลง เราจะเดินทัพต่อ โลกที่เหลือกำลังรอเราอยู่"}

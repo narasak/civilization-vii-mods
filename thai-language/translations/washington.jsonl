@@ -1,0 +1,373 @@
+{"tag": "LOC_10197A_COMPLETION", "en_sha": "9a457b5aff7e", "status": "draft", "th": "วอชิงตันไม่ใช่ผู้ปกครอง เขาคือผู้เพาะปลูก ขณะที่ประชาชนของเขาเจริญงอกงาม เขาก็จัดแต่งสวนในบ้านไร่ของตน และใช้เวลาดูแลกิจการของที่นั่นมากพอ ๆ กับกิจการของรัฐ คฤหาสน์หลังใหม่ผุดขึ้นมากมายตามแบบอย่างที่ดินของวอชิงตัน แต่บัดนี้ที่ดินเริ่มขาดแคลนแล้ว"}
+{"tag": "LOC_10197A_STORYTITLE", "en_sha": "227b0db20419", "status": "draft", "th": "พรมแดนไร้ที่สิ้นสุด"}
+{"tag": "LOC_10197B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10197B_NAME", "en_sha": "ba35d858b660", "status": "draft", "th": "ผู้ที่หวังจะบุกเบิกที่ดินจะต้องหาที่ตั้งถิ่นฐานด้วยตนเอง"}
+{"tag": "LOC_10197C_DESCRIPTION", "en_sha": "2a95353f4a65", "status": "draft", "th": "{1_reward} และ {2_reward} ในเมือง แต่ {3_reward}"}
+{"tag": "LOC_10197C_NAME", "en_sha": "eb0a5c5cebd9", "status": "draft", "th": "วอชิงตันช่วยส่งเสริมถิ่นฐานใหม่ได้ ตั้งบริษัทเพื่อพัฒนาดินแดนตอนในอย่างเป็นระบบ"}
+{"tag": "LOC_10198A_COMPLETION", "en_sha": "750d88302a73", "status": "draft", "th": "ที่ลุ่มชื้นแฉะทอดตัวกว้างไกล ดินดำของมันเป็นกรดและเปียกชื้นเกินกว่าจะเพาะปลูกได้ โคลนของมันคอยดูดรั้งรองเท้าบูต และงูของมันก็เป็นภัยอันโจ่งแจ้งต่อนายพราน ผู้อาศัยเพียงกลุ่มเดียวในดินแดนของวอชิงตันที่ดูจะชื่นชอบที่นี่ก็คือแมลงวันกัดต่อย ซึ่งรุมตอมกันอยู่อย่างล้นหลาม"}
+{"tag": "LOC_10198A_STORYTITLE", "en_sha": "bef945557766", "status": "draft", "th": "บึงเกรตดิสมัล"}
+{"tag": "LOC_10198B_DESCRIPTION", "en_sha": "a962796267c7", "status": "draft", "th": "{1_reward} แต่ {2_reward} บนช่องบึง"}
+{"tag": "LOC_10198B_NAME", "en_sha": "6d6890910fdf", "status": "draft", "th": "บึงนี้อาจถมคืนจากน้ำได้ เริ่มขุดคูระบายน้ำ"}
+{"tag": "LOC_10198C_DESCRIPTION", "en_sha": "b804ca88d29e", "status": "draft", "th": "{1_reward} บนช่องบึง"}
+{"tag": "LOC_10198C_NAME", "en_sha": "e16774dd824c", "status": "draft", "th": "บึงนี้มีประโยชน์ในตัวของมันเอง"}
+{"tag": "LOC_10199A_COMPLETION", "en_sha": "d90b554b7b21", "status": "draft", "th": "หิมะนำความเงียบงันมาสู่ค่ายทหาร กองกำลังเต็มอัตรากลายเป็นภาพพร่ามัวสีขาวบนพื้นขาว เต็นท์ถูกฝังอยู่ใต้กองหิมะ และเสียงเท้าใส่รองเท้าเหล็กที่ย่ำเดินกลายเป็นเสียงกรอบแกรบอู้อี้ ส่วนความหิวโหยนั้นเงียบสนิท"}
+{"tag": "LOC_10199A_STORYTITLE", "en_sha": "7b3905ace822", "status": "draft", "th": "วัลลีย์ฟอร์จ"}
+{"tag": "LOC_10199B_DESCRIPTION", "en_sha": "26a919fe346a", "status": "draft", "th": "{1_reward} บนผู้บัญชาการทั้งหมดที่มีอยู่"}
+{"tag": "LOC_10199B_NAME", "en_sha": "be9f97ee58ee", "status": "draft", "th": "เรื่องราวการเอาชีวิตรอดจากความพิโรธของธรรมชาติเป็นบทเรียนแก่ผู้บัญชาการในสนาม"}
+{"tag": "LOC_10199C_DESCRIPTION", "en_sha": "cf7f2e969d95", "status": "draft", "th": "ยูนิตทหารราบได้รับภูมิคุ้มกันต่อความเสียหายจากพายุหิมะ"}
+{"tag": "LOC_10199C_NAME", "en_sha": "d506c1c522e7", "status": "draft", "th": "ทหารที่หนาวเหน็บได้เรียนรู้วิธีเอาชีวิตรอดในความหนาวเย็น"}
+{"tag": "LOC_10200A_COMPLETION", "en_sha": "8d4221ef3485", "status": "draft", "th": "ขบวนผู้ลี้ภัยจากสงครามในดินแดนใกล้เคียงทยอยเข้าสู่ดินแดนของวอชิงตัน ขบวนแล้วขบวนเล่า ใบหน้าเปื้อนฝุ่นและทหารผ่านศึกผู้บาดเจ็บยื่นมือที่ด้านจากการกุมดาบ และโหยหาความสงบเงียบและสันติภาพ"}
+{"tag": "LOC_10200A_STORYTITLE", "en_sha": "2c70d698f54e", "status": "draft", "th": "เกาะแห่งความเป็นกลาง"}
+{"tag": "LOC_10200C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10200C_NAME", "en_sha": "dd3e7294eaa6", "status": "draft", "th": "วอชิงตันประกาศให้ดินแดนของตนเป็นเขตเป็นกลาง"}
+{"tag": "LOC_10201A_COMPLETION", "en_sha": "ce8a307d7470", "status": "draft", "th": "เหล่าทหารผ่านศึกผู้อ่อนล้าจากสงครามมุ่งหน้ากลับสู่แนวหน้า แนวหน้าใหม่ แต่ยังเป็นสงครามเดิม"}
+{"tag": "LOC_10201A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10201A_IMPERATIVE", "en_sha": "457c18b56c4c", "status": "draft", "th": "ประกาศสงครามกับผู้เล่นในมาตุภูมิของคุณภายใน {1_turn_timer}"}
+{"tag": "LOC_10201A_NAME", "en_sha": "f2a3e3663ad3", "status": "draft", "th": "นี่คือโอกาสที่ดีเกินกว่าจะปล่อยผ่าน เรียกพวกเขากลับเข้าประจำการ"}
+{"tag": "LOC_10201A_STORYTITLE", "en_sha": "2c70d698f54e", "status": "draft", "th": "เกาะแห่งความเป็นกลาง"}
+{"tag": "LOC_10202A_COMPLETION", "en_sha": "ffe5528f611f", "status": "draft", "th": "การข้ามแม่น้ำกลางดึกสงัดเต็มไปด้วยอันตราย แต่วอชิงตันยืนอยู่ที่หัวเรือ จ้องเขม็งเข้าไปในความมืด ราตรีอาจซ่อนโอกาสไว้ได้มากพอ ๆ กับภยันตราย"}
+{"tag": "LOC_10202A_STORYTITLE", "en_sha": "7a1f8dae7baf", "status": "draft", "th": "ข้ามแม่น้ำ"}
+{"tag": "LOC_10202B_DESCRIPTION", "en_sha": "76874cde92c2", "status": "draft", "th": "{1_reward} บนยูนิตทหารราบ"}
+{"tag": "LOC_10202B_NAME", "en_sha": "31a4155b09f8", "status": "draft", "th": "ฉวยโอกาสในยามค่ำคืน"}
+{"tag": "LOC_10202C_DESCRIPTION", "en_sha": "9951af99d947", "status": "draft", "th": "{1_reward} ในการสร้างยูนิตทหารราบ"}
+{"tag": "LOC_10202C_NAME", "en_sha": "a848cce3acca", "status": "draft", "th": "รอกำลังเสริม"}
+{"tag": "LOC_10203A_COMPLETION", "en_sha": "08abaa041fa6", "status": "draft", "th": "เมื่อแสงแรกแห่งรุ่งอรุณสาดส่อง ธงของชาวอเมริกันก็ไม่ได้โบกสะบัดอยู่ที่นั่นอีกต่อไป ฝ่ายอังกฤษเข้ายึดสนามรบ และบทเพลงก็ดังกระหึ่มขึ้นในหมู่ทหารเพื่อสรรเสริญผู้นำของพวกเขา จอร์จ วอชิงตัน"}
+{"tag": "LOC_10203A_STORYTITLE", "en_sha": "8583f47411e8", "status": "draft", "th": "ธงยูเนียนแจ็กประดับดาว"}
+{"tag": "LOC_10203B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10203B_NAME", "en_sha": "ac1e8c616dc9", "status": "draft", "th": "ขอเพลง \"ขอพระเจ้าคุ้มครองประธานาธิบดี\""}
+{"tag": "LOC_10203C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10203C_NAME", "en_sha": "d3a3c33efce6", "status": "draft", "th": "ขอเพลง \"วอชิงตันครองท้องทะเล\""}
+{"tag": "LOC_10204A_COMPLETION", "en_sha": "008957a459b4", "status": "draft", "th": "ช่วงนี้วอชิงตันอารมณ์หม่นหมอง และพูดจาติดขัดอย่างประหลาด คณะที่ปรึกษาของเขาถูกตอบกลับอย่างฉุนเฉียวแม้กับคำถามที่ง่ายที่สุด เมื่อในที่สุดมีคนหนึ่งคาดคั้นถามว่าเขากังวลเรื่องใด วอชิงตันก็พึมพำเสียงต่ำว่า \"เสี้ยนตำเหงือก\""}
+{"tag": "LOC_10204A_STORYTITLE", "en_sha": "a61a7a6ae66f", "status": "draft", "th": "เสี้ยนตำเหงือก"}
+{"tag": "LOC_10204B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10204B_NAME", "en_sha": "c0afdf3cf832", "status": "draft", "th": "สั่งทำฟันชุดใหม่จากฟันมนุษย์ ไม่ทราบแหล่งที่มา"}
+{"tag": "LOC_10205A_COMPLETION", "en_sha": "ef4e13a8179c", "status": "draft", "th": "ฟันทองคำสักชุดไหมเล่า ท่านทั้งหลาย หากท่านต้องการ"}
+{"tag": "LOC_10205A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10205A_IMPERATIVE", "en_sha": "b69061715a21", "status": "draft", "th": "ปรับปรุงทรัพยากรทอง"}
+{"tag": "LOC_10205A_NAME", "en_sha": "9ae5d04c275b", "status": "draft", "th": "สั่งทำฟันชุดใหม่จากทองคำ"}
+{"tag": "LOC_10205A_STORYTITLE", "en_sha": "a61a7a6ae66f", "status": "draft", "th": "เสี้ยนตำเหงือก"}
+{"tag": "LOC_10206A_COMPLETION", "en_sha": "f61dfe3d64e3", "status": "draft", "th": "ฟันชุดใหม่ของวอชิงตันทำจากไม้มะฮอกกานีสีแดงฉานดั่งโลหิต รอยยิ้มของเขาดูน่าขนลุก แต่เขาบอกว่ามันทำให้อาหารรสชาติดีขึ้น"}
+{"tag": "LOC_10206A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10206A_IMPERATIVE", "en_sha": "7924eebdb78a", "status": "draft", "th": "ปรับปรุงทรัพยากรไม้เนื้อแข็ง"}
+{"tag": "LOC_10206A_NAME", "en_sha": "251b7bfc5d46", "status": "draft", "th": "สั่งทำฟันชุดใหม่จากไม้เนื้อแข็งเขตร้อน"}
+{"tag": "LOC_10206A_STORYTITLE", "en_sha": "a61a7a6ae66f", "status": "draft", "th": "เสี้ยนตำเหงือก"}
+{"tag": "LOC_10207A_COMPLETION", "en_sha": "0da0d2131d41", "status": "draft", "th": "วอชิงตันโอ้อวดฟันชุดใหม่ของเขาไม่หยุดหย่อน คณะรัฐมนตรีของเขาอ้างว่าจมูกของเขายาวขึ้น"}
+{"tag": "LOC_10207A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10207A_IMPERATIVE", "en_sha": "5c29c516895b", "status": "draft", "th": "ปรับปรุงทรัพยากรงาช้าง"}
+{"tag": "LOC_10207A_NAME", "en_sha": "7bd03f7bc12b", "status": "draft", "th": "สั่งทำชุดใหม่จากงาช้าง"}
+{"tag": "LOC_10207A_STORYTITLE", "en_sha": "a61a7a6ae66f", "status": "draft", "th": "เสี้ยนตำเหงือก"}
+{"tag": "LOC_10208A_COMPLETION", "en_sha": "2474c6e275f0", "status": "draft", "th": "สงครามนั้นสิ้นเปลือง มันปรากฏออกมาเป็นผู้คนที่ล้มตายและสูญหาย แต่มันยังนำมาซึ่งหนี้สิน ภาษี และภาระที่ตกหนักเป็นพิเศษแก่ผู้ที่แทบไม่มีโอกาสได้เห็นผลประโยชน์ใด ๆ จากมัน ถิ่นฐานห่างไกลแห่งหนึ่งซึ่งทนไม่ไหวกับค่าใช้จ่ายที่พุ่งสูงและภาษีที่เพิ่มขึ้น ได้ปฏิเสธที่จะจ่าย"}
+{"tag": "LOC_10208A_STORYTITLE", "en_sha": "8c2ce36de714", "status": "draft", "th": "กบฏวิสกี้"}
+{"tag": "LOC_10208B_DESCRIPTION", "en_sha": "fb5fad83b68a", "status": "draft", "th": "{1_reward} ในเมือง แต่ {2_reward} ใน {3_capital}"}
+{"tag": "LOC_10208B_NAME", "en_sha": "495b11841619", "status": "draft", "th": "ผลักดันประเด็นนี้ให้ถึงที่สุด"}
+{"tag": "LOC_10208C_DESCRIPTION", "en_sha": "0de0cfc5382d", "status": "draft", "th": "การสนับสนุนสงคราม +1 ในทุกสงคราม แต่ {1_reward} ในเมือง"}
+{"tag": "LOC_10208C_NAME", "en_sha": "150246ef9e8a", "status": "draft", "th": "ยอมถอยในประเด็นนี้"}
+{"tag": "LOC_10209A_COMPLETION", "en_sha": "ff697964995b", "status": "draft", "th": "จดหมายจากท่านมาร์ควิสมาถึงอีกฉบับ ขอคำแนะนำจากวอชิงตันในเรื่องกิจการบ้านเมือง แล้วก็อีกฉบับ ขอคำแนะนำเรื่องแฟชั่น แล้วก็อีกฉบับ ถามวอชิงตันว่ากระสุนปืนคาบศิลาขนาดใดเหมาะที่สุดสำหรับยิงทหารราบเบาจากระยะ 200 หลา แล้วก็อีกฉบับ..."}
+{"tag": "LOC_10209A_STORYTITLE", "en_sha": "742f32f74c72", "status": "draft", "th": "นักเขียนจดหมายผู้ภักดี"}
+{"tag": "LOC_10209B_DESCRIPTION", "en_sha": "6cca69f847e0", "status": "draft", "th": "{1_reward} บนป้อมปราการ"}
+{"tag": "LOC_10209B_NAME", "en_sha": "a14ef35f82a1", "status": "draft", "th": "พันธมิตรผู้ยิ่งใหญ่"}
+{"tag": "LOC_10209C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10209C_NAME", "en_sha": "868b21212026", "status": "draft", "th": "มิตรผู้มีค่า"}
+{"tag": "LOC_10210A_COMPLETION", "en_sha": "0a75e7151eac", "status": "draft", "th": "ที่ลานกลางเมือง นักการทูตอังกฤษผู้หนึ่งถูกฝูงชนอึกทึกลากตัวออกมาจากสถานทูต ท่ามกลางเสียงหัวเราะและเหล้าองุ่นไม่น้อย ชายผู้นั้นถูกลากไปกลางลาน ที่ซึ่งน้ำมันดินร้อน ๆ ถูกราดลงบนตัวเขา ตามด้วยขนไก่อีกหนึ่งตะกร้า ชาวอังกฤษโกรธแค้นอย่างยิ่ง แต่ประชาชนของวอชิงตันกลับเห็นเป็นเรื่องขบขัน"}
+{"tag": "LOC_10210A_STORYTITLE", "en_sha": "12cf7acb1646", "status": "draft", "th": "กฎหมายที่ไม่อาจทนได้"}
+{"tag": "LOC_10210B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10210B_NAME", "en_sha": "7d057b3bea96", "status": "draft", "th": "ฟื้นฟูความสัมพันธ์กับบริเตน"}
+{"tag": "LOC_10210C_DESCRIPTION", "en_sha": "dd6ec0974fcf", "status": "draft", "th": "{1_reward} ในนคร แต่ความสัมพันธ์กับบริเตนใหญ่ -10"}
+{"tag": "LOC_10210C_NAME", "en_sha": "3374d1e19b32", "status": "draft", "th": "ในที่สุดชาวบริเตนก็เผยให้เห็นว่าเป็นพวกขี้ขลาด"}
+{"tag": "LOC_10211A_COMPLETION", "en_sha": "c4f84519847f", "status": "draft", "th": "วอชิงตันไม่ใช่กษัตริย์ องคมนตรีสวมมงกุฎใบลอเรลบนศีรษะของเขา แต่เขาไม่ใช่กษัตริย์ ดาบของเขามีด้ามทองคำประดับอัญมณี แต่เขาไม่ใช่กษัตริย์ เขายืนยันว่าตนเป็นเพียงพลเมืองธรรมดา เช่นเดียวกับทุกคนในดินแดนของเขา \"ขอรับ\" มหาดเล็กคนสำคัญของเขาตอบ \"ใต้เท้า\""}
+{"tag": "LOC_10211A_STORYTITLE", "en_sha": "b6e50d4f9c9d", "status": "draft", "th": "มิใช่กษัตริย์"}
+{"tag": "LOC_10211B_DESCRIPTION", "en_sha": "e195024fc116", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้ความสุขใน {2_capital}"}
+{"tag": "LOC_10211B_NAME", "en_sha": "75c6020fc8aa", "status": "draft", "th": "รับตำแหน่งจักรพรรดิ อย่างน้อยนั่นก็ไม่ใช่กษัตริย์"}
+{"tag": "LOC_10211C_DESCRIPTION", "en_sha": "5fa518c3998c", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด แต่เปลี่ยนรัฐบาลเป็นสาธารณรัฐแบบเลือกตั้ง"}
+{"tag": "LOC_10211C_NAME", "en_sha": "3c53a16006cb", "status": "draft", "th": "ปฏิเสธมงกุฎ ปฏิเสธดาบ ปฏิเสธตำแหน่ง"}
+{"tag": "LOC_ATTRIBUTENODE_WASHINGTON_L1_DESCRIPTION", "en_sha": "a1b042ae7477", "status": "draft", "th": "+25% ความสัมพันธ์จากการเริ่มหรือสนับสนุนโครงการร่วม -25% ความสัมพันธ์จากการเริ่มการคว่ำบาตรหรือปฏิเสธโครงการร่วม"}
+{"tag": "LOC_ATTRIBUTENODE_WASHINGTON_L1_NAME", "en_sha": "03d1a5acc12f", "status": "draft", "th": "โหนดคุณลักษณะทางการทูต"}
+{"tag": "LOC_ATTRIBUTENODE_WASHINGTON_L2_DESCRIPTION", "en_sha": "d280ca5bc8c0", "status": "draft", "th": "+50% ทองในการเปลี่ยนเมืองเป็นนคร"}
+{"tag": "LOC_ATTRIBUTENODE_WASHINGTON_L2_NAME", "en_sha": "d060e8ec795c", "status": "draft", "th": "โหนดคุณลักษณะทางการขยายดินแดน"}
+{"tag": "LOC_BADGE_WASHINGTON_NAME", "en_sha": "f118d898f1b1", "status": "draft", "th": "เหรียญตราจอร์จ วอชิงตัน 1"}
+{"tag": "LOC_BADGE_WASHINGTON_P_NAME", "en_sha": "67520bfe05d1", "status": "draft", "th": "เหรียญตราจอร์จ วอชิงตัน 2"}
+{"tag": "LOC_BANNER_WASHINGTON_NAME", "en_sha": "c09007bb711b", "status": "draft", "th": "แบนเนอร์จอร์จ วอชิงตัน"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_WASHINGTON_1_DESCRIPTION", "en_sha": "e52f23536f30", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับ พลังการรบ -2 ของยูนิตทางเรือของคุณ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_WASHINGTON_1_NAME", "en_sha": "db6e134ae096", "status": "draft", "th": "การอุทิศของจอร์จ วอชิงตัน ยุคแห่งการสำรวจ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_WASHINGTON_2_DESCRIPTION", "en_sha": "79d4af2b791b", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_FOOD] อาหาร +15% แลกกับ [icon:YIELD_GOLD] ทอง -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_WASHINGTON_2_NAME", "en_sha": "2433a0bf56b1", "status": "draft", "th": "การอุทิศของจอร์จ วอชิงตัน ยุคแห่งการสำรวจ - ทางการขยายดินแดน"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_WASHINGTON_1_DESCRIPTION", "en_sha": "8cb7d37fe679", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับพลังการรบ -2 ของยูนิตทางอากาศของคุณ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_WASHINGTON_1_NAME", "en_sha": "d83af87e7ad8", "status": "draft", "th": "การอุทิศของจอร์จ วอชิงตัน ยุคสมัยใหม่ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_WASHINGTON_2_DESCRIPTION", "en_sha": "79d4af2b791b", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_FOOD] อาหาร +15% แลกกับ [icon:YIELD_GOLD] ทอง -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_WASHINGTON_2_NAME", "en_sha": "150aded61ad8", "status": "draft", "th": "การอุทิศของจอร์จ วอชิงตัน ยุคสมัยใหม่ - ทางการขยายดินแดน"}
+{"tag": "LOC_DIPLOMACY_AGENDA_HEARTS_OF_HIS_COUNTRYMEN_DESC", "en_sha": "c06acd95d268", "status": "draft", "th": "ชอบผู้นำที่มีเมืองที่มีความสุขหรือสุขยิ่งกว่านั้นมากที่สุด ไม่ชอบผู้นำที่มีเมืองที่ไม่มีความสุขหรือทุกข์ยิ่งกว่านั้นมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_HEARTS_OF_HIS_COUNTRYMEN_DESC_DISLIKES", "en_sha": "699d43c0777b", "status": "draft", "th": "จอร์จ วอชิงตันไม่ชอบผู้นำที่มีเมืองที่ไม่มีความสุขหรือทุกข์ยิ่งกว่านั้นมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_HEARTS_OF_HIS_COUNTRYMEN_DESC_LIKES", "en_sha": "7d1757bfbc0f", "status": "draft", "th": "จอร์จ วอชิงตันชอบผู้นำที่มีเมืองที่มีความสุขหรือสุขยิ่งกว่านั้นมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_HEARTS_OF_HIS_COUNTRYMEN_NAME", "en_sha": "961a05f55079", "status": "draft", "th": "ดวงใจของเพื่อนร่วมชาติ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_WASHINGTON_ANY", "en_sha": "e4f9000e951e", "status": "draft", "th": "เราก่อความยุ่งยากในวันนี้ เพื่อให้ลูกหลานของเราได้รู้จักสันติ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_WASHINGTON_ANY", "en_sha": "c59d5bf24800", "status": "draft", "th": "ทหารทั้งหลาย! ฤดูหนาวมาเยือนแล้ว เราต้องร่วมใจเป็นหนึ่งเดียว แล้วฤดูใบไม้ผลิก็อาจยังมาถึง"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_WASHINGTON_ANY", "en_sha": "ff608ec6fb22", "status": "draft", "th": "ข้ารู้ดีถึงเดิมพันตั้งแต่ออกเดินทางในภารกิจนี้ แต่ได้โปรด ปฏิบัติต่อทหารของข้าอย่างปรานี"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_WASHINGTON_ANY", "en_sha": "10e17c416732", "status": "draft", "th": "ข้าคือจอร์จ วอชิงตัน แม่ทัพและรัฐบุรุษ แต่ไม่เคยเป็นกษัตริย์"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_WASHINGTON_ANY", "en_sha": "10e17c416732", "status": "draft", "th": "ข้าคือจอร์จ วอชิงตัน แม่ทัพและรัฐบุรุษ แต่ไม่เคยเป็นกษัตริย์"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_WASHINGTON_ANY", "en_sha": "10e17c416732", "status": "draft", "th": "ข้าคือจอร์จ วอชิงตัน แม่ทัพและรัฐบุรุษ แต่ไม่เคยเป็นกษัตริย์"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_WASHINGTON", "en_sha": "6f45a3c77c0a", "status": "draft", "th": "ท่านทำให้ข้าเชื่อมั่นในความถูกต้องของข้อเสนอของท่านแล้ว"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_WASHINGTON", "en_sha": "e4a89184c87e", "status": "draft", "th": "คำประกาศไมตรีนั้นยังห่างไกลจากไมตรีที่แท้จริงนัก"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_WASHINGTON", "en_sha": "5490f3e94fd7", "status": "draft", "th": "การโต้เถียงกับท่านก็เหมือนป้อนยาให้คนตาย"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_WASHINGTON", "en_sha": "fcaacbd821b9", "status": "draft", "th": "ข้าขอแสดงความชื่นชม เอาละ แสดงแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1340A_COMPLETION", "en_sha": "4edf9519cadf", "status": "draft", "th": "วอชิงตันขี่ม้าไปมาระหว่างนครหลวงกับถิ่นฐานอันห่างไกล ในทุกหนองบึง เขามองเห็นคลอง ในทุกทุ่งหญ้า เขามองเห็นไร่นา แต่จิตใจเพียงลำพังทำได้เพียงเท่านั้น ต้องมีการจัดระเบียบเพื่อให้วิสัยทัศน์นี้เป็นจริง"}
+{"tag": "LOC_LEADER_CHAIN_1340A_STORYTITLE", "en_sha": "96b23e70dd14", "status": "draft", "th": "นักรังวัด"}
+{"tag": "LOC_LEADER_CHAIN_1340B_COMPLETION", "en_sha": "7eda1d6eed86", "status": "draft", "th": "สภาเบอร์เจสได้รับการจัดตั้งขึ้น เป็นที่ประชุมซึ่งเจ้าของที่ดินผู้มีการศึกษาจะมารวมตัว ถกเถียง และส่งเสียงของตนให้ผู้อื่นได้ยิน"}
+{"tag": "LOC_LEADER_CHAIN_1340B_DESCRIPTION", "en_sha": "079734e59449", "status": "draft", "th": "{1_reward} ในนคร"}
+{"tag": "LOC_LEADER_CHAIN_1340B_IMPERATIVE", "en_sha": "60cea7ce35b2", "status": "draft", "th": "มีสิ่งก่อสร้างที่ให้ทองและประชากรอย่างน้อย 15 ใน {1_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1340B_NAME", "en_sha": "099de6df49ac", "status": "draft", "th": "ระเบียบมาจากผู้มีที่ดินและการศึกษา จงจัดตั้งสภาเบอร์เจสซีสในนครหลวง"}
+{"tag": "LOC_LEADER_CHAIN_1340B_STORYTITLE", "en_sha": "96b23e70dd14", "status": "draft", "th": "นักรังวัด"}
+{"tag": "LOC_LEADER_CHAIN_1340C_COMPLETION", "en_sha": "eb529628902f", "status": "draft", "th": "การประชุมบางครั้งจัดขึ้นในโบสถ์ บางครั้งในห้องโถงหิน และบางครั้งในโรงนา แต่อย่างไรเสีย การประชุมก็ได้จัดขึ้น"}
+{"tag": "LOC_LEADER_CHAIN_1340C_DESCRIPTION", "en_sha": "8eea76d4f0d5", "status": "draft", "th": "{1_reward} ในเมือง"}
+{"tag": "LOC_LEADER_CHAIN_1340C_IMPERATIVE", "en_sha": "cbc779468960", "status": "draft", "th": "มีเมือง 4 แห่งที่มีจุดเน้นของเมืองที่ไม่ใช่ค่าเริ่มต้น"}
+{"tag": "LOC_LEADER_CHAIN_1340C_NAME", "en_sha": "2a1d5a1e8088", "status": "draft", "th": "ระเบียบมาจากประชาชน จงจัดการประชุมเมืองในทุกถิ่นฐาน"}
+{"tag": "LOC_LEADER_CHAIN_1340C_STORYTITLE", "en_sha": "96b23e70dd14", "status": "draft", "th": "นักรังวัด"}
+{"tag": "LOC_LEADER_CHAIN_1340D_DESCRIPTION", "en_sha": "5c48c1e258a2", "status": "draft", "th": "{1_reward} ในสิ่งก่อสร้างที่ให้ความสุข"}
+{"tag": "LOC_LEADER_CHAIN_1340D_NAME", "en_sha": "f82bef9ba4bd", "status": "draft", "th": "ระเบียบมาจากทหาร"}
+{"tag": "LOC_LEADER_CHAIN_1341A_COMPLETION", "en_sha": "ab62e5a9ffe5", "status": "draft", "th": "จนดึกดื่น วอชิงตันและสหายคนสนิทนั่งสุมหัวกันในห้องที่สว่างด้วยแสงเทียน ทบทวนแผนการของพวกเขา ณ ที่นี่ ท่ามกลางบรรยากาศเป็นกันเองรอบโต๊ะอาหารของวอชิงตัน เสียงต่าง ๆ ดังขึ้นทั้งในการถกเถียง การโต้แย้ง และบางครั้งก็เสียงหัวเราะ"}
+{"tag": "LOC_LEADER_CHAIN_1341A_STORYTITLE", "en_sha": "2b25333a63a2", "status": "draft", "th": "คณะรัฐมนตรี"}
+{"tag": "LOC_LEADER_CHAIN_1341B_COMPLETION", "en_sha": "0e623b9e8f43", "status": "draft", "th": "สิ่งที่เคยเป็นการรวมตัวอย่างไม่เป็นทางการ บัดนี้กลายเป็นทางการแล้ว สหายได้กลายเป็นรัฐมนตรี เรื่องที่สนใจได้กลายเป็นกระทรวง"}
+{"tag": "LOC_LEADER_CHAIN_1341B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1341B_IMPERATIVE", "en_sha": "2ecfc1fcfe2d", "status": "draft", "th": "มีถิ่นฐานที่มีแท่นบูชา ค่ายทหาร สวน ห้องสมุด ตลาด และอนุสาวรีย์"}
+{"tag": "LOC_LEADER_CHAIN_1341B_NAME", "en_sha": "c7bbb1c8e70e", "status": "draft", "th": "จัดตั้งคณะที่ปรึกษาอย่างเป็นทางการ: ที่ปรึกษาด้านวิทยาศาสตร์ การทูต วัฒนธรรม และการสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1341B_STORYTITLE", "en_sha": "2b25333a63a2", "status": "draft", "th": "คณะรัฐมนตรี"}
+{"tag": "LOC_LEADER_CHAIN_1341C_DESCRIPTION", "en_sha": "079734e59449", "status": "draft", "th": "{1_reward} ในนคร"}
+{"tag": "LOC_LEADER_CHAIN_1341C_NAME", "en_sha": "0f278d8e7643", "status": "draft", "th": "วอชิงตันต้องการมิตร ไม่ใช่ที่ปรึกษาอย่างเป็นทางการ"}
+{"tag": "LOC_LEADER_CHAIN_1342A_COMPLETION", "en_sha": "c820ff2d7cab", "status": "draft", "th": "ดินแดนของวอชิงตันเป็นดั่งภาพโมเสกของถิ่นฐานเล็ก ๆ - การประชุมของแต่ละเมืองดูราวกับมีอำนาจอธิปไตยในแดนเถื่อนของตนเอง ระหว่างเมืองเหล่านั้น ไร่นาเล็ก ๆ และที่ดินทำกินต่างปกครองตนเอง ยอมรับอำนาจของวอชิงตันเพียงในนาม แต่เป็นอิสระอย่างแข็งกร้าว"}
+{"tag": "LOC_LEADER_CHAIN_1342A_STORYTITLE", "en_sha": "e027f7fa8b4d", "status": "draft", "th": "ระบบสหพันธรัฐ"}
+{"tag": "LOC_LEADER_CHAIN_1342B_COMPLETION", "en_sha": "ca614a4dac29", "status": "draft", "th": "โครงสร้างพื้นฐานใหม่หมายถึงการผนวกรวมที่มากขึ้น ดินแดนของวอชิงตันจะเป็นหนึ่งเดียวกัน"}
+{"tag": "LOC_LEADER_CHAIN_1342B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1342B_IMPERATIVE", "en_sha": "61a4da8e2ae0", "status": "draft", "th": "มีนคร 4 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1342B_NAME", "en_sha": "dd067c6def01", "status": "draft", "th": "การขาดเอกภาพเช่นนี้เชื้อเชิญความแตกสลาย"}
+{"tag": "LOC_LEADER_CHAIN_1342B_STORYTITLE", "en_sha": "e027f7fa8b4d", "status": "draft", "th": "ระบบสหพันธรัฐ"}
+{"tag": "LOC_LEADER_CHAIN_1342C_DESCRIPTION", "en_sha": "8eea76d4f0d5", "status": "draft", "th": "{1_reward} ในเมือง"}
+{"tag": "LOC_LEADER_CHAIN_1342C_NAME", "en_sha": "d0721216e775", "status": "draft", "th": "ปล่อยพวกเขาไว้ตามลำพัง"}
+{"tag": "LOC_LEADER_CHAIN_1343A_COMPLETION", "en_sha": "36067861478b", "status": "draft", "th": "จอร์จ วอชิงตัน เป็นนักยุทธศาสตร์และนักวางแผน เขาคิดเป็นเส้นตรงและกฎเกณฑ์ เป็นมาตรฐานและตัวชี้วัด ในที่ดินของเขา พืชผลเรียงเป็นแถวยาวอย่างเป็นระเบียบ ได้รับน้ำจากคลองที่วางแผนไว้อย่างดี ในห้องทำงานของเขามีแนวนโยบายเรียงรายอยู่ ในทุกสิ่งล้วนมีเสียงสะท้อนของกฎธรรมชาติ"}
+{"tag": "LOC_LEADER_CHAIN_1343A_STORYTITLE", "en_sha": "b3b2d5162b87", "status": "draft", "th": "นักรังวัดและประธานาธิบดี"}
+{"tag": "LOC_LEADER_CHAIN_1343B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1343B_NAME", "en_sha": "bb27f7c47765", "status": "draft", "th": "มุ่งเน้นที่ตำแหน่งหน้าที่"}
+{"tag": "LOC_LEADER_CHAIN_1343C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1343C_NAME", "en_sha": "0ec7b3def623", "status": "draft", "th": "มุ่งเน้นที่ไร่นาของตน"}
+{"tag": "LOC_LEADER_CHAIN_1344A_COMPLETION", "en_sha": "86fa25994cad", "status": "draft", "th": "สินค้าต่างชาติกองสูงอยู่บนท่าเรือโดยขายไม่ออก พ่อค้ารายงานว่ามีกลุ่มคนที่เรียกตนเองว่า \"บุตรแห่งเสรีภาพ\" มาเยือนและกดดันให้พวกเขาคว่ำบาตรสินค้า ความตึงเครียดพุ่งสูง"}
+{"tag": "LOC_LEADER_CHAIN_1344A_STORYTITLE", "en_sha": "bc392ed87d7b", "status": "draft", "th": "บุตรแห่งเสรีภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1344B_COMPLETION", "en_sha": "b0fff196c5c7", "status": "draft", "th": "สินค้านำเข้าลอยเกลื่อนอยู่ในอ่าว บัดนี้การคว่ำบาตรคือความรักชาติ"}
+{"tag": "LOC_LEADER_CHAIN_1344B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1344B_IMPERATIVE", "en_sha": "c50e080bfebf", "status": "draft", "th": "เริ่มการคว่ำบาตร 5 ครั้ง -4 [icon:YIELD_HAPPINESS] ความสุขในถิ่นฐานทั้งหมดระหว่างที่ภารกิจยังดำเนินอยู่"}
+{"tag": "LOC_LEADER_CHAIN_1344B_NAME", "en_sha": "35c2eca6c8cb", "status": "draft", "th": "สนับสนุนบุตรแห่งเสรีภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1344B_STORYTITLE", "en_sha": "bc392ed87d7b", "status": "draft", "th": "บุตรแห่งเสรีภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1344C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1344C_NAME", "en_sha": "1b708a6a6158", "status": "draft", "th": "ประณามผู้ก่อการร้าย และอย่าหวั่นเกรงการแก้แค้นของพวกเขา"}
+{"tag": "LOC_LEADER_CHAIN_1345A_COMPLETION", "en_sha": "e27afb77bb4e", "status": "draft", "th": "วอชิงตันไม่หวาดกลัวสงคราม แต่ความขัดแย้งต้องเป็นทางเลือกสุดท้าย คณะรัฐมนตรีของเขาได้เสนอแนวทางปฏิบัติทางการทูตเพื่อยุติความขัดแย้งกับเพื่อนบ้าน... แม้ประชาชนของเขาอาจมองว่าเป็นการแสดงความอ่อนแอก็ตาม"}
+{"tag": "LOC_LEADER_CHAIN_1345A_STORYTITLE", "en_sha": "5b32bb7e678a", "status": "draft", "th": "เพื่อรักษาสันติภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1345B_COMPLETION", "en_sha": "c4ce9f3ee42c", "status": "draft", "th": "ในสภาเบอร์เจส วอชิงตันถูกเรียกขานด้วยถ้อยคำสารพัด แต่เขารู้ว่าอนาคตนั้นมั่นคงแล้ว - อย่างน้อยก็ชั่วระยะหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1345B_DESCRIPTION", "en_sha": "18bf9135b683", "status": "draft", "th": "+2 [icon:YIELD_DIPLOMACY] อิทธิพลบนเส้นทางการค้า"}
+{"tag": "LOC_LEADER_CHAIN_1345B_IMPERATIVE", "en_sha": "4d0baff5ab24", "status": "draft", "th": "เริ่มโครงการร่วมการคืนดี 5 ครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1345B_NAME", "en_sha": "cfc8af16a767", "status": "draft", "th": "มุ่งสู่ความสัมพันธ์อย่างสันติ"}
+{"tag": "LOC_LEADER_CHAIN_1345B_STORYTITLE", "en_sha": "5b32bb7e678a", "status": "draft", "th": "เพื่อรักษาสันติภาพ"}
+{"tag": "LOC_LEADER_CHAIN_1346A_COMPLETION", "en_sha": "e3567dafe1d2", "status": "draft", "th": "ชาวต่างชาติเดินทางมาถึงนครของวอชิงตัน ขนบธรรมเนียมของพวกเขาแปลกประหลาด ศรัทธาของพวกเขายากจะหยั่งรู้ ผู้มาใหม่เดินกันเป็นกลุ่มเล็ก ๆ ไปตามถนน ระแวดระวังสายตาเคลือบแคลงที่ชาวท้องถิ่นจ้องมอง"}
+{"tag": "LOC_LEADER_CHAIN_1346A_STORYTITLE", "en_sha": "1b5028f5fbce", "status": "draft", "th": "เหล่าผู้อพยพ"}
+{"tag": "LOC_LEADER_CHAIN_1346B_COMPLETION", "en_sha": "d9a7022770b4", "status": "draft", "th": "แม้ที่อื่นอาจตกอยู่ในความโกลาหล แต่ ณ ที่นี่ ในประเทศของวอชิงตัน มีสันติสุขสำหรับทุกคน"}
+{"tag": "LOC_LEADER_CHAIN_1346B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1346B_IMPERATIVE", "en_sha": "b79fa0c3ac59", "status": "draft", "th": "อยู่ในกลุ่ม 75% แรกของผู้เล่นด้าน [icon:YIELD_HAPPINESS] ความสุขต่อเทิร์นเป็นเวลา 10 เทิร์น (ไม่จำเป็นต้องต่อเนื่อง)"}
+{"tag": "LOC_LEADER_CHAIN_1346B_NAME", "en_sha": "b02ae47a636e", "status": "draft", "th": "วอชิงตันให้คำมั่นแก่พวกเขาว่า \"ที่นี่ เราไม่มีอคติและไม่มีการกดขี่ข่มเหงต่อผู้ที่จะมาร่วมสหภาพของเรา\""}
+{"tag": "LOC_LEADER_CHAIN_1346B_STORYTITLE", "en_sha": "1b5028f5fbce", "status": "draft", "th": "เหล่าผู้อพยพ"}
+{"tag": "LOC_LEADER_CHAIN_1346C_DESCRIPTION", "en_sha": "5cacd6403782", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] วัฒนธรรมบนผู้เชี่ยวชาญใน {1_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1346C_NAME", "en_sha": "bf68c1841c17", "status": "draft", "th": "สนับสนุนให้คนแปลกหน้ารับวิถีของท้องถิ่น"}
+{"tag": "LOC_LEADER_CHAIN_1347A_COMPLETION", "en_sha": "276f470bd509", "status": "draft", "th": "แถวรอแลกเงินยาวเหยียดผ่านจัตุรัสกลางนคร เสียงครวญครางของสัตว์บรรทุกและเสียงบ่นของพ่อค้าที่รอคิวผสานกันเป็นเสียงพึมพำแห่งความหงุดหงิด แต่ทุกเช้าก็เป็นเช่นนี้ แต่ละนครมีธนบัตรของตนเอง และทุกคนที่ทำธุรกิจต้องเสียค่าธรรมเนียม ค่านายหน้าจากการแลกเปลี่ยนจึงทำกำไรได้มหาศาล"}
+{"tag": "LOC_LEADER_CHAIN_1347A_STORYTITLE", "en_sha": "4ab87ce2f9a5", "status": "draft", "th": "พระราชบัญญัติเหรียญกษาปณ์"}
+{"tag": "LOC_LEADER_CHAIN_1347B_COMPLETION", "en_sha": "0960befb179b", "status": "draft", "th": "เมื่อมีสกุลเงินกลาง ก็มีระบบธนาคารกลาง การค้าจึงไหลลื่น"}
+{"tag": "LOC_LEADER_CHAIN_1347B_DESCRIPTION", "en_sha": "09562d16e83b", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้ทอง"}
+{"tag": "LOC_LEADER_CHAIN_1347B_IMPERATIVE", "en_sha": "b69061715a21", "status": "draft", "th": "ปรับปรุงทรัพยากรทองคำ"}
+{"tag": "LOC_LEADER_CHAIN_1347B_NAME", "en_sha": "2f9b81953b24", "status": "draft", "th": "ต้องมีสกุลเงิน{1_civilization_adj}เพียงสกุลเดียว ผลิตขึ้นที่นครหลวง จงหาทองคำมาผลิตเหรียญ"}
+{"tag": "LOC_LEADER_CHAIN_1347B_STORYTITLE", "en_sha": "4ab87ce2f9a5", "status": "draft", "th": "พระราชบัญญัติเหรียญกษาปณ์"}
+{"tag": "LOC_LEADER_CHAIN_1348A_COMPLETION", "en_sha": "36c61697e590", "status": "draft", "th": "วอชิงตันเคยวาดฝันถึงดินแดนของผู้คนที่มีศักดิ์ศรี ที่ซึ่งความขุ่นเคืองส่วนตัวถูกวางไว้เพื่อประโยชน์ของชาติ แต่บัดนี้เขากลับต้องเผชิญกับฝักฝ่าย - พรรคการเมืองที่มุ่งแต่ส่งเสริมตนเอง"}
+{"tag": "LOC_LEADER_CHAIN_1348A_STORYTITLE", "en_sha": "fdf3c79be3da", "status": "draft", "th": "การเมืองแบบพรรค"}
+{"tag": "LOC_LEADER_CHAIN_1348B_COMPLETION", "en_sha": "014220d7c511", "status": "draft", "th": "\"การเป็นสมาชิกของชาติ\" วอชิงตันประกาศ \"ต้องเชิดชูความภาคภูมิใจอันชอบธรรมแห่งความรักชาติเหนือกว่าความภักดีส่วนตัวใด ๆ เสมอ\""}
+{"tag": "LOC_LEADER_CHAIN_1348B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1348B_IMPERATIVE", "en_sha": "343dbe1cbff0", "status": "draft", "th": "วิจัยชาตินิยม -9 [icon:YIELD_GOLD] ทองในถิ่นฐานทั้งหมดระหว่างที่ภารกิจยังดำเนินอยู่"}
+{"tag": "LOC_LEADER_CHAIN_1348B_NAME", "en_sha": "09699d5bed7d", "status": "draft", "th": "ยุบพรรคการเมือง แต่จงเตรียมรับผลที่ตามมา"}
+{"tag": "LOC_LEADER_CHAIN_1348B_STORYTITLE", "en_sha": "fdf3c79be3da", "status": "draft", "th": "การเมืองแบบพรรค"}
+{"tag": "LOC_LEADER_CHAIN_1348C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1348C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1348D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1348D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1349A_COMPLETION", "en_sha": "c8273c70fcf8", "status": "draft", "th": "ทางรถไฟทอดยาวข้ามดินแดนของวอชิงตัน และทุกรอบที่ล้อขับหมุนไป พลเมืองของวอชิงตันก็ถูกดึงห่างออกจากศูนย์กลางอำนาจอีกก้าวหนึ่ง มุ่งไปสู่ชายขอบ"}
+{"tag": "LOC_LEADER_CHAIN_1349A_STORYTITLE", "en_sha": "24dd57c44d05", "status": "draft", "th": "โซ่ตรวนที่พันธนาการ"}
+{"tag": "LOC_LEADER_CHAIN_1349B_COMPLETION", "en_sha": "a390c9a06989", "status": "draft", "th": "ด้วยเส้นด้ายแห่งเหล็กกล้าและเข็มแห่งไอน้ำ ชาติจึงถูกถักทอเข้าด้วยกัน"}
+{"tag": "LOC_LEADER_CHAIN_1349B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1349B_IMPERATIVE", "en_sha": "88fccaf2a777", "status": "draft", "th": "มีสถานีรถไฟในทุกถิ่นฐาน"}
+{"tag": "LOC_LEADER_CHAIN_1349B_NAME", "en_sha": "fae367d69637", "status": "draft", "th": "การขยายตัวต้องอาศัยการเชื่อมต่อ"}
+{"tag": "LOC_LEADER_CHAIN_1349B_STORYTITLE", "en_sha": "24dd57c44d05", "status": "draft", "th": "โซ่ตรวนที่พันธนาการ"}
+{"tag": "LOC_LEADER_CHAIN_1349C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1349C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1349D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1349D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_WASHINGTON_DESCRIPTION", "en_sha": "7bd6676660a8", "status": "draft", "th": "ได้รับผู้อพยพในนครหลวงของคุณเมื่อเข้าสู่การเฉลิมฉลอง เริ่มต้นพร้อมนโยบายเพิ่มเติม 2 รายการและช่องนโยบายสังคมเพิ่มอีก 1 ช่อง สำหรับนโยบายแต่ละรายการที่บรรจุในรัฐบาลของคุณ (ไม่รวมขนบธรรมเนียม) ได้รับอาหาร +1 ต่อยุคในเมือง และความสุข +2 ต่อยุคในนคร"}
+{"tag": "LOC_LEADER_WASHINGTON_NAME", "en_sha": "e89f0a075045", "status": "draft", "th": "จอร์จ วอชิงตัน"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_WASHINGTON", "en_sha": "a01e09194ab3", "status": "draft", "th": "จอร์จ วอชิงตัน ท่านนำประชาชนเพื่อให้พวกเขาสามารถนำตนเองได้ หน้าที่หาใช่ความทะนงตน ความรักในเสรีภาพหาใช่ความหยิ่งผยองของตนเอง สิ่งเหล่านี้คือสิ่งที่เรียกร้องให้ท่านก้าวต่อไป ฝ่าม่านควันปืนใหญ่และห่ากระสุนปืนคาบศิลา เพื่อให้เสรีภาพได้เจิดจรัสในที่สุด"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_WASHINGTON_ANY", "en_sha": "7cfa893e23da", "status": "draft", "th": "อำนาจคือภาระที่ต้องแบกไว้เพื่อให้ผู้อื่นมีเสรีภาพเท่านั้น หากข้าทำตามใจตน ข้าคงวางมันลงไปแล้ว"}
+{"tag": "LOC_MEMENTO_WASHINGTON_BASTILLE_KEY_DESCRIPTION", "en_sha": "99128be607fe", "status": "draft", "th": "กุญแจที่ไร้แม่กุญแจ"}
+{"tag": "LOC_MEMENTO_WASHINGTON_BASTILLE_KEY_FUNCTIONAL_DESCRIPTION", "en_sha": "0e8fa6a15d16", "status": "draft", "th": "[B]+1 [icon:YIELD_FOOD][/B] และ [icon:YIELD_HAPPINESS] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]สำหรับ [icon:TRADITION] [TIP:LOC_PEDIA_CONCEPTS_TRADITION_TOOLTIP]ขนบธรรมเนียม[/TIP]แต่ละอย่าง (ไม่นับ [icon:SOCIAL_POLICY] [TIP:LOC_PEDIA_CONCEPTS_SOCIAL_POLICY_TOOLTIP]นโยบาย[/TIP]) ที่ใส่ไว้ใน [icon:GOVERNMENT] [TIP:LOC_PEDIA_CONCEPTS_GOVERNMENT_TOOLTIP]รัฐบาล[/TIP]ของคุณ"}
+{"tag": "LOC_MEMENTO_WASHINGTON_BASTILLE_KEY_NAME", "en_sha": "5232c56d2c67", "status": "draft", "th": "กุญแจคุกบาสตีย์"}
+{"tag": "LOC_MEMENTO_WASHINGTON_BASTILLE_KEY_UNLOCK_TITLE", "en_sha": "5c6144e118cd", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของจอร์จ วอชิงตัน"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CIRCUMFERENTOR_DESCRIPTION", "en_sha": "a1ee81b37b46", "status": "draft", "th": "ค้นหาทิศทางของคุณ"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CIRCUMFERENTOR_FUNCTIONAL_DESCRIPTION", "en_sha": "2a02a21f28fb", "status": "draft", "th": "ได้รับ [icon:UNIT_MIGRANT] ผู้อพยพทุกครั้งที่คุณสร้าง [icon:UNIT_SETTLER] ผู้ตั้งถิ่นฐาน"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CIRCUMFERENTOR_NAME", "en_sha": "1e56e1189920", "status": "draft", "th": "เข็มทิศรังวัด"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CIRCUMFERENTOR_UNLOCK_TITLE", "en_sha": "d0246980604a", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของจอร์จ วอชิงตัน"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CONSTITUTION_DESCRIPTION", "en_sha": "52a08fb2e069", "status": "draft", "th": "เราประชาชน..."}
+{"tag": "LOC_MEMENTO_WASHINGTON_CONSTITUTION_FUNCTIONAL_DESCRIPTION", "en_sha": "68a932470e94", "status": "draft", "th": "[B]+1 [icon:YIELD_DIPLOMACY][/B] ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]สำหรับ [icon:TRADITION] [TIP:LOC_PEDIA_CONCEPTS_TRADITION_TOOLTIP]ขนบธรรมเนียม[/TIP]แต่ละอย่างที่คุณใส่ไว้ใน [icon:GOVERNMENT] [TIP:LOC_PEDIA_CONCEPTS_GOVERNMENT_TOOLTIP]รัฐบาล[/TIP]ของคุณ"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CONSTITUTION_NAME", "en_sha": "9669201cb04c", "status": "draft", "th": "รัฐธรรมนูญ"}
+{"tag": "LOC_MEMENTO_WASHINGTON_CONSTITUTION_UNLOCK_TITLE", "en_sha": "f7d3fe991ffe", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของจอร์จ วอชิงตัน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_ANTIQUITY_DESC", "en_sha": "c32cd6bd2061", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคโบราณ ทำภารกิจเพื่อรวบรวมยอดฝีมือที่ดีที่สุดให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_ANTIQUITY_NAME", "en_sha": "2b25333a63a2", "status": "draft", "th": "คณะรัฐมนตรี"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_EXPLORATION_DESC", "en_sha": "d8f35cb6b9bf", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อคว่ำบาตรมหาอำนาจที่เป็นศัตรูให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_EXPLORATION_NAME", "en_sha": "bc392ed87d7b", "status": "draft", "th": "บุตรแห่งเสรีภาพ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_MODERN_DESC", "en_sha": "06473be94826", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคสมัยใหม่ ทำภารกิจเพื่อปลูกฝังความเป็นเอกภาพให้แก่ชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_A_MODERN_NAME", "en_sha": "fdf3c79be3da", "status": "draft", "th": "การเมืองแบบพรรค"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_ANTIQUITY_DESC", "en_sha": "f04cd8b06978", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคโบราณ ทำภารกิจเพื่อพัฒนาดินแดนชายแดนให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_ANTIQUITY_NAME", "en_sha": "e027f7fa8b4d", "status": "draft", "th": "ระบบสหพันธรัฐ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_EXPLORATION_DESC", "en_sha": "39d8fda4538d", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเป็นที่พึ่งพิงแก่ผู้ถูกกดขี่ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_EXPLORATION_NAME", "en_sha": "1b5028f5fbce", "status": "draft", "th": "เหล่าผู้อพยพ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_MODERN_DESC", "en_sha": "43909448c954", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน ในยุคสมัยใหม่ ทำภารกิจเพื่อเชื่อมทุกนครด้วยทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_WASHINGTON_QUEST_B_MODERN_NAME", "en_sha": "24dd57c44d05", "status": "draft", "th": "โซ่ตรวนที่พันธนาการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "a9e07f44d068", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "d5b8a9d6c5e7", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "b120c14723b6", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "31a8ba80e625", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "bda712eeaf8c", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "ff3e1104f10e", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "7c0771567d82", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "8c2ac5a2ba7f", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_DESC", "en_sha": "470426166d49", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "182f397ca4fd", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "103e5fe3185f", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "8139f8a7f100", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "143a71a1f007", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "7124e09d8206", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "03c8f9dd1130", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_VICTORY_DESC", "en_sha": "1e79a1990cc3", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DEITY_VICTORY_DESC", "en_sha": "5f024a3a6d87", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "e1831de5f336", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "04accf9e766c", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "b9c4feaa1490", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "8af81d4fecc1", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "866aac13fcd1", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "98b4abab4b0f", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "4be368ed0d27", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "de869f676be9", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "9e2a9b3431c5", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "07e80fc4c7cc", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "954a8f36c50f", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "b9d125ca6de5", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_VICTORY_DESC", "en_sha": "f070226c3494", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "f8cf1b1f04e2", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "66262be201d0", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "209a80003ccd", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "7ce2dc4c7b79", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "f4568285e620", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "f5e0d9f86f46", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "6fa634a1f3a6", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "9711e97f6e19", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "aa7263b2ead9", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "0bd417204a01", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "a66b2a599d7d", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "13dec9c309eb", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "c6452540bfa1", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "f9da9f84a330", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_VICTORY_DESC", "en_sha": "73578dac7181", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_1_DESC", "en_sha": "d38966fd9c3e", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_2_DESC", "en_sha": "6c58953df6f2", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_3_DESC", "en_sha": "094193c99429", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "b49252d1e776", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "90ebece69f92", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "97822caa0a10", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b19559aa74b2", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "396e5df1a798", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "6e31440f08b3", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_VICTORY_DESC", "en_sha": "2db16423674c", "status": "draft", "th": "เล่นเป็นจอร์จ วอชิงตัน คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_WASHINGTON_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_MODULE_WASHINGTON_DESCRIPTION", "en_sha": "77ac51acb1e2", "status": "draft", "th": "มีผู้นำใหม่ คือ จอร์จ วอชิงตัน"}
+{"tag": "LOC_MODULE_WASHINGTON_NAME", "en_sha": "e89f0a075045", "status": "draft", "th": "จอร์จ วอชิงตัน"}
+{"tag": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_WASHINGTON_L1_DESCRIPTION", "en_sha": "4e249e40cf22", "status": "draft", "th": "ปลดล็อกตำนาน +25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่มหรือสนับสนุน [icon:ENDEAVOR] โครงการร่วม -25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่ม [icon:SANCTIONS] การคว่ำบาตรหรือการปฏิเสธ [icon:ENDEAVOR] โครงการร่วม"}
+{"tag": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_WASHINGTON_L2_DESCRIPTION", "en_sha": "de2eef1857a0", "status": "draft", "th": "ปลดล็อกตำนาน +50% [icon:YIELD_GOLD] ทองในการเปลี่ยน [icon:YIELD_TOWNS] เมืองเป็น [icon:YIELD_CITIES] นคร"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_1", "en_sha": "186ab8eed9d0", "status": "draft", "th": "เรื่องราวของจอร์จ วอชิงตัน ร้อยเรียงหลายสายของประวัติศาสตร์อเมริกาเข้าไว้ด้วยกัน ได้แก่ ความภักดีต่อบริเตนใหญ่ซึ่งต่อมากลายเป็นความขุ่นเคืองที่ทวีขึ้น ภาคใต้ที่เป็นเกษตรกรรม ภาคเหนือที่เป็นอุตสาหกรรม และความสมดุลระหว่างด้านการทหารกับด้านการทูตของการปฏิวัติ ตลอดชีวิตของเขา เขาสนับสนุนศักดิ์ศรีของบุคคล เสรีภาพทางปรัชญา ความภักดีต่อชาติใหม่เหนือความผูกพันส่วนตัวใด ๆ และการก้าวลงจากตำแหน่งเมื่อหมดวาระ วอชิงตันเป็นหลายสิ่งหลายอย่าง แต่เขาจะไม่มีวันกลายเป็นกษัตริย์อย่างที่เขาเคยลุกขึ้นต่อต้าน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_2", "en_sha": "7d5f658e2793", "status": "draft", "th": "วอชิงตันเกิดในปี 1732 ในครอบครัวเกษตรกรฐานะปานกลางในเวอร์จิเนีย ในยุคที่เวอร์จิเนียเป็นแบบฉบับของพลเมืองอาณานิคมประเภทหนึ่ง คือมีพื้นเพเป็นชาวบริเตน ได้รับการศึกษาดีแต่โดยพื้นฐานแล้วเป็นชาวชนบท และมุ่งใช้และประยุกต์เหตุผลนิยมแห่งยุคเรืองปัญญา เมื่อบิดาของเขาเสียชีวิต ครอบครัวก็เลิกส่งเสียให้เขาเรียนในระบบ และวอชิงตันก็เตรียมตัวประกอบอาชีพนักรังวัดที่ดิน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_3", "en_sha": "37e6b1e5e515", "status": "draft", "th": "ที่ดินของวอชิงตัน เช่นเดียวกับไร่ในภาคใต้แทบทั้งหมด ใช้แรงงานของชาวแอฟริกันที่ตกเป็นทาส ทว่าตลอดเส้นทางชีวิตของเขา ทัศนคติของเขาก็เปลี่ยนไป (ส่วนสำคัญมาจากอิทธิพลของมาร์กีส์ เดอ ลาฟาแยต และเบนจามิน แฟรงคลิน) และเมื่อเขาเสียชีวิต เขาได้สั่งให้ปลดปล่อยผู้คนที่เขาเคยถือครองเป็นทาสให้เป็นอิสระ พวกเขาได้รับอิสรภาพจริง แต่หลังจากมาร์ธา วอชิงตันเสียชีวิตแล้วเท่านั้น หาใช่หลังการเสียชีวิตของเขาไม่"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_4", "en_sha": "79fa00f6dd2d", "status": "draft", "th": "ทว่าทางตะวันตก ความขัดแย้งกำลังก่อตัวขึ้น พ่อค้าชาวฝรั่งเศสได้เคลื่อนเข้าสู่หุบเขาแม่น้ำโอไฮโอ ซึ่งเป็นดินแดนที่บริเตนอ้างสิทธิ์ และวอชิงตันได้เป็นพันตรีในกองทัพบริเตน ความพ่ายแพ้ของเขาที่ป้อมเนเซสซิตีเป็นจุดเริ่มต้นของสงครามฝรั่งเศสและอินเดียนแดง ซึ่งเป็นสมรภูมิย่อยของสงครามเจ็ดปีอันใหญ่กว่าระหว่างฝรั่งเศสกับบริเตน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_5", "en_sha": "847e18d9d2ae", "status": "draft", "th": "ในความขัดแย้งครั้งนี้ วอชิงตันสร้างชื่อจากความกล้าหาญและความอดทน ในการปะทะที่แม่น้ำโมนองกาฮีลา ม้าสองตัวถูกยิงล้มขณะเขาขี่อยู่ และเขาได้นำผู้รอดชีวิตไปสู่ที่ปลอดภัย แต่ ณ จุดนี้เองที่บริเตนทำผิดพลาดครั้งสำคัญ คือปฏิเสธที่จะให้ยศนายทหารประจำการแก่วอชิงตัน อันเป็นการหว่านเมล็ดพันธุ์แห่งความขุ่นเคืองที่จะเติบโตขึ้นเรื่อย ๆ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_6", "en_sha": "7de9af68fb65", "status": "draft", "th": "ในยามสงบ วอชิงตันทำงานในที่ดินของตน วางแผนนวัตกรรมทางการเกษตรใหม่ ๆ เช่น การปลูกพืชหมุนเวียน การเปลี่ยนจากยาสูบมาเป็นข้าวสาลี และการโม่แป้ง เมานต์เวอร์นอนจึงรุ่งเรืองขึ้น... แต่สงครามก็กำลังจะย่างกรายเข้ามาอีกครั้ง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_WASHINGTON_CHAPTER_HISTORY_PARA_7", "en_sha": "941c95bfec47", "status": "draft", "th": "การปฏิวัติเริ่มต้นขึ้นทางเหนือ แต่ชาวอเมริกันยังจดจำความเหนียวแน่นของวอชิงตันได้ และได้เรียกตัวเขามาบัญชากองทัพภาคพื้นทวีปในปี 1775 ขณะที่การสู้รบลุกลามไปทั่วอาณานิคม วอชิงตันนำกองทัพผ่านการโจมตีแบบจู่โจม ฤดูหนาวอันโหดร้าย และชัยชนะเด็ดขาดที่ยอร์กทาวน์ในปี 1781 สองปีต่อมา วอชิงตันลาออกจากตำแหน่ง โดยที่แผนการสำหรับเมานต์เวอร์นอนยังคงอยู่ในใจของเขาเสมอ"}
+{"tag": "LOC_PROFILE_TITLE_WASHINGTON", "en_sha": "3804d39891cf", "status": "draft", "th": "ประธานาธิบดีคนแรก"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_EXPLORATION_1_DESCRIPTION", "en_sha": "314bffdba692", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางเรือ"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_EXPLORATION_1_NAME", "en_sha": "cac1bdd6013a", "status": "draft", "th": "การอุทิศทางการทูต ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_EXPLORATION_2_DESCRIPTION", "en_sha": "dbe5d4f7a286", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อาหาร, -10% ทอง"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_EXPLORATION_2_NAME", "en_sha": "f86637c4eb03", "status": "draft", "th": "การอุทิศทางการขยายดินแดน ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_MODERN_1_DESCRIPTION", "en_sha": "35f5b693195c", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางอากาศ"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_MODERN_1_NAME", "en_sha": "79f5438c1d7d", "status": "draft", "th": "การอุทิศทางการทูต ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_MODERN_2_DESCRIPTION", "en_sha": "538fedff6b4f", "status": "draft", "th": "ในฐานะจอร์จ วอชิงตัน จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อาหาร, -10% ทอง"}
+{"tag": "LOC_STRATEGYCARD_WASHINGTON_MODERN_2_NAME", "en_sha": "33a8d2880fec", "status": "draft", "th": "การอุทิศทางการขยายดินแดน ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_WASHINGTON_NAME", "en_sha": "3804d39891cf", "status": "draft", "th": "ประธานาธิบดีคนแรก"}
+{"tag": "LOC_TRADITION_BILL_OF_RIGHTS_DESCRIPTION", "en_sha": "b4777c74aaaf", "status": "draft", "th": "[B]+2 [icon:YIELD_CULTURE][/B] และ [icon:YIELD_PRODUCTION] ต่อยุคบนพระราชวัง"}
+{"tag": "LOC_TRADITION_BILL_OF_RIGHTS_NAME", "en_sha": "57ffa16f3bf1", "status": "draft", "th": "บทบัญญัติว่าด้วยสิทธิ"}
+{"tag": "LOC_TRADITION_CONTINENTAL_AMBITION_DESCRIPTION", "en_sha": "05ec43c390cb", "status": "draft", "th": "[B]+25% [icon:YIELD_PRODUCTION][/B] ในการฝึกผู้ตั้งถิ่นฐาน"}
+{"tag": "LOC_TRADITION_CONTINENTAL_AMBITION_NAME", "en_sha": "34adc43457a1", "status": "draft", "th": "ความทะเยอทะยานระดับทวีป"}
+{"tag": "LOC_TRAIT_LEADER_WASHINGTON_ABILITY_DESCRIPTION", "en_sha": "2c14585614cf", "status": "draft", "th": "[BLIST][LI]ได้รับ[B][icon:UNIT_MIGRANT] ผู้อพยพ[/B]ใน[B][icon:NOTIFICATION_SELECT_CAPITAL] นครหลวง[/B]ของคุณเมื่อเข้าสู่[B][icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP][/B][LI]เริ่มต้นพร้อม[B][icon:SOCIAL_POLICY] [TIP:LOC_PEDIA_CONCEPTS_SOCIAL_POLICY_TOOLTIP]นโยบาย[/TIP][/B]เพิ่มเติม 2 รายการ และช่อง [icon:SOCIAL_POLICY] นโยบายสังคมเพิ่มอีก 1 ช่อง[LI]สำหรับ [icon:SOCIAL_POLICY] นโยบายแต่ละรายการที่บรรจุใน [icon:GOVERNMENT] [TIP:LOC_PEDIA_CONCEPTS_GOVERNMENT_TOOLTIP]รัฐบาล[/TIP]ของคุณ (ไม่รวม [icon:TRADITION] [TIP:LOC_PEDIA_CONCEPTS_TRADITION_TOOLTIP]ขนบธรรมเนียม[/TIP]) ได้รับ [icon:YIELD_FOOD] อาหาร +1 ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]และ [icon:YIELD_HAPPINESS] ความสุข +2 ต่อยุคใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP][/BLIST]"}
+{"tag": "LOC_TRAIT_LEADER_WASHINGTON_ABILITY_NAME", "en_sha": "c7c6b8616f13", "status": "draft", "th": "การประชุมร่างรัฐธรรมนูญ"}
+{"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_AMERICA_TOOLTIP", "en_sha": "835466364232", "status": "draft", "th": "[B]วอชิงตัน[/B] เป็นประธานาธิบดีคนแรกของ [B]อเมริกา[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_DESCRIPTION", "en_sha": "38bb4f4d48e5", "status": "draft", "th": "เล่นเป็น [B]วอชิงตัน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_GREECE_TOOLTIP", "en_sha": "b055fb738067", "status": "draft", "th": "ปรัชญาของ [B]วอชิงตัน[/B] มีรากฐานมาจาก [B]กรีกโบราณ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_NORMAN_TOOLTIP", "en_sha": "28261f137d35", "status": "draft", "th": "บรรพบุรุษของ [B]วอชิงตัน[/B] เป็นชาวอังกฤษ ซึ่งได้รับอิทธิพลอย่างลึกซึ้งจาก [B]ชาวนอร์มัน[/B]"}
+{"tag": "LOC_VICTORY_LEADER_WASHINGTON", "en_sha": "1c5515166c8b", "status": "draft", "th": "เราประกาศชัยชนะมิใช่ในฐานะกษัตริย์ผู้พิชิต แต่ในฐานะสหภาพของผู้รักชาติ"}

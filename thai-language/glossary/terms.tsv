@@ -1,0 +1,178 @@
+english	thai	category	status	note
+Gold	ทอง	yield	approved	838 mentions
+Culture	วัฒนธรรม	yield	approved	725
+Production	การผลิต	yield	approved	639; the yield, not ผลผลิต
+Science	วิทยาศาสตร์	yield	approved	526
+Influence	อิทธิพล	yield	approved	516
+Food	อาหาร	yield	approved	450
+Happiness	ความสุข	yield	approved	420
+Antiquity	ยุคโบราณ	age	approved	587; "Antiquity Age" also ยุคโบราณ, never ยุคยุคโบราณ
+Exploration	ยุคแห่งการสำรวจ	age	approved	853
+Modern	ยุคสมัยใหม่	age	approved	917; only when it names the Age
+Age	ยุค	concept	approved
+Turn	เทิร์น	concept	approved	loanword in common use
+Civilization	อารยธรรม	concept	approved
+Leader	ผู้นำ	concept	approved
+Unit	ยูนิต	concept	approved	loanword in common use; alternative หน่วย
+Commander	ผู้บัญชาการ	concept	approved
+Army	กองทัพ	concept	approved
+Fleet	กองเรือ	concept	approved
+Settlement	ถิ่นฐาน	concept	approved	umbrella for City and Town — needs decision
+City	นคร	concept	approved	needs decision: นคร vs เมือง (Town must differ)
+Town	เมือง	concept	approved	needs decision
+City-State	นครรัฐ	concept	approved	237
+Independent Power	ขั้วอำนาจอิสระ	concept	approved
+Suzerain	เจ้าอธิราช	concept	approved
+Wonder	สิ่งมหัศจรรย์	concept	approved	308
+Resource	ทรัพยากร	concept	approved
+Technology	เทคโนโลยี	concept	approved
+Civic	หลักการพลเมือง	concept	approved	needs decision; no settled Thai term
+Policy	นโยบาย	concept	approved
+Government	รัฐบาล	concept	approved
+Tradition	ขนบธรรมเนียม	concept	approved
+Legacy	มรดก	concept	approved
+Legacy Path	เส้นทางมรดก	concept	approved
+Attribute	คุณลักษณะ	concept	approved
+Great Person	บุคคลผู้ยิ่งใหญ่	concept	approved
+Great Work	ผลงานชิ้นเอก	concept	approved
+Artifact	โบราณวัตถุ	concept	approved
+Relic	วัตถุศักดิ์สิทธิ์	concept	approved
+Religion	ศาสนา	concept	approved
+Belief	ความเชื่อ	concept	approved
+Pantheon	ลัทธิบูชาเทพ	concept	approved	needs decision
+Diplomacy	การทูต	concept	approved
+Crisis	วิกฤตการณ์	concept	approved
+Dark Age	ยุคมืด	concept	approved
+Golden Age	ยุคทอง	concept	approved
+Celebration	การเฉลิมฉลอง	concept	approved
+Victory	ชัยชนะ	concept	approved
+Military	การทหาร	victory	approved	655
+Cultural	ทางวัฒนธรรม	victory	approved	398
+Economic	ทางเศรษฐกิจ	victory	approved	368
+Scientific	ทางวิทยาศาสตร์	victory	approved	270
+Population	ประชากร	concept	approved
+Specialist	ผู้เชี่ยวชาญ	concept	approved
+Migrant	ผู้อพยพ	unit	approved
+Settler	ผู้ตั้งถิ่นฐาน	unit	approved
+Scout	หน่วยสอดแนม	unit	approved
+Merchant	พ่อค้า	unit	approved	119
+Trade Route	เส้นทางการค้า	concept	approved
+Quarter	ย่าน	concept	approved
+Urban	เขตเมือง	district	approved	152
+Rural	เขตชนบท	district	approved	103
+Building	สิ่งก่อสร้าง	concept	approved
+Improvement	สิ่งปรับปรุง	concept	approved
+Distant Lands	ดินแดนโพ้นทะเล	concept	approved
+Homelands	มาตุภูมิ	concept	approved
+Palace	พระราชวัง	building	approved	201
+Library	ห้องสมุด	building	approved	160
+Temple	วิหาร	building	approved	121
+Market	ตลาด	building	approved	92
+Factory	โรงงาน	building	approved	81
+Egypt	อียิปต์	civilization	approved	112
+Rome	โรม	civilization	approved	105
+Spain	สเปน	civilization	approved	120
+England	อังกฤษ	civilization	approved	109
+Russia	รัสเซีย	civilization	approved	80
+Alexander	อเล็กซานเดอร์	leader	approved	160
+Augustus	ออกัสตัส	leader	approved	130
+Genghis Khan	เจงกิสข่าน	leader	approved	139
+Confucius	ขงจื๊อ	leader	approved	122
+Charlemagne	ชาร์เลอมาญ	leader	approved	122
+Hatshepsut	ฮัตเชปซุต	leader	approved	126
+Gilgamesh	กิลกาเมช	leader	approved	141
+Elizabeth	เอลิซาเบธ	leader	approved	124
+Isabella	อิซาเบลลา	leader	approved	119
+Machiavelli	มาเคียเวลลี	leader	approved	123
+Benjamin Franklin	เบนจามิน แฟรงคลิน	leader	approved	89
+George Washington	จอร์จ วอชิงตัน	leader	approved	88
+Yield	ผลผลิต	concept	approved	core batches; Production stays การผลิต
+Plot	ช่อง	concept	approved	map tile
+Tooltip	คำแนะนำ	ui	approved	not คำแนะนำเครื่องมือ
+Memento	ของที่ระลึก	concept	approved
+Challenge	ภารกิจท้าทาย	concept	approved	profile/metaprogression
+Legends	ตำนาน	concept	approved	metaprogression feature
+Civilopedia	ซีวิโลพีเดีย	ui	approved	in-game encyclopedia
+Apex	จุดสูงสุด	concept	approved	meaning unverified in-game; "Apex Age" = ยุคจุดสูงสุด
+Mod	ม็อด	ui	approved
+Lobby	ล็อบบี้	ui	approved
+Host	โฮสต์	ui	approved
+Syncretism	การผสานความเชื่อ	concept	approved
+Capital	นครหลวง	concept	approved	harmonize.py; replaces เมืองหลวง
+Combat Strength	พลังการรบ	concept	approved	harmonize.py; replaces พลังการต่อสู้
+Treasure Convoy	ขบวนสมบัติ	concept	approved	harmonize.py; replaces ขบวนเรือสมบัติ, ขบวนขนสมบัติ, กองเรือสมบัติ
+Mastery	ความเชี่ยวชาญ	concept	approved	harmonize.py; replaces ความชำนาญ
+Constructible	สิ่งปลูกสร้าง	concept	approved	harmonize.py; replaces สิ่งที่สร้างได้, สิ่งที่สร้าง
+Appeal	ความน่าดึงดูด	concept	approved	harmonize.py; replaces เสน่ห์
+Minor Power	ขั้วอำนาจรอง	concept	approved	harmonize.py; replaces ขั้วอำนาจย่อย
+Warehouse	คลังสินค้า	concept	approved	harmonize.py; replaces โกดัง
+Endeavor	โครงการร่วม	concept	approved	harmonize.py; replaces ภารกิจร่วม, การริเริ่ม
+Treasury	คลัง	concept	approved	harmonize.py; replaces ท้องพระคลัง
+Town Focus	จุดเน้นของเมือง	concept	approved	harmonize.py; replaces การมุ่งเน้น
+Siege Units	ยูนิตปิดล้อม	concept	approved	harmonize.py; replaces ยูนิตล้อมเมือง, ยูนิตล้อมโจมตี
+Naval Units	ยูนิตทางเรือ	concept	approved	harmonize.py; replaces ยูนิตทางทะเล
+Adjacency Bonus	โบนัสการอยู่ติดกัน	concept	approved	harmonize.py; replaces โบนัสจากการตั้งติดกัน, โบนัสจากการอยู่ติดกัน, โบนัสที่ตั้งติดกัน, โบนัสช่องติดกัน
+War Weariness	ความเหนื่อยล้าจากสงคราม	concept	approved	harmonize.py; replaces ความเบื่อหน่ายสงคราม
+Legalism	ลัทธินิตินิยม	concept	approved	harmonize.py; replaces ลัทธินิติธรรม
+Medjay	เมดเจย์	concept	approved	harmonize.py; replaces เมดจาย
+Mississippian	มิสซิสซิปเปียน	concept	approved	harmonize.py; replaces มิสซิสซิปปี
+Cahokia	คาโฮเคีย	concept	approved	harmonize.py; replaces คาโฮเกีย
+Military Unit	ยูนิตทหาร	concept	approved	harmonize.py; replaces ยูนิตทางทหาร
+Diplomatic Action	ปฏิบัติการทางการทูต	concept	approved	harmonize.py; replaces การดำเนินการทางการทูต
+Commendation	เหรียญเชิดชู	concept	approved	harmonize.py; replaces เหรียญเกียรติยศ
+Story continues.	เรื่องราวยังดำเนินต่อไป	concept	approved	harmonize.py; replaces เรื่องราวดำเนินต่อไป
+Trung Trac	จึงจัก	concept	approved	harmonize.py; replaces จึงจั๊ก
+Rizal	รีซัล	concept	approved	harmonize.py; replaces ริซัล
+Age Progress	ความคืบหน้าของยุค	concept	approved	harmonize.py; replaces ความก้าวหน้าของยุค
+Minor Triumph	ไทรอัมพ์รอง	concept	approved	harmonize.py; replaces ไทรอัมพ์ย่อย
+Trebuchet	เทรบูเชต์	concept	approved	harmonize.py; replaces เครื่องยิงหิน
+Cohong	โคหอง	concept	approved	harmonize.py; replaces โคหง
+Viet	เวียด	concept	approved	harmonize.py; replaces เวียต
+Janissary	เยนิเชรี	concept	approved	harmonize.py; replaces เจนิสซารี, จานิสซารี
+Blackbeard	หนวดดำ	concept	approved	harmonize.py; replaces แบล็กเบียร์ด
+Edward Teach	เอ็ดเวิร์ด ทีช	concept	approved	harmonize.py; replaces เอดเวิร์ด ทีช
+Dai Viet	ไดเวียด	concept	approved	harmonize.py; replaces ได่เหวียต
+Dhow	เรือเดาว์	concept	approved	harmonize.py; replaces เรือดาว
+Sayyida al Hurra	ซัยยิดะฮ์ อัลฮุรเราะฮ์	concept	approved	harmonize.py; replaces ซัยยิดะห์ อัลฮุรเราะห์
+Amaterasu	อามาเทราสึ	concept	approved	harmonize.py; replaces อามาเตราสึ
+Caliph	เคาะลีฟะฮ์	concept	approved	harmonize.py; replaces กาหลิบ
+Trench Fighter	เครื่องบินโจมตีสนามเพลาะ	concept	approved	harmonize.py; replaces ทหารสนามเพลาะ
+Unique Building	สิ่งก่อสร้างเฉพาะตัว	concept	approved	harmonize.py; replaces สิ่งก่อสร้างเฉพาะ, สิ่งก่อสร้างพิเศษ
+Unique Improvement	สิ่งปรับปรุงเฉพาะตัว	concept	approved	harmonize.py; replaces สิ่งปรับปรุงเฉพาะ, สิ่งปรับปรุงพิเศษ
+Major Triumph	ไทรอัมพ์สำคัญ	concept	approved	harmonize.py; replaces ไทรอัมพ์หลัก
+Reciprocal Damage	ความเสียหายสะท้อนกลับ	concept	approved	harmonize.py; replaces ความเสียหายตอบโต้
+Reliquary Belief	ความเชื่อหีบพระธาตุ	concept	approved	harmonize.py; replaces ความเชื่อผอบบรรจุวัตถุศักดิ์สิทธิ์
+Minor Independent	ขั้วอำนาจอิสระรอง	concept	approved	harmonize.py; replaces ฝ่ายอิสระรอง
+Stealth	พรางตัว	concept	approved	harmonize.py; replaces ล่องหน
+Fortified District	เขตป้อมปราการ	concept	approved	harmonize.py; replaces เขตที่มีป้อมปราการ
+Silk Road	เส้นทางสายไหม	concept	approved	harmonize.py; replaces ถนนสายไหม
+Unique Unit	ยูนิตเฉพาะตัว	concept	approved	harmonize.py; replaces ยูนิตเฉพาะ
+Water Terrain	ภูมิประเทศทางน้ำ	concept	approved	harmonize.py; replaces ภูมิประเทศผืนน้ำ
+Foundation	รากฐาน	concept	approved	harmonize.py; replaces พื้นฐาน
+Counterspy	ต่อต้านจารชน	concept	approved	harmonize.py; replaces ต่อต้านสายลับ, ต่อต้านจารกรรม
+Maratha	มราฐะ	concept	approved	harmonize.py; replaces มราฐา
+Sengoku	เซ็นโงกุ	concept	approved	harmonize.py; replaces เซ็งโงกุ
+Ashur	อัสซูร์	concept	approved	harmonize.py; replaces อาชูร์
+Ieyasu	อิเอยาซุ	concept	approved	harmonize.py; replaces อิเอยาสุ
+Dido	ไดโด	concept	approved	harmonize.py; replaces ดีโด
+Wang Kon	วังกอน	concept	approved	harmonize.py; replaces หวังกอน
+Gorkha	กอร์ขา	concept	approved	harmonize.py; replaces โครขา
+Bolivar	โบลีวาร์	concept	approved	harmonize.py; replaces โบลิวาร์
+Varangian	วารังเกียน	concept	approved	harmonize.py; replaces วาแรนเจียน, วารันเจียน
+Ikko-Ikki	อิกโกอิกกิ	concept	approved	harmonize.py; replaces อิกโก-อิกกิ
+Unique Ability	ความสามารถเฉพาะตัว	concept	approved	harmonize.py; replaces ความสามารถพิเศษ
+Happiness Buildings	สิ่งก่อสร้างที่ให้ความสุข	concept	approved	harmonize.py; replaces สิ่งก่อสร้างความสุข
+Ortoo	เออร์เตอ	concept	approved	harmonize.py; replaces ออร์เตอ
+Mikasa	มิกาซะ	concept	approved	harmonize.py; replaces มิกาสะ
+Food Buildings	สิ่งก่อสร้างที่ให้อาหาร	concept	approved	harmonize.py; replaces สิ่งก่อสร้างประเภทอาหาร, สิ่งก่อสร้างด้านอาหาร
+Production Buildings	สิ่งก่อสร้างที่ให้การผลิต	concept	approved	harmonize.py; replaces สิ่งก่อสร้างประเภทการผลิต, สิ่งก่อสร้างด้านการผลิต
+Culture Buildings	สิ่งก่อสร้างที่ให้วัฒนธรรม	concept	approved	harmonize.py; replaces สิ่งก่อสร้างประเภทวัฒนธรรม, สิ่งก่อสร้างด้านวัฒนธรรม
+Science Buildings	สิ่งก่อสร้างที่ให้วิทยาศาสตร์	concept	approved	harmonize.py; replaces สิ่งก่อสร้างประเภทวิทยาศาสตร์, สิ่งก่อสร้างด้านวิทยาศาสตร์
+Gold Buildings	สิ่งก่อสร้างที่ให้ทอง	concept	approved	harmonize.py; replaces สิ่งก่อสร้างประเภททอง, สิ่งก่อสร้างด้านทอง
+Resource Slot	ช่องทรัพยากร	concept	approved	harmonize.py; replaces ช่องใส่ทรัพยากร
+Great Work Slot	ช่องผลงานชิ้นเอก	concept	approved	harmonize.py; replaces ช่องใส่ผลงานชิ้นเอก
+The Good Doctor	คุณหมอผู้ใจดี	concept	approved	harmonize.py; replaces คุณหมอผู้แสนดี, หมอผู้แสนดี
+Bayeux	บาเยอ	concept	approved	harmonize.py; replaces บายเยอ
+Ageless	ไร้กาลเวลา	concept	approved	harmonize.py; replaces ไร้ยุค
+Tenskwatawa	เทนสกวาทาวา	concept	approved	harmonize.py; replaces เทนสกวาตาวา, เท็นสกวาทาวา
+Unique Quarter	ย่านเฉพาะตัว	concept	approved	harmonize.py; replaces ย่านเฉพาะ

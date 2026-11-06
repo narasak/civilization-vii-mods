@@ -1,0 +1,556 @@
+{"tag": "LOC_ABILITY_ASHOKA_CONQUEROR_COMBAT_PREVIEW", "en_sha": "fdbfb3d0fce8", "status": "draft", "th": "+{1_Amount} จากเทวราชา"}
+{"tag": "LOC_ABILITY_ASHOKA_CONQUEROR_DESCRIPTION", "en_sha": "b3d10ac04876", "status": "draft", "th": "ยูนิตทั้งหมดได้รับพลังการรบ +{1_Value} เมื่อต่อสู้กับเขตระหว่างการเฉลิมฉลอง"}
+{"tag": "LOC_ATTRIBUTENODE_ASHOKA_CONQUEROR_L1_DESCRIPTION", "en_sha": "a1b042ae7477", "status": "draft", "th": "+25% ความสัมพันธ์จากการเริ่มหรือสนับสนุนโครงการร่วม -25% ความสัมพันธ์จากการเริ่มการคว่ำบาตรหรือปฏิเสธโครงการร่วม"}
+{"tag": "LOC_ATTRIBUTENODE_ASHOKA_CONQUEROR_L1_NAME", "en_sha": "03d1a5acc12f", "status": "draft", "th": "โหนดคุณลักษณะทางการทูต"}
+{"tag": "LOC_ATTRIBUTENODE_ASHOKA_CONQUEROR_L2_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_ASHOKA_CONQUEROR_L2_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_HIMIKO_SHAMAN_L1_DESCRIPTION", "en_sha": "4de93be80438", "status": "draft", "th": "+15% การผลิตในการสร้างสิ่งก่อสร้างและสิ่งมหัศจรรย์ที่มีช่องผลงานชิ้นเอก"}
+{"tag": "LOC_ATTRIBUTENODE_HIMIKO_SHAMAN_L1_NAME", "en_sha": "750e224918f8", "status": "draft", "th": "โหนดคุณลักษณะทางวัฒนธรรม"}
+{"tag": "LOC_ATTRIBUTENODE_HIMIKO_SHAMAN_L2_DESCRIPTION", "en_sha": "a1b042ae7477", "status": "draft", "th": "+25% ความสัมพันธ์จากการเริ่มหรือสนับสนุนโครงการร่วม -25% ความสัมพันธ์จากการเริ่มการคว่ำบาตรหรือปฏิเสธโครงการร่วม"}
+{"tag": "LOC_ATTRIBUTENODE_HIMIKO_SHAMAN_L2_NAME", "en_sha": "03d1a5acc12f", "status": "draft", "th": "โหนดคุณลักษณะทางการทูต"}
+{"tag": "LOC_BADGE_ASHOKA_CONQUEROR_NAME", "en_sha": "263ffc19fa00", "status": "draft", "th": "เหรียญตราพระเจ้าอโศก ผู้พิชิตโลก 1"}
+{"tag": "LOC_BADGE_ASHOKA_CONQUEROR_P_NAME", "en_sha": "ac5205016c3c", "status": "draft", "th": "เหรียญตราพระเจ้าอโศก ผู้พิชิตโลก 2"}
+{"tag": "LOC_BADGE_HIMIKO_HIGH_SHAMAN_NAME", "en_sha": "0681fcf93679", "status": "draft", "th": "เหรียญตราฮิมิโกะ มหาชามาน 1"}
+{"tag": "LOC_BADGE_HIMIKO_SHAMAN_P_NAME", "en_sha": "fd92806d2ec2", "status": "draft", "th": "เหรียญตราฮิมิโกะ มหาชามาน 2"}
+{"tag": "LOC_BANNER_ASHOKA_CONQUEROR_NAME", "en_sha": "c4c3f6ba03e3", "status": "draft", "th": "แบนเนอร์พระเจ้าอโศก ผู้พิชิตโลก"}
+{"tag": "LOC_BANNER_HIMIKO_HIGH_SHAMAN_NAME", "en_sha": "c3d5a72a3086", "status": "draft", "th": "แบนเนอร์ฮิมิโกะ มหาชามาน"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ASHOKA_CONQUEROR_1_DESCRIPTION", "en_sha": "e52f23536f30", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับ พลังการรบ -2 ของยูนิตทางเรือของคุณ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ASHOKA_CONQUEROR_1_NAME", "en_sha": "1fbdaeac65a4", "status": "draft", "th": "การอุทิศของพระเจ้าอโศก ยุคแห่งการสำรวจ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ASHOKA_CONQUEROR_2_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_ASHOKA_CONQUEROR_2_NAME", "en_sha": "535f5c909b4d", "status": "draft", "th": "การอุทิศของพระเจ้าอโศก ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_HIMIKO_SHAMAN_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_HIMIKO_SHAMAN_1_NAME", "en_sha": "0b49d7899e56", "status": "draft", "th": "การอุทิศของฮิมิโกะ ยุคแห่งการสำรวจ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_HIMIKO_SHAMAN_2_DESCRIPTION", "en_sha": "e52f23536f30", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับ พลังการรบ -2 ของยูนิตทางเรือของคุณ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_HIMIKO_SHAMAN_2_NAME", "en_sha": "9117e0b0c188", "status": "draft", "th": "การอุทิศของฮิมิโกะ ยุคแห่งการสำรวจ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ASHOKA_CONQUEROR_1_DESCRIPTION", "en_sha": "8cb7d37fe679", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับพลังการรบ -2 ของยูนิตทางอากาศของคุณ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ASHOKA_CONQUEROR_1_NAME", "en_sha": "3965d21f1f29", "status": "draft", "th": "การอุทิศยุคสมัยใหม่ของพระเจ้าอโศก (ทางการทูต)"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ASHOKA_CONQUEROR_2_DESCRIPTION", "en_sha": "1be1a884df1c", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_ASHOKA_CONQUEROR_2_NAME", "en_sha": "3a8dc9047b03", "status": "draft", "th": "การอุทิศของพระเจ้าอโศก ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_HIMIKO_SHAMAN_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_HIMIKO_SHAMAN_1_NAME", "en_sha": "77ce7cd4c692", "status": "draft", "th": "การอุทิศของฮิมิโกะ ยุคสมัยใหม่ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_HIMIKO_SHAMAN_2_DESCRIPTION", "en_sha": "8cb7d37fe679", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับพลังการรบ -2 ของยูนิตทางอากาศของคุณ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_HIMIKO_SHAMAN_2_NAME", "en_sha": "5b560a69d41a", "status": "draft", "th": "การอุทิศยุคสมัยใหม่ของฮิมิโกะ (ทางการทูต)"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_ASHOKA_ALT_ANY", "en_sha": "d77690fef127", "status": "draft", "th": "หนทางแห่งความรุนแรงคือหนทางที่ข้าสาบานว่าจะไม่ย่างเท้าเข้าไปอีก แต่แล้วเราก็มาถึงจุดนี้"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_HIMIKO_ALT_ANY", "en_sha": "b44d3b4e72fe", "status": "draft", "th": "การเตรียมพิธีกรรมเสร็จสิ้นแล้ว เริ่มกันเดี๋ยวนี้เลย"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_ASHOKA_ALT_ANY", "en_sha": "b678a08cb91e", "status": "draft", "th": "ความรุนแรงก้องสะท้อนข้ามหลายชาติภพ หลายโลก มันจะย้อนกลับมาหาท่าน"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_HIMIKO_ALT_ANY", "en_sha": "c08bb2cbe050", "status": "draft", "th": "จงมาหาเรา แล้วกลายเป็นเถ้าธุลี"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_ASHOKA_ALT_ANY", "en_sha": "374cd9257640", "status": "draft", "th": "และบัดนี้ กงล้อเพลิงก็เคลื่อนผ่านทับข้า"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_HIMIKO_ALT_ANY", "en_sha": "814999ef8323", "status": "draft", "th": "หินหนักลอยขึ้น และสายน้ำไหลย้อนกลับ ทุกสิ่งล้วนโกลาหล"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_ASHOKA_ALT_ANY", "en_sha": "8e5e337dd959", "status": "draft", "th": "ข้าคืออโศก มหาราชาผู้อยู่ ณ ศูนย์กลางของโลก และคนบาปผู้หนักหนา"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_HIMIKO_ALT_ANY", "en_sha": "0d9d0dfae1ad", "status": "draft", "th": "การมาของท่านได้ถูกพยากรณ์ไว้แล้ว"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_ASHOKA_ALT_ANY", "en_sha": "8e5e337dd959", "status": "draft", "th": "ข้าคืออโศก มหาราชาผู้อยู่ ณ ศูนย์กลางของโลก และคนบาปผู้หนักหนา"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_HIMIKO_ALT_ANY", "en_sha": "0d9d0dfae1ad", "status": "draft", "th": "การมาของท่านได้ถูกพยากรณ์ไว้แล้ว"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_ASHOKA_ALT_ANY", "en_sha": "8e5e337dd959", "status": "draft", "th": "ข้าคืออโศก มหาราชาผู้อยู่ ณ ศูนย์กลางของโลก และคนบาปผู้หนักหนา"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_HIMIKO_ALT_ANY", "en_sha": "0d9d0dfae1ad", "status": "draft", "th": "การมาของท่านได้ถูกพยากรณ์ไว้แล้ว"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_ASHOKA_ALT", "en_sha": "be9b812c5e3f", "status": "draft", "th": "นี่คือหนทางแห่งธรรม"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_HIMIKO_ALT", "en_sha": "256006262a05", "status": "draft", "th": "ให้เรานำเรื่องนี้ออกสู่แสงสว่างเถิด"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_ASHOKA_ALT", "en_sha": "3690e5c8226f", "status": "draft", "th": "นี่คือ \"อธรรม\" ความผิดพลาด"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_HIMIKO_ALT", "en_sha": "f96210324e09", "status": "draft", "th": "ดวงอาทิตย์ถูกเมฆบดบัง"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_ASHOKA_ALT", "en_sha": "f16e0ca4f971", "status": "draft", "th": "ครั้งหนึ่งข้าเคยเปรียบท่านเป็นหนอน นั่นไม่จริง ท่านคือแมลงวัน"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_HIMIKO_ALT", "en_sha": "b889c1554540", "status": "draft", "th": "ท่านไม่อาจได้ยินเสียงลำธารและรากไม้ ท่ามกลางเสียงเหรียญกรุ๊งกริ๊ง"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_ASHOKA_ALT", "en_sha": "df23c94fe505", "status": "draft", "th": "หนทางที่ถูกต้องนั้นยากลำบาก ดีแล้วที่ได้เห็นท่านเดินบนหนทางนั้น"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_HIMIKO_ALT", "en_sha": "290d2f12b944", "status": "draft", "th": "ความอ่อนโยน นุ่มนวล และสงบ - นี่คือรากฐานของรสนิยมอันดี"}
+{"tag": "LOC_LEADER_ASHOKA_ALT_DESCRIPTION", "en_sha": "526409339718", "status": "draft", "th": "+1[icon:YIELD_PRODUCTION] การผลิต ต่อ [icon:YIELD_HAPPINESS] ความสุขส่วนเกินทุก 5 หน่วยใน [icon:YIELD_CITIES] นคร +10% [icon:YIELD_PRODUCTION] การผลิตในถิ่นฐานที่คุณไม่ได้ก่อตั้ง การประกาศ [icon:WAR] สงครามอย่างเป็นทางการจะมอบ [icon:CELEBRATION] การเฉลิมฉลอง +5 [icon:NAR_REW_COMBAT] พลังการรบเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ สำหรับยูนิตทั้งหมดระหว่าง [icon:CELEBRATION] การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_ASHOKA_ALT_NAME", "en_sha": "3fbdbdc27c89", "status": "draft", "th": "พระเจ้าอโศก ผู้พิชิตโลก"}
+{"tag": "LOC_LEADER_CHAIN_1010D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1010D_NAME", "en_sha": "72a0be6f2f0e", "status": "draft", "th": "เขาจะกลายเป็นคนที่เบื่อหน่ายคำเทศนาเช่นนั้น!"}
+{"tag": "LOC_LEADER_CHAIN_1010D_STORYTITLE", "en_sha": "d53ea8434d2f", "status": "draft", "th": "จักรพรรดิ"}
+{"tag": "LOC_LEADER_CHAIN_1010E_COMPLETION", "en_sha": "381259c3e65c", "status": "draft", "th": "นักรบของพระเจ้าอโศกประลองฝีมือกัน ฝึกฝนทักษะให้เฉียบคมเพื่อสะท้อนพลังของพระองค์ผ่านพลังของตน ยุทธภัณฑ์วางอยู่ใกล้ ๆ พร้อมหยิบฉวยได้ทันทีที่มีคำสั่ง"}
+{"tag": "LOC_LEADER_CHAIN_1010E_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1010E_IMPERATIVE", "en_sha": "005fe7201577", "status": "draft", "th": "ฝึกนักรบ 3 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1010E_NAME", "en_sha": "dc2523303988", "status": "draft", "th": "เขาจะเป็นเทวราชา ร่างอวตารของทวยเทพ"}
+{"tag": "LOC_LEADER_CHAIN_1010E_STORYTITLE", "en_sha": "d53ea8434d2f", "status": "draft", "th": "จักรพรรดิ"}
+{"tag": "LOC_LEADER_CHAIN_1010F_COMPLETION", "en_sha": "31902bf32daf", "status": "draft", "th": "พระเจ้าอโศกทรงดำเนินอยู่บนเส้นแบ่งระหว่างการรู้แจ้งและอำนาจ"}
+{"tag": "LOC_LEADER_CHAIN_1010F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1010F_IMPERATIVE", "en_sha": "c1c09e7074ad", "status": "draft", "th": "ก่อตั้งถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1010F_NAME", "en_sha": "444cc7303123", "status": "draft", "th": "เขาจะเป็นพระโพธิสัตว์ ผู้รู้แจ้ง"}
+{"tag": "LOC_LEADER_CHAIN_1010F_STORYTITLE", "en_sha": "d53ea8434d2f", "status": "draft", "th": "จักรพรรดิ"}
+{"tag": "LOC_LEADER_CHAIN_1011D_COMPLETION", "en_sha": "63d83ca911c4", "status": "draft", "th": "ธงทิวของกองทัพพระเจ้าอโศกโบกสะบัดในสายลม ขณะที่ทหารของพระองค์ก้มศีรษะต่อหน้าสิ่งศักดิ์สิทธิ์ ศรัทธาของพวกเขาจะปกป้องพวกเขาในสงครามที่จะมาถึง"}
+{"tag": "LOC_LEADER_CHAIN_1011D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1011D_IMPERATIVE", "en_sha": "82e8b0b81359", "status": "draft", "th": "มีแท่นบูชา 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1011D_NAME", "en_sha": "1c6bbf17226f", "status": "draft", "th": "ในดวงเนตรของพระเจ้าอโศกมีไฟแห่งสงครามลุกโชน"}
+{"tag": "LOC_LEADER_CHAIN_1011D_STORYTITLE", "en_sha": "dd8b3335a192", "status": "draft", "th": "เทวราชา"}
+{"tag": "LOC_LEADER_CHAIN_1011E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1011E_NAME", "en_sha": "ce353d016e88", "status": "draft", "th": "สายน้ำเปี่ยมด้วยพลังแห่งกษัตริย์"}
+{"tag": "LOC_LEADER_CHAIN_1011E_STORYTITLE", "en_sha": "dd8b3335a192", "status": "draft", "th": "เทวราชา"}
+{"tag": "LOC_LEADER_CHAIN_1012D_COMPLETION", "en_sha": "991805205851", "status": "draft", "th": "ประชากรที่เพิ่มพูนของพระเจ้าอโศกเรียกร้องความสนใจจากทั่วโลก ดุจเดียวกับที่พระองค์ทรงเรียกร้องความเคารพสูงสุดจากโลก"}
+{"tag": "LOC_LEADER_CHAIN_1012D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1012D_IMPERATIVE", "en_sha": "0a1ead886ea8", "status": "draft", "th": "มีประชากรถึง 20 ในนครหลวง"}
+{"tag": "LOC_LEADER_CHAIN_1012D_NAME", "en_sha": "9a4523bce800", "status": "draft", "th": "จักรวรรดิที่มั่นคงย่อมมีอำนาจต่อรองบนเวทีการทูตมากกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1012D_STORYTITLE", "en_sha": "d99f8d8902d9", "status": "draft", "th": "ธรรมราชา"}
+{"tag": "LOC_LEADER_CHAIN_1012E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1012E_NAME", "en_sha": "cb16a069bf3a", "status": "draft", "th": "อีกไม่นานโลกและความมั่งคั่งทั้งปวงจะเป็นของพระเจ้าอโศก"}
+{"tag": "LOC_LEADER_CHAIN_1012E_STORYTITLE", "en_sha": "d99f8d8902d9", "status": "draft", "th": "ธรรมราชา"}
+{"tag": "LOC_LEADER_CHAIN_1013D_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1013D_NAME", "en_sha": "782fe6ffe6c7", "status": "draft", "th": "นี่คือยุคแห่งผู้พิชิต"}
+{"tag": "LOC_LEADER_CHAIN_1013D_STORYTITLE", "en_sha": "a57278a7b5d3", "status": "draft", "th": "ชะตากรรมของโลก"}
+{"tag": "LOC_LEADER_CHAIN_1013E_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1013E_NAME", "en_sha": "71cf7e91fbb9", "status": "draft", "th": "หนทางมากมายรอผู้เจรจาอยู่"}
+{"tag": "LOC_LEADER_CHAIN_1013E_STORYTITLE", "en_sha": "a57278a7b5d3", "status": "draft", "th": "ชะตากรรมของโลก"}
+{"tag": "LOC_LEADER_CHAIN_1014D_COMPLETION", "en_sha": "1c0a3247ad7c", "status": "draft", "th": "วิหารทั้งหลายชี้นำทางแก่ประชาชน แต่พวกเขาไม่เคยลืมว่าวิหารเหล่านี้เป็นของประทานจากพระเจ้าอโศก"}
+{"tag": "LOC_LEADER_CHAIN_1014D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1014D_IMPERATIVE", "en_sha": "34bae5b18317", "status": "draft", "th": "สร้างวิหาร 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1014D_NAME", "en_sha": "c758b34d6397", "status": "draft", "th": "จะปล่อยให้ความกังวลเหล่านี้ลุกลามไม่ได้"}
+{"tag": "LOC_LEADER_CHAIN_1014D_STORYTITLE", "en_sha": "9073fb6eb9c7", "status": "draft", "th": "นารายณ์"}
+{"tag": "LOC_LEADER_CHAIN_1014E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1014E_NAME", "en_sha": "32eda9dcc1b2", "status": "draft", "th": "ภิกษุต้องรับหน้าที่ดูแล โดยไม่มีข้อโต้แย้ง"}
+{"tag": "LOC_LEADER_CHAIN_1014E_STORYTITLE", "en_sha": "9073fb6eb9c7", "status": "draft", "th": "นารายณ์"}
+{"tag": "LOC_LEADER_CHAIN_1015C_COMPLETION", "en_sha": "945d4f09c592", "status": "draft", "th": "ความมั่งคั่งของโลกหลั่งไหลสู่นครของพระเจ้าอโศก และเมื่อใดที่กระแสนั้นสะดุด พระองค์ก็ทรงยึดมาด้วยพระองค์เอง"}
+{"tag": "LOC_LEADER_CHAIN_1015C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1015C_IMPERATIVE", "en_sha": "84e4d80feab1", "status": "draft", "th": "ปรับปรุงน้ำตาล โกโก้ ชา และเครื่องเทศ"}
+{"tag": "LOC_LEADER_CHAIN_1015C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1015C_STORYTITLE", "en_sha": "e21e0a41f11c", "status": "draft", "th": "เกียรติภูมิแห่งสวรรค์"}
+{"tag": "LOC_LEADER_CHAIN_1016D_COMPLETION", "en_sha": "e2535c1995aa", "status": "draft", "th": "ภายในโถงอันสงบของมหาวิทยาลัย นักศึกษาและครูบาอาจารย์ครุ่นคิดถึงคำถามอันลึกซึ้งว่าด้วยการดำรงอยู่และการรู้แจ้ง ผู้คนอีกมากมายเข้าร่วมด้วยแรงสนับสนุนจากพระเจ้าอโศก"}
+{"tag": "LOC_LEADER_CHAIN_1016D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1016D_IMPERATIVE", "en_sha": "d9f023f09b0c", "status": "draft", "th": "สร้างมหาวิทยาลัย"}
+{"tag": "LOC_LEADER_CHAIN_1016D_NAME", "en_sha": "7a74dd2e8fb2", "status": "draft", "th": "การทำสมาธิและการปลีกวิเวกต้องเป็นสิ่งที่ปฏิบัติกันทั่วไป"}
+{"tag": "LOC_LEADER_CHAIN_1016D_STORYTITLE", "en_sha": "e1c528279e77", "status": "draft", "th": "พระโพธิสัตว์"}
+{"tag": "LOC_LEADER_CHAIN_1016E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1016E_NAME", "en_sha": "3581f2020a6e", "status": "draft", "th": "รัฐควรเปิดออกสู่ภายนอกเพื่อเรียนรู้จากโลก"}
+{"tag": "LOC_LEADER_CHAIN_1016E_STORYTITLE", "en_sha": "e1c528279e77", "status": "draft", "th": "พระโพธิสัตว์"}
+{"tag": "LOC_LEADER_CHAIN_1017C_COMPLETION", "en_sha": "f29af2f36685", "status": "draft", "th": "กลิ่นกำยานลอยอบอวลขณะที่ผู้คนมาชุมนุมต่อหน้าพระเจ้าอโศก พระองค์ทรงนำสวด และเสียงมากมายก็ดังขึ้นพร้อมเพรียงเป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1017C_DESCRIPTION", "en_sha": "acad8084e29b", "status": "draft", "th": "{1_reward} มิชชันนารี"}
+{"tag": "LOC_LEADER_CHAIN_1017C_IMPERATIVE", "en_sha": "fe3c771a1f28", "status": "draft", "th": "มีทรัพยากรกำยาน 3 แหล่ง"}
+{"tag": "LOC_LEADER_CHAIN_1017C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1017C_STORYTITLE", "en_sha": "779aaa5d4b58", "status": "draft", "th": "เสียงเรียกจากระฆังวัด"}
+{"tag": "LOC_LEADER_CHAIN_1018E_COMPLETION", "en_sha": "2683310a3135", "status": "draft", "th": "นครของพระเจ้าอโศกงามสง่ายิ่งนัก ทุกผู้ที่ได้เห็นต่างชื่นชมในความทะเยอทะยานและครั่นคร้ามต่อพระเดชานุภาพของพระองค์"}
+{"tag": "LOC_LEADER_CHAIN_1018E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1018E_IMPERATIVE", "en_sha": "8895154a9297", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์"}
+{"tag": "LOC_LEADER_CHAIN_1018E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1018E_STORYTITLE", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_LEADER_CHAIN_1018F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1018F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1018F_STORYTITLE", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_LEADER_CHAIN_1018G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1018G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1018G_STORYTITLE", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_LEADER_CHAIN_1019E_COMPLETION", "en_sha": "90cd52e84917", "status": "draft", "th": "ความรู้นำทางจักรวรรดิของพระเจ้าอโศก ประชาชนของพระองค์แสวงหาการค้นพบทั้งในโลกภายนอกและในตัวเอง"}
+{"tag": "LOC_LEADER_CHAIN_1019E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1019E_IMPERATIVE", "en_sha": "b91a65c242ef", "status": "draft", "th": "สร้างห้องปฏิบัติการและโรงงาน"}
+{"tag": "LOC_LEADER_CHAIN_1019E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1019E_STORYTITLE", "en_sha": "74a2402d2e93", "status": "draft", "th": "ผู้สละโลก"}
+{"tag": "LOC_LEADER_CHAIN_1019F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1019F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1019F_STORYTITLE", "en_sha": "74a2402d2e93", "status": "draft", "th": "ผู้สละโลก"}
+{"tag": "LOC_LEADER_CHAIN_1019G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1019G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1019G_STORYTITLE", "en_sha": "74a2402d2e93", "status": "draft", "th": "ผู้สละโลก"}
+{"tag": "LOC_LEADER_CHAIN_1100E_COMPLETION", "en_sha": "e5761aba9150", "status": "draft", "th": "จักรวรรดิของฮิมิโกะแผ่ขยาย ทว่าผ่านผืนแผ่นดิน ประชาชนทั้งหมดของนางยังคงเชื่อมโยงถึงกัน ใช้ชีวิตเป็นหนึ่งเดียวภายใต้แสงตะวัน"}
+{"tag": "LOC_LEADER_CHAIN_1100E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1100E_IMPERATIVE", "en_sha": "058ae5d957b5", "status": "draft", "th": "มีถิ่นฐานที่อยู่ติดกับภูเขา"}
+{"tag": "LOC_LEADER_CHAIN_1100E_NAME", "en_sha": "631e9e68cc6b", "status": "draft", "th": "พวกท่านสถิตในผืนดินและศิลา"}
+{"tag": "LOC_LEADER_CHAIN_1100E_STORYTITLE", "en_sha": "5fab8a0f6fa5", "status": "draft", "th": "เสียงเรียกแห่งขุนเขา"}
+{"tag": "LOC_LEADER_CHAIN_1100F_COMPLETION", "en_sha": "371f4d35b0d9", "status": "draft", "th": "ขุนเขาตระหง่านเหนือถิ่นฐานแห่งใหม่ ดุจผู้พิทักษ์แห่งผืนดินและฟากฟ้าที่เฝ้าดูแลประชาชนของฮิมิโกะ พวกเขาดึงพลังจากหน้าผาสูงชัน แล้วเริ่มงานของตนในนามของอามาเทราสึ"}
+{"tag": "LOC_LEADER_CHAIN_1100F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1100F_IMPERATIVE", "en_sha": "930e4e7ee611", "status": "draft", "th": "มีถิ่นฐานที่มีประชากร 10"}
+{"tag": "LOC_LEADER_CHAIN_1100F_NAME", "en_sha": "2f585091e8e5", "status": "draft", "th": "พวกท่านเฝ้ามองนครจากฟากฟ้า"}
+{"tag": "LOC_LEADER_CHAIN_1100F_STORYTITLE", "en_sha": "5fab8a0f6fa5", "status": "draft", "th": "เสียงเรียกแห่งขุนเขา"}
+{"tag": "LOC_LEADER_CHAIN_1100G_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1100G_NAME", "en_sha": "32d10a6a6f62", "status": "draft", "th": "มันก็แค่ภูเขาลูกหนึ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1100G_STORYTITLE", "en_sha": "5fab8a0f6fa5", "status": "draft", "th": "เสียงเรียกแห่งขุนเขา"}
+{"tag": "LOC_LEADER_CHAIN_1101D_COMPLETION", "en_sha": "f5706b7f26c4", "status": "draft", "th": "โลกของฮิมิโกะคือสมบัติร่วมที่สร้างขึ้นด้วยการทูตอันชาญฉลาดและการเจรจาอย่างรอบคอบ แต่ถึงอย่างไรมันก็ยังเป็นโลกของนาง"}
+{"tag": "LOC_LEADER_CHAIN_1101D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1101D_IMPERATIVE", "en_sha": "ce3dc258a981", "status": "draft", "th": "เริ่มโครงการร่วมทางการทูต 4 โครงการ"}
+{"tag": "LOC_LEADER_CHAIN_1101D_NAME", "en_sha": "4b7d0af0e09d", "status": "draft", "th": "ผู้คนนอกพรมแดนนี้คือมิตร"}
+{"tag": "LOC_LEADER_CHAIN_1101D_STORYTITLE", "en_sha": "04e767a74f2e", "status": "draft", "th": "ธิดาแห่งขุนเขา"}
+{"tag": "LOC_LEADER_CHAIN_1101E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1101E_NAME", "en_sha": "02e36276fb51", "status": "draft", "th": "มีผู้คนมากมายที่ต้องระวัง"}
+{"tag": "LOC_LEADER_CHAIN_1101E_STORYTITLE", "en_sha": "04e767a74f2e", "status": "draft", "th": "ธิดาแห่งขุนเขา"}
+{"tag": "LOC_LEADER_CHAIN_1102D_COMPLETION", "en_sha": "ab8bd04179d6", "status": "draft", "th": "ฮิมิโกะประทานสินค้าจากหลากดินแดนแก่ช่างฝีมือของนางอย่างล้นเหลือ เพื่อตอบแทน พวกเขาประดับประดานครของนางด้วยความงามที่หาใดเทียม"}
+{"tag": "LOC_LEADER_CHAIN_1102D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1102D_IMPERATIVE", "en_sha": "dc927aa6aa0e", "status": "draft", "th": "มีทรัพยากรที่ใส่ไว้ 15 ชิ้นรวมทุกถิ่นฐาน"}
+{"tag": "LOC_LEADER_CHAIN_1102D_NAME", "en_sha": "18b6d79f8d7c", "status": "draft", "th": "ช่างฝีมือมีแนวคิดยิ่งใหญ่มากมาย"}
+{"tag": "LOC_LEADER_CHAIN_1102D_STORYTITLE", "en_sha": "8f811fc723ba", "status": "draft", "th": "ธิดาแห่งดวงอาทิตย์"}
+{"tag": "LOC_LEADER_CHAIN_1102E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1102E_NAME", "en_sha": "10185a40f874", "status": "draft", "th": "กองทัพต้องการธนูเพิ่ม"}
+{"tag": "LOC_LEADER_CHAIN_1102E_STORYTITLE", "en_sha": "8f811fc723ba", "status": "draft", "th": "ธิดาแห่งดวงอาทิตย์"}
+{"tag": "LOC_LEADER_CHAIN_1103D_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1103D_NAME", "en_sha": "a6bd51ea8257", "status": "draft", "th": "แสงตะวันยิ้มรับผู้มาเยือนจากใกล้และไกล"}
+{"tag": "LOC_LEADER_CHAIN_1103D_STORYTITLE", "en_sha": "d8cc8d08899d", "status": "draft", "th": "ไทโย"}
+{"tag": "LOC_LEADER_CHAIN_1103E_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1103E_NAME", "en_sha": "f70c682ac14e", "status": "draft", "th": "ความงามเช่นนี้ควรได้รับการเชิดชูผ่านศิลปะ"}
+{"tag": "LOC_LEADER_CHAIN_1103E_STORYTITLE", "en_sha": "d8cc8d08899d", "status": "draft", "th": "ไทโย"}
+{"tag": "LOC_LEADER_CHAIN_1104D_COMPLETION", "en_sha": "f40a440553c2", "status": "draft", "th": "เรื่องเล่าของอามาเทราสึแพร่ไปไกลเกินพรมแดนของฮิมิโกะ นำแสงสว่างและความอบอุ่นใจมาสู่ทุกผู้ที่ได้สดับฟัง"}
+{"tag": "LOC_LEADER_CHAIN_1104D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1104D_IMPERATIVE", "en_sha": "cfa4a5f11a2e", "status": "draft", "th": "เป็นเจ้าอธิราชของขั้วอำนาจอิสระ"}
+{"tag": "LOC_LEADER_CHAIN_1104D_NAME", "en_sha": "865db856ac64", "status": "draft", "th": "เรื่องเล่าอันกระตือรือร้นของพวกเขาเป็นอมตะ"}
+{"tag": "LOC_LEADER_CHAIN_1104D_STORYTITLE", "en_sha": "701d7ab205f4", "status": "draft", "th": "เหล่าคามิ"}
+{"tag": "LOC_LEADER_CHAIN_1104E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1104E_NAME", "en_sha": "2292c4f83496", "status": "draft", "th": "ผู้ศรัทธาเช่นนี้จะเป็นมิชชันนารีที่ดี"}
+{"tag": "LOC_LEADER_CHAIN_1104E_STORYTITLE", "en_sha": "701d7ab205f4", "status": "draft", "th": "เหล่าคามิ"}
+{"tag": "LOC_LEADER_CHAIN_1105C_COMPLETION", "en_sha": "c280f1e74840", "status": "draft", "th": "ขนสัตว์มอบความอบอุ่นแก่ประชาชนของฮิมิโกะ และยังเป็นของกำนัลล้ำค่าสำหรับพันธมิตรที่ใกล้ชิดที่สุดของนางอีกด้วย"}
+{"tag": "LOC_LEADER_CHAIN_1105C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1105C_IMPERATIVE", "en_sha": "f33f139c7bca", "status": "draft", "th": "มีทรัพยากรขนสัตว์ 3 แหล่ง"}
+{"tag": "LOC_LEADER_CHAIN_1105C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1105C_STORYTITLE", "en_sha": "247073c8432c", "status": "draft", "th": "เคงาวะ"}
+{"tag": "LOC_LEADER_CHAIN_1106D_COMPLETION", "en_sha": "a40564c098ed", "status": "draft", "th": "วิหารในจักรวรรดิของฮิมิโกะสะท้อนความงามสง่าและความประณีตที่นางเป็นแบบอย่าง ประชาชนของนางน้อมนำบทเรียนเหล่านี้มาใช้ในชีวิต"}
+{"tag": "LOC_LEADER_CHAIN_1106D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1106D_IMPERATIVE", "en_sha": "34bae5b18317", "status": "draft", "th": "สร้างวิหาร 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1106D_NAME", "en_sha": "d2e4ad326568", "status": "draft", "th": "ความงามของกระจกนี้เป็นรองเพียงความงามของฮิมิโกะเท่านั้น"}
+{"tag": "LOC_LEADER_CHAIN_1106D_STORYTITLE", "en_sha": "582f499338d2", "status": "draft", "th": "ความรุ่งเรืองจากสวรรค์"}
+{"tag": "LOC_LEADER_CHAIN_1106E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1106E_NAME", "en_sha": "dbbacf7990ce", "status": "draft", "th": "ผลงานศิลปะเหล่านี้จะทำกำไรได้งาม"}
+{"tag": "LOC_LEADER_CHAIN_1106E_STORYTITLE", "en_sha": "582f499338d2", "status": "draft", "th": "ความรุ่งเรืองจากสวรรค์"}
+{"tag": "LOC_LEADER_CHAIN_1107C_COMPLETION", "en_sha": "b420c5e6e6bc", "status": "draft", "th": "หยกหลั่งไหลเข้าสู่อาณาจักรของฮิมิโกะ ช่างฝีมือของนางเร่งแกะสลักหินนั้นเพื่อให้ทุกคนได้ประจักษ์ทั้งความงามของมันและฝีมือของพวกเขา"}
+{"tag": "LOC_LEADER_CHAIN_1107C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1107C_IMPERATIVE", "en_sha": "9b0e45f65b0c", "status": "draft", "th": "มีทรัพยากรหยก 3 แหล่ง"}
+{"tag": "LOC_LEADER_CHAIN_1107C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1107C_STORYTITLE", "en_sha": "86aa50e8e07b", "status": "draft", "th": "ฮิซุย"}
+{"tag": "LOC_LEADER_CHAIN_1108E_COMPLETION", "en_sha": "e85fc25455a7", "status": "draft", "th": "นักเดินทางมาจากทุกมุมโลกเพื่อชมโบราณวัตถุของฮิมิโกะ แต่ละชิ้นล้วนมีเรื่องราว และจากสิ่งเหล่านั้น ผู้คนได้เรียนรู้เกี่ยวกับตัวเอง"}
+{"tag": "LOC_LEADER_CHAIN_1108E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1108E_IMPERATIVE", "en_sha": "0adb50a8a1f1", "status": "draft", "th": "มีโบราณวัตถุ 5 ชิ้น"}
+{"tag": "LOC_LEADER_CHAIN_1108E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1108E_STORYTITLE", "en_sha": "331813ad4154", "status": "draft", "th": "ฮิมิโกะผู้มีชัย"}
+{"tag": "LOC_LEADER_CHAIN_1108F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1108F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1108F_STORYTITLE", "en_sha": "331813ad4154", "status": "draft", "th": "ฮิมิโกะผู้มีชัย"}
+{"tag": "LOC_LEADER_CHAIN_1108G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1108G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1108G_STORYTITLE", "en_sha": "331813ad4154", "status": "draft", "th": "ฮิมิโกะผู้มีชัย"}
+{"tag": "LOC_LEADER_CHAIN_1109E_COMPLETION", "en_sha": "797c7c7aee2a", "status": "draft", "th": "การผลิตเร่งเร็วขึ้น ในโรงงานของฮิมิโกะ ช่องทางใหม่แห่งความคิดสร้างสรรค์หล่อหลอมการสร้างข้าวของเครื่องใช้ในชีวิตประจำวัน - และหล่อหลอมจักรวรรดิของนางไปพร้อมกัน"}
+{"tag": "LOC_LEADER_CHAIN_1109E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1109E_IMPERATIVE", "en_sha": "e8ebc8285dba", "status": "draft", "th": "สร้างโรงงาน 4 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1109E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1109E_STORYTITLE", "en_sha": "4c2ce6f486fc", "status": "draft", "th": "อามาเทราสึผู้มีชัย"}
+{"tag": "LOC_LEADER_CHAIN_1109F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1109F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1109F_STORYTITLE", "en_sha": "4c2ce6f486fc", "status": "draft", "th": "อามาเทราสึผู้มีชัย"}
+{"tag": "LOC_LEADER_CHAIN_1109G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1109G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1109G_STORYTITLE", "en_sha": "4c2ce6f486fc", "status": "draft", "th": "อามาเทราสึผู้มีชัย"}
+{"tag": "LOC_LEADER_HIMIKO_ALT_DESCRIPTION", "en_sha": "03539854cf55", "status": "draft", "th": "+2 [icon:YIELD_HAPPINESS] ความสุขต่อยุคบนสิ่งก่อสร้าง [icon:YIELD_HAPPINESS] ความสุขและ [icon:YIELD_DIPLOMACY] การทูต และเพิ่มเป็นสองเท่าหากสิ่งก่อสร้างเป็นทั้งสองประเภท +50% [icon:YIELD_PRODUCTION] การผลิตในการสร้างสิ่งก่อสร้าง [icon:YIELD_HAPPINESS] ความสุขและ [icon:YIELD_DIPLOMACY] การทูต และเพิ่มเป็นสองเท่าหากสิ่งก่อสร้างเป็นทั้งสองประเภท +15% [icon:YIELD_CULTURE] วัฒนธรรม แต่ -15% [icon:YIELD_SCIENCE] วิทยาศาสตร์ และผลเหล่านี้เพิ่มเป็นสองเท่าระหว่าง [icon:CELEBRATION] การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_HIMIKO_ALT_NAME", "en_sha": "ba37a70a6fe4", "status": "draft", "th": "ฮิมิโกะ มหาชามาน"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_ASHOKA_ALT", "en_sha": "85d62d676f43", "status": "draft", "th": "จักรพรรดิราชอโศก กษัตริย์ผู้หมุนกงล้อแห่งธรรม ชัยชนะในสงครามของท่านทำให้ท่านประจักษ์ถึงราคาที่ต้องจ่าย ด้วยปณิธานจะยุติวัฏจักรแห่งความรุนแรงที่ประทับอยู่ในรัชสมัยของท่านในฐานะจักรพรรดิแห่งเมารยะ ท่านจึงนำปัญญามาแทนคมดาบ นำธรรมะมาแทนการทำลายล้าง และนำสาส์นแห่งอหิงสามาสู่สรรพสัตว์ บัดนี้โลกต้องการปัญญาของท่าน"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_HIMIKO_ALT", "en_sha": "97641a397890", "status": "draft", "th": "ฮิมิโกะ ราชินีผู้เป็นหมอผีแห่งยามาไต ยืนอยู่ระหว่างโลกทั้งหลาย เมื่อท่านนำพลังแห่งผืนแผ่นดินมา ท่านเปลี่ยนป่าเป็นศาลเจ้า เปลี่ยนน้ำตกเป็นเสียงดนตรี และเปลี่ยนแม้แต่ขุนเขาให้เป็นพันธมิตร ลมศักดิ์สิทธิ์ใคร่จะพัดโหม ราชินีผู้ยิ่งใหญ่ จงกำหนดเส้นทางของมัน"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_ASHOKA_ALT_ANY", "en_sha": "54869f048491", "status": "draft", "th": "ขอให้ทุกคนรับฟัง และเต็มใจรับฟังคำสอนของผู้อื่นทั้งปวง"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_HIMIKO_ALT_ANY", "en_sha": "b210b59520b5", "status": "draft", "th": "ดวงอาทิตย์ส่องแสงลงบนข้า ธิดาของนาง ส่วนบนศัตรูของข้า แสงนั้นจะแผดเผา"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_COMBAT_PREVIEW", "en_sha": "8aabde32d72e", "status": "draft", "th": "+{1_Amount} ของที่ระลึกจัณฑมหาเสนา"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_DESCRIPTION", "en_sha": "f6f4b25f5af7", "status": "draft", "th": "สิ่งสร้างสรรค์อันศักดิ์สิทธิ์ของพระวิศวกรรม"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_FUNCTIONAL_DESCRIPTION", "en_sha": "42f0e7824010", "status": "draft", "th": "[B]+3 [icon:NAR_REW_COMBAT][/B] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้กับ [icon:CITY_FORTIFIED] [TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]เขตป้อมปราการ[/TIP]สำหรับยูนิตทั้งหมดระหว่าง [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_NAME", "en_sha": "821b195f9a1d", "status": "draft", "th": "จัณฑมหาเสนา"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_CHANDA_MAHASENA_UNLOCK_TITLE", "en_sha": "dd75efb0a896", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของพระเจ้าอโศก ผู้พิชิตโลก"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_LION_CAPITAL_DESCRIPTION", "en_sha": "6ef51eddc19f", "status": "draft", "th": "จงคำราม และหมุนกงล้อ"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_LION_CAPITAL_FUNCTIONAL_DESCRIPTION", "en_sha": "5e7f40cefbb9", "status": "draft", "th": "[icon:UNIT_ARMY_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]ได้รับ [B]+50%[/B][TIP:LOC_PEDIA_CONCEPTS_COMMANDER_EXPERIENCE_TOOLTIP]XP[/TIP] ระหว่าง [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_LION_CAPITAL_NAME", "en_sha": "b12aac65bf26", "status": "draft", "th": "หัวเสาสิงห์"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_LION_CAPITAL_UNLOCK_TITLE", "en_sha": "d7d432a59fc7", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของพระเจ้าอโศก ผู้พิชิตโลก"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_DESCRIPTION", "en_sha": "d48eb3837e50", "status": "draft", "th": "ถักทอด้วยศรัทธา"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_FUNCTIONAL_DESCRIPTION", "en_sha": "83b6ff815577", "status": "draft", "th": "[B]+2 [icon:YIELD_PRODUCTION][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ใน [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ที่อยู่ในระดับมีความสุขขึ้นไป"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_NAME", "en_sha": "0746f5f07253", "status": "draft", "th": "ผ้าอุตตรียะไหม"}
+{"tag": "LOC_MEMENTO_ASHOKA_CONQUEROR_SILK_UTTARIYA_UNLOCK_TITLE", "en_sha": "d829f2748a32", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของพระเจ้าอโศก ผู้พิชิตโลก"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_DESCRIPTION", "en_sha": "a59e1aaaaa19", "status": "draft", "th": "สัญลักษณ์แห่งความกล้าหาญ"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_FUNCTIONAL_DESCRIPTION", "en_sha": "420753b79fe5", "status": "draft", "th": "[B]+3 [icon:YIELD_CULTURE][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างที่ให้ความสุข[/TIP]แต่ [B]-1 [icon:YIELD_SCIENCE][/B] ต่อยุคบนสิ่งก่อสร้างที่ให้ความสุข"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_NAME", "en_sha": "7841cf480805", "status": "draft", "th": "คุซานางิ โนะ สึรุงิ"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_KUSANAGI_NO_TSURUGI_UNLOCK_TITLE", "en_sha": "e04b42c3b068", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของฮิมิโกะ มหาชามาน"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_SAKAKI_BRANCH_DESCRIPTION", "en_sha": "41f47b22063b", "status": "draft", "th": "เครื่องหมายแห่งความศักดิ์สิทธิ์"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_SAKAKI_BRANCH_FUNCTIONAL_DESCRIPTION", "en_sha": "99047733aad4", "status": "draft", "th": "[B]+25% [icon:YIELD_PRODUCTION][/B] ในการสร้าง[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างที่ให้ความสุข[/TIP]"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_SAKAKI_BRANCH_NAME", "en_sha": "3130c51fd466", "status": "draft", "th": "กิ่งซากากิ"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_SAKAKI_BRANCH_UNLOCK_TITLE", "en_sha": "2f05015e0aeb", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของฮิมิโกะ มหาชามาน"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_YATA_NO_KAGAMI_DESCRIPTION", "en_sha": "8465062ca563", "status": "draft", "th": "สัญลักษณ์แห่งปัญญา"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_YATA_NO_KAGAMI_FUNCTIONAL_DESCRIPTION", "en_sha": "7d64754b8241", "status": "draft", "th": "ได้รับ [B]20 [icon:YIELD_CULTURE][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]เมื่อเริ่มต้น [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]ทุกครั้ง"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_YATA_NO_KAGAMI_NAME", "en_sha": "075e202bebb6", "status": "draft", "th": "ยาตะ โนะ คางามิ"}
+{"tag": "LOC_MEMENTO_HIMIKO_SHAMAN_YATA_NO_KAGAMI_UNLOCK_TITLE", "en_sha": "b2b3abc58034", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของฮิมิโกะ มหาชามาน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "fcc4555fe508", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "2356e5ace405", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "c641470e8ecc", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "e580da961bce", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "4cda720b4a05", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "5d487cb1d0d4", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "812cdc0340db", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "11d5d27c68bc", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_DESC", "en_sha": "1cb2392a876e", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "d60e66a7ede2", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "d315d23b0277", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "0a6418bda967", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "adf0c6e89b2a", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "5c3d058c7cdb", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "a5e867bbefd3", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_VICTORY_DESC", "en_sha": "7814f0f6e805", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DEITY_VICTORY_DESC", "en_sha": "c802d84c40e9", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "9a6eac4e39a5", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "c60b033e0b42", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "40ce97a412e8", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "e2081c98bd1d", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "b0716e8ae6f2", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "113fcdd0ab07", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "5a1342c1b7e1", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "084a7036093d", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "4d28a65a3734", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "1d3f9dc6440b", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "ac36857b8aa4", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "d91933fe05b5", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_VICTORY_DESC", "en_sha": "7e1d0b4f48ca", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "2749dbe9bea2", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "40604afbc0b3", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "3222babbc225", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6c119f15d123", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "4d15947ae6aa", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "1dbb98b593b5", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "60a6ee30404d", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "ee842a176904", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "4519e71a27aa", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "114491202b5a", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "b5edaec2c033", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "1cce65a8c04c", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "306a65e1a439", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "7d894ac06ffe", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_VICTORY_DESC", "en_sha": "68558c30bd75", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_1_DESC", "en_sha": "a78b2794c971", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_2_DESC", "en_sha": "5f948fa07d0e", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_3_DESC", "en_sha": "828317f09595", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "e4b698dddef2", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "6b50b36f80d8", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "d58b58492626", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6dc2e779748a", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "64a5ba287d65", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "cfacef386039", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_VICTORY_DESC", "en_sha": "bde9feb1d5fd", "status": "draft", "th": "เล่นเป็นพระเจ้าอโศก ผู้พิชิตโลก คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_ASHOKA_ALT_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "a216b5f5881b", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "322f5f969cd0", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "35a20e90bec4", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "327ba8185796", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "3a257f32eeda", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "debe8a89b3df", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "5d42fa9592ab", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "3f5e01bf96f7", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_DESC", "en_sha": "d21adee9ad92", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "6c2916bf2929", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "45677da8d386", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "e7322aa0fd9a", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "5f3b72a28f4f", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "cf65359c09a4", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "da0014031c90", "status": "draft", "th": "เล่นเป็นฮิมิโกะ มหาชามาน ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_VICTORY_DESC", "en_sha": "f72d4a5b31fd", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DEITY_VICTORY_DESC", "en_sha": "761bb050359c", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "3461c8b4d27a", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ขนมปังและละครสัตว์\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "8578d73cf25f", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"พันธมิตรสี่ฝ่าย\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "3adf15a1db92", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"รหัสเอนิกมา\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "7fca28839b54", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ชักใยอยู่เบื้องหลัง\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "bdada6b8f0a9", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ภาคีนักฆ่า\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "2698ccb9b225", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"สันนิบาตชาติ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "8129f5bdbd2b", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ความโลภคือทองคำ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "1eebc62e9a66", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"มาตกลงกันที่กาลิกัต\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "acc1680896a2", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"โรงงานของโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "2c1bed9698d5", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"เส้นทางสายไหม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "ac12bd209c7f", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"กองเรือสมบัติ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "a9fe3b2382b6", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"เจ้าพ่อทางรถไฟ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_VICTORY_DESC", "en_sha": "f08be117770c", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "20bcb1990142", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"หอบาเบล\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "8d1efb30ffcc", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ที่บ้านก็มีฮับส์บูร์ก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "1316591fcf75", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"อภิมหานคร\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b7c8cbc064a0", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"สี่มุมโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "32adfa04950a", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"Hic Sunt Dracones\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "119089a2b201", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ดวงอาทิตย์ไม่เคยตกดิน\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "ac8a49eb222b", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 ครั้งภายในยุคโบราณเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "efbb2af73c5c", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์สำคัญให้สำเร็จ 4 ครั้งภายในยุคแห่งการสำรวจเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "b8f0ec8b1b83", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ไกอัสตัวจริง\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "9813aeeabd32", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"Pax Mongolica\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "9de6024c6a6b", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ศัตรูของโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6dfac010c7b2", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"Pax Imperatoria\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "61ca5b4e4b75", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"Non Sufficit Orbis\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "b38e91752712", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"พันธะทางศีลธรรม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_VICTORY_DESC", "en_sha": "9918935895a9", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_1_DESC", "en_sha": "d84e03319d67", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์สำคัญให้สำเร็จ 1 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_2_DESC", "en_sha": "494bbc6cf0e8", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์สำคัญให้สำเร็จ 5 ครั้ง ในยุคใดก็ได้รวมกัน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_3_DESC", "en_sha": "4e1b3e079d21", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์สำคัญให้สำเร็จ 25 ครั้ง ในยุคใดก็ได้รวมกัน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "73e6d0dc2fe9", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ผู้เชื่อว่าโลกกลม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "9608394c0db6", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"ว่าด้วยการโคจรของทรงกลมฟ้า\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "383e168970c9", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"เหนือคมดาบ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "9b2b38404e61", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"หอสมุดอัสซูร์บานิปาล\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "b532236fad0f", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"การเรืองปัญญา\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "601c16d02772", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ทำไทรอัมพ์ \"รุ่งอรุณแห่งการแข่งขันทางอวกาศ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_VICTORY_DESC", "en_sha": "a60e6bd9db8f", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_HIMIKO_ALT_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_ANTIQUITY_DESC", "en_sha": "c8781c37eb52", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคโบราณ ทำภารกิจเพื่อนำเหล่าทหารสวดภาวนาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_ANTIQUITY_NAME", "en_sha": "dd8b3335a192", "status": "draft", "th": "เทวราชา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_EXPLORATION_DESC", "en_sha": "00f9f4b60500", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคแห่งการสำรวจ ทำภารกิจเพื่อมอบการชี้นำทางจิตวิญญาณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_EXPLORATION_NAME", "en_sha": "9073fb6eb9c7", "status": "draft", "th": "นารายณ์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_MODERN_DESC", "en_sha": "0285fcd3d164", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคสมัยใหม่ ทำภารกิจเพื่อเป็นเทวราชาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_A_MODERN_NAME", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_ANTIQUITY_DESC", "en_sha": "cda0da11fe3a", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคโบราณ ทำภารกิจเพื่อเรียกร้องความสนใจจากทั่วโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_ANTIQUITY_NAME", "en_sha": "d99f8d8902d9", "status": "draft", "th": "ธรรมราชา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_EXPLORATION_DESC", "en_sha": "0a43dbf5e999", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคแห่งการสำรวจ ทำภารกิจเพื่อนำแสงสว่างทางปัญญาสู่ประชาชนให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_EXPLORATION_NAME", "en_sha": "e1c528279e77", "status": "draft", "th": "พระโพธิสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_MODERN_DESC", "en_sha": "f31a6ed153da", "status": "draft", "th": "ในฐานะพระเจ้าอโศก ผู้พิชิตโลก ในยุคสมัยใหม่ ทำภารกิจเพื่อให้ความรู้นำทางสู่อนาคตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_ASHOKA_ALT_QUEST_B_MODERN_NAME", "en_sha": "74a2402d2e93", "status": "draft", "th": "ผู้สละโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_ANTIQUITY_DESC", "en_sha": "722dd7dbb242", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคโบราณ ทำภารกิจเพื่อแผ่อิทธิพลไปทั่วโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_ANTIQUITY_NAME", "en_sha": "04e767a74f2e", "status": "draft", "th": "ธิดาแห่งขุนเขา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_EXPLORATION_DESC", "en_sha": "2c81f6b3c092", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเผยแผ่เรื่องเล่าของอามาเทราสึให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_EXPLORATION_NAME", "en_sha": "701d7ab205f4", "status": "draft", "th": "เหล่าคามิ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_MODERN_DESC", "en_sha": "e322990d0400", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคสมัยใหม่ ทำภารกิจเพื่อรวบรวมสัญลักษณ์แห่งอดีตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_A_MODERN_NAME", "en_sha": "331813ad4154", "status": "draft", "th": "ฮิมิโกะผู้มีชัย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_ANTIQUITY_DESC", "en_sha": "0adce6d33bca", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคโบราณ ทำภารกิจเพื่อนำเข้าสมบัติล้ำค่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_ANTIQUITY_NAME", "en_sha": "8f811fc723ba", "status": "draft", "th": "ธิดาแห่งดวงอาทิตย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_EXPLORATION_DESC", "en_sha": "2342fac1170e", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเชิดชูความงามสง่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_EXPLORATION_NAME", "en_sha": "582f499338d2", "status": "draft", "th": "ความรุ่งเรืองจากสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_MODERN_DESC", "en_sha": "96cf3ec0334b", "status": "draft", "th": "ในฐานะฮิมิโกะ มหาชามาน ในยุคสมัยใหม่ ทำภารกิจเพื่อเพิ่มพูนการผลิตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_HIMIKO_ALT_QUEST_B_MODERN_NAME", "en_sha": "4c2ce6f486fc", "status": "draft", "th": "อามาเทราสึผู้มีชัย"}
+{"tag": "LOC_MODULE_ASHOKA_HIMIKO_ALT_DESCRIPTION", "en_sha": "2d98e839c4cc", "status": "draft", "th": "มีเพอร์โซนาใหม่ของพระเจ้าอโศกและฮิมิโกะ"}
+{"tag": "LOC_MODULE_ASHOKA_HIMIKO_ALT_NAME", "en_sha": "f63dde1bcaba", "status": "draft", "th": "ชุดเพอร์โซนา - อโศกและฮิมิโกะ"}
+{"tag": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_HIMIKO_ALT_L1_DESCRIPTION", "en_sha": "f9d318a62176", "status": "draft", "th": "ปลดล็อกตำนาน +15% [icon:YIELD_PRODUCTION] การผลิตในการสร้าง [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างและ [icon:WONDER] สิ่งมหัศจรรย์ที่มีช่อง [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอก"}
+{"tag": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_ASHOKA_ALT_L1_DESCRIPTION", "en_sha": "4e249e40cf22", "status": "draft", "th": "ปลดล็อกตำนาน +25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่มหรือสนับสนุน [icon:ENDEAVOR] โครงการร่วม -25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่ม [icon:SANCTIONS] การคว่ำบาตรหรือการปฏิเสธ [icon:ENDEAVOR] โครงการร่วม"}
+{"tag": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_HIMIKO_ALT_L2_DESCRIPTION", "en_sha": "4e249e40cf22", "status": "draft", "th": "ปลดล็อกตำนาน +25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่มหรือสนับสนุน [icon:ENDEAVOR] โครงการร่วม -25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่ม [icon:SANCTIONS] การคว่ำบาตรหรือการปฏิเสธ [icon:ENDEAVOR] โครงการร่วม"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_ASHOKA_ALT_L2_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_1", "en_sha": "96adb7b7a286", "status": "draft", "th": "ภายหลังความล้มเหลวของอเล็กซานเดอร์มหาราชในการพิชิตอินเดีย จักรวรรดิเมารยะได้ผงาดขึ้นเป็นรัฐเดี่ยวที่ใหญ่ที่สุดที่เคยเกิดขึ้นในอินเดียสมัยโบราณ หลังการถอยทัพของอเล็กซานเดอร์ จันทรคุปต์ เมารยะ ได้ฉวยโอกาสจากความโกลาหลที่ตามมา และพิชิตบรรดารัฐบริวารที่กรีกทิ้งไว้ แม้จะมีเอกภาพน้อยกว่าจักรวรรดิอินเดียในยุคหลัง แต่เมารยะก็เป็นประภาคารแห่งการเรียนรู้และวัฒนธรรม ถึงขั้นส่งทูตและสมณทูตทางพุทธศาสนาไปทางตะวันตกตามรอยเท้าของอเล็กซานเดอร์ ภายในประเทศ จักรวรรดิยังคงบำรุงรักษาเส้นทางการค้าทั่วอนุทวีปจากตะวันออกจรดตะวันตก จนกลายเป็นข้อต่อสำคัญของเส้นทางสายไหม ซึ่งเป็นเส้นทางที่ต่อมากลายเป็นหัวใจแห่งชื่อเสียงของพวกเขา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_2", "en_sha": "a85e4bf4360c", "status": "draft", "th": "ศาสนามีบทบาทสำคัญยิ่งในเมารยะ อินเดียเป็นแหล่งกำเนิดของศาสนาสำคัญหลายศาสนาของโลก ได้แก่ ศาสนาฮินดู ศาสนาเชน และศาสนาพุทธ รวมถึงความเชื่อแปลกใหม่อีกไม่กี่สาย เช่น ลัทธิกรีกนิยม ชาวเมารยะยุคแรกนับถือศาสนาเชน ซึ่งมุ่งเน้นอหิงสาและการบ่มเพาะความบริสุทธิ์ส่วนบุคคล ดูเป็นทางเลือกที่แปลกสำหรับจักรพรรดิ - จนกว่าจะตระหนักว่าความบริสุทธิ์นั้นนำไปสู่อำนาจและบารมีส่วนบุคคล ควรกล่าวด้วยว่าในนครต่าง ๆ ของเมารยะมีผู้มาเยือนทั้งชาวจีนและชาวกรีกเบียดเสียดกันอยู่เป็นประจำ ส่งผลให้เกิดความหลากหลายและความเป็นพหุวัฒนธรรมอย่างมาก"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_3", "en_sha": "b9f119f747cd", "status": "draft", "th": "พระเจ้าอโศก (อโศกะ) - พระนามมีความหมายว่า \"ผู้ไร้ความโศก\" - ทรงเริ่มต้นชีวิตในฐานะโอรสองค์สุดท้องที่ไม่เป็นที่โปรดปราน เล่ากันว่าพระบิดาไม่ทรงชอบผิวพรรณของพระองค์ซึ่งไม่เรียบเนียนเหมือนพี่น้อง และทรงมองข้ามสัญญาณครั้งแล้วครั้งเล่าว่าบุตรผู้นี้จะกลายเป็นผู้พิชิต เมื่อพระเชษฐาซึ่งเป็นรัชทายาทออกไปทำศึก พระเจ้าอโศกทรงประกาศว่าทวยเทพปรารถนาให้พระองค์เป็นกษัตริย์ มีผู้ขัดขวางคำกล่าวอ้างนี้เพียงไม่กี่คน เมื่อพระบิดาทรงคัดค้าน ชายชราก็สิ้นพระชนม์ลงในทันที และเมื่อพระเชษฐากลับมาเพื่อชิงบัลลังก์ ก็ถูกโยนลงกองไฟถ่านในทันทีเช่นกัน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_4", "en_sha": "7699b4adcc9c", "status": "draft", "th": "เมื่อทรงตั้งมั่นได้แล้ว พระเจ้าอโศกยังคงเส้นทางสู่อำนาจอันนองเลือดต่อไป พระองค์ทรงเล็งเป้าไปยังจักรวรรดิกลิงคะทางตะวันออกในทันที และเปิดสงครามพิชิตอย่างอุกอาจ ด้วยความกระหายชัยชนะ พระเจ้าอโศกเสด็จออกรบพร้อมกับกองทหาร - และทรงรู้สึกสะอิดสะเอียน การนองเลือดและความโหดร้ายที่ทอดพระเนตรเห็นที่นั่นทำให้พระองค์ทรงละทิ้งความรุนแรง และหันมานับถือศาสนาพุทธ พร้อมมุ่งเผยแผ่สัจธรรมแห่งธรรมะ (คำสอนทางพุทธศาสนา) ไปทั่วราชอาณาจักร โดยทรงสร้างเสาศิลาจารึกสรรเสริญธรรมะไว้ทั่วดินแดนเมารยะ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_5", "en_sha": "259d852a1bb8", "status": "draft", "th": "บนเสาศิลาจารึกเหล่านั้น พระเจ้าอโศกทรงประกาศพระราชโองการของพระองค์ นอกจากจะระบุรายชื่อผู้รับผิดชอบในการจารึกแล้ว พระราชโองการยังกำหนดข้อห้ามเรื่องความประพฤติผิดศีลธรรม - ทั้งการเบียดเบียนสัตว์ (กล่าวคือการกินเนื้อสัตว์) การทำร้ายผู้คน และงานเทศกาลที่ปล่อยตัวเกินงาม นอกจากนี้ยังบรรยายถึงสถาบันต่าง ๆ (เช่น การรักษาพยาบาล) ที่จักรพรรดิทรงก่อตั้งขึ้นในภูมิภาค อันเป็นการประกาศเจตนารมณ์แห่งไมตรีจิตต่อชาวโลกที่ยืนยงสืบมา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_CHAPTER_HISTORY_PARA_6", "en_sha": "d73e8c2f1eaf", "status": "draft", "th": "เรื่องราวของพระเจ้าอโศกคือเรื่องราวแห่งการเปลี่ยนแปลง ราชทูตชาวจีนผู้หนึ่งที่มาเยือนคาดเดาว่า พระเจ้าอโศกในช่วงต้นเคยเสด็จลงนรกด้วยพระองค์เองเพื่อเรียนรู้วิธีทรมานแบบใหม่ ขณะที่พระเจ้าอโศกในช่วงหลังทรงประณามความรุนแรงทุกรูปแบบ ทั้งต่อมนุษย์และสัตว์ เป็นเรื่องราวแห่งการสำนึกผิดที่ทำให้พระเจ้าอโศกเป็นวีรบุรุษทั่วเอเชียที่นับถือพุทธศาสนา และชาวศรีลังกาและชาวเอเชียตะวันออกเฉียงใต้จำนวนมากมองว่าพระองค์คือผู้นำพุทธศาสนามาสู่ดินแดนของตน แม้ผลกระทบนี้อาจเป็นมรดกที่ยั่งยืนที่สุดของพระองค์ในระดับโลก แต่พระเจ้าอโศกก็ยังคงเป็นบุคคลที่น่าสนใจสำหรับชาวอินเดียเช่นกัน และเคยเป็นหัวข้อของภาพยนตร์บอลลีวูดทุนสร้างสูง และปัจจุบันยังเป็นละครโทรทัศน์ยอดนิยมอีกด้วย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_QUOTE", "en_sha": "5ea3d608688a", "status": "draft", "th": "[PLACEHOLDER] คำกล่าวอันโด่งดังในซีวิโลพีเดีย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_ASHOKA_ALT_TITLE", "en_sha": "c72c61473e66", "status": "draft", "th": "{LOC_LEADER_ASHOKA_ALT_NAME}"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_1", "en_sha": "088dfe5b578e", "status": "draft", "th": "ประวัติศาสตร์ญี่ปุ่นยุคแรกแบ่งออกเป็นสามสมัยที่แตกต่างกันอย่างชัดเจน ได้แก่ โจมง ยาโยอิ และยามาโตะ ในสมัยหลังสุดนี้เองที่สิ่งซึ่งเรารู้จักกันว่า \"ญี่ปุ่น\" เริ่มก่อรูปขึ้น แม้ว่าศิลปะ วรรณกรรม และการแต่งกายจำนวนมากที่เราคุ้นเคยจะถือกำเนิดในสมัยเฮอังที่ตามมา พึงระลึกว่ายุคทองของซามูไรและสิ่งอื่น ๆ ทำนองนั้นยังไม่มาถึงจนกระทั่งกลางสหัสวรรษที่สองแห่งคริสต์ศักราช"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_10", "en_sha": "27a089e60133", "status": "draft", "th": "อามาเทราสึ เทพีแห่งดวงอาทิตย์ของญี่ปุ่นโบราณ ซึ่งในการนำเสนอของเราคือเทพผู้ดลใจของฮิมิโกะ มิใช่เทพที่เก็บเนื้อเก็บตัว นางร่าเริงและเจ้าเล่ห์ ชอบเข้าร่วมการประลอง ปลอมตัวเป็นบุรุษ หลบซ่อนจากเทพองค์อื่น และอีกมากมาย ในตำนานที่โด่งดังที่สุดเรื่องหนึ่งของนาง เทพซูซาโนโอะ น้องชายผู้ขึ้นชื่อว่าหยาบคายและชอบก่อเรื่อง มาหาอามาเทราสึเพื่อกล่าวลาหลังถูกบิดาเนรเทศ อามาเทราสึตัดสินใจเมตตาเด็กหนุ่มผู้นี้ ทั้งสองแข่งขันเคี้ยวเพื่อดูว่าใครจะคายเทพออกมาได้มากที่สุด และแม้อามาเทราสึจะเป็นฝ่ายชนะ ซูซาโนโอะกลับประกาศว่าตนคายเทพที่ถูกต้องออกมา แล้วบันดาลโทสะ ในตำนานบางฉบับ เขาโกรธจนแอบเข้าไปในพระราชวังของอามาเทราสึและวางอุจจาระไว้บนบัลลังก์ของนาง นางนั่งลงไปบนนั้น เรื่องนี้ทำให้นางเสียใจถึงขั้นวิ่งหนีเข้าไปซ่อนตัวในถ้ำ (ซึ่งเป็นปัญหาใหญ่ เพราะอย่าลืมว่านางคือดวงอาทิตย์) เทพองค์อื่น ๆ จึงวางแผนล่อนางออกมา โดยมาชุมนุมกันหน้าถ้ำและจัดการแสดงอันครึกครื้น สิ่งนี้ทำให้นางสงสัยใคร่รู้ จึงแง้มออกมาดูว่าใครอยู่ข้างนอก และสิ่งที่นางเห็นคือเงาสะท้อนของตนเอง เหล่าเทพได้แขวนกระจกไว้ตรงปากทางเข้า และอามาเทราสึก็ตะลึงงันอยู่กับที่ ความสงบเรียบร้อยจึงกลับคืนมา (และบังเอิญว่ากระจกได้กลายเป็นสัญลักษณ์สำคัญของศาสนาชินโตด้วย)"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_2", "en_sha": "afcfac5633c1", "status": "draft", "th": "ญี่ปุ่นสมัยโจมงดำรงอยู่ก่อนสิ่งใดทั้งปวง และได้ชื่อตามรูปแบบเครื่องปั้นดินเผา มิใช่ชื่อที่ผู้คนในสมัยนั้นใช้เรียกตนเอง ชาวโจมงยังดูมีลักษณะทางชาติพันธุ์ต่างไปจากซากมนุษย์ญี่ปุ่นอื่น ๆ อยู่บ้าง นี่คือมรดกจากความเชื่อมโยงระหว่างญี่ปุ่นกับหมู่เกาะในแปซิฟิก มีความคล้ายคลึงทางวัฒนธรรมระหว่างชนพื้นเมืองของโอกินาวา ไต้หวัน และไกลลงไปทางใต้จนถึงเอเชียตะวันออกเฉียงใต้ ดูเหมือนว่าชาวโจมงจะถูกแทนที่ด้วยชาวยาโยอิราวสหัสวรรษสุดท้ายก่อนคริสตกาล แม้ว่าชาวไอนุซึ่งเป็นชนพื้นเมืองน่าจะเป็นลูกหลานของพวกเขาก็ตาม"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_3", "en_sha": "702e01fd7671", "status": "draft", "th": "วัฒนธรรมยาโยอินี้เอง ซึ่งเป็นผู้อพยพที่พูดภาษาญี่ปุ่นมาจากแผ่นดินใหญ่ (ในที่นี้หมายถึงเกาหลี) ที่ฮิมิโกะปกครอง ชาวยาโยอิเชื่อมต่อยุคหินใหม่ ยุคสำริด และยุคเหล็กเข้าด้วยกัน และมีความชำนาญสูงในการหล่ออาวุธ เครื่องมือ และที่สำคัญคือกระจกสำริด สมัยโคฟุง (ค.ศ. 300-538) ได้เห็นอุตสาหกรรมนี้ขยายตัว พร้อมกับการพัฒนามรดกทางวัฒนธรรมร่วมกันที่ได้รับอิทธิพลจากจีนอย่างเข้มข้น ตั้งแต่ฮนชู (เกาะใหญ่ของญี่ปุ่น) ไปจนถึงคิวชู (เกาะที่เล็กกว่า) และเกาหลี สมัยนี้สิ้นสุดลงพร้อมการผงาดขึ้นของตระกูลยามาโตะและการรวมศูนย์อำนาจของญี่ปุ่น"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_4", "en_sha": "e7272d3004fa", "status": "draft", "th": "ราชวงศ์ฮั่นเรียกหมู่เกาะเหล่านี้ว่า \"โว\" หรือ \"วะ\" และที่นี่เป็นแหล่งรวมของผู้คนที่กระจัดกระจาย เป็นกลุ่มชนเผ่าที่มีวัฒนธรรมคล้ายคลึงกันแต่แตกแยกกันทางการเมือง ดิ้นรนเอาตัวรอดในระบบนิเวศที่มักโหดร้าย และมีทัศนคติต่อชีวิตแบบนักรบ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_5", "en_sha": "75d1e919187c", "status": "draft", "th": "ตัวฮิมิโกะเองเป็นทั้งผู้นำทางศาสนาและทางการเมือง นางมีฐานที่มั่นอยู่ที่ยามาไต (ซึ่งอาจอยู่ทางตอนเหนือของคิวชูหรือใกล้กับเกียวโตในปัจจุบัน) และเป็นที่รู้จักส่วนใหญ่จากบันทึกของจีน ฮิมิโกะส่งเครื่องบรรณาการไปยังแคว้นเฉาเว่ย ซึ่งอยู่เหนือสุดในบรรดาสามรัฐที่แบ่งจีนออกเป็นสามส่วนในคริสต์ศตวรรษที่ 3 ในบันทึกเหล่านี้ จักรพรรดิจีนขนานนามฮิมิโกะว่า \"ราชินีแห่งวะ มิตรแห่งเว่ย\" สถานะที่แท้จริงของฮิมิโกะยังไม่ชัดเจนนัก เพราะนี่คือจุดเริ่มต้นแรกสุดของประวัติศาสตร์ญี่ปุ่น ซึ่งแหล่งข้อมูลกระจัดกระจายและเชื่อถือได้ยาก"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_6", "en_sha": "47b6cbdb5187", "status": "draft", "th": "เรื่องราวของฮิมิโกะเริ่มน่าสนใจเมื่อนางถูกกล่าวหาว่าใช้เวทมนตร์ แหล่งข้อมูลจีนอ้างว่านางร่ายมนตร์สะกดชาวเมืองวะทั้งหมดให้ยอมอยู่ใต้การปกครองของนาง และนางอาศัยอยู่ในปราสาทใหญ่ที่มีแต่ข้ารับใช้และองครักษ์หญิงคอยปรนนิบัติ (ยกเว้นชายคนหนึ่งผู้นำอาหารมาถวาย) ชื่อเสียงอันลึกลับนี้ยิ่งทวีขึ้นในบันทึกของญี่ปุ่น ซึ่งเชื่อมโยงฮิมิโกะเข้ากับเทพหลายองค์ ทั้งในฐานะมหาชามานของอามาเทราสึ เทพีแห่งดวงอาทิตย์ของญี่ปุ่น หรือในฐานะภรรยาผู้เป็นชามานของงูเทพ ในเรื่องหลังนี้ ฮิมิโกะ (ซึ่งถูกระบุด้วยนามยามาโตะโตะโตะฮิโมโมโซะบิเมะโนะมิโกโตะ) ครองคู่อย่างมีความสุขกับสวามีผู้เป็นเทพอย่างชัดแจ้ง ซึ่งมาเยือนเฉพาะยามค่ำคืน นางวิงวอนให้เขาอยู่จนถึงรุ่งเช้าเพื่อจะได้เห็นเขาในแสงตะวัน แต่เขาปฏิเสธ ในที่สุดนางก็โน้มน้าวเขาได้ เขาบอกนางว่านางจะเห็นเขาในกล่องเครื่องประทินโฉม แต่นางต้องสัญญาว่าจะไม่ตกใจกับรูปลักษณ์ของเขา รุ่งเช้า เมื่อนางเปิดกล่องออก ก็พบงูขาวงามขดตัวอยู่ข้างใน ฮิมิโกะอุทานด้วยความตระหนก และงูเทพก็กลับคืนสู่ร่างมนุษย์ เขาโกรธเคือง บอกนางว่านางได้รับคำเตือนแล้วว่าอย่าแสดงปฏิกิริยา และบัดนี้เขาต้องจากนางไป ฮิมิโกะในความโศกเศร้าจึงแทงตนเอง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_7", "en_sha": "fd4fab1bb8dd", "status": "draft", "th": "ไม่ว่าการสิ้นชีวิตของนางจะเป็นเช่นไร เมื่อฮิมิโกะสิ้นชีวิต ชาวยามาไตได้สร้างเนินสุสานขึ้นให้นาง ตามตำนานเล่าว่า ผู้ปกครองคนต่อมาควรจะเป็นกษัตริย์ แต่ประชาชนซึ่งยังโศกเศร้ากับการจากไปของราชินีปฏิเสธการปกครองของเขา จนกระทั่งอิโยะ ญาติของฮิมิโกะซึ่งเป็นเด็กหญิงอายุสิบสามปี ได้รับการเสนอให้เป็นผู้ปกครองคนใหม่ ความสงบเรียบร้อยจึงกลับคืนมา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_8", "en_sha": "d9c9273835cb", "status": "draft", "th": "ดังที่กล่าวไว้ข้างต้น ฮิมิโกะเป็นหนึ่งในรากฐานของทฤษฎีว่าด้วยสถาบันกษัตริย์และศาสนาชินโตของญี่ปุ่น ซึ่งหลอมรวมเรื่องการเมืองเข้ากับสิ่งเหนือธรรมชาติในแบบที่แตกต่างจากอุดมคติของจีนที่ได้รับแรงบันดาลใจจากลัทธิขงจื๊อ และอุดมคติแบบพราหมณ์ที่ได้รับแรงบันดาลใจจากอินเดียซึ่งพบในส่วนอื่นของเอเชีย ฮิมิโกะและยามาไตยังเป็นการเปิดประตูครั้งแรกของญี่ปุ่นสู่โลกเอเชียตะวันออกที่กว้างใหญ่กว่า นางเป็นตัวละครที่พบบ่อยในวัฒนธรรมสมัยนิยม แม้มักถูกดัดแปลงให้เข้ากับเรื่องเล่าที่ต้องการ นางอาจเป็นได้ทั้งตัวร้ายหรือวีรสตรี ผู้มีเวทมนตร์หรือมนุษย์ธรรมดา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_CHAPTER_HISTORY_PARA_9", "en_sha": "605e142397cd", "status": "draft", "th": "ในการนำเสนอของเราที่นี่ เราสร้างฮิมิโกะโดยอิงจากร่างทรงวิญญาณในลักษณะเดียวกันในภูมิภาคนี้ และนำเสนอนางในฐานะผู้เป็นสื่อกลางของเทพีอามาเทราสึ ความสัมพันธ์ของทั้งสองใกล้ชิดดุจแม่และลูกสาวที่อาศัยอยู่ในร่างเดียวกัน และฮิมิโกะของเราสลับไปมาระหว่างสองเสียง คือเสียงของราชินีและเสียงของเทพี ราวกับไม่รู้ตัว"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_QUOTE", "en_sha": "5ea3d608688a", "status": "draft", "th": "[PLACEHOLDER] คำกล่าวอันโด่งดังในซีวิโลพีเดีย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_HIMIKO_ALT_TITLE", "en_sha": "f8ec8e1402b1", "status": "draft", "th": "{LOC_LEADER_HIMIKO_ALT_NAME}"}
+{"tag": "LOC_PROFILE_TITLE_ASHOKA_CONQUEROR", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_PROFILE_TITLE_HIMIKO_HIGH_SHAMAN", "en_sha": "13c9d686eb09", "status": "draft", "th": "อวตารแห่งอามาเทราสึ"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_EXPLORATION_1_DESCRIPTION", "en_sha": "0e24eff9456e", "status": "draft", "th": "ในฐานะพระเจ้าอโศก จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางเรือ"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_EXPLORATION_1_NAME", "en_sha": "cac1bdd6013a", "status": "draft", "th": "การอุทิศทางการทูต ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_EXPLORATION_2_DESCRIPTION", "en_sha": "0a7850dcc9db", "status": "draft", "th": "ในฐานะพระเจ้าอโศก จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_EXPLORATION_2_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_MODERN_1_DESCRIPTION", "en_sha": "735f3daa8691", "status": "draft", "th": "ในฐานะพระเจ้าอโศก จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางอากาศ"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_MODERN_1_NAME", "en_sha": "79f5438c1d7d", "status": "draft", "th": "การอุทิศทางการทูต ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_MODERN_2_DESCRIPTION", "en_sha": "2a25a99c5c93", "status": "draft", "th": "ในฐานะพระเจ้าอโศก จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_ASHOKA_CONQUEROR_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_EXPLORATION_1_DESCRIPTION", "en_sha": "8bd7cee16997", "status": "draft", "th": "ในฐานะฮิมิโกะ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_EXPLORATION_1_NAME", "en_sha": "aa0bfb526c1a", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_EXPLORATION_2_DESCRIPTION", "en_sha": "cb88248a5f18", "status": "draft", "th": "ในฐานะฮิมิโกะ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางเรือ"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_EXPLORATION_2_NAME", "en_sha": "cac1bdd6013a", "status": "draft", "th": "การอุทิศทางการทูต ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_MODERN_1_DESCRIPTION", "en_sha": "cf8f12971902", "status": "draft", "th": "ในฐานะฮิมิโกะ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_MODERN_1_NAME", "en_sha": "261442392230", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_MODERN_2_DESCRIPTION", "en_sha": "2b1fbc300bf2", "status": "draft", "th": "ในฐานะฮิมิโกะ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางอากาศ"}
+{"tag": "LOC_STRATEGYCARD_HIMIKO_SHAMAN_MODERN_2_NAME", "en_sha": "79f5438c1d7d", "status": "draft", "th": "การอุทิศทางการทูต ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_ASHOKA_CONQUEROR_NAME", "en_sha": "e1224d9021ef", "status": "draft", "th": "ผู้พิชิตโลก"}
+{"tag": "LOC_TITLE_HIMIKO_HIGH_SHAMAN_NAME", "en_sha": "13c9d686eb09", "status": "draft", "th": "อวตารแห่งอามาเทราสึ"}
+{"tag": "LOC_TRAIT_LEADER_ASHOKA_ALT_ABILITY_DESCRIPTION", "en_sha": "6583ba9c11c3", "status": "draft", "th": "[BLIST][LI][B]+1[icon:YIELD_PRODUCTION] การผลิต [/B]ต่อ [icon:YIELD_HAPPINESS] [B]ความสุข [/B]ส่วนเกินทุก [B]5 [/B]หน่วยใน [icon:YIELD_CITIES] [B]นคร[/B][LI][B]+10% [icon:YIELD_PRODUCTION] การผลิต [/B]ในถิ่นฐานที่คุณไม่ได้ก่อตั้ง[LI]การประกาศ [icon:WAR] [B]สงครามอย่างเป็นทางการ [/B]จะมอบ [icon:CELEBRATION] [B]การเฉลิมฉลอง[/B][LI][B]+5 [icon:NAR_REW_COMBAT] พลังการรบ[/B] เมื่อต่อสู้กับ [icon:CITY_FORTIFIED] [B]เขตป้อมปราการ[/B] สำหรับยูนิตทั้งหมดระหว่าง [icon:CELEBRATION] [B]การเฉลิมฉลอง[/B][/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_ASHOKA_ALT_ABILITY_NAME", "en_sha": "dd8b3335a192", "status": "draft", "th": "เทวราชา"}
+{"tag": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_DESCRIPTION", "en_sha": "86225fa7fce5", "status": "draft", "th": "[BLIST][LI][B]+2 [icon:YIELD_HAPPINESS] ความสุข [/B]ต่อยุคบนสิ่งก่อสร้าง [icon:YIELD_HAPPINESS] [B]ความสุข[/B]และ [icon:YIELD_DIPLOMACY] [B]การทูต[/B] และเพิ่มเป็นสองเท่าหาก[B]สิ่งก่อสร้าง[/B]เป็นทั้งสองประเภท[LI][B]+50% [icon:YIELD_PRODUCTION] การผลิต [/B]ในการสร้างสิ่งก่อสร้าง [icon:YIELD_HAPPINESS] [B]ความสุข[/B]และ [icon:YIELD_DIPLOMACY] [B]การทูต[/B] และเพิ่มเป็นสองเท่าหาก[B]สิ่งก่อสร้าง[/B]เป็นทั้งสองประเภท[LI][B]+15% [icon:YIELD_CULTURE] วัฒนธรรม [/B]แต่ [B]-15% [icon:YIELD_SCIENCE] วิทยาศาสตร์[/B] และผลเหล่านี้[B]เพิ่มเป็นสองเท่า [/B]ระหว่าง [icon:CELEBRATION] [B]การเฉลิมฉลอง[/B][/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_HIMIKO_ALT_ABILITY_NAME", "en_sha": "047e4f2787a9", "status": "draft", "th": "มิโกะแห่งอามาเทราสึ"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_CHOLA_TOOLTIP", "en_sha": "88e5ac5e4d1b", "status": "draft", "th": "[B]พระเจ้าอโศก[/B] เคยนำอารยธรรมที่มาก่อน [B]โจฬะ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_DESCRIPTION", "en_sha": "df4f7880f5c4", "status": "draft", "th": "เล่นเป็น [B]พระเจ้าอโศก ผู้พิชิตโลก[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_HAWAII_TOOLTIP", "en_sha": "270468f341ac", "status": "draft", "th": "[B]ฮาวาย[/B] เสริมกลยุทธ์ของ [B]พระเจ้าอโศก[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_MUGHAL_TOOLTIP", "en_sha": "467f8758dc0f", "status": "draft", "th": "[B]พระเจ้าอโศก[/B] ปกครองภูมิภาคเดียวกับ [B]โมกุล[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_ASHOKA_ALT_SIAM_TOOLTIP", "en_sha": "f74ba7850934", "status": "draft", "th": "[B]พระเจ้าอโศก[/B] มีอิทธิพลต่อวัฒนธรรม[B]สยาม[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_DESCRIPTION", "en_sha": "93ef2d1ede98", "status": "draft", "th": "เล่นเป็น [B]ฮิมิโกะ มหาชามาน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_HAWAII_TOOLTIP", "en_sha": "60c3c8e05737", "status": "draft", "th": "[B]ฮาวาย[/B] เสริมกลยุทธ์ของ [B]ฮิมิโกะ[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_MAJAPAHIT_TOOLTIP", "en_sha": "24e000671757", "status": "draft", "th": "[B]ฮิมิโกะ[/B] มาจากทวีปเดียวกับ [B]มัชปาหิต[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_MEIJI_TOOLTIP", "en_sha": "e79433eb16ce", "status": "draft", "th": "[B]ฮิมิโกะ[/B] ปกครอง[B]ญี่ปุ่น[/B]โบราณ"}
+{"tag": "LOC_UNLOCK_PLAY_AS_HIMIKO_ALT_SIAM_TOOLTIP", "en_sha": "c329a527f26b", "status": "draft", "th": "[B]ฮิมิโกะ[/B] มาจากทวีปเดียวกับ [B]สยาม[/B]"}

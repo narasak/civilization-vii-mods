@@ -1,0 +1,560 @@
+{"tag": "LOC_ATTRIBUTENODE_FRIEDRICH_BAROQUE_L1_DESCRIPTION", "en_sha": "4de93be80438", "status": "draft", "th": "+15% การผลิตในการสร้างสิ่งก่อสร้างและสิ่งมหัศจรรย์ที่มีช่องผลงานชิ้นเอก"}
+{"tag": "LOC_ATTRIBUTENODE_FRIEDRICH_BAROQUE_L1_NAME", "en_sha": "750e224918f8", "status": "draft", "th": "โหนดคุณลักษณะทางวัฒนธรรม"}
+{"tag": "LOC_ATTRIBUTENODE_FRIEDRICH_BAROQUE_L2_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_FRIEDRICH_BAROQUE_L2_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_XERXES_ACHAEMENID_L1_DESCRIPTION", "en_sha": "4de93be80438", "status": "draft", "th": "+15% การผลิตในการสร้างสิ่งก่อสร้างและสิ่งมหัศจรรย์ที่มีช่องผลงานชิ้นเอก"}
+{"tag": "LOC_ATTRIBUTENODE_XERXES_ACHAEMENID_L1_NAME", "en_sha": "750e224918f8", "status": "draft", "th": "โหนดคุณลักษณะทางวัฒนธรรม"}
+{"tag": "LOC_ATTRIBUTENODE_XERXES_ACHAEMENID_L2_DESCRIPTION", "en_sha": "726ec510c9c8", "status": "draft", "th": "+25% ทองจากการค้าและขบวนสมบัติ"}
+{"tag": "LOC_ATTRIBUTENODE_XERXES_ACHAEMENID_L2_NAME", "en_sha": "812a5407a289", "status": "draft", "th": "โหนดคุณลักษณะทางเศรษฐกิจ"}
+{"tag": "LOC_BADGE_FRIEDRICH_BAROQUE_NAME", "en_sha": "70acb93b69a7", "status": "draft", "th": "เหรียญตราฟรีดริช บาโรก 1"}
+{"tag": "LOC_BADGE_FRIEDRICH_BAROQUE_P_NAME", "en_sha": "94b5af8cb88d", "status": "draft", "th": "เหรียญตราฟรีดริช บาโรก 2"}
+{"tag": "LOC_BADGE_XERXES_ACHAEMENID_NAME", "en_sha": "eb9e86e747d9", "status": "draft", "th": "เหรียญตราเซอร์ซีส แห่งอะคีเมนิด 1"}
+{"tag": "LOC_BADGE_XERXES_ACHAEMENID_P_NAME", "en_sha": "302bb54a50f0", "status": "draft", "th": "เหรียญตราเซอร์ซีส แห่งอะคีเมนิด 2"}
+{"tag": "LOC_BANNER_FRIEDRICH_BAROQUE_NAME", "en_sha": "cd63d8b79893", "status": "draft", "th": "แบนเนอร์ฟรีดริช บาโรก"}
+{"tag": "LOC_BANNER_XERXES_ACHAEMENID_NAME", "en_sha": "d7bf6c16c96f", "status": "draft", "th": "แบนเนอร์เซอร์ซีส แห่งอะคีเมนิด"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_FRIEDRICH_BAROQUE_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_FRIEDRICH_BAROQUE_1_NAME", "en_sha": "7406951b31f5", "status": "draft", "th": "การอุทิศของฟรีดริช ยุคแห่งการสำรวจ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_FRIEDRICH_BAROQUE_2_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_FRIEDRICH_BAROQUE_2_NAME", "en_sha": "3e1598de5af8", "status": "draft", "th": "การอุทิศของฟรีดริช ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_XERXES_ACHAEMENID_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_XERXES_ACHAEMENID_1_NAME", "en_sha": "3268d5b5889e", "status": "draft", "th": "การอุทิศของเซอร์ซีส ยุคแห่งการสำรวจ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_XERXES_ACHAEMENID_2_DESCRIPTION", "en_sha": "b7fd840fabff", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_GOLD] ทอง +15% แลกกับ [icon:YIELD_FOOD] อาหาร -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_XERXES_ACHAEMENID_2_NAME", "en_sha": "e5b70d809911", "status": "draft", "th": "การอุทิศของเซอร์ซีส ยุคแห่งการสำรวจ - ทางเศรษฐกิจ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_FRIEDRICH_BAROQUE_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_FRIEDRICH_BAROQUE_1_NAME", "en_sha": "54f46ff50014", "status": "draft", "th": "การอุทิศของฟรีดริช ยุคสมัยใหม่ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_FRIEDRICH_BAROQUE_2_DESCRIPTION", "en_sha": "1be1a884df1c", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_FRIEDRICH_BAROQUE_2_NAME", "en_sha": "7a1a2e129b46", "status": "draft", "th": "การอุทิศยุคสมัยใหม่ของฟรีดริช (ทางการทหาร)"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_XERXES_ACHAEMENID_1_DESCRIPTION", "en_sha": "24a4f06bfb10", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_CULTURE] วัฒนธรรม +15% แลกกับ [icon:YIELD_Science] วิทยาศาสตร์ -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_XERXES_ACHAEMENID_1_NAME", "en_sha": "89c22a8b26ed", "status": "draft", "th": "การอุทิศของเซอร์ซีส ยุคสมัยใหม่ - ทางวัฒนธรรม"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_XERXES_ACHAEMENID_2_DESCRIPTION", "en_sha": "b7fd840fabff", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_GOLD] ทอง +15% แลกกับ [icon:YIELD_FOOD] อาหาร -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_XERXES_ACHAEMENID_2_NAME", "en_sha": "0ad9b794d899", "status": "draft", "th": "การอุทิศยุคสมัยใหม่ของเซอร์ซีส (ทางเศรษฐกิจ)"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "3892d29d3e6d", "status": "draft", "th": "ข้าอยู่ในโรงละครนานเกินไปแล้ว และกระหายเสียงปืนใหญ่"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_XERXES_ALT_ANY", "en_sha": "b2b940c7888e", "status": "draft", "th": "นักรบของท่านกำลังเดินหน้าเข้าสู่เปลวเพลิงแห่งความพินาศของตนเอง"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "71f66d77b831", "status": "draft", "th": "ถ้าเช่นนั้นก็ออกรบ! เจ้าพวกนอกคอก! คิดจะมีชีวิตอยู่ชั่วนิรันดร์หรืออย่างไร"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_XERXES_ALT_ANY", "en_sha": "90ed75903987", "status": "draft", "th": "พวกโจรปล้นของท่านคิดจะท้าทายศูนย์กลางของโลกหรือ ก็ตามเคย"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "89cdc45db838", "status": "draft", "th": "แล้วพวกนักวิจารณ์ยังบอกว่าบทกวีของข้าจะเป็นเหตุแห่งความล่มจมเสียอีก!"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_XERXES_ALT_ANY", "en_sha": "f0fac61450aa", "status": "draft", "th": "ข้าเคยเป็นจักรพรรดิ บัดนี้เป็นเพียงหมากในเกมของผู้อื่น"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "c7895ff03762", "status": "draft", "th": "ข้าคือฟรีดริชที่ 2 ยินดีที่ได้รู้จัก ข้าเป็นเทวดาในห้องรับแขก แต่เป็นปีศาจในสนามรบ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_XERXES_ALT_ANY", "en_sha": "6e82b7a8a5ab", "status": "draft", "th": "มีเพียงศีรษะเดียวที่ตั้งอยู่ ณ ศูนย์กลางของโลก และนั่นคือศีรษะของข้า"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "c7895ff03762", "status": "draft", "th": "ข้าคือฟรีดริชที่ 2 ยินดีที่ได้รู้จัก ข้าเป็นเทวดาในห้องรับแขก แต่เป็นปีศาจในสนามรบ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_XERXES_ALT_ANY", "en_sha": "6e82b7a8a5ab", "status": "draft", "th": "มีเพียงศีรษะเดียวที่ตั้งอยู่ ณ ศูนย์กลางของโลก และนั่นคือศีรษะของข้า"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "c7895ff03762", "status": "draft", "th": "ข้าคือฟรีดริชที่ 2 ยินดีที่ได้รู้จัก ข้าเป็นเทวดาในห้องรับแขก แต่เป็นปีศาจในสนามรบ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_XERXES_ALT_ANY", "en_sha": "6e82b7a8a5ab", "status": "draft", "th": "มีเพียงศีรษะเดียวที่ตั้งอยู่ ณ ศูนย์กลางของโลก และนั่นคือศีรษะของข้า"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_FRIEDRICH_ALT", "en_sha": "4a0b4fdb9b9a", "status": "draft", "th": "\"Bien sur\" แน่นอน นี่เป็นข้อเสนอที่มีเหตุผล!"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_XERXES_ALT", "en_sha": "f7c7761741a6", "status": "draft", "th": "แน่นอน เอาละ ขอตัวก่อน"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_FRIEDRICH_ALT", "en_sha": "7a9ccdd36ea8", "status": "draft", "th": "ข้อเสนอที่น่าขัน ส่งข้อเสนอที่ดีกว่านี้มา หรือไม่ก็ไม่ต้องส่งมาเลย!"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_XERXES_ALT", "en_sha": "ab1aa640d80f", "status": "draft", "th": "ประตูปิดแล้วในเวลานี้"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_FRIEDRICH_ALT", "en_sha": "44239925cd62", "status": "draft", "th": "พระเจ้ามิได้อยู่ข้างกองพันที่ใหญ่กว่า แต่อยู่ข้างผู้ที่ยิงแม่นที่สุด"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_XERXES_ALT", "en_sha": "f75b2531159e", "status": "draft", "th": "แสงสว่างใดที่อยู่ในตัวท่าน ก็เป็นเพียงเงาสะท้อนจากแผ่นดินของเรา"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_FRIEDRICH_ALT", "en_sha": "a0ac1566ce5f", "status": "draft", "th": "อา ผู้หลงใหลทั้งไหวพริบและสงคราม ยอดเยี่ยม!"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_XERXES_ALT", "en_sha": "21b069543a05", "status": "draft", "th": "ท่านทำให้ข้านึกถึงหนึ่งในหัวเมืองอันอุดมมากมายของข้า"}
+{"tag": "LOC_LEADER_CHAIN_1070E_COMPLETION", "en_sha": "f45dc0edafd5", "status": "draft", "th": "ผู้บัญชาการของฟรีดริชคือวาทยกรแห่งสนามรบ ผู้อำนวยเพลงซิมโฟนีแห่งชีวิตและความตายที่ยิ่งใหญ่ที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1070E_DESCRIPTION", "en_sha": "73aca85e7aff", "status": "draft", "th": "{1_reward} ยูนิตทหารราบในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1070E_IMPERATIVE", "en_sha": "937186c3948f", "status": "draft", "th": "ฝึกผู้บัญชาการ 1 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1070E_NAME", "en_sha": "afc20c86228f", "status": "draft", "th": "การรบคือศิลปะที่แท้ที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1070E_STORYTITLE", "en_sha": "96390581d9cb", "status": "draft", "th": "บุรุษผู้มีรสนิยม"}
+{"tag": "LOC_LEADER_CHAIN_1070F_COMPLETION", "en_sha": "8d95ea09fef7", "status": "draft", "th": "พลเมืองมาชุมนุมในสวนเพื่อฟังนักดนตรีในราชสำนักของฟรีดริชบรรเลงบทเพลงใหม่ ท่วงทำนองลอยผ่านหมู่มวลดอกไม้ ฝูงชนตั้งใจฟัง ดื่มด่ำกับความสงบของห้วงเวลานั้น"}
+{"tag": "LOC_LEADER_CHAIN_1070F_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1070F_IMPERATIVE", "en_sha": "1eecccd48631", "status": "draft", "th": "สร้างสวน"}
+{"tag": "LOC_LEADER_CHAIN_1070F_NAME", "en_sha": "478b2b18ca65", "status": "draft", "th": "ดาบบรรเลงดนตรีได้แย่นัก!"}
+{"tag": "LOC_LEADER_CHAIN_1070F_STORYTITLE", "en_sha": "96390581d9cb", "status": "draft", "th": "บุรุษผู้มีรสนิยม"}
+{"tag": "LOC_LEADER_CHAIN_1070G_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1070G_NAME", "en_sha": "a432063f437c", "status": "draft", "th": "ทั้งสองเป็นเรื่องของเศรษฐกิจ"}
+{"tag": "LOC_LEADER_CHAIN_1070G_STORYTITLE", "en_sha": "96390581d9cb", "status": "draft", "th": "บุรุษผู้มีรสนิยม"}
+{"tag": "LOC_LEADER_CHAIN_1071D_COMPLETION", "en_sha": "ac58c240b35d", "status": "draft", "th": "ข่าวชัยชนะเดินทางสู่นครหลวงของฟรีดริชอย่างรวดเร็ว วงออร์เคสตรารีบรุดไปยังโรงละครกลางแจ้ง พร้อมบรรเลงบทเพลงสรรเสริญความเก่งกล้าของเขาบทล่าสุด"}
+{"tag": "LOC_LEADER_CHAIN_1071D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1071D_IMPERATIVE", "en_sha": "808e1c370799", "status": "draft", "th": "ปราบยูนิต 5 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1071D_NAME", "en_sha": "2f9a0cc36720", "status": "draft", "th": "นี่คือเสียงแห่งชัยชนะ"}
+{"tag": "LOC_LEADER_CHAIN_1071D_STORYTITLE", "en_sha": "03ab00128311", "status": "draft", "th": "เพลงสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1071E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1071E_NAME", "en_sha": "143faea9e006", "status": "draft", "th": "บางทีนักประพันธ์เพลงคนอื่นอาจเหมาะสมกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1071E_STORYTITLE", "en_sha": "03ab00128311", "status": "draft", "th": "เพลงสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1072D_COMPLETION", "en_sha": "336c2ec17e2c", "status": "draft", "th": "ทหารบางคนกลายเป็นนักศึกษาและกลับสู่สนามรบด้วยปัญญาที่แจ่มแจ้ง บางคนได้แรงบันดาลใจจากการศึกษาจนละทิ้งสงครามไปตลอดกาล สำหรับฟรีดริช ทั้งสองเส้นทางล้วนควรค่าแก่การยกย่อง"}
+{"tag": "LOC_LEADER_CHAIN_1072D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1072D_IMPERATIVE", "en_sha": "b6d0a6344edc", "status": "draft", "th": "สร้างสถาบันการศึกษา"}
+{"tag": "LOC_LEADER_CHAIN_1072D_NAME", "en_sha": "f0defa13e79e", "status": "draft", "th": "ทหารที่มีความรู้นำชัยชนะมาได้เร็วกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1072D_STORYTITLE", "en_sha": "1c5b6ab9e075", "status": "draft", "th": "ฟริทซ์ผู้เฒ่า"}
+{"tag": "LOC_LEADER_CHAIN_1072E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1072E_NAME", "en_sha": "214171d5a2b2", "status": "draft", "th": "การฝึกกายเป็นสิ่งจำเป็น การรู้หนังสือเป็นเรื่องรอง"}
+{"tag": "LOC_LEADER_CHAIN_1072E_STORYTITLE", "en_sha": "1c5b6ab9e075", "status": "draft", "th": "ฟริทซ์ผู้เฒ่า"}
+{"tag": "LOC_LEADER_CHAIN_1073D_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1073D_NAME", "en_sha": "246fcfeb75e1", "status": "draft", "th": "เหล็กกล้าให้เสียงที่น่าจดจำที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1073D_STORYTITLE", "en_sha": "cfae76157d2a", "status": "draft", "th": "บทเพลงแด่ยุคใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1073E_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1073E_NAME", "en_sha": "f9cb2d4ad583", "status": "draft", "th": "โลกจะได้ฟังเสียงขลุ่ยของฟรีดริช"}
+{"tag": "LOC_LEADER_CHAIN_1073E_STORYTITLE", "en_sha": "cfae76157d2a", "status": "draft", "th": "บทเพลงแด่ยุคใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1074D_COMPLETION", "en_sha": "ca875288e69d", "status": "draft", "th": "ฟรีดริชและกองทัพของเขาโจมตีศัตรูจากทุกทิศทาง ชัยชนะไม่เคยเป็นคำถามว่าจะได้หรือไม่ แต่เป็นคำถามว่าเมื่อใด"}
+{"tag": "LOC_LEADER_CHAIN_1074D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1074D_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1074D_NAME", "en_sha": "050f0f5691d7", "status": "draft", "th": "สงครามที่ดีก็เหมือนละครที่ดี ต้องอาศัยความแยบยล"}
+{"tag": "LOC_LEADER_CHAIN_1074D_STORYTITLE", "en_sha": "f8d89bccbd48", "status": "draft", "th": "วิถีแห่งการสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1074E_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1074E_NAME", "en_sha": "4760927cb5d6", "status": "draft", "th": "เริ่มการล้อมเมืองได้"}
+{"tag": "LOC_LEADER_CHAIN_1074E_STORYTITLE", "en_sha": "f8d89bccbd48", "status": "draft", "th": "วิถีแห่งการสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1075C_COMPLETION", "en_sha": "8f3ba419937b", "status": "draft", "th": "แม้ในดินแดนอันไกลโพ้น แม้ท่ามกลางไอกรุ่นของกาแฟ ฟรีดริชก็ยังลิ้มรสชัยชนะในอากาศ - รสของโลหะและดินปืน"}
+{"tag": "LOC_LEADER_CHAIN_1075C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1075C_IMPERATIVE", "en_sha": "0fb4a8c1f46a", "status": "draft", "th": "ปราบผู้บัญชาการ 1 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1075C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1075C_STORYTITLE", "en_sha": "d30581721fcf", "status": "draft", "th": "ตื่นเถิดรับอรุณ"}
+{"tag": "LOC_LEADER_CHAIN_1076D_COMPLETION", "en_sha": "bc5389dcc000", "status": "draft", "th": "การผสานกันของอัจฉริยภาพแห่งสถาปนิกและความฝันของศิลปินตระหง่านเหนือนครของฟรีดริช - วิสัยทัศน์ของกษัตริย์กวีที่ปรากฏเป็นจริง"}
+{"tag": "LOC_LEADER_CHAIN_1076D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1076D_IMPERATIVE", "en_sha": "8895154a9297", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์"}
+{"tag": "LOC_LEADER_CHAIN_1076D_NAME", "en_sha": "7394fe93b12b", "status": "draft", "th": "นี่คือการผสานอันสมบูรณ์แบบระหว่างเหตุผลและศิลปะ"}
+{"tag": "LOC_LEADER_CHAIN_1076D_STORYTITLE", "en_sha": "999cd447efad", "status": "draft", "th": "กษัตริย์กวี"}
+{"tag": "LOC_LEADER_CHAIN_1076E_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1076E_NAME", "en_sha": "4420b27991de", "status": "draft", "th": "ศิลปะขับเคลื่อนเศรษฐกิจ"}
+{"tag": "LOC_LEADER_CHAIN_1076E_STORYTITLE", "en_sha": "999cd447efad", "status": "draft", "th": "กษัตริย์กวี"}
+{"tag": "LOC_LEADER_CHAIN_1077C_COMPLETION", "en_sha": "ceff0d8e8370", "status": "draft", "th": "ฟรีดริชมิได้โปรดปรานไวน์อยู่เพียงลำพัง พันธมิตรของเขาเมื่อได้ลิ้มรสองุ่นจนเพลิดเพลิน ก็พบว่าตนเองกระหายมิตรภาพของเขา"}
+{"tag": "LOC_LEADER_CHAIN_1077C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1077C_IMPERATIVE", "en_sha": "e105c6d4207b", "status": "draft", "th": "เป็นพันธมิตรกับอารยธรรมอื่น"}
+{"tag": "LOC_LEADER_CHAIN_1077C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1077C_STORYTITLE", "en_sha": "292f4dd4bfe2", "status": "draft", "th": "การทูตในจอกสุรา"}
+{"tag": "LOC_LEADER_CHAIN_1078E_COMPLETION", "en_sha": "35693bbc927e", "status": "draft", "th": "ซิมโฟนีแห่งสงครามแผ่วเบาลง เปิดทางให้บทเดี่ยวบทใหม่ - บทที่เล่าถึงชัยชนะอันได้มาอย่างยากลำบาก และชัยชนะอีกมากที่รออยู่ ฟรีดริชฟังบทประพันธ์ของตนเองพร้อมรอยยิ้ม"}
+{"tag": "LOC_LEADER_CHAIN_1078E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1078E_IMPERATIVE", "en_sha": "453db7a3f06e", "status": "draft", "th": "ยึดนครหลวงของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1078E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1078E_STORYTITLE", "en_sha": "e6c3b3fe412a", "status": "draft", "th": "ซิมโฟนีแห่งเสียงปืน"}
+{"tag": "LOC_LEADER_CHAIN_1078F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1078F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1078F_STORYTITLE", "en_sha": "e6c3b3fe412a", "status": "draft", "th": "ซิมโฟนีแห่งเสียงปืน"}
+{"tag": "LOC_LEADER_CHAIN_1078G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1078G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1078G_STORYTITLE", "en_sha": "e6c3b3fe412a", "status": "draft", "th": "ซิมโฟนีแห่งเสียงปืน"}
+{"tag": "LOC_LEADER_CHAIN_1079E_COMPLETION", "en_sha": "7904d8f82e2c", "status": "draft", "th": "ทั่วจักรวรรดิของฟรีดริช ความคิดใหม่ ๆ พรั่งพรูดุจตัวโน้ตจากขลุ่ย ประชาชนของเขาจินตนาการถึงอนาคตอันโดดเด่นของตนเอง แล้วลงมือสร้างมันขึ้นด้วยตัวเอง"}
+{"tag": "LOC_LEADER_CHAIN_1079E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1079E_IMPERATIVE", "en_sha": "2eb26f03b835", "status": "draft", "th": "สร้างห้องปฏิบัติการ 2 แห่งและสถานีวิทยุ 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1079E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1079E_STORYTITLE", "en_sha": "062469db8f9a", "status": "draft", "th": "สมัยบาโรก"}
+{"tag": "LOC_LEADER_CHAIN_1079F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1079F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1079F_STORYTITLE", "en_sha": "062469db8f9a", "status": "draft", "th": "สมัยบาโรก"}
+{"tag": "LOC_LEADER_CHAIN_1079G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1079G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1079G_STORYTITLE", "en_sha": "062469db8f9a", "status": "draft", "th": "สมัยบาโรก"}
+{"tag": "LOC_LEADER_CHAIN_1180E_COMPLETION", "en_sha": "a90d4df3b3e2", "status": "draft", "th": "อนุสาวรีย์ของเซอร์ซีสดึงดูดฝูงชนทั้งจากในนครและชนบท นำทั้งความใคร่รู้และเงินทองมาสู่ย่านโดยรอบ"}
+{"tag": "LOC_LEADER_CHAIN_1180E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1180E_IMPERATIVE", "en_sha": "847ab498d833", "status": "draft", "th": "มีอนุสาวรีย์ 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1180E_NAME", "en_sha": "430a9fe91876", "status": "draft", "th": "เซอร์ซีสคือเทพเจ้า"}
+{"tag": "LOC_LEADER_CHAIN_1180E_STORYTITLE", "en_sha": "99c32e547425", "status": "draft", "th": "ชาฮันชาห์"}
+{"tag": "LOC_LEADER_CHAIN_1180F_COMPLETION", "en_sha": "5ebdfbea02d6", "status": "draft", "th": "ทหารสวดภาวนาต่อหน้าแท่นบูชาของเซอร์ซีส ด้วยการชี้นำอันศักดิ์สิทธิ์ของพระองค์ พวกเขาจะพบเพียงชัยชนะ"}
+{"tag": "LOC_LEADER_CHAIN_1180F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1180F_IMPERATIVE", "en_sha": "a916230175db", "status": "draft", "th": "มีแท่นบูชา 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1180F_NAME", "en_sha": "4cd58556c692", "status": "draft", "th": "เซอร์ซีสคือมหาราชา"}
+{"tag": "LOC_LEADER_CHAIN_1180F_STORYTITLE", "en_sha": "99c32e547425", "status": "draft", "th": "ชาฮันชาห์"}
+{"tag": "LOC_LEADER_CHAIN_1180G_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1180G_NAME", "en_sha": "a3f4e9dff0c3", "status": "draft", "th": "ความถ่อมตนมีคุณค่าหรือไม่?"}
+{"tag": "LOC_LEADER_CHAIN_1180G_STORYTITLE", "en_sha": "99c32e547425", "status": "draft", "th": "ชาฮันชาห์"}
+{"tag": "LOC_LEADER_CHAIN_1181D_COMPLETION", "en_sha": "c51f6697a8bb", "status": "draft", "th": "พระนามของเซอร์ซีสแพร่ขจรผ่านเหล่าพ่อค้าของพระองค์ อีกไม่นานพระนามนี้จะก้องอยู่ในหูของทุกคน"}
+{"tag": "LOC_LEADER_CHAIN_1181D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1181D_IMPERATIVE", "en_sha": "bec5dec4e304", "status": "draft", "th": "มีเส้นทางการค้า 3 เส้นทาง"}
+{"tag": "LOC_LEADER_CHAIN_1181D_NAME", "en_sha": "a2d27e23ee7b", "status": "draft", "th": "...พระราชวัง"}
+{"tag": "LOC_LEADER_CHAIN_1181D_STORYTITLE", "en_sha": "5aa65fc730c3", "status": "draft", "th": "Axis Mundi"}
+{"tag": "LOC_LEADER_CHAIN_1181E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1181E_NAME", "en_sha": "bf062963e80c", "status": "draft", "th": "...โลกที่เป็นหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1181E_STORYTITLE", "en_sha": "5aa65fc730c3", "status": "draft", "th": "Axis Mundi"}
+{"tag": "LOC_LEADER_CHAIN_1182D_COMPLETION", "en_sha": "246a9b9fb2e2", "status": "draft", "th": "กองทัพของเซอร์ซีสสร้างความพินาศให้แก่ศัตรู และเก็บเกี่ยวผลตอบแทนอันมั่งคั่งจากซากปรักหักพัง"}
+{"tag": "LOC_LEADER_CHAIN_1182D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1182D_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1182D_NAME", "en_sha": "1a2e19be3aa5", "status": "draft", "th": "...เผาผลาญทุกสิ่งที่ขวางหน้า"}
+{"tag": "LOC_LEADER_CHAIN_1182D_STORYTITLE", "en_sha": "295f68b668f5", "status": "draft", "th": "อหุรมัสดา"}
+{"tag": "LOC_LEADER_CHAIN_1182E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1182E_NAME", "en_sha": "48e877266f50", "status": "draft", "th": "...สรรเสริญเปลวเพลิงแห่งสวรรค์"}
+{"tag": "LOC_LEADER_CHAIN_1182E_STORYTITLE", "en_sha": "295f68b668f5", "status": "draft", "th": "อหุรมัสดา"}
+{"tag": "LOC_LEADER_CHAIN_1183D_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1183D_NAME", "en_sha": "401d331649bc", "status": "draft", "th": "นี่คือยุคสมัยของศิลปินและสถาปนิก"}
+{"tag": "LOC_LEADER_CHAIN_1183D_STORYTITLE", "en_sha": "c99bfe1d9a6b", "status": "draft", "th": "ผู้ครองเพลิง"}
+{"tag": "LOC_LEADER_CHAIN_1183E_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1183E_NAME", "en_sha": "cd49eb38efa1", "status": "draft", "th": "นี่คือยุคสมัยของพ่อค้า"}
+{"tag": "LOC_LEADER_CHAIN_1183E_STORYTITLE", "en_sha": "c99bfe1d9a6b", "status": "draft", "th": "ผู้ครองเพลิง"}
+{"tag": "LOC_LEADER_CHAIN_1184D_COMPLETION", "en_sha": "adfbb3cbb27c", "status": "draft", "th": "ตำราว่าด้วยปรัชญาใหม่มาถึงราชสำนักของเซอร์ซีส เป็นของกำนัลจากขุนนางหนุ่มผู้หนึ่งที่ครั้งหนึ่งเคยกล้าทูลต่อเซอร์ซีสโดยตรง และบัดนี้ได้พบความสำเร็จ - รวมทั้งความคิดใหม่ - ในตลาดอันไกลโพ้น"}
+{"tag": "LOC_LEADER_CHAIN_1184D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1184D_IMPERATIVE", "en_sha": "7a67e06de4fb", "status": "draft", "th": "ฝึกพ่อค้า 2 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1184D_NAME", "en_sha": "e0afa7b1cf9e", "status": "draft", "th": "ต้องส่งเขาไปต่างแดน"}
+{"tag": "LOC_LEADER_CHAIN_1184D_STORYTITLE", "en_sha": "7fd3cc0c25ab", "status": "draft", "th": "กฎแห่งราชสำนัก"}
+{"tag": "LOC_LEADER_CHAIN_1184E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1184E_NAME", "en_sha": "290177d04bed", "status": "draft", "th": "บางทีถึงเวลาที่ราชสำนักต้องเปลี่ยนแปลงแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1184E_STORYTITLE", "en_sha": "7fd3cc0c25ab", "status": "draft", "th": "กฎแห่งราชสำนัก"}
+{"tag": "LOC_LEADER_CHAIN_1185C_COMPLETION", "en_sha": "bd3d7351e52b", "status": "draft", "th": "ศิลปกรรมแห่งพระราชวังของเซอร์ซีสได้ถ่ายทอดสู่ผลงานชิ้นเอกชิ้นใหม่ ในทุกสิ่งปลูกสร้าง สถาปนิกของพระองค์ต่างอวดความเฉลียวฉลาดของตน"}
+{"tag": "LOC_LEADER_CHAIN_1185C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1185C_IMPERATIVE", "en_sha": "8895154a9297", "status": "draft", "th": "สร้างสิ่งมหัศจรรย์"}
+{"tag": "LOC_LEADER_CHAIN_1185C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1185C_STORYTITLE", "en_sha": "9c3097ececef", "status": "draft", "th": "สถาปนิกผู้มุ่งมั่น"}
+{"tag": "LOC_LEADER_CHAIN_1186D_COMPLETION", "en_sha": "442896246378", "status": "draft", "th": "บ้านเรือนลุกไหม้ กำแพงพังทลาย แต่เพลิงของเซอร์ซีสได้ชุบชีวิตผืนดินขึ้นใหม่ และอีกไม่นานพืชผลรุ่นใหม่จะงอกงาม"}
+{"tag": "LOC_LEADER_CHAIN_1186D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1186D_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1186D_NAME", "en_sha": "edd8a8546862", "status": "draft", "th": "ไฟเช่นนี้เปลี่ยนแผ่นดินให้เป็นทองคำ"}
+{"tag": "LOC_LEADER_CHAIN_1186D_STORYTITLE", "en_sha": "02bdf67889b3", "status": "draft", "th": "เปลวเพลิงสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1186E_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1186E_NAME", "en_sha": "e2a122351bab", "status": "draft", "th": "เปลวเพลิงเหล่านี้มุ่งแต่จะทำลาย"}
+{"tag": "LOC_LEADER_CHAIN_1186E_STORYTITLE", "en_sha": "02bdf67889b3", "status": "draft", "th": "เปลวเพลิงสงคราม"}
+{"tag": "LOC_LEADER_CHAIN_1187C_COMPLETION", "en_sha": "4d618a69424e", "status": "draft", "th": "จักรวรรดิของเซอร์ซีสแผ่ไพศาลข้ามซีกโลก ยิ่งดินแดนของพระองค์ขยายเท่าใด คลังของพระองค์ก็ยิ่งพอกพูนเท่านั้น"}
+{"tag": "LOC_LEADER_CHAIN_1187C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1187C_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1187C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1187C_STORYTITLE", "en_sha": "1691acb08208", "status": "draft", "th": "ไฟลามทุ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1188E_COMPLETION", "en_sha": "6b25cb8d14f9", "status": "draft", "th": "ดุจที่จักรวรรดิของเซอร์ซีสโคจรรอบดวงตะวันแห่งผู้ปกครอง ประวัติศาสตร์ก็โคจรตามพระองค์เช่นกัน"}
+{"tag": "LOC_LEADER_CHAIN_1188E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1188E_IMPERATIVE", "en_sha": "0adb50a8a1f1", "status": "draft", "th": "มีโบราณวัตถุ 5 ชิ้น"}
+{"tag": "LOC_LEADER_CHAIN_1188E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1188E_STORYTITLE", "en_sha": "f07b772ec7bf", "status": "draft", "th": "ระเบียบแห่งจักรวาล"}
+{"tag": "LOC_LEADER_CHAIN_1188F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1188F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1188F_STORYTITLE", "en_sha": "f07b772ec7bf", "status": "draft", "th": "ระเบียบแห่งจักรวาล"}
+{"tag": "LOC_LEADER_CHAIN_1188G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1188G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1188G_STORYTITLE", "en_sha": "f07b772ec7bf", "status": "draft", "th": "ระเบียบแห่งจักรวาล"}
+{"tag": "LOC_LEADER_CHAIN_1189E_COMPLETION", "en_sha": "988e9596a19b", "status": "draft", "th": "กองทัพของเซอร์ซีสเปล่งประกายสีทองภายใต้ดวงตะวันอันแผดเผา ขณะที่จักรวรรดิทั้งหลายล่มสลายลงต่อหน้า"}
+{"tag": "LOC_LEADER_CHAIN_1189E_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1189E_IMPERATIVE", "en_sha": "7ad4c772e6cf", "status": "draft", "th": "ทำแต้มอุดมการณ์ 1 แต้ม"}
+{"tag": "LOC_LEADER_CHAIN_1189E_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1189E_STORYTITLE", "en_sha": "83e9a3e32330", "status": "draft", "th": "ระเบียบใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1189F_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1189F_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1189F_STORYTITLE", "en_sha": "83e9a3e32330", "status": "draft", "th": "ระเบียบใหม่"}
+{"tag": "LOC_LEADER_CHAIN_1189G_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1189G_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1189G_STORYTITLE", "en_sha": "83e9a3e32330", "status": "draft", "th": "ระเบียบใหม่"}
+{"tag": "LOC_LEADER_FRIEDRICH_ALT_DESCRIPTION", "en_sha": "ff37abd587da", "status": "draft", "th": "ได้รับ [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]ผลงานชิ้นเอก[/TIP]เมื่อคุณยึด[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ได้เป็นครั้งแรก [B]+1 [icon:YIELD_CULTURE] วัฒนธรรม[/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอกที่จัดแสดง ได้รับ[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]ใน [icon:NOTIFICATION_SELECT_CAPITAL] [TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณเมื่อคุณบรรลุ[TIP:LOC_PEDIA_CONCEPTS_MASTERY_TOOLTIP]ความเชี่ยวชาญหลักการพลเมือง[/TIP]และใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ที่คุณสร้าง [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างทางวัฒนธรรม[/TIP]"}
+{"tag": "LOC_LEADER_FRIEDRICH_ALT_NAME", "en_sha": "093700b2001c", "status": "draft", "th": "ฟรีดริช บาโรก"}
+{"tag": "LOC_LEADER_XERXES_ALT_DESCRIPTION", "en_sha": "3dda3b89fac0", "status": "draft", "th": "[B]+1 [icon:TRADE_ROUTE][/B] ขีดจำกัด[TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]กับผู้นำอื่นทั้งหมด [B]+10 [icon:TRADE_ROUTE][/B] [TIP:LOC_PEDIA_CONCEPTS_TRADE_RANGE_TOOLTIP]ระยะการค้า[/TIP]ได้รับ [B]50 [icon:YIELD_CULTURE] วัฒนธรรม[/B] และ [B]100 [icon:YIELD_GOLD] ทอง[/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]เมื่อคุณสร้าง [icon:TRADE_ROUTE] เส้นทางการค้าหรือถนน [B]+1 [icon:YIELD_CULTURE] วัฒนธรรม[/B] และ [icon:YIELD_GOLD] ทองต่อยุคบน [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]และ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]"}
+{"tag": "LOC_LEADER_XERXES_ALT_NAME", "en_sha": "a16a8267c07c", "status": "draft", "th": "เซอร์ซีส แห่งอะคีเมนิด"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_FRIEDRICH_ALT", "en_sha": "c08d942d4306", "status": "draft", "th": "แม้จะรักโรงอุปรากรมากกว่าสนามรบ แต่ท่านกลับเปล่งประกายท่ามกลางเพลิงปืนใหญ่ แนวรุกเข้าแทนที่คันชักไวโอลิน เสียงรัวของปืนใหญ่แทนกลองทิมปานี และแตรทองเหลืองบัดนี้เรียกหากระสุนเหล็ก จงทุ่มเทความคิดสู่ศิลปะแห่งสงคราม ฟรีดริช วงออร์เคสตราของท่านรอสัญญาณจากท่านอยู่"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_XERXES_ALT", "en_sha": "43ee36e7ca6c", "status": "draft", "th": "ชาห์แห่งชาห์ทั้งปวง ท่านนำเปลวไฟแห่งความทะเยอทะยานมาสู่โลก แสงของมันระยิบระยับบนทองคำในท้องพระโรงของท่าน และบนคมดาบสำริดของเหล่านักรบ ท่านวาดภาพโลกใหม่ โลกแห่งสิ่งมหัศจรรย์ที่ผุดขึ้นจากป่าเถื่อน แห่งจักรวรรดิที่ท้าทายกาลเวลา และจะไม่มีวันลืมนามของท่าน เซอร์ซีส"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_FRIEDRICH_ALT_ANY", "en_sha": "22d24473fde2", "status": "draft", "th": "เรามุ่งมั่นทำหน้าที่ของเรา รับใช้บ้านเมืองอย่างซื่อสัตย์แม้ต้องแลกด้วยเลือดเนื้อและความสงบสุขของเรา และทุ่มเทชีวิตทั้งหมดให้แก่มัน"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_XERXES_ALT_ANY", "en_sha": "e71648435852", "status": "draft", "th": "ภายใต้มือข้า ที่ใดมีความขัดแย้งและความโกลาหล ข้าจะปราบลงให้สิ้น ข้าจะได้สันติ แม้ท่ามกลางเถ้าถ่าน"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_ANTI_MACHIAVEL_DESCRIPTION", "en_sha": "b3be6bb60751", "status": "draft", "th": "ความสามารถในการทำความดี"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_ANTI_MACHIAVEL_FUNCTIONAL_DESCRIPTION", "en_sha": "0fda32013fcf", "status": "draft", "th": "+2 [icon:WAR_SUPPORT] [TIP:LOC_PEDIA_CONCEPTS_WAR_SUPPORT_TOOLTIP]การสนับสนุนสงคราม[/TIP]ฟรีในทุกสงครามที่ถูกประกาศต่อคุณ"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_ANTI_MACHIAVEL_NAME", "en_sha": "fe97dd04775a", "status": "draft", "th": "ต้านมาเคียเวลลี"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_ANTI_MACHIAVEL_UNLOCK_TITLE", "en_sha": "8eb608d7d999", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของฟรีดริช บาโรก"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_FLUTE_DESCRIPTION", "en_sha": "acf9c4fac54e", "status": "draft", "th": "ท่วงทำนองอันไร้กังวล"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_FLUTE_FUNCTIONAL_DESCRIPTION", "en_sha": "adbaaa4bee49", "status": "draft", "th": "[B]+1 [icon:YIELD_CULTURE][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างทางทหาร[/TIP]"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_FLUTE_NAME", "en_sha": "f5854d682c2b", "status": "draft", "th": "ขลุ่ย"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_FLUTE_UNLOCK_TITLE", "en_sha": "2bc2c7cf4491", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของฟรีดริช บาโรก"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_VOLTAIRE_EDITS_DESCRIPTION", "en_sha": "422a4488034c", "status": "draft", "th": "การจับปากกาคือการทำสงคราม"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_VOLTAIRE_EDITS_FUNCTIONAL_DESCRIPTION", "en_sha": "c23330e25218", "status": "draft", "th": "ได้รับ [B]50 [icon:YIELD_CULTURE][/B] เมื่อคุณใช้แต้ม [icon:ATTRIBUTE] [TIP:LOC_PEDIA_CONCEPTS_ATTRIBUTE_TOOLTIP]คุณลักษณะ[/TIP]ในแผนผัง [icon:ATTRIBUTE_CULTURAL] [TIP:LOC_PEDIA_CONCEPTS_ATTRIBUTE_TOOLTIP]คุณลักษณะทางวัฒนธรรม[/TIP] (ปรับตามความเร็วเกม)"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_VOLTAIRE_EDITS_NAME", "en_sha": "54c5fe30c5d2", "status": "draft", "th": "ฉบับแก้ของวอลแตร์"}
+{"tag": "LOC_MEMENTO_FRIEDRICH_BAROQUE_VOLTAIRE_EDITS_UNLOCK_TITLE", "en_sha": "7c463549e59f", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของฟรีดริช บาโรก"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_CHALCEDONY_SEAL_DESCRIPTION", "en_sha": "c2ef25133e63", "status": "draft", "th": "ภาพสลักของมหาราชา"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_CHALCEDONY_SEAL_FUNCTIONAL_DESCRIPTION", "en_sha": "bd3b2326305e", "status": "draft", "th": "[B]+1 [icon:YIELD_CULTURE][/B] และ [icon:YIELD_GOLD] บน[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]และ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_CHALCEDONY_SEAL_NAME", "en_sha": "0c4ad37498ce", "status": "draft", "th": "ตราประทับคาลเซโดนี"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_CHALCEDONY_SEAL_UNLOCK_TITLE", "en_sha": "7c5ba36d2c7c", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของเซอร์ซีส แห่งอะคีเมนิด"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_GOLD_FLUTED_PHIALE_DESCRIPTION", "en_sha": "1dca10915a05", "status": "draft", "th": "ชามกลีบบัว บรรณาการแห่งราชสำนัก"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_GOLD_FLUTED_PHIALE_FUNCTIONAL_DESCRIPTION", "en_sha": "947e9c39be90", "status": "draft", "th": "[B]+1 [icon:TRADE_ROUTE][/B] ขีดจำกัด[TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]กับผู้นำอื่นทั้งหมด"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_GOLD_FLUTED_PHIALE_NAME", "en_sha": "bfbb4731fef5", "status": "draft", "th": "ถ้วยไฟอาลีทองคำลายร่อง"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_GOLD_FLUTED_PHIALE_UNLOCK_TITLE", "en_sha": "be83a3d95135", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของเซอร์ซีส แห่งอะคีเมนิด"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_DESCRIPTION", "en_sha": "543ade4b4b65", "status": "draft", "th": "สื่อกลางสู่เทพเจ้า"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_FUNCTIONAL_DESCRIPTION", "en_sha": "f95393d8aa4a", "status": "draft", "th": "[B]+2 [icon:YIELD_CULTURE][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]สำหรับ [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]ที่ใช้งานอยู่แต่ละเส้นทาง"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_NAME", "en_sha": "3823db2895cb", "status": "draft", "th": "กระถางกำยาน"}
+{"tag": "LOC_MEMENTO_XERXES_ACHAEMENID_INCENSE_CENSER_UNLOCK_TITLE", "en_sha": "78c87c6fdbde", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของเซอร์ซีส แห่งอะคีเมนิด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "3c8c9f6227cc", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "95c3a721c60d", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "d81873ba5148", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "894f5afa6a84", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "d6fed5226877", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "940c350f33fe", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "a8ec8e314bb7", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "136a6a5ccfef", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_DESC", "en_sha": "ac8fe2f05e6c", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "8b2706f3fca0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "c8c63bc03bc2", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "a35ae929f0a0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b7adfc2b13d7", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "23f5474a4d6f", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "206f4db4f7c2", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_VICTORY_DESC", "en_sha": "1947fd849b16", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DEITY_VICTORY_DESC", "en_sha": "454a2257eff0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "ebc5b2b213ad", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "4e70e72e2465", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "3ca800a830e0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "a075cafd5838", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "a938fc8754f2", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "96c9c656d10b", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "d94ece08a4fe", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "123ec10516f7", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "832fc6a00109", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "e54d1d6b364e", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "6f6cc74d242b", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "a781f7f5c518", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_VICTORY_DESC", "en_sha": "7fbe5ffa92f0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "f8d1aef15c3e", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "02756b7e6e72", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "8f2eeda0f7f2", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "4a62ad3ab08e", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "3fb4a9515603", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "0d858315c8e8", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "0e068a82cac5", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "52e89bd9071f", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "f4db49319c0a", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "239b28ba0f82", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "c903bb6bd01f", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "4855b75bbef8", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "149e98d9940f", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "5076550b17e0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_VICTORY_DESC", "en_sha": "4f6f7c90e403", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_1_DESC", "en_sha": "cc75748ad4cc", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_2_DESC", "en_sha": "7d4f0947b142", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_3_DESC", "en_sha": "a630f54949e0", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "8f9be13ba8e4", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "6027ff7786ed", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "15e833b549a9", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "18d23ec90629", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "1395d49728bb", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "bfd116d16b21", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_VICTORY_DESC", "en_sha": "775790974c25", "status": "draft", "th": "เล่นเป็นฟรีดริช บาโรก คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_FRIEDRICH_ALT_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_ANTIQUITY_DESC", "en_sha": "0f300082769f", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคโบราณ ทำภารกิจเพื่อปลุกวงออร์เคสตราให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_ANTIQUITY_NAME", "en_sha": "03ab00128311", "status": "draft", "th": "เพลงสงคราม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_EXPLORATION_DESC", "en_sha": "4ea35c2747af", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคแห่งการสำรวจ ทำภารกิจเพื่อรังควานข้าศึกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_EXPLORATION_NAME", "en_sha": "f8d89bccbd48", "status": "draft", "th": "วิถีแห่งการสงคราม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_MODERN_DESC", "en_sha": "ba4c9f7b6abb", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคสมัยใหม่ ทำภารกิจเพื่อประพันธ์ซิมโฟนีรูปแบบใหม่ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_A_MODERN_NAME", "en_sha": "e6c3b3fe412a", "status": "draft", "th": "ซิมโฟนีแห่งเสียงปืน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_ANTIQUITY_DESC", "en_sha": "214fc1b62659", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคโบราณ ทำภารกิจเพื่อนำแสงสว่างทางปัญญาสู่ประชาชนของคุณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_ANTIQUITY_NAME", "en_sha": "1c5b6ab9e075", "status": "draft", "th": "ฟริทซ์ผู้เฒ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_EXPLORATION_DESC", "en_sha": "50c7c30301db", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคแห่งการสำรวจ ทำภารกิจเพื่อหลอมรวมเหตุผลและศิลปะให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_EXPLORATION_NAME", "en_sha": "999cd447efad", "status": "draft", "th": "กษัตริย์กวี"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_MODERN_DESC", "en_sha": "1f26f78bba52", "status": "draft", "th": "ในฐานะฟรีดริช บาโรก ในยุคสมัยใหม่ ทำภารกิจเพื่อบรรเลงเพลงขับกล่อมแด่อนาคตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_FRIEDRICH_ALT_QUEST_B_MODERN_NAME", "en_sha": "062469db8f9a", "status": "draft", "th": "สมัยบาโรก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_ANTIQUITY_DESC", "en_sha": "ef7ad42af70a", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคโบราณ ทำภารกิจเพื่อแผ่อำนาจผ่านการค้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_ANTIQUITY_NAME", "en_sha": "5aa65fc730c3", "status": "draft", "th": "Axis Mundi"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_EXPLORATION_DESC", "en_sha": "245ca42fc31e", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคแห่งการสำรวจ ทำภารกิจเพื่อจุดประกายอาชีพใหม่ในดินแดนไกลโพ้นให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_EXPLORATION_NAME", "en_sha": "7fd3cc0c25ab", "status": "draft", "th": "กฎแห่งราชสำนัก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_MODERN_DESC", "en_sha": "734fe6cd5112", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคสมัยใหม่ ทำภารกิจเพื่อบัญชาประวัติศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_A_MODERN_NAME", "en_sha": "f07b772ec7bf", "status": "draft", "th": "ระเบียบแห่งจักรวาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_ANTIQUITY_DESC", "en_sha": "4d9cfbe0e3a2", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคโบราณ ทำภารกิจเพื่อจุดไฟแห่งสงครามให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_ANTIQUITY_NAME", "en_sha": "295f68b668f5", "status": "draft", "th": "อหุรมัสดา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_EXPLORATION_DESC", "en_sha": "bebe144b0f46", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเผยแผ่เปลวเพลิงแห่งอหุรมัสดาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_EXPLORATION_NAME", "en_sha": "02bdf67889b3", "status": "draft", "th": "เปลวเพลิงสงคราม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_MODERN_DESC", "en_sha": "8428b5242031", "status": "draft", "th": "ในฐานะเซอร์ซีส แห่งอะคีเมนิด ในยุคสมัยใหม่ ทำภารกิจเพื่อโค่นล้มจักรวรรดิให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_XERXES_ALT_QUEST_B_MODERN_NAME", "en_sha": "83e9a3e32330", "status": "draft", "th": "ระเบียบใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "d8c325353d25", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "d0a462dc6125", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "bac5660ad6fe", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "a9507b63f318", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "2cd206c9970f", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "3cbb919afe22", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "5b8442685a7c", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "90d99625e601", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_DESC", "en_sha": "3b479f0a9dd8", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "0cd85ab93b4b", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "9eed1594514d", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "f09dbd5a618b", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "fffec1ca1516", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "e67428c1d88b", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "251cf4840253", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_VICTORY_DESC", "en_sha": "f762189c7b42", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DEITY_VICTORY_DESC", "en_sha": "d6931ae3143e", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "097f5b05b146", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "86259c686f9c", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "3d6198561f63", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "fd26557f69f9", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "faae031358e4", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "ade693852f33", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "e3a10ca8927f", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "a61c4e4e5b9b", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "c82ae2fda5b8", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "ad7f84fb81fe", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "f64c7a11ae07", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "219333c53374", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_VICTORY_DESC", "en_sha": "9ec422c6555c", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "9a6d1e210aa1", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "b1959c18453c", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "7f0f3be0e821", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "9211fe64171d", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "00bb01c67bc2", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "73be91ab03dc", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "3244f11314ea", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "642937debe98", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "fb5b3a3ca2b8", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "9c785ab6f0c1", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "224f253cf5c7", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "2a00d798e1e3", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "3a9a7e129a33", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "9b29d47640dc", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_VICTORY_DESC", "en_sha": "2131b0494a23", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_1_DESC", "en_sha": "e2e1b3b743a6", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_2_DESC", "en_sha": "64caf7d154ec", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_3_DESC", "en_sha": "e60de77ad1af", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "e18e341feb84", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "b1f04710fe17", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "4271ac3676f2", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "ea34142f4ca6", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "b513b3586c87", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "e0e5b639e7bf", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_VICTORY_DESC", "en_sha": "059a8f7fd4e7", "status": "draft", "th": "เล่นเป็นเซอร์ซีส แห่งอะคีเมนิด คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_XERXES_ALT_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_MODULE_FRIEDRICH_XERXES_ALT_DESCRIPTION", "en_sha": "9906ba5236f5", "status": "draft", "th": "มีเพอร์โซนาใหม่ของฟรีดริชและเซอร์ซีส"}
+{"tag": "LOC_MODULE_FRIEDRICH_XERXES_ALT_NAME", "en_sha": "1daea2ec60f1", "status": "draft", "th": "ชุดเพอร์โซนา - ฟรีดริชและเซอร์ซีส"}
+{"tag": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_FRIEDRICH_ALT_L1_DESCRIPTION", "en_sha": "f9d318a62176", "status": "draft", "th": "ปลดล็อกตำนาน +15% [icon:YIELD_PRODUCTION] การผลิตในการสร้าง [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างและ [icon:WONDER] สิ่งมหัศจรรย์ที่มีช่อง [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอก"}
+{"tag": "LOC_MOD_ATTRIBUTE_CULTURAL_LEGEND_XERXES_ALT_L1_DESCRIPTION", "en_sha": "f9d318a62176", "status": "draft", "th": "ปลดล็อกตำนาน +15% [icon:YIELD_PRODUCTION] การผลิตในการสร้าง [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างและ [icon:WONDER] สิ่งมหัศจรรย์ที่มีช่อง [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอก"}
+{"tag": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_XERXES_ALT_L2_DESCRIPTION", "en_sha": "1c4027adcb0c", "status": "draft", "th": "ปลดล็อกตำนาน[n]+25% [icon:YIELD_GOLD] ทองจาก [icon:TRADE_INCOME] รายได้จากการค้าและ [icon:UNIT_TREASURE_FLEET] ขบวนสมบัติ"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_FRIEDRICH_ALT_L2_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_1", "en_sha": "fab1d88c0625", "status": "draft", "th": "เยอรมนีคืออะไร ดินแดนที่ชาวโรมันเรียกว่าเจอร์มาเนียคือภูมิภาคทางตะวันออกของแม่น้ำไรน์ ซึ่งเป็นที่ที่อิทธิพลของจักรวรรดิสิ้นสุดลง ในทางภาษาและวัฒนธรรม คำว่าเจอร์แมนิกหมายถึงกลุ่มภาษาที่รวมกันอย่างหลวม ๆ ตั้งแต่ภาษาที่คล้ายกันมาก (บาวาเรีย/ออสเตรีย เยอรมัน) ไปจนถึงภาษาที่แตกต่างเล็กน้อย (ดัตช์ เฟลมิช) และภาษาที่แตกต่างกันอย่างชัดเจน (สวีเดน ไอซ์แลนด์ อังกฤษ) ในฐานะชนชาติ ชาวเยอรมันมักแตกแยกกัน - ซึ่งยังคงเห็นได้จนทุกวันนี้ในออสเตรียและเยอรมนี"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_10", "en_sha": "0ef62dace42a", "status": "draft", "th": "ฟรีดริช วิลเฮล์ม สิ้นพระชนม์ในปี 1740 และมอบราชบัลลังก์ให้แก่ฟรีดริชที่ 2 ภายใต้กษัตริย์องค์ใหม่ พระราชวังได้เห็นการเบ่งบานของศิลปะอย่างมหาศาล และมีการส่งคำเชิญไปยังปัญญาชนผู้พูดภาษาฝรั่งเศส ฟรีดริชทรงสร้างราชสำนักที่พระองค์สามารถแสดงออกถึงเพศวิถีของตนได้ - หากมิใช่อย่างเปิดเผยทั้งหมด อย่างน้อยก็ในที่รโหฐาน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_11", "en_sha": "3933e9b47b05", "status": "draft", "th": "ถึงกระนั้น ความสัมพันธ์ระหว่างฟรีดริชกับพระบิดาก็ซับซ้อนยิ่งกว่านั้น กษัตริย์หนุ่มทรงปรารถนาการยอมรับจากพระบิดาผู้ล่วงลับ และทรงสานต่อนโยบายทางการทหารและการทูตอันแข็งกร้าวของพระบิดา พระองค์ทรงรุกรานไซลีเซียในปี 1740 และตีกองทัพฝรั่งเศสและออสเตรียแตกพ่ายในสงครามสืบราชบัลลังก์ออสเตรีย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_12", "en_sha": "177a39fef2a6", "status": "draft", "th": "แม้ฟรีดริชจะใส่ใจศิลปะและวัฒนธรรมเพียงใด พระองค์ก็ยังทรงเป็นนักยุทธศาสตร์ผู้เชี่ยวชาญ ปรัสเซียซึ่งเคยเป็นมหาอำนาจทางทหารที่ง่อนแง่นและไร้เสถียรภาพ จู่ ๆ ก็ผงาดขึ้นเป็นกำลังสำคัญ โดยเฉพาะหลังจากยึดดินแดนส่วนที่มั่งคั่งที่สุดของออสเตรียได้ การผงาดขึ้นของปรัสเซียยังได้ปรับเปลี่ยนระบบพันธมิตรในยุโรป จากพันธมิตรออสเตรีย/อังกฤษ ไปเป็นพันธมิตรออสเตรีย/ฝรั่งเศส"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_13", "en_sha": "29e6dbc2cd4f", "status": "draft", "th": "ช่วงเว้นว่างระหว่างสงครามนั้นสั้นนัก สงครามเจ็ดปีเป็นอีกหนึ่งไฟสงครามแห่งการสลับขั้วพันธมิตร เมื่อออสเตรีย/ฝรั่งเศส/รัสเซีย รบกับปรัสเซีย/อังกฤษ และฟรีดริชก็เป็นผู้เริ่มความขัดแย้งครั้งนี้อีกเช่นกัน - ด้วยการยึดดินแดนของออสเตรียในซัคเซินอีกครั้ง ในการต่อสู้ครั้งนี้ ฟรีดริชเกือบสูญเสียทุกสิ่ง พระองค์ทรงกล้าหาญแต่กล้าเกินไป สิ่งเดียวที่ช่วยกองทัพที่ร่อยหรอของพระองค์ไว้ได้ก็คือการถอนตัวออกจากสงครามของรัสเซีย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_14", "en_sha": "b38ba880736f", "status": "draft", "th": "กล่าวโดยสรุป ฟรีดริชเป็นผู้นำทางทหารที่มีความสามารถ ผู้ - แม้จะมีพระบิดาเช่นนั้น - ผลักดันปรัสเซียให้ขยายออกไปเรื่อย ๆ เช่นเดียวกับนโปเลียน พระองค์มักได้รับการยกย่องในแผนการอันกล้าหาญและแปลกใหม่ในการตรึงและชิงไหวชิงพริบเหนือศัตรู แสดงถึงความเข้าใจอันลึกซึ้งในเรื่องเส้นทางเสบียงและการส่งกำลังบำรุง พระองค์สวรรคตในปี 1786 ณ พระราชวังของพระองค์"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_15", "en_sha": "3a899bea9add", "status": "draft", "th": "นี่คือยุคแห่งระบอบสมบูรณาญาสิทธิราชย์ ฟรีดริชทรงวางพระองค์เป็นทรราชผู้รู้แจ้ง - ราชาปราชญ์ - ผู้เป็นแบบอย่างในอุดมคติของผู้ปกครองตามแนวคิดของเพลโต สิ่งนี้แทบไม่เป็นประชาธิปไตย แต่ในเวลานั้นก็มีผู้นำยุโรปเพียงไม่กี่คนที่เป็นเช่นนั้น"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_16", "en_sha": "5949489c0b81", "status": "draft", "th": "ฟรีดริชทรงเป็นผู้อุปถัมภ์ศิลปะตลอดพระชนม์ชีพ โดยเฉพาะศิลปะฝรั่งเศสและอิตาลี และทรงผูกมิตรกับวอลแตร์และบุคคลสำคัญคนอื่น ๆ เมื่อศิลปินและนักคิดชาวฝรั่งเศสเผชิญความไม่แน่นอนในฝรั่งเศสมากขึ้นเรื่อย ๆ พวกเขาก็ได้พบบ้านในราชสำนักปรัสเซีย เคียงข้างปัญญาชนคนอื่น ๆ ในยุคนั้น เช่น โยฮันน์ โวล์ฟกัง ฟอน เกอเทอ และคีตกวีสมัยคลาสสิกอย่างโยฮันน์ เซบาสเตียน บาค ฟรีดริชยังทรงอุปถัมภ์การฟื้นฟูสถาปัตยกรรม โดยเฉพาะในรูปแบบบาโรกตอนปลาย หรือโรโกโก ซึ่งเป็นการต่อยอดรูปแบบแห่งยุคเรืองปัญญาที่มุ่งทำให้รูปทรงเรขาคณิตอันเคร่งครัดของสถาปัตยกรรมฝรั่งเศสอ่อนลง (หรือกลบทับเสีย)"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_17", "en_sha": "c674e2349996", "status": "draft", "th": "มรดกของฟรีดริชมีสองด้าน ด้านหนึ่งคือการผงาดขึ้นของลัทธิทหารนิยมปรัสเซีย อีกด้านหนึ่งคือความเฟื่องฟูของศิลปะบาโรกตอนปลาย บุคคลอย่างโทมัส มันน์ มองฟรีดริชว่าเป็นนักขยายดินแดนผู้โหดเหี้ยมที่มุ่งกัดกร่อนออสเตรียทีละน้อย (ซึ่งเป็นความจริง) ขณะที่คนอื่น ๆ กล่าวหาว่าฟรีดริชมีส่วนจุดประกายที่นำไปสู่การปฏิวัติฝรั่งเศส ด้วยการตั้งราชสำนักแห่งนักปรัชญาและนักคิดชาวฝรั่งเศสที่สามารถพูดถึงการล้มล้างได้อย่างเสรี (ซึ่งก็เป็นความจริงเช่นกัน) ท้ายที่สุดแล้ว เราอาจมองฟรีดริชว่าเป็นต้นแบบของระบอบเผด็จการสมัยใหม่โดยแท้ ผู้ปกครองด้วยดาบและปากกา และตัดขาดจากอดีตแห่งระบบศักดินาอย่างเด็ดขาด"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_2", "en_sha": "76e0677b41bc", "status": "draft", "th": "ในที่สุดก็มีสองรัฐที่ผงาดขึ้นสู่อำนาจ คือปรัสเซียและออสเตรีย ออสเตรียเป็นรัฐคาทอลิกและทรงอำนาจในจักรวรรดิโรมันอันศักดิ์สิทธิ์ ส่วนปรัสเซียนั้นติดอยู่ที่ขอบด้านเหนือ ด้วยอยู่ภายใต้อิทธิพล (ทิวทอนิก ฮันเซียติก โปแลนด์) จากนอกจักรวรรดิโรมันอันศักดิ์สิทธิ์ ปรัสเซียจึงจำเป็นต้องสร้างกำลังทหารเพื่อรักษาเอกราช"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_3", "en_sha": "9bf06bb51fe4", "status": "draft", "th": "ท่ามกลางการผงาดขึ้นสู่อำนาจนี้เอง ฟรีดริชที่ 2 ก็ได้ปรากฏขึ้น"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_4", "en_sha": "a94199c03a27", "status": "draft", "th": "ฟรีดริชมหาราชเป็นกษัตริย์ที่ครองราชย์ยาวนานที่สุดของปรัสเซีย ระหว่างปี 1740-1786 พระองค์ทรงมีชีวิตอยู่ในยุคแห่งศิลปะและวรรณกรรม รวมถึงความเป็นใหญ่ทางทหารของปรัสเซีย ฟรีดริชทรงติดอยู่ระหว่างสองโลก ความรักในศิลปะของพระองค์ขัดแย้งกับลัทธิทหารนิยมในยุคนั้น ความเป็นชายรักชายของพระองค์ขัดแย้งกับข้อเรียกร้องของราชวงศ์ให้อภิเษกสมรสและมีรัชทายาท ความนิยมฝรั่งเศสของพระองค์ขัดแย้งกับลัทธิชาตินิยมต่อต้านฝรั่งเศสอันแข็งกร้าวที่แพร่หลายในปรัสเซีย กล่าวโดยสรุป พระองค์ทรงถูกขังอยู่ในกรอบ แต่ก็ยังทรงรักษาชีวิตไว้ได้และบ่มเพาะปรัสเซียทั้งสองด้าน คือด้านศิลปะและด้านการทหาร"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_5", "en_sha": "81a9100c4340", "status": "draft", "th": "ฟรีดริชเป็นโอรสของฟรีดริช วิลเฮล์ม ทรราชผู้อื้อฉาวซึ่งเป็นที่รู้จักจากความดูแคลนวัฒนธรรม การส่งเสริมการทหาร และ \"คุณธรรมแบบปรัสเซีย\" อันได้แก่ความมัธยัสถ์และความสุขุม (ซึ่งในกรณีนี้หมายถึง \"การไร้อารมณ์ขัน\") พระมเหสีของพระองค์ โซฟี โดโรเทีย กลับตรงกันข้าม และรู้สึกว่าราชสำนักนั้นอึดอัด พระนางทรงนิยมฝรั่งเศสมากกว่าฟรีดริช วิลเฮล์ม อย่างมาก ภาษาในราชสำนักปรัสเซียคือภาษาฝรั่งเศส และกษัตริย์กับราชินีทั้งสองต่างตรัสได้คล่อง แต่ฟรีดริช วิลเฮล์ม ขึ้นชื่อเรื่องการใช้ภาษานั้นผิดไวยากรณ์ ขนบธรรมเนียมราชสำนักแบบฝรั่งเศสอื่น ๆ ถูกปัดทิ้ง เมื่อความมัธยัสถ์แบบปรัสเซียมีชัย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_6", "en_sha": "fb86bd161a07", "status": "draft", "th": "ฟรีดริชที่ 2 เป็นโอรสองค์ที่สาม พระเชษฐาทั้งสองสิ้นพระชนม์ตั้งแต่ยังเยาว์ ความหวังส่วนใหญ่ของพระราชบิดาและพระราชมารดาจึงตกอยู่ที่ฟรีดริชผู้เยาว์ โซเฟีย โดโรเทียพยายามปลูกฝังให้โอรสรักวัฒนธรรมชั้นสูงและชีวิตในราชสำนักที่พระสวามีดูแคลน พระองค์ยังทรงเรียนภาษาฝรั่งเศส อันที่จริงพระองค์ไม่ค่อยคล่องภาษาเยอรมันนัก ทั้งที่เป็นชาวเยอรมัน แต่ระหว่างพ่อกับลูกนั้นมีความขัดแย้ง ยิ่งฟรีดริชรักการเรียนภาษาละตินและวัฒนธรรมชั้นสูงมากเท่าใด พระราชบิดาก็ยิ่งกดดันให้พระองค์ใช้ชีวิตอย่างเคร่งครัดสมถะมากเท่านั้น ความตึงเครียดทวีขึ้น จนในที่สุดฟรีดริชก็แอบมีห้องสมุดลับอยู่ในพระราชวังอีกฟากหนึ่งของเมือง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_7", "en_sha": "7e088d3744fc", "status": "draft", "th": "ฟรีดริช วิลเฮล์มกังวลเรื่องเพศวิถีของโอรส แม้จะมีข่าวลือมากมายเกี่ยวกับความรักของวัยรุ่นผู้นี้ แต่ \"ความเป็นหญิง\" ของความสัมพันธ์เหล่านั้นคือสิ่งที่รบกวนพระทัยของกษัตริย์มากที่สุด และพระองค์เกรงว่ารัฐปรัสเซียที่เพิ่งเกิดใหม่อาจล่มสลายหากไม่มีกษัตริย์ที่เคร่งขรึมและนิยมทหาร ที่น่าขันคือความไร้ฝีมือทางการทูตของพระองค์เองกลับสร้างความปวดหัวให้จักรวรรดิ ความภักดีต่อระบอบกษัตริย์เยอรมันทำให้พระองค์พยายามประจบเอาใจกษัตริย์ออสเตรีย ผู้ซึ่งรังเกียจชาวปรัสเซียผู้เคร่งครัดสมถะ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_8", "en_sha": "10eb16d4b2b4", "status": "draft", "th": "แล้วร้อยโทฮันส์ แฮร์มันน์ ฟอน คัทเทอ ก็ปรากฏตัวขึ้น คัทเทอเป็นเพื่อนวัยรุ่นของฟรีดริชผู้เยาว์ แม้ความสัมพันธ์ของทั้งสองจะเห็นได้ชัดว่าเป็นมากกว่าเพื่อน ลองดูฉากหนึ่งจากชีวิตของฟรีดริชในวัยเยาว์ คัทเทอและฟรีดริชสวมเสื้อคลุมอันหรูหรา และจัดทรงผมตามแฟชั่นปารีสล่าสุด ทั้งคู่กำลังซ้อมดนตรีในห้องของฟรีดริช เมื่อกษัตริย์บุกขึ้นบันไดมา คัทเทอซ่อนตัวในตู้ ขณะที่กษัตริย์ผู้เดือดดาลโยนเสื้อผ้าหรูหราทั้งหมดเข้ากองไฟ แล้วบังคับให้ฟรีดริชผู้เยาว์กลับไปสวมเครื่องแบบทหาร"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_CHAPTER_HISTORY_PARA_9", "en_sha": "a16871be366b", "status": "draft", "th": "ฟังดูเหมือนฉากจากละครตลก จนกระทั่งถึงตอนต่อไป มกุฎราชกุมารรู้สึกอับอายกับการกระทำของพระราชบิดาจนตัดสินใจหนีไปอังกฤษกับคัทเทอ ทั้งสองถูกจับได้ และแม้ฟรีดริชจะรอดพ้นจากการลงโทษ แต่คัทเทอถูกประหารชีวิตโดยที่ฟรีดริชถูกบังคับให้เฝ้าดู"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_FRIEDRICH_ALT_TITLE", "en_sha": "bf3422ca843d", "status": "draft", "th": "{LOC_LEADER_FRIEDRICH_ALT_NAME}"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_1", "en_sha": "ee4d842b4c4e", "status": "draft", "th": "คำว่า \"เปอร์เซีย\" มีที่มาจากชื่อที่ชาวกรีกใช้เรียกจักรวรรดิแห่งอิหร่าน ดินแดนของชาวฟาร์ซี ซึ่งในเอกสารอื่นเรียกว่า \"อารยัน\" (พึงระลึกว่าคำนี้เกี่ยวโยงกับอินเดียเหนือ มิใช่ความหมายที่ถูกบิดเบือนไปอย่างประหลาดในศตวรรษที่ 19 และ 20) ในสมัยอะคีเมนิด เปอร์เซียเป็นจักรวรรดิที่ใหญ่ที่สุดในประวัติศาสตร์จนถึงขณะนั้น (อเล็กซานเดอร์มหาราชได้ครองตำแหน่งนั้นในอีกไม่กี่ปีต่อมา) จักรวรรดินี้แผ่จากอียิปต์และบางส่วนของกรีซทางตะวันตก ไปจนถึงลุ่มแม่น้ำสินธุทางตะวันออก ครอบคลุมและกว้างใหญ่เกินกว่าดินแดนที่ปัจจุบันเรารู้จักในชื่อตะวันออกกลางและตะวันออกใกล้ แม้จะมีขนาดใหญ่โต หรืออาจเป็นเพราะขนาดนั้นเอง เปอร์เซียจึงมีเครือข่ายคมนาคม ระบบราชการ และระบบการสื่อสารที่ซับซ้อน เป็นสังคมพหุวัฒนธรรมและพหุศาสนา และได้สถาปนาภาษากลางที่ชัดเจนไว้ทั่วอาณาเขตของตน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_2", "en_sha": "bc86d7ca7f93", "status": "draft", "th": "ในช่วงแรก ชาวเปอร์เซียค่อย ๆ เข้าควบคุมเมโสโปเตเมียขณะที่บาบิโลนและอัสซีเรียเสื่อมถอยลง ภายใต้พระเจ้าไซรัสมหาราช เปอร์เซียขยายเข้าสู่เอเชียไมเนอร์และแปรเปลี่ยนเป็นจักรวรรดิ ราชวงศ์ของไซรัสถูกโค่นล้มโดยพระเจ้าดาไรอัส ซึ่ง \"มหาราช\" เช่นกัน ผู้นำชาวเปอร์เซียไปสู่การพิชิตอีกระลอกหนึ่ง คราวนี้ในอียิปต์และลุ่มแม่น้ำสินธุ แต่ชัยชนะครั้งนี้ยังไม่มั่นคง ขณะที่การกบฏกำลังก่อตัวในอียิปต์ ดาไรอัสก็สิ้นพระชนม์อย่างกะทันหัน และเซอร์ซีสได้สืบราชสมบัติต่อ ในฐานะจักรพรรดิเปอร์เซียองค์สุดท้ายและอาจกล่าวได้ว่ายิ่งใหญ่ที่สุด"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_3", "en_sha": "a0467b1d3862", "status": "draft", "th": "เซอร์ซีสมีชื่อเสียงจากการทัพต่อกรีซ ซึ่งรวมถึงยุทธการที่เทอร์มอพิลีและซาลามิส พระองค์เป็นหัวข้อหนึ่งในงานประวัติศาสตร์ของเฮโรโดตัส เป็นแรงบันดาลใจของอเล็กซานเดอร์มหาราช และเป็นภาพแทนของทรราชผู้โหดเหี้ยม ซึ่งส่วนใหญ่มาจากมุมมองของชาวกรีก อย่างไรก็ดี แม้เซอร์ซีสจะทรงหยิ่งผยองและบางครั้งก็โหดร้าย แต่พระองค์ก็มิใช่ตัวร้ายในการ์ตูน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_4", "en_sha": "dc3a499ecb1d", "status": "draft", "th": "เซอร์ซีสสืบเชื้อสายจากจักรพรรดิผู้ยิ่งใหญ่สองพระองค์ พระบิดาคือดาไรอัส และพระอัยกา (ฝ่ายพระมารดา) คือไซรัส พระองค์ได้รับการเลี้ยงดูโดยขันทีในราชสำนักตามธรรมเนียม และได้รับการฝึกขี่ม้า (ชาวเปอร์เซียเพิ่งห่างจากการเป็นชนเร่ร่อนขี่ม้าแห่งเอเชียกลางมาเพียงไม่กี่ชั่วคน) ชีวิตของพระองค์ในพระราชวังแห่งบาบิโลนเต็มไปด้วยความหรูหรา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_5", "en_sha": "ab1d0a4fbe48", "status": "draft", "th": "เซอร์ซีสได้พบกับชะตาชีวิตครั้งแรกเมื่อดาไรอัสซึ่งกำลังเตรียมยกทัพไปปราบกบฏในอียิปต์ ทรงประชวรและสิ้นพระชนม์โดยไม่คาดคิด ภายหลังการสิ้นพระชนม์นั้น ปัญหาการสืบราชสมบัติก็ปรากฏขึ้น มงกุฎควรตกเป็นของโอรสองค์โตของดาไรอัส หรือของเซอร์ซีส พระนัดดาของไซรัส มีการจัดการโต้วาทีขึ้นเพื่อตัดสินปัญหานี้ และเซอร์ซีสเป็นฝ่ายชนะ ขึ้นครองราชย์ในปี 486 ก่อนคริสตกาล ขณะพระชนมายุ 35 พรรษา พระองค์ยังทรงรับสืบทอดสงครามของพระบิดา และเสด็จไปปราบอียิปต์ทันที ตามด้วยบาบิโลนหลังนครนั้นก่อกบฏ พระองค์ทรงแก้แค้นบาบิโลนอย่างโหดเหี้ยมด้วยการหลอมรูปเคารพของเทพเจ้าเป็นการลงโทษ แท้จริงแล้วเซอร์ซีสทรงเคร่งศาสนาอย่างยิ่ง (น่าจะทรงนับถือศาสนาที่เป็นต้นเค้าของศาสนาโซโรอัสเตอร์)"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_6", "en_sha": "24c21e84bcb9", "status": "draft", "th": "ถึงกระนั้น เซอร์ซีสก็มีชื่อเสียงที่สุดจากการรุกรานกรีซ ดาไรอัสเคยพยายามทำการทัพเช่นนี้มาก่อน ซึ่งดูสมเหตุสมผลเพราะเปอร์เซียยึดครองเอเชียไมเนอร์ทั้งหมดอยู่แล้ว แต่ดาไรอัสกลับถูกสกัดไว้ที่มาราธอน เซอร์ซีสเดินตามรอยพระบิดาโดยไม่ยั้งมือ พระองค์ทรงรวบรวมกองทัพมหึมา สร้างสะพานข้ามช่องแคบเฮลเลสพอนต์ (ช่องแคบใกล้นครอิสตันบูลในปัจจุบัน) และเคลื่อนทัพข้ามไป ในยุทธการที่เทอร์มอพิลี กองทัพเปอร์เซียมหาศาลของเซอร์ซีสถูกถ่วงไว้โดยชาวสปาร์ตาเพียงราว 7,000 นาย ศึกนี้กลายเป็นตัวอย่างความกล้าหาญของชาวสปาร์ตาที่โด่งดังที่สุดในประวัติศาสตร์ อย่างไรก็ดี คำสำคัญในที่นี้คือ \"ถ่วงไว้\" มิใช่ \"หยุดยั้ง\" ในที่สุดเซอร์ซีสก็ยกทัพลงไปตามชายฝั่งกรีซ และเอเธนส์ถูกทำลาย ชาวเอเธนส์จำนวนมากหนีไปยังเกาะซาลามิสและตั้งมั่นอยู่ที่นั่น ขณะที่ชาวเปอร์เซียเตรียมการโจมตีทางทะเล แต่น่าเสียดายที่ศึกครั้งนั้นไม่เป็นใจให้ชาวเปอร์เซีย หลังจากชาวเอเธนส์ได้ชัยชนะ ชาวเปอร์เซียซึ่งห่วงสะพานอันเปราะบางข้ามเฮลเลสพอนต์ก็ตัดสินใจว่าพอกันที"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_7", "en_sha": "513ae0a07d64", "status": "draft", "th": "อเล็กซานเดอร์มหาราชจะเป็นผู้แก้แค้นแทนกรีซในอีกกว่าหนึ่งศตวรรษต่อมา แต่ความล้มเหลวครั้งนี้ได้ยุติแผนการครองความเป็นใหญ่ของเซอร์ซีส เมื่อเสด็จกลับสู่เปอร์เซีย พระองค์ทรงหันมาใส่พระทัยกิจการภายใน ทุ่มทุนให้การก่อสร้าง ศิลปะ และโครงสร้างพื้นฐานเฟื่องฟูอย่างมาก ถนนและระบบไปรษณีย์ผลัดม้าของเปอร์เซียนับเป็นระบบที่ก้าวหน้าที่สุดเท่าที่โลกเคยเห็นมา และนครหลวงอันยิ่งใหญ่อย่างเปอร์เซโปลิสก็ยังคงรุ่งโรจน์ขึ้นเรื่อย ๆ แม้โครงการอันทะเยอทะยานเหล่านี้จะสร้างความเสียหายแก่ท้องพระคลังอย่างไม่อาจแก้ไขได้ แต่ซากพระราชวังและอนุสรณ์สถานของเซอร์ซีสก็ยังคงปรากฏให้เห็นจนทุกวันนี้ พระองค์ถูกลอบปลงพระชนม์ในปี 465"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_CHAPTER_HISTORY_PARA_8", "en_sha": "adcaf08c82b3", "status": "draft", "th": "ในเอกสารกรีก เซอร์ซีสมักถูกวางให้เป็นตัวเปรียบเทียบกับเอเธนส์ผู้เป็นประชาธิปไตย แท้จริงแล้ว ภาพที่ชาวกรีกวาดไว้นี้ได้แต่งแต้มมุมมองสมัยใหม่ที่เรามีต่อเอเชียและเอเชียสมัยโบราณ เมื่อชาวกรีกจัดให้ชาวเปอร์เซียเป็นพวกเผด็จการ ก้าวร้าว ไม่เป็นประชาธิปไตยโดยพื้นฐาน และอ่อนแอเพราะใช้ชีวิตในภูมิอากาศอันสุขสบายบนผืนดินอุดมสมบูรณ์ นั่นบอกเล่าถึงความขุ่นเคืองของชาวกรีกมากกว่าประวัติศาสตร์ที่แท้จริง ภาพเหมารวมนี้ยังคงอยู่เพราะประวัติศาสตร์กรีกที่เรารู้ส่วนใหญ่มาจากเอเธนส์ และชาวเอเธนส์ทำเช่นนั้นด้วยการเทียบตนเองกับผู้อื่น ได้แก่ ประชาธิปไตยของเอเธนส์กับลัทธิทหารของสปาร์ตา และเสรีภาพของเอเธนส์กับความเป็นเผด็จการของเปอร์เซีย พวกเขามิได้บันทึกเรื่องราวตามที่เป็นจริงเสมอไป หากแต่ต้องการสื่อประเด็นทางการเมือง"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_XERXES_ALT_TITLE", "en_sha": "02f807ed4864", "status": "draft", "th": "{LOC_LEADER_XERXES_ALT_NAME}"}
+{"tag": "LOC_PROFILE_TITLE_FRIEDRICH_BAROQUE", "en_sha": "3d2581052748", "status": "draft", "th": "ไร้กังวล"}
+{"tag": "LOC_PROFILE_TITLE_XERXES_ACHAEMENID", "en_sha": "a7b6a9071c02", "status": "draft", "th": "ชาห์แห่งเส้นทางสายไหม"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_EXPLORATION_1_DESCRIPTION", "en_sha": "76105a68fb4a", "status": "draft", "th": "ในฐานะฟรีดริช จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_EXPLORATION_1_NAME", "en_sha": "aa0bfb526c1a", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_EXPLORATION_2_DESCRIPTION", "en_sha": "0e2876b7af6c", "status": "draft", "th": "ในฐานะฟรีดริช จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_EXPLORATION_2_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_MODERN_1_DESCRIPTION", "en_sha": "519f58084354", "status": "draft", "th": "ในฐานะฟรีดริช จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_MODERN_1_NAME", "en_sha": "261442392230", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_MODERN_2_DESCRIPTION", "en_sha": "eabfa8d36a0c", "status": "draft", "th": "ในฐานะฟรีดริช จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_FRIEDRICH_BAROQUE_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_EXPLORATION_1_DESCRIPTION", "en_sha": "8896630822d2", "status": "draft", "th": "ในฐานะเซอร์ซีส จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_EXPLORATION_1_NAME", "en_sha": "aa0bfb526c1a", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_EXPLORATION_2_DESCRIPTION", "en_sha": "c44ee3b3590d", "status": "draft", "th": "ในฐานะเซอร์ซีส จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% ทอง, -10% อาหาร"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_EXPLORATION_2_NAME", "en_sha": "8cfdbb75d076", "status": "draft", "th": "การอุทิศทางเศรษฐกิจ ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_MODERN_1_DESCRIPTION", "en_sha": "0876a4063dc5", "status": "draft", "th": "ในฐานะเซอร์ซีส จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% วัฒนธรรม, -10% วิทยาศาสตร์"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_MODERN_1_NAME", "en_sha": "261442392230", "status": "draft", "th": "การอุทิศทางวัฒนธรรม ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_MODERN_2_DESCRIPTION", "en_sha": "7c4bab301b2a", "status": "draft", "th": "ในฐานะเซอร์ซีส จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% ทอง, -10% อาหาร"}
+{"tag": "LOC_STRATEGYCARD_XERXES_ACHAEMENID_MODERN_2_NAME", "en_sha": "4b888298dc20", "status": "draft", "th": "การอุทิศทางเศรษฐกิจ ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_FRIEDRICH_BAROQUE_NAME", "en_sha": "3d2581052748", "status": "draft", "th": "ไร้กังวล"}
+{"tag": "LOC_TITLE_XERXES_ACHAEMENID_NAME", "en_sha": "a7b6a9071c02", "status": "draft", "th": "ชาห์แห่งเส้นทางสายไหม"}
+{"tag": "LOC_TRAIT_LEADER_FRIEDRICH_ALT_ABILITY_DESCRIPTION", "en_sha": "c338d5026e92", "status": "draft", "th": "[BLIST][LI]ได้รับ [icon:NAR_REW_GREATWORK] [TIP:LOC_PEDIA_CONCEPTS_GREAT_WORKS_TOOLTIP]ผลงานชิ้นเอก[/TIP]เมื่อคุณยึด[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ได้เป็นครั้งแรก[LI]+1 [icon:YIELD_CULTURE] วัฒนธรรมต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน [icon:NAR_REW_GREATWORK] ผลงานชิ้นเอกที่จัดแสดง[LI]ได้รับ[TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]ใน [icon:NOTIFICATION_SELECT_CAPITAL] [TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณเมื่อคุณบรรลุ[TIP:LOC_PEDIA_CONCEPTS_MASTERY_TOOLTIP]ความเชี่ยวชาญหลักการพลเมือง[/TIP]และใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ที่คุณสร้าง [icon:YIELD_CULTURE] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างทางวัฒนธรรม[/TIP][/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_FRIEDRICH_ALT_ABILITY_NAME", "en_sha": "d3c54628ef3a", "status": "draft", "th": "เพลงมาร์ชโฮเฮินฟรีดแบร์ก"}
+{"tag": "LOC_TRAIT_LEADER_XERXES_ALT_ABILITY_DESCRIPTION", "en_sha": "b0e8eb3f5564", "status": "draft", "th": "[BLIST][LI]+1 [icon:TRADE_ROUTE] ขีดจำกัด[TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]กับผู้นำอื่นทั้งหมด[LI]+10 [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_RANGE_TOOLTIP]ระยะการค้า[/TIP][LI]ได้รับ [B]50 [icon:YIELD_CULTURE] วัฒนธรรม[/B] และ [B]100 [icon:YIELD_GOLD] ทอง[/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]เมื่อคุณสร้าง [icon:TRADE_ROUTE] เส้นทางการค้าหรือถนน[LI]+1 [icon:YIELD_CULTURE] วัฒนธรรมและ [icon:YIELD_GOLD] ทองต่อยุคบน [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]และ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP][/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_XERXES_ALT_ABILITY_NAME", "en_sha": "e5aa8220a076", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_DESCRIPTION", "en_sha": "706e8c295a4f", "status": "draft", "th": "เล่นเป็น [B]ฟรีดริช บาโรก[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_FRENCH_EMPIRE_TOOLTIP", "en_sha": "2f24930b188e", "status": "draft", "th": "[B]ฟรีดริช[/B] ได้รับอิทธิพลจากวัฒนธรรม[B]ฝรั่งเศส[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_NORMAN_TOOLTIP", "en_sha": "a145c865c6e3", "status": "draft", "th": "[B]ฟรีดริช[/B] มาจากทวีปเดียวกับ [B]ชาวนอร์มัน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_PRUSSIA_TOOLTIP", "en_sha": "8f34b6dcea34", "status": "draft", "th": "[B]ฟรีดริช[/B] นำ [B]ปรัสเซีย[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_FRIEDRICH_ALT_SPAIN_TOOLTIP", "en_sha": "70855b62b6c8", "status": "draft", "th": "[B]ฟรีดริช[/B] มาจากทวีปเดียวกับ [B]สเปน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_ABBASID_TOOLTIP", "en_sha": "8183d7aa5b3b", "status": "draft", "th": "[B]เซอร์ซีส[/B] มีอิทธิพลต่อ [B]อับบาซียะฮ์[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_DESCRIPTION", "en_sha": "1f10994cb963", "status": "draft", "th": "เล่นเป็น [B]เซอร์ซีส แห่งอะคีเมนิด[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_MONGOLIA_TOOLTIP", "en_sha": "d6f1189b6439", "status": "draft", "th": "[B]ชาวมองโกล[/B] ยึดครองเปอร์เซียอะคีเมนิดของ [B]เซอร์ซีส[/B] ในเวลาต่อมา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_MUGHAL_TOOLTIP", "en_sha": "aff90b6e42d5", "status": "draft", "th": "เปอร์เซียอะคีเมนิดของ [B]เซอร์ซีส[/B] มีอิทธิพลต่อ [B]โมกุล[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_XERXES_ALT_RUSSIA_TOOLTIP", "en_sha": "6989b491aeb3", "status": "draft", "th": "[B]เซอร์ซีส[/B] มาจากภูมิภาคที่อยู่ใกล้ [B]รัสเซีย[/B]"}

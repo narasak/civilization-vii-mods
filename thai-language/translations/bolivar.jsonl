@@ -1,0 +1,392 @@
+{"tag": "LOC_10030A_COMPLETION", "en_sha": "75dfa9c462b2", "status": "draft", "th": "โบลีวาร์ได้เห็นความใส่ใจที่ผู้ดูแลหอสมุดมีต่อการรักษาภูมิปัญญาแห่งยุคสมัยที่รวบรวมไว้ ถึงกระนั้นเขาก็ยังปรารถนาจะให้มั่นใจว่ามันจะไม่เสื่อมสลายไปในห้องใต้ดินอันเย็นเยียบ"}
+{"tag": "LOC_10030A_STORYTITLE", "en_sha": "20bc18cbaad0", "status": "draft", "th": "ความรู้ที่มีจุดหมาย"}
+{"tag": "LOC_10030B_DESCRIPTION", "en_sha": "cad4e93722c2", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างทางทหาร"}
+{"tag": "LOC_10030B_NAME", "en_sha": "de2edce5e1fb", "status": "draft", "th": "แบ่งปันให้เหล่านายทหาร"}
+{"tag": "LOC_10030C_DESCRIPTION", "en_sha": "cad4e93722c2", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างทางทหาร"}
+{"tag": "LOC_10030C_NAME", "en_sha": "5a504133c46b", "status": "draft", "th": "แบ่งปันให้เหล่าพลทหาร"}
+{"tag": "LOC_10031A_COMPLETION", "en_sha": "7e40a146157a", "status": "draft", "th": "ท่ามกลางฝูงชนผู้เทิดทูนที่ห้อมล้อม โบลีวาร์อดไม่ได้ที่จะถูกพัดพาไปกับบรรยากาศ ภาพของจักรพรรดินโปเลียนที่มีมงกุฎใหม่ประดับศีรษะได้ประทับตรึงอยู่ในความทรงจำของโบลีวาร์"}
+{"tag": "LOC_10031A_STORYTITLE", "en_sha": "0ce4b1bd9631", "status": "draft", "th": "ผู้ที่ควรแก่การเทิดทูน"}
+{"tag": "LOC_10031B_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_10031B_NAME", "en_sha": "4d622b8df097", "status": "draft", "th": "เขาเป็นรัฐบุรุษผู้เป็นแบบอย่าง"}
+{"tag": "LOC_10031C_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_10031C_NAME", "en_sha": "0d4697e0abee", "status": "draft", "th": "ไหวพริบทางการทหารของเขาไม่มีผู้ใดเทียบได้"}
+{"tag": "LOC_10032A_COMPLETION", "en_sha": "ca43a4dfcf7b", "status": "draft", "th": "นี่ไม่ใช่จักรพรรดิผู้เจิดจรัสคนเดียวกับที่โบลีวาร์ได้เห็นในวันราชาภิเษกอันเป็นชะตากรรมวันนั้น ทั้งหมดเป็นเพียงการแสดงเท่านั้นหรือ"}
+{"tag": "LOC_10032A_STORYTITLE", "en_sha": "b69d9cad64e8", "status": "draft", "th": "ผู้ที่ไม่ควรแก่การเทิดทูน"}
+{"tag": "LOC_10032B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10032B_NAME", "en_sha": "2ee261157cd4", "status": "draft", "th": "เมตตาต่อประชาชนของนโปเลียน"}
+{"tag": "LOC_10032C_DESCRIPTION", "en_sha": "0382132778ba", "status": "draft", "th": "+1 การสนับสนุนสงครามในสงครามทั้งหมด"}
+{"tag": "LOC_10032C_NAME", "en_sha": "762af6c056d8", "status": "draft", "th": "บุกต่อไป"}
+{"tag": "LOC_10033A_COMPLETION", "en_sha": "f9686da99f2a", "status": "draft", "th": "ผู้บัญชาการของโบลีวาร์ทีละคนต่างประดับเครื่องอิสริยาภรณ์ เพื่อเชิดชูความกล้าหาญและความทุ่มเทที่พวกเขามีต่ออุดมการณ์แห่งเสรีภาพ"}
+{"tag": "LOC_10033A_STORYTITLE", "en_sha": "491f60b1039b", "status": "draft", "th": "ไต่เต้าตามลำดับขั้น"}
+{"tag": "LOC_10033B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10033B_NAME", "en_sha": "6a26521dc89d", "status": "draft", "th": "มันเป็นแรงบันดาลใจแก่ทหารคนอื่น ๆ"}
+{"tag": "LOC_10033C_DESCRIPTION", "en_sha": "be9fd2fad863", "status": "draft", "th": "{1_reward} และ {2_reward}"}
+{"tag": "LOC_10033C_NAME", "en_sha": "933afda1b7ad", "status": "draft", "th": "มันเป็นแรงบันดาลใจแก่ทุกคน"}
+{"tag": "LOC_10034A_COMPLETION", "en_sha": "e805e568e63a", "status": "draft", "th": "โบลีวาร์ให้การยอมรับ {1_Independent} และมองเห็นประชาชนที่เสรีและเป็นอิสระ แต่เสรีภาพของผู้ใดเล่าที่สำคัญกว่า"}
+{"tag": "LOC_10034A_STORYTITLE", "en_sha": "871a269019d0", "status": "draft", "th": "คำถามแห่งเสรีภาพ"}
+{"tag": "LOC_10034B_DESCRIPTION", "en_sha": "8a660a0ba4b2", "status": "draft", "th": "{1_reward} แก่ทหารราบ แต่ {2_reward} ใน {3_capital}"}
+{"tag": "LOC_10034B_NAME", "en_sha": "3660895a17fb", "status": "draft", "th": "เป็นของสเปน ที่จะพิชิต"}
+{"tag": "LOC_10034C_DESCRIPTION", "en_sha": "589902606bb3", "status": "draft", "th": "{1_reward} และ {2_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_10034C_NAME", "en_sha": "78fa38e365c8", "status": "draft", "th": "เป็นของ {1_Independent} ที่จะต่อต้าน"}
+{"tag": "LOC_10035A_COMPLETION", "en_sha": "e0b3857b5e06", "status": "draft", "th": "โบลีวาร์ให้การยอมรับ {1_Independent} และมองเห็นประชาชนที่เสรีและเป็นอิสระ ความประทับใจแรกพบนั้นสำคัญยิ่ง"}
+{"tag": "LOC_10035A_STORYTITLE", "en_sha": "86f8696ed2b1", "status": "draft", "th": "การปกครองตนเอง"}
+{"tag": "LOC_10035B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10035B_NAME", "en_sha": "a9227c57a085", "status": "draft", "th": "ต้อนรับผู้อพยพ"}
+{"tag": "LOC_10035C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10035C_NAME", "en_sha": "caf6aa997213", "status": "draft", "th": "เจรจากับเหล่าผู้นำ"}
+{"tag": "LOC_10036A_COMPLETION", "en_sha": "cb0551294538", "status": "draft", "th": "หลังการรบอันยากลำบากและนองเลือด กองทหารของโบลีวาร์ยึด {1_STORY_CITY} กลับคืนมาได้ พลเมือง {2_civilization_adj} ส่งเสียงโห่ร้องยินดีขณะที่ผู้พิชิตชาวสเปนถูกจับเป็นเชลย วันนี้เป็นวันที่ดี"}
+{"tag": "LOC_10036A_STORYTITLE", "en_sha": "64cbff04955d", "status": "draft", "th": "ศัตรูคู่อาฆาต"}
+{"tag": "LOC_10036B_DESCRIPTION", "en_sha": "2e15469a1e34", "status": "draft", "th": "ผู้บัญชาการที่มีระดับสูงสุดได้รับการเลื่อนขั้นฟรี"}
+{"tag": "LOC_10036B_NAME", "en_sha": "2be7ea514936", "status": "draft", "th": "ให้รางวัลแก่ความสำเร็จนี้"}
+{"tag": "LOC_10036C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10036C_NAME", "en_sha": "d4c272ec1e73", "status": "draft", "th": "เตรียมพร้อมรับทุกสถานการณ์"}
+{"tag": "LOC_10037A_COMPLETION", "en_sha": "6da7c0caa78d", "status": "draft", "th": "โบลีวาร์จำต้องหลบหนีไปยัง {1_capital} ชะตากรรมของประเทศแขวนอยู่บนเส้นด้าย เมื่อเผชิญหน้ากับความตาย เขาค้นหาหนทางที่ถูกต้อง"}
+{"tag": "LOC_10037A_STORYTITLE", "en_sha": "4d77d4a0f64b", "status": "draft", "th": "ยามคับขัน"}
+{"tag": "LOC_10037B_DESCRIPTION", "en_sha": "f0e983459594", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10037B_NAME", "en_sha": "8f03998be959", "status": "draft", "th": "สู้อย่างสุดชีวิต"}
+{"tag": "LOC_10037C_DESCRIPTION", "en_sha": "16dd2ef91aba", "status": "draft", "th": "+1 การสนับสนุนสงครามในสงครามทั้งหมด แต่ช่อง 1 ช่องใน {1_capital} ถูกปล้นสะดม"}
+{"tag": "LOC_10037C_NAME", "en_sha": "41e42185c052", "status": "draft", "th": "รวมพลังรอบแนวคิดอันกล้าหาญ"}
+{"tag": "LOC_10038A_COMPLETION", "en_sha": "39a263a0eb76", "status": "draft", "th": "โบลีวาร์พยักหน้าทักทายฝูงชนขณะเดินทางกลับสู่ {1_capital} อย่างผู้มีชัย พวกเขากลับมาเป็นประชาชน {2_civilization_adj} อีกครั้ง ไม่สิ พวกเขาเป็นเช่นนั้นมาโดยตลอด"}
+{"tag": "LOC_10038A_STORYTITLE", "en_sha": "48e3c72a2a5e", "status": "draft", "th": "คืนสู่ตัวตน"}
+{"tag": "LOC_10038B_DESCRIPTION", "en_sha": "70f0c24faec2", "status": "draft", "th": "เข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_10038B_NAME", "en_sha": "0ddc15ce7f73", "status": "draft", "th": "นี่เป็นเหตุให้ต้องเฉลิมฉลอง"}
+{"tag": "LOC_10038C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10038C_NAME", "en_sha": "3741e21386e6", "status": "draft", "th": "ขออย่าให้เกิดเรื่องเช่นนี้อีก"}
+{"tag": "LOC_10039A_COMPLETION", "en_sha": "bb828f13d2fb", "status": "draft", "th": "โบลีวาร์พยายามรักษาความสงบนิ่งเมื่อถูกปฏิเสธ คำดูหมิ่นเช่นนี้สะท้อนถึงตัวเขาเองพอ ๆ กับประชาชนของเขา"}
+{"tag": "LOC_10039A_STORYTITLE", "en_sha": "63b16bd41e56", "status": "draft", "th": "ถูกปฏิเสธ"}
+{"tag": "LOC_10039B_DESCRIPTION", "en_sha": "0382132778ba", "status": "draft", "th": "+1 การสนับสนุนสงครามในสงครามทั้งหมด"}
+{"tag": "LOC_10039B_NAME", "en_sha": "d95ef321472a", "status": "draft", "th": "มันจะไม่ถูกลืม"}
+{"tag": "LOC_10039C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10039C_NAME", "en_sha": "51ee3f2b0a7e", "status": "draft", "th": "มันถูกลืมไปแล้ว"}
+{"tag": "LOC_10040A_COMPLETION", "en_sha": "d653ef106f9a", "status": "draft", "th": "ภาวะผู้นำเป็นสิ่งที่มาโดยธรรมชาติสำหรับโบลีวาร์เสมอ เขาพบว่าตนลังเลที่จะไว้วางใจผู้อื่นซึ่งเขามองว่าไม่พร้อมรับมือกับความท้าทายที่เขาเผชิญ"}
+{"tag": "LOC_10040A_STORYTITLE", "en_sha": "598869ab4da6", "status": "draft", "th": "ทางสองแพร่ง"}
+{"tag": "LOC_10040B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10040B_NAME", "en_sha": "800ed75218a0", "status": "draft", "th": "ชนชั้นนำมีอยู่ด้วยเหตุผล"}
+{"tag": "LOC_10040C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10040C_NAME", "en_sha": "b40c3951753e", "status": "draft", "th": "ความไว้ใจที่มอบให้ย่อมได้รับการตอบแทน"}
+{"tag": "LOC_10042A_COMPLETION", "en_sha": "6b627c2e1493", "status": "draft", "th": "ไม่ว่าจะพยายามเพียงใด ซิมอน โบลีวาร์ก็ไม่อาจวางดาบลงได้ บางทีเขาอาจเชื่อในเสรีภาพก็ต่อเมื่อเขาเป็นผู้มอบมันให้เท่านั้น"}
+{"tag": "LOC_10042A_STORYTITLE", "en_sha": "614b0b3ebe2e", "status": "draft", "th": "จงจับอาวุธ"}
+{"tag": "LOC_10042B_DESCRIPTION", "en_sha": "794fa73ac739", "status": "draft", "th": "{1_reward} แก่ยูนิตทั้งหมด แต่ช่อง 1 ช่องในถิ่นฐานทุกแห่งถูกปล้นสะดม"}
+{"tag": "LOC_10042B_NAME", "en_sha": "a86ee44c600d", "status": "draft", "th": "ประชาชนจะต้องเสียสละ"}
+{"tag": "LOC_10042C_DESCRIPTION", "en_sha": "d615ed775cd0", "status": "draft", "th": "+3 การสนับสนุนสงครามในสงครามทั้งหมด แต่ยูนิตทั้งหมดได้รับความเสียหาย 50"}
+{"tag": "LOC_10042C_NAME", "en_sha": "0c2496a1ad80", "status": "draft", "th": "เหล่าทหารจะต้องเสียสละ"}
+{"tag": "LOC_10043A_COMPLETION", "en_sha": "0d43d029c7f0", "status": "draft", "th": "มันเป็นเรื่องเรียบง่ายเหลือเกิน แต่กลับหลุดลอยไปจากโบลีวาร์มาเนิ่นนาน นั่นคือสองชาติที่มีความสัมพันธ์อันเกิดผล เพื่อความเจริญของประชาชนของตนและของกันและกัน"}
+{"tag": "LOC_10043A_STORYTITLE", "en_sha": "70ec3a616252", "status": "draft", "th": "การจับมืออย่างมั่นคง"}
+{"tag": "LOC_10043B_DESCRIPTION", "en_sha": "f0e983459594", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10043B_NAME", "en_sha": "4bd39f9755a8", "status": "draft", "th": "ต้อนรับการแลกเปลี่ยนความคิดและทุนอย่างเสรี"}
+{"tag": "LOC_10043C_DESCRIPTION", "en_sha": "f0e983459594", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10043C_NAME", "en_sha": "768596182cbf", "status": "draft", "th": "เฝ้าระวังไว้"}
+{"tag": "LOC_10046A_COMPLETION", "en_sha": "625c93de1646", "status": "draft", "th": "โบลีวาร์รู้ซึ้งดีถึงความสิ้นหวังของการต้องสู้เพียงลำพัง ดังนั้นเมื่อมีเสียงร้องขอความช่วยเหลือ เขาจึงตอบรับโดยไม่ลังเล"}
+{"tag": "LOC_10046A_STORYTITLE", "en_sha": "43aeb9fdf684", "status": "draft", "th": "ผนึกกำลัง"}
+{"tag": "LOC_10046B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10046B_NAME", "en_sha": "5d30ac0bae55", "status": "draft", "th": "บอกให้โลกรู้ว่าโบลีวาร์กำลังมา"}
+{"tag": "LOC_10046C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10046C_NAME", "en_sha": "17e882505617", "status": "draft", "th": "เกณฑ์กำลังเสริม"}
+{"tag": "LOC_10047A_COMPLETION", "en_sha": "6e5b2ad6cf88", "status": "draft", "th": "ความนิยมที่ผู้นำคนอื่นมีต่อโบลีวาร์แผ่ขยายไปถึงประชาชนของพวกเขา บางทีอาจเป็นเพราะวาทศิลป์ของเขา หรือบางทีอาจเป็นเพราะบุคลิกอันทรงพลังของเขา"}
+{"tag": "LOC_10047A_STORYTITLE", "en_sha": "558885b79f08", "status": "draft", "th": "ผู้นำผู้มีเสน่ห์"}
+{"tag": "LOC_10047B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10047B_NAME", "en_sha": "1d44951247b7", "status": "draft", "th": "พวกเขาปรารถนาจะเห็นดินแดนของเขาด้วยตาตนเอง"}
+{"tag": "LOC_10047C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10047C_NAME", "en_sha": "3646ca2f59e5", "status": "draft", "th": "พวกเขาอุทิศชีวิตให้อุดมการณ์ของเขา"}
+{"tag": "LOC_10048A_COMPLETION", "en_sha": "3d3651320a9c", "status": "draft", "th": "ชาว {1_STORY_CITY} โห่ร้องต้อนรับซิมอน โบลีวาร์ขณะที่วีรบุรุษผู้นี้เดินผ่านถนนที่ครั้งหนึ่งเคยถูกสงครามย่ำยี การได้รับความชื่นชมจากประชาชนของศัตรูเป็นเรื่องที่แทบเป็นไปไม่ได้ เว้นแต่ท่านจะเป็นเอล ลิเบร์ตาดอร์"}
+{"tag": "LOC_10048A_STORYTITLE", "en_sha": "bc54d5e919e2", "status": "draft", "th": "ภาพที่น่ายินดี"}
+{"tag": "LOC_10048B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10048B_NAME", "en_sha": "5fb8d69d7d7a", "status": "draft", "th": "เหล่าพ่อค้าฝันถึงความมั่งคั่งที่ยิ่งกว่า"}
+{"tag": "LOC_10048C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10048C_NAME", "en_sha": "5f1ba92f2487", "status": "draft", "th": "เหล่าช่างฝีมือวางแผนโครงการที่ทะเยอทะยานที่สุด"}
+{"tag": "LOC_10049A_COMPLETION", "en_sha": "6201eb132dba", "status": "draft", "th": "ความรุ่งเรืองหลั่งไหลสู่เม็กซิโกดุจสายธารทองคำ เป็นประจักษ์พยานถึงความอดทนและเจตจำนงของประชาชนของเขา และความฝันอันสุดเหลือเชื่อของซิมอน โบลีวาร์ที่กลายเป็นจริง"}
+{"tag": "LOC_10049A_STORYTITLE", "en_sha": "6ebf82091ce5", "status": "draft", "th": "การปฏิวัติจงเจริญ"}
+{"tag": "LOC_10049B_DESCRIPTION", "en_sha": "be9fd2fad863", "status": "draft", "th": "{1_reward} และ {2_reward}"}
+{"tag": "LOC_10049B_NAME", "en_sha": "e73d571d236f", "status": "draft", "th": "นี่เป็นเพียงจุดเริ่มต้น"}
+{"tag": "LOC_10049C_DESCRIPTION", "en_sha": "be9fd2fad863", "status": "draft", "th": "{1_reward} และ {2_reward}"}
+{"tag": "LOC_10049C_NAME", "en_sha": "be418e0ec359", "status": "draft", "th": "โลกยังไม่พร้อม"}
+{"tag": "LOC_ATTRIBUTENODE_BOLIVAR_L1_DESCRIPTION", "en_sha": "d280ca5bc8c0", "status": "draft", "th": "+50% ทองในการเปลี่ยนเมืองเป็นนคร"}
+{"tag": "LOC_ATTRIBUTENODE_BOLIVAR_L1_NAME", "en_sha": "d060e8ec795c", "status": "draft", "th": "โหนดคุณลักษณะทางการขยายดินแดน"}
+{"tag": "LOC_ATTRIBUTENODE_BOLIVAR_L2_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_BOLIVAR_L2_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_BADGE_BOLIVAR_NAME", "en_sha": "f95b5eb5051f", "status": "draft", "th": "เหรียญตราโบลีวาร์ 1"}
+{"tag": "LOC_BADGE_BOLIVAR_P_NAME", "en_sha": "c8069b856d62", "status": "draft", "th": "เหรียญตราโบลีวาร์ 2"}
+{"tag": "LOC_BANNER_BOLIVAR_NAME", "en_sha": "a9857e238203", "status": "draft", "th": "แบนเนอร์โบลีวาร์"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_BOLIVAR_1_DESCRIPTION", "en_sha": "79d4af2b791b", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_FOOD] อาหาร +15% แลกกับ [icon:YIELD_GOLD] ทอง -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_BOLIVAR_1_NAME", "en_sha": "29f7dfd1757f", "status": "draft", "th": "การอุทิศของโบลีวาร์ ยุคแห่งการสำรวจ - ทางการขยายดินแดน"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_BOLIVAR_2_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_BOLIVAR_2_NAME", "en_sha": "a89d29e05ea4", "status": "draft", "th": "การอุทิศของโบลีวาร์ ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_BOLIVAR_1_DESCRIPTION", "en_sha": "79d4af2b791b", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_FOOD] อาหาร +15% แลกกับ [icon:YIELD_GOLD] ทอง -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_BOLIVAR_1_NAME", "en_sha": "33fd550df458", "status": "draft", "th": "การอุทิศของโบลีวาร์ ยุคสมัยใหม่ - ทางการขยายดินแดน"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_BOLIVAR_2_DESCRIPTION", "en_sha": "1be1a884df1c", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_BOLIVAR_2_NAME", "en_sha": "80977c9ab996", "status": "draft", "th": "การอุทิศของโบลีวาร์ ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_DESC", "en_sha": "60d67aac58cb", "status": "draft", "th": "ชอบผู้นำที่มีถิ่นฐานที่ไม่มีความสุขหรือโกรธเคืองน้อยที่สุด ไม่ชอบผู้นำที่มีถิ่นฐานที่ไม่มีความสุขหรือโกรธเคืองมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_DESC_DISLIKES", "en_sha": "f9c3bca1b35e", "status": "draft", "th": "ซิมอน โบลีวาร์ไม่ชอบผู้นำที่มีถิ่นฐานที่ไม่มีความสุขหรือโกรธเคืองมากที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_DESC_LIKES", "en_sha": "b476e73d72ee", "status": "draft", "th": "ซิมอน โบลีวาร์ชอบผู้นำที่มีถิ่นฐานที่ไม่มีความสุขหรือโกรธเคืองน้อยที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_CORNERSTONE_FREEDOM_NAME", "en_sha": "50ee44f4879c", "status": "draft", "th": "ศิลาฤกษ์แห่งเสรีภาพ"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_BOLIVAR_ANY", "en_sha": "e4864ada5e6e", "status": "draft", "th": "ท่านคือปีศาจที่แพร่ระบาดบนผืนแผ่นดินนี้ และโทษทัณฑ์ของท่านจะสาสมกับความผิด"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_BOLIVAR_ANY", "en_sha": "efaa745f3042", "status": "draft", "th": "เจ้าอสรพิษชรา เจ้าจะไม่ได้กลืนกินแผ่นดินของข้าเพื่อสนองโทสะอันเปี่ยมพิษของเจ้า"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_BOLIVAR_ANY", "en_sha": "c776fc4f78b4", "status": "draft", "th": "ข้าได้เห็นแสงสว่างแล้ว บัดนี้ข้ากลับร่วงสู่ความมืดอีกครั้ง"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_BOLIVAR_ANY", "en_sha": "82fdef7a8392", "status": "draft", "th": "ข้าคือซิมอน โบลีวาร์ มือที่บดขยี้ทรราชและนำชาติทั้งหลายสู่เสรีภาพ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_BOLIVAR_ANY", "en_sha": "82fdef7a8392", "status": "draft", "th": "ข้าคือซิมอน โบลีวาร์ มือที่บดขยี้ทรราชและนำชาติทั้งหลายสู่เสรีภาพ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_BOLIVAR_ANY", "en_sha": "82fdef7a8392", "status": "draft", "th": "ข้าคือซิมอน โบลีวาร์ มือที่บดขยี้ทรราชและนำชาติทั้งหลายสู่เสรีภาพ"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_BOLIVAR", "en_sha": "fbdbbee33c10", "status": "draft", "th": "ท่านให้เกียรติข้าด้วยข้อเสนออันน่าตื่นเต้นเช่นนี้"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_BOLIVAR", "en_sha": "de0394cf53b1", "status": "draft", "th": "ความคิดของท่านมีเจตนาดี แต่หลงทาง"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_BOLIVAR", "en_sha": "9ae92a41f5fa", "status": "draft", "th": "ความรังเกียจที่ข้ามีต่อท่านกว้างใหญ่ยิ่งกว่ามหาสมุทร"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_BOLIVAR", "en_sha": "58902995468b", "status": "draft", "th": "เราเข้าใจกันและกันอย่างแท้จริง"}
+{"tag": "LOC_LEADER_BOLIVAR_DESCRIPTION", "en_sha": "dbfa0f675567", "status": "draft", "th": "ได้รับ [icon:WAR_SUPPORT] การสนับสนุนสงคราม 2 ใน [icon:WAR] สงครามที่คุณประกาศ เมื่อคุณพิชิตถิ่นฐานเป็นครั้งแรก ถิ่นฐานนั้นจะซื้อ [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างหรือ [icon:CITY_RURAL] สิ่งปรับปรุง 1 อย่างได้ฟรี [icon:YIELD_ANGRY] ความไม่สงบไม่ขัดขวางการซื้อ"}
+{"tag": "LOC_LEADER_BOLIVAR_NAME", "en_sha": "62b92d23f35d", "status": "draft", "th": "ซิมอน โบลีวาร์"}
+{"tag": "LOC_LEADER_CHAIN_1220A_COMPLETION", "en_sha": "d0fcfca4d589", "status": "draft", "th": "ซิมอน โบลีวาร์ ยืนอยู่ท่ามกลางทุ่งนาที่ปกคลุมแผ่นดินและหล่อเลี้ยงประชาชนของเขา รวงข้าวระยิบระยับจากสายฝนที่เพิ่งโปรยปราย"}
+{"tag": "LOC_LEADER_CHAIN_1220A_STORYTITLE", "en_sha": "415483cd1466", "status": "draft", "th": "ดินแดนเหล่านี้"}
+{"tag": "LOC_LEADER_CHAIN_1220B_COMPLETION", "en_sha": "84130c7a5184", "status": "draft", "th": "ด้วยแรงสนับสนุนของโบลีวาร์ ประชาชนของเขาออกแสวงหาดินแดนใหม่เพื่อตั้งรกรากและทำกิน เมื่อถึงเวลา สายฝนแห่งชีวิตจะโปรยปรายแก่พวกเขาเช่นกัน"}
+{"tag": "LOC_LEADER_CHAIN_1220B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1220B_IMPERATIVE", "en_sha": "c6fb5b9fadc5", "status": "draft", "th": "ก่อตั้งถิ่นฐานเพิ่มอีก 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1220B_NAME", "en_sha": "945f299d27ac", "status": "draft", "th": "ดินแดนเหล่านี้เป็นเพียงจุดเริ่มต้น"}
+{"tag": "LOC_LEADER_CHAIN_1220B_STORYTITLE", "en_sha": "415483cd1466", "status": "draft", "th": "ดินแดนเหล่านี้"}
+{"tag": "LOC_LEADER_CHAIN_1220C_COMPLETION", "en_sha": "9276577fd2c3", "status": "draft", "th": "โบลีวาร์เดินไปตามแนวกำแพงเชิงเทิน มอบมุมมองใหม่ต่อจักรวรรดิของเขา ดินแดนของเขายังคงทอดยาวสุดสายตา แต่บัดนี้หัวใจของมันได้รับการปกป้องแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1220C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1220C_IMPERATIVE", "en_sha": "d5d9f6dbdab2", "status": "draft", "th": "สร้างกำแพงโบราณเพิ่มอีก 4 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1220C_NAME", "en_sha": "45aafca916e5", "status": "draft", "th": "พวกเขาต้องได้รับการปกป้อง"}
+{"tag": "LOC_LEADER_CHAIN_1220C_STORYTITLE", "en_sha": "415483cd1466", "status": "draft", "th": "ดินแดนเหล่านี้"}
+{"tag": "LOC_LEADER_CHAIN_1220D_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_LEADER_CHAIN_1220D_NAME", "en_sha": "16484a3276f4", "status": "draft", "th": "เท่านี้ก็เพียงพอแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1221A_COMPLETION", "en_sha": "7ee54a6c7fb5", "status": "draft", "th": "พ่อค้าของโบลีวาร์พบกับเพื่อนบ้านที่โต๊ะเจรจาต่อรอง มองหาข้อตกลงที่จะทำให้กระเป๋าของพวกเขาเต็มไปด้วยทอง"}
+{"tag": "LOC_LEADER_CHAIN_1221A_STORYTITLE", "en_sha": "f98623dc0162", "status": "draft", "th": "ประชาชนหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1221B_COMPLETION", "en_sha": "0e5dda711938", "status": "draft", "th": "จักรวรรดิของโบลีวาร์มิใช่สถานที่ แต่คือประชาชน - ทั้งพ่อค้า ทหาร และกรรมกรเสมอกัน"}
+{"tag": "LOC_LEADER_CHAIN_1221B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1221B_IMPERATIVE", "en_sha": "afc4604dfb83", "status": "draft", "th": "มีถิ่นฐานที่มีประชากรเขตชนบท 10 คน"}
+{"tag": "LOC_LEADER_CHAIN_1221B_NAME", "en_sha": "f46fffa1a1e5", "status": "draft", "th": "จงระลึกถึงชาวนา คนงานเหมือง และคนเลี้ยงม้า"}
+{"tag": "LOC_LEADER_CHAIN_1221B_STORYTITLE", "en_sha": "f98623dc0162", "status": "draft", "th": "ประชาชนหนึ่งเดียว"}
+{"tag": "LOC_LEADER_CHAIN_1221C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1221C_NAME", "en_sha": "91e73e092b94", "status": "draft", "th": "ดีแล้วสำหรับพวกเขา"}
+{"tag": "LOC_LEADER_CHAIN_1222A_COMPLETION", "en_sha": "7b836b52297c", "status": "draft", "th": "ฝุ่นแห่งสมรภูมิจางลง ตกลงบนทั้งผู้พ่ายแพ้และผู้ชนะ ทหารของโบลีวาร์เก็บอาวุธ และรอคำสั่งของเขาที่จะชักมันออกมาอีกครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1222A_STORYTITLE", "en_sha": "12366ad268ef", "status": "draft", "th": "พร้อมรับทุกสิ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1222B_COMPLETION", "en_sha": "c8a82ae7f138", "status": "draft", "th": "โบลีวาร์สั่งให้ยุติการนองเลือด เมื่อ {1_STORY_CITY} อยู่ภายใต้การควบคุมอย่างมั่นคงของนายทหารคนสนิท ไม่มีสารใดที่เขาจะส่งถึงศัตรูได้ชัดเจนไปกว่านี้อีกแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1222B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1222B_IMPERATIVE", "en_sha": "68536ad75b31", "status": "draft", "th": "ยึดถิ่นฐาน 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1222B_NAME", "en_sha": "bc386b8c7018", "status": "draft", "th": "มุ่งสู่ศึกครั้งต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1222B_STORYTITLE", "en_sha": "12366ad268ef", "status": "draft", "th": "พร้อมรับทุกสิ่ง"}
+{"tag": "LOC_LEADER_CHAIN_1222C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1222C_NAME", "en_sha": "5244de51fa62", "status": "draft", "th": "เลือดหลั่งมามากพอแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1223A_COMPLETION", "en_sha": "8ea549dcf5e5", "status": "draft", "th": "วันละนับพันครั้งที่ผู้ช่วยของโบลีวาร์มาขอคำชี้แนะและคำสั่งจากเขา ไม่ว่าจะเป็นงานบริหารจักรวรรดิอันจำเจ หรือภัยคุกคามที่มาจากแดนไกล"}
+{"tag": "LOC_LEADER_CHAIN_1223A_STORYTITLE", "en_sha": "5a1564fdf57c", "status": "draft", "th": "ไม่มีวันสิ้นสุด"}
+{"tag": "LOC_LEADER_CHAIN_1223B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1223B_NAME", "en_sha": "a966ff4c3154", "status": "draft", "th": "จักรวรรดิที่รุ่งเรืองย่อมไม่มีผู้ใดคุกคามได้"}
+{"tag": "LOC_LEADER_CHAIN_1223C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1223C_NAME", "en_sha": "d58a79beefe9", "status": "draft", "th": "ต้องเตรียมพร้อมรับสิ่งเลวร้ายที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1224A_COMPLETION", "en_sha": "32c9da652b92", "status": "draft", "th": "โบลีวาร์มองอย่างเฉยเมยขณะที่นายพลเรือคนหนึ่งชูเครื่องมืออันบอบบาง อธิบายว่ามันช่วยให้เดินเรือฝ่ามหาสมุทรอันตรายได้อย่างไร โบลีวาร์ให้ความสำคัญกับความต้องการของประชาชนเป็นอันดับแรกเสมอ - ดินแดนที่อยู่ห่างออกไปครึ่งโลกจะมีประโยชน์อันใดต่อพวกเขาเล่า?"}
+{"tag": "LOC_LEADER_CHAIN_1224A_STORYTITLE", "en_sha": "30ebbd889141", "status": "draft", "th": "หากจำเป็น"}
+{"tag": "LOC_LEADER_CHAIN_1224B_COMPLETION", "en_sha": "32396afc4589", "status": "draft", "th": "แม้ดินแดนใหม่เหล่านี้จะไม่คุ้นเคยเพียงใด {1_STORY_CITY} ก็เบ่งบานด้วยศักยภาพแล้ว บางทีในหมู่ชาวพื้นเมืองอาจมีผู้ที่มีจิตใจเดียวกันอยู่ก็เป็นได้"}
+{"tag": "LOC_LEADER_CHAIN_1224B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1224B_IMPERATIVE", "en_sha": "cb811ddd8f83", "status": "draft", "th": "มีถิ่นฐานในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1224B_NAME", "en_sha": "d30a7d7f75ce", "status": "draft", "th": "มีเพียงทางเดียวที่จะรู้ได้"}
+{"tag": "LOC_LEADER_CHAIN_1224B_STORYTITLE", "en_sha": "30ebbd889141", "status": "draft", "th": "หากจำเป็น"}
+{"tag": "LOC_LEADER_CHAIN_1224C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1224C_NAME", "en_sha": "9a9707be07da", "status": "draft", "th": "ไม่มี"}
+{"tag": "LOC_LEADER_CHAIN_1225A_COMPLETION", "en_sha": "8aa24eb12cf1", "status": "draft", "th": "โบลีวาร์เดินไปมาขณะที่ที่ปรึกษาของเขาถกเถียงกัน การพบกับผู้นำที่เพิ่งรู้จักมิได้เลวร้าย แต่บางคนยังกังขาในเจตนาของผู้ที่มาจากอีกฟากของมหาสมุทรอันกว้างใหญ่"}
+{"tag": "LOC_LEADER_CHAIN_1225A_STORYTITLE", "en_sha": "f8f3b6f931db", "status": "draft", "th": "ผู้มาเยือน"}
+{"tag": "LOC_LEADER_CHAIN_1225B_COMPLETION", "en_sha": "00df52c221eb", "status": "draft", "th": "หมึกบนสัญญาแห้งลงขณะที่โบลีวาร์จับมือคู่เจรจาเป็นการตกลง การได้รู้ว่าตนมิได้ยืนอยู่อย่างโดดเดี่ยวในโลกนี้เป็นสิ่งยิ่งใหญ่เกินกว่าจะมองข้าม"}
+{"tag": "LOC_LEADER_CHAIN_1225B_DESCRIPTION", "en_sha": "09562d16e83b", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้ทอง"}
+{"tag": "LOC_LEADER_CHAIN_1225B_IMPERATIVE", "en_sha": "26f720f272e6", "status": "draft", "th": "เป็นพันธมิตรกับอารยธรรมในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1225B_NAME", "en_sha": "04f154962b44", "status": "draft", "th": "ให้พวกเขาเป็นมิตรก่อนจะกลายเป็นศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1225B_STORYTITLE", "en_sha": "f8f3b6f931db", "status": "draft", "th": "ผู้มาเยือน"}
+{"tag": "LOC_LEADER_CHAIN_1226A_COMPLETION", "en_sha": "769a836b8b11", "status": "draft", "th": "ขณะเยือนค่ายทหาร โบลีวาร์เฝ้ามองทหารผ่านศึกเตือนทหารเกณฑ์ใหม่ว่าการเชื่อฟังคำสั่งคือเส้นแบ่งระหว่างความเป็นและความตาย"}
+{"tag": "LOC_LEADER_CHAIN_1226A_STORYTITLE", "en_sha": "cc46cfda4b84", "status": "draft", "th": "กำลูกธนู"}
+{"tag": "LOC_LEADER_CHAIN_1226B_COMPLETION", "en_sha": "2c4422e38679", "status": "draft", "th": "ทหารของโบลีวาร์ที่ครั้งหนึ่งเคยเป็นดั่งลูกธนูไร้เป้าหมาย บัดนี้ได้รับจุดมุ่งหมายจากผู้บัญชาการของพวกเขา"}
+{"tag": "LOC_LEADER_CHAIN_1226B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1226B_IMPERATIVE", "en_sha": "d96dcb6aa7f7", "status": "draft", "th": "มีผู้บัญชาการที่เลื่อนขั้นแล้ว 8 ครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1226B_NAME", "en_sha": "eaa27875510e", "status": "draft", "th": "ความภักดีต้องได้มาด้วยการพิสูจน์ตน"}
+{"tag": "LOC_LEADER_CHAIN_1226B_STORYTITLE", "en_sha": "cc46cfda4b84", "status": "draft", "th": "กำลูกธนู"}
+{"tag": "LOC_LEADER_CHAIN_1226C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1226C_NAME", "en_sha": "1548ecec6faf", "status": "draft", "th": "ทหารควรเรียนรู้ที่จะคิดด้วยตนเอง"}
+{"tag": "LOC_LEADER_CHAIN_1227A_COMPLETION", "en_sha": "ce31dfa84595", "status": "draft", "th": "สงครามมาถึงซิมอน โบลีวาร์ แต่มิใช่สิ่งที่เขาไม่ได้คาดการณ์ไว้ เขาและประชาชนยืนหยัดเป็นหนึ่งเดียวต่อต้านการกดขี่"}
+{"tag": "LOC_LEADER_CHAIN_1227A_STORYTITLE", "en_sha": "0e3a8683c45e", "status": "draft", "th": "ยืนหยัดต่อสู้"}
+{"tag": "LOC_LEADER_CHAIN_1227B_COMPLETION", "en_sha": "5c019b6e2a97", "status": "draft", "th": "กองทหารของโบลีวาร์บีบให้ศัตรูล่าถอย เป็นลางดีแห่งชัยชนะ สงครามยังไม่สิ้นสุด แต่จุดจบอาจมาถึงเร็วขึ้นแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1227B_DESCRIPTION", "en_sha": "70f0c24faec2", "status": "draft", "th": "เข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1227B_IMPERATIVE", "en_sha": "072137e6bb62", "status": "draft", "th": "เอาชนะผู้บัญชาการกองทัพในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1227B_NAME", "en_sha": "918b726e455b", "status": "draft", "th": "โจมตีที่หัวของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1227B_STORYTITLE", "en_sha": "0e3a8683c45e", "status": "draft", "th": "ยืนหยัดต่อสู้"}
+{"tag": "LOC_LEADER_CHAIN_1228A_COMPLETION", "en_sha": "bf43f5fc930f", "status": "draft", "th": "โบลีวาร์สังเกตว่าถนนหนทางของ {1_CAPITAL} ไม่เคยคึกคักเท่านี้มาก่อน มีโอกาสรออยู่ตรงนี้"}
+{"tag": "LOC_LEADER_CHAIN_1228A_STORYTITLE", "en_sha": "edff4d9fe70e", "status": "draft", "th": "ประตูที่เปิดกว้าง"}
+{"tag": "LOC_LEADER_CHAIN_1228B_COMPLETION", "en_sha": "b864141bd262", "status": "draft", "th": "พลังอันยิ่งใหญ่ซึ่งเป็น{1_CIVILIZATION_ADJ}อย่างไม่ต้องสงสัย ไหลเวียนไปตามรางที่ทอดผ่านทั่วจักรวรรดิของโบลีวาร์ ประชาชนของเขาไม่เคยเป็นหนึ่งเดียวกันเท่านี้มาก่อน"}
+{"tag": "LOC_LEADER_CHAIN_1228B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1228B_IMPERATIVE", "en_sha": "201fddfac28b", "status": "draft", "th": "มีสถานีรถไฟ 5 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1228B_NAME", "en_sha": "b10b9ef9e036", "status": "draft", "th": "คำมั่นแห่งความทันสมัยเป็นของทุกคน"}
+{"tag": "LOC_LEADER_CHAIN_1228B_STORYTITLE", "en_sha": "edff4d9fe70e", "status": "draft", "th": "ประตูที่เปิดกว้าง"}
+{"tag": "LOC_LEADER_CHAIN_1228C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1228C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1228D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1228D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1229A_COMPLETION", "en_sha": "55dbd844addf", "status": "draft", "th": "นับแต่วัยเยาว์ โบลีวาร์มุ่งมั่นยืนหยัดในสิ่งที่ตนเชื่อมาโดยตลอด บัดนี้เขาขอให้ประชาชนยืนหยัดเคียงข้างเขา"}
+{"tag": "LOC_LEADER_CHAIN_1229A_STORYTITLE", "en_sha": "7603b5bce0d9", "status": "draft", "th": "ปณิธานอันแน่วแน่"}
+{"tag": "LOC_LEADER_CHAIN_1229B_COMPLETION", "en_sha": "6d0a37cb6dd3", "status": "draft", "th": "ศัตรูของเขาล้มลงทีละคน ปล่อยให้คนอื่นพูดสิ่งที่พวกเขาต้องการ แต่ซิมอน โบลีวาร์ใช้ชีวิตสมกับความเชื่อมั่นของตน"}
+{"tag": "LOC_LEADER_CHAIN_1229B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1229B_IMPERATIVE", "en_sha": "f0e532102489", "status": "draft", "th": "ยึดถิ่นฐาน 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1229B_NAME", "en_sha": "28499de29e7f", "status": "draft", "th": "ผู้ใดขวางพระองค์ย่อมล่มสลาย"}
+{"tag": "LOC_LEADER_CHAIN_1229B_STORYTITLE", "en_sha": "7603b5bce0d9", "status": "draft", "th": "ปณิธานอันแน่วแน่"}
+{"tag": "LOC_LEADER_CHAIN_1229C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1229C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1229D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1229D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_BOLIVAR", "en_sha": "e6891a4dbc87", "status": "draft", "th": "โลกเก่าได้เลือนหายไป และโลกใหม่กำลังผงาดขึ้น ซิมอน โบลีวาร์ ผู้ปลดปล่อยผู้ยิ่งใหญ่ ท่านกล้าควบม้าเข้าต่อกรกับผู้ที่หมายจะขีดเส้นจำกัดความฝันของท่าน เสน่ห์ของท่านดึงดูดประชาชนให้มาอยู่เคียงข้าง ความกล้าหาญของท่านผลักดันพวกเขาให้ก้าวไปข้างหน้า จงสู้ต่อไป แม้มันจะเปรียบดั่งการไถทะเลก็ตาม"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_BOLIVAR_ANY", "en_sha": "04093ba5cd15", "status": "draft", "th": "การรักษาดุลยภาพแห่งเสรีภาพนั้นยากยิ่งกว่าการทนแบกน้ำหนักของทรราช"}
+{"tag": "LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_DESCRIPTION", "en_sha": "930d3778a03e", "status": "draft", "th": "มรดกแห่งอายากูโช"}
+{"tag": "LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_FUNCTIONAL_DESCRIPTION", "en_sha": "69eb262de565", "status": "draft", "th": "[B]+1 [icon:YIELD_HAPPINESS][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้างทางทหาร[/TIP]"}
+{"tag": "LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_NAME", "en_sha": "a454a6a1886c", "status": "draft", "th": "เหรียญดาบาโลส"}
+{"tag": "LOC_MEMENTO_BOLIVAR_DAVALOS_MEDAL_UNLOCK_TITLE", "en_sha": "62d39295ec9c", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของซิมอน โบลีวาร์"}
+{"tag": "LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_DESCRIPTION", "en_sha": "447a84c4c918", "status": "draft", "th": "ของขวัญจากเชื้อพระวงศ์"}
+{"tag": "LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_FUNCTIONAL_DESCRIPTION", "en_sha": "52687e7cfb86", "status": "draft", "th": "[B]+20 [icon:YIELD_FOOD][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ในนคร เมื่ออยู่ใน [icon:PLAYER_RELATIONSHIP_ALLIANCE] [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]พันธมิตร[/TIP]เพียงหนึ่งเดียว"}
+{"tag": "LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_NAME", "en_sha": "a34565252c20", "status": "draft", "th": "กล่องยานัตถุ์ทองคำ"}
+{"tag": "LOC_MEMENTO_BOLIVAR_GOLD_SNUFF_BOX_UNLOCK_TITLE", "en_sha": "8a6772215b9b", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของซิมอน โบลีวาร์"}
+{"tag": "LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_DESCRIPTION", "en_sha": "5fedfe9ab87e", "status": "draft", "th": "วิสัยทัศน์แห่งอนาคต"}
+{"tag": "LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_FUNCTIONAL_DESCRIPTION", "en_sha": "6a8ec6b46b06", "status": "draft", "th": "[B]+50% [icon:YIELD_GOLD][/B] ในการซื้อยูนิตระหว่าง [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]"}
+{"tag": "LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_NAME", "en_sha": "fff63f10a52c", "status": "draft", "th": "จดหมายถึงจาเมกา"}
+{"tag": "LOC_MEMENTO_BOLIVAR_LETTER_TO_JAMAICA_UNLOCK_TITLE", "en_sha": "916791a65571", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของซิมอน โบลีวาร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "96599b9ba503", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "1324f294a55f", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "57c92f9b738c", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "d3677d334c8e", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "0dc284c8c073", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "06d726a5679f", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "ccce31738ec1", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "b39624eaf519", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_DESC", "en_sha": "db135dca54ed", "status": "draft", "th": "เล่นเป็นโบลีวาร์ จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "36d739ca867e", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "8123a68af3f2", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "42dd4a67bb6b", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6c85a9d95561", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "132483c842a8", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "91f3bd605f08", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_DESC", "en_sha": "fbb349567a8b", "status": "draft", "th": "เล่นเป็นโบลีวาร์ คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DEITY_VICTORY_DESC", "en_sha": "0ea00ecbfdc6", "status": "draft", "th": "เล่นเป็นโบลีวาร์ คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "146dc834314d", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "7f171fe362b7", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "8c8c7eb32add", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "1c0ec4c620f4", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "6d6ac4c088c2", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "1af55312aaf8", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "fc868343f807", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "355ab1ab2bb1", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "e686d7b36848", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "531b2f1038f4", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "589f9b445d6c", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "e6ce7c56ef5f", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_DESC", "en_sha": "4d3455867c26", "status": "draft", "th": "เล่นเป็นโบลีวาร์ คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "0081fe2d6410", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "0f7f7cec7a19", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "22572b2178f0", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "8d6c28c0e768", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "78a1fa0c0aeb", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "a66b49b6bed8", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "833c14ad78fb", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "4b8b9ddaa41b", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "e651c832e1dc", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "b7c80a09a7c5", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "adaca7b84f53", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "9990da28655d", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "c4300c7a96f4", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "da5a6d378318", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_DESC", "en_sha": "5ac73307d8e0", "status": "draft", "th": "เล่นเป็นโบลีวาร์ คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_1_DESC", "en_sha": "17f867069342", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_2_DESC", "en_sha": "cde894d7791b", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_3_DESC", "en_sha": "0b1a6fca0805", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "845e65757818", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "f2ee28dba72d", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "ccbd1cd0759d", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "a1538e95b2d0", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "86d7623bf8ad", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "24d8f98d57eb", "status": "draft", "th": "เล่นเป็นโบลีวาร์ ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_DESC", "en_sha": "c5f9a13131b7", "status": "draft", "th": "เล่นเป็นโบลีวาร์ คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_BOLIVAR_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_ANTIQUITY_DESC", "en_sha": "91ec5b3d6ddf", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคโบราณ ทำภารกิจเพื่อเข้าถึงชาวชนบทให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_ANTIQUITY_NAME", "en_sha": "f98623dc0162", "status": "draft", "th": "หนึ่งประชาชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_EXPLORATION_DESC", "en_sha": "45dfe681657e", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อฝ่ามหาสมุทรอันตรายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_EXPLORATION_NAME", "en_sha": "30ebbd889141", "status": "draft", "th": "หากจำเป็น"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_MODERN_DESC", "en_sha": "8e0e18c39e21", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคสมัยใหม่ ทำภารกิจเพื่อเชื่อมจักรวรรดิเป็นหนึ่งด้วยทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_A_MODERN_NAME", "en_sha": "edff4d9fe70e", "status": "draft", "th": "ประตูที่เปิดกว้าง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_ANTIQUITY_DESC", "en_sha": "d1cda1312f53", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคโบราณ ทำภารกิจเพื่อสยบฝุ่นควันแห่งสมรภูมิให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_ANTIQUITY_NAME", "en_sha": "12366ad268ef", "status": "draft", "th": "พร้อมรับทุกสิ่ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_EXPLORATION_DESC", "en_sha": "d7375e3b5c5b", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเลื่อนขั้นทหารผ่านศึกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_EXPLORATION_NAME", "en_sha": "cc46cfda4b84", "status": "draft", "th": "ลูกธนูหนึ่งมัด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_MODERN_DESC", "en_sha": "f5c9d969de70", "status": "draft", "th": "ในฐานะโบลีวาร์ ในยุคสมัยใหม่ ทำภารกิจเพื่อต่อสู้เพื่อความเชื่อของคุณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_BOLIVAR_QUEST_B_MODERN_NAME", "en_sha": "7603b5bce0d9", "status": "draft", "th": "ความมุ่งมั่นที่ไม่สั่นคลอน"}
+{"tag": "LOC_MODULE_BOLIVAR_DESCRIPTION", "en_sha": "c546c2ce5275", "status": "draft", "th": "มีผู้นำใหม่ คือ ซิมอน โบลีวาร์"}
+{"tag": "LOC_MODULE_BOLIVAR_NAME", "en_sha": "62b92d23f35d", "status": "draft", "th": "ซิมอน โบลีวาร์"}
+{"tag": "LOC_MOD_ATTRIBUTE_EXPANSIONIST_LEGEND_BOLIVAR_L1_DESCRIPTION", "en_sha": "de2eef1857a0", "status": "draft", "th": "ปลดล็อกตำนาน +50% [icon:YIELD_GOLD] ทองในการเปลี่ยน [icon:YIELD_TOWNS] เมืองเป็น [icon:YIELD_CITIES] นคร"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_BOLIVAR_L2_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_1", "en_sha": "e8bff6073413", "status": "draft", "th": "ซิมอน โบลีวาร์ เป็นผู้นำขบวนการที่นำไปสู่เอกราชของอเมริกาใต้จากสเปน และด้วยเหตุนี้จึงได้รับสมญาว่า \"เอล ลิเบร์ตาดอร์\" หรือผู้ปลดปล่อย จากความพยายามของเขา แม้ความขัดแย้งภายในระหว่างบรรดาผู้ที่หมายจะเป็นผู้นำกับโบลีวาร์จะทำให้แนวคิดเรื่องอเมริกาใต้อันเป็นหนึ่งเดียวของเขาแตกออกเป็นเสี่ยง ๆ แต่เขาก็ได้ฟาดฟันการปกครองของยุโรปเหนือทวีปนี้อย่างเด็ดขาด และยังคงได้รับการเคารพยกย่องในฐานะวีรบุรุษจนถึงทุกวันนี้"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_2", "en_sha": "0cad1c7017e8", "status": "draft", "th": "เขาเกิดในเวเนซุเอลาเมื่อปี 1783 ในครอบครัวครีโอโยผู้มั่งคั่ง (ผู้มีเชื้อสายยุโรป) เขาต้องรับภาระดูแลที่ดินและทรัพย์สินของครอบครัวตั้งแต่ยังเป็นเด็ก ขณะเดียวกันก็ศึกษาด้วยตนเองถึงหลักการแห่งเสรีภาพที่แพร่ออกมาจากฝรั่งเศสในเวลานั้น และได้รับอิทธิพลอย่างมากจากฌ็อง-ฌัก รูโซ เมื่อยังหนุ่ม เขาได้เห็นการผงาดขึ้นสู่อำนาจของนโปเลียนระหว่างการเยือนปารีส เขาชื่นชมความสำเร็จของนโปเลียน แต่ก็รังเกียจการรวบอำนาจอย่างเข้มข้นเช่นนั้นภายหลังการปฏิวัติ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_3", "en_sha": "a554ead8e2de", "status": "draft", "th": "ขณะที่สงครามนโปเลียนบั่นทอนกำลังของฝรั่งเศส (และย่อมรวมถึงสเปนซึ่งเป็นรัฐหุ่นเชิดของฝรั่งเศสด้วย) คณะรัฐประหารในการากัสได้ประกาศเอกราช ในความขัดแย้งที่ตามมา ซึ่งเวเนซุเอลาได้รับการปลดปล่อยแล้วกลับตกเป็นของสเปนอีกครั้ง โบลีวาร์พบว่าตนต้องเปลี่ยนจากการปลุกระดมกองทหารไปสู่การระดมการสนับสนุนทางการทูต ในเหตุการณ์ครั้งหนึ่งที่เป็นที่จดจำ เขานำกองทหารเดินทัพข้ามเทือกเขาแอนดีสอย่างทรหด จนในที่สุดก็จู่โจมฝ่ายสเปนโดยไม่ทันตั้งตัว และบุกลงจากที่สูงสู่ชัยชนะ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_4", "en_sha": "9161b609d678", "status": "draft", "th": "ในภูมิทัศน์ทางการเมืองหลังได้รับเอกราช โบลีวาร์ต่อสู้อย่างหนักเพื่อรักษาเอกภาพไว้ให้ได้ในระดับหนึ่ง ในความพยายามนี้ เขาขัดแย้งกับรองประธานาธิบดีของตน ฟรันซิสโก เด เปาลา ซันตันเดร์ ในเรื่องคุณค่าเชิงเปรียบเทียบระหว่างประชาธิปไตยกับเอกภาพ โบลีวาร์ต้องการตำแหน่งประธานาธิบดีตลอดชีพและการกุมบังเหียนอำนาจที่เข้มแข็งกว่า ขณะที่ซันตันเดร์มีวิสัยทัศน์แบบประชาธิปไตยผ่านการเลือกตั้ง ในที่สุดโบลีวาร์ก็ประกาศตนเป็นผู้เผด็จการ แต่ก็ถูกโค่นอำนาจเพียงสองปีหลังจากนั้น"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAR_CHAPTER_HISTORY_PARA_5", "en_sha": "f1d00073b492", "status": "draft", "th": "ด้วยวัณโรครุมเร้าและความหวังถึงอเมริกาใต้อันเป็นหนึ่งเดียวที่ง่อนแง่น โบลีวาร์คิดจะเดินทางไปยุโรป แต่ก็ถึงแก่กรรมเสียก่อนในปี 1830 เขาได้ปลดปล่อยทั้งทวีป แต่เปรียบการต่อสู้ครั้งนั้นว่าเหมือนความพยายาม \"ไถทะเล\" มรดกของเขาจะคงประดิษฐานอยู่ในอเมริกาใต้ตลอดไป ดั่งอนุสรณ์แห่งการปฏิวัติ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_BOLIVAT_TITLE", "en_sha": "1e376d25ec81", "status": "draft", "th": "{LOC_LEADER_BOLIVAR_NAME}"}
+{"tag": "LOC_PROFILE_TITLE_BOLIVAR", "en_sha": "d05d3d8169a1", "status": "draft", "th": "ผู้ปลดปล่อย"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_1_DESCRIPTION", "en_sha": "df4aeb1175e4", "status": "draft", "th": "ในฐานะโบลีวาร์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% ทอง, -10% อาหาร"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_1_NAME", "en_sha": "f86637c4eb03", "status": "draft", "th": "การอุทิศทางการขยายดินแดน ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_2_DESCRIPTION", "en_sha": "e0f5fceb24b7", "status": "draft", "th": "ในฐานะโบลีวาร์ จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_EXPLORATION_2_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_MODERN_1_DESCRIPTION", "en_sha": "0dc421208942", "status": "draft", "th": "ในฐานะโบลีวาร์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อาหาร, -10% ทอง"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_MODERN_1_NAME", "en_sha": "33a8d2880fec", "status": "draft", "th": "การอุทิศทางการขยายดินแดน ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_MODERN_2_DESCRIPTION", "en_sha": "660cf764760e", "status": "draft", "th": "ในฐานะโบลีวาร์ จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_BOLIVAR_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_BOLIVAR_NAME", "en_sha": "d05d3d8169a1", "status": "draft", "th": "ผู้ปลดปล่อย"}
+{"tag": "LOC_TRAIT_LEADER_BOLIVAR_ABILITY_DESCRIPTION", "en_sha": "e55af4bf6e01", "status": "draft", "th": "[BLIST][LI]ได้รับ [B]2 [icon:WAR_SUPPORT] การสนับสนุนสงคราม [/B]ใน [icon:WAR] [B]สงคราม[/B]ที่คุณประกาศ[LI]เมื่อคุณพิชิตถิ่นฐานเป็นครั้งแรก ถิ่นฐานนั้นจะ[B]ซื้อ [icon:CITY_BUILDING_LIST] สิ่งก่อสร้างหรือ [icon:CITY_RURAL] สิ่งปรับปรุง 1 อย่างได้ฟรี[/B][LI][icon:YIELD_ANGRY] [B]ความไม่สงบ [/B]ไม่ขัดขวางการซื้อ[/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_BOLIVAR_ABILITY_NAME", "en_sha": "ac92bf1f02ba", "status": "draft", "th": "เอล ลิเบร์ตาดอร์"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_DESCRIPTION", "en_sha": "b3322e23a5b1", "status": "draft", "th": "เล่นเป็น [B]ซิมอน โบลีวาร์[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_FRANCE_TOOLTIP", "en_sha": "bea6df014770", "status": "draft", "th": "[B]ซิมอน โบลีวาร์[/B] ได้รับอิทธิพลจาก [B]จักรวรรดิฝรั่งเศส[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_INCA_TOOLTIP", "en_sha": "b5c9d61c7334", "status": "draft", "th": "[B]ซิมอน โบลีวาร์[/B] มาจากทวีปอเมริกา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_MAYA_TOOLTIP", "en_sha": "b5c9d61c7334", "status": "draft", "th": "[B]ซิมอน โบลีวาร์[/B] มาจากทวีปอเมริกา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_MEXICO_TOOLTIP", "en_sha": "b5c9d61c7334", "status": "draft", "th": "[B]ซิมอน โบลีวาร์[/B] มาจากทวีปอเมริกา"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_ROME_TOOLTIP", "en_sha": "f6c1bc4f4e66", "status": "draft", "th": "[B]โรม[/B] เสริมกลยุทธ์ของ [B]ซิมอน โบลีวาร์[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_BOLIVAR_SPAIN_TOOLTIP", "en_sha": "7a693ea6a674", "status": "draft", "th": "[B]สเปน[/B] เสริมกลยุทธ์ของ [B]ซิมอน โบลีวาร์[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_VICTORY_LEADER_BOLIVAR", "en_sha": "9d3eb1f79878", "status": "draft", "th": "ผู้ที่ต่อสู้เพื่อเสรีภาพย่อมอยู่ฝั่งที่ถูกต้องของประวัติศาสตร์เสมอ"}

@@ -1,0 +1,4 @@
+english	reason
+Marine	biome (LOC_BIOME_MARINE_NAME = ทะเล) vs unit (LOC_UNIT_MARINE_NAME = นาวิกโยธิน): different meanings
+Varna	city in Bulgaria (LOC_CITY_NAME_BULGARIA14 = วาร์นา) vs Indian caste concept (วรรณะ): different meanings
+The Great	title of Alexander (LOC_TITLE_ALEXANDER_NAME = มหาราช) vs army-name prefix (ยิ่งใหญ่)

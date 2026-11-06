@@ -1,0 +1,425 @@
+{"tag": "LOC_10082A_COMPLETION", "en_sha": "c4c086d94e32", "status": "draft", "th": "สายลมจากทะเลพัดพาความแสบของเกลือและเสียงนกทะเลมา ขณะที่นักร้องก้าวเข้าสู่ลานกว้าง เขาจ้องมองเหล่ากัปตันของหนวดดำซึ่งรอฟังว่าจะได้ยินเพลงอะไร ดาบโค้งของพวกเขาคมกริบ และนิ้วก็คันยุบยิบ"}
+{"tag": "LOC_10082A_STORYTITLE", "en_sha": "1695516487c4", "status": "draft", "th": "บทเพลงกะลาสี"}
+{"tag": "LOC_10083A_COMPLETION", "en_sha": "75fcfd198157", "status": "draft", "th": "เหล้ากร็อกดูเหมือนจะดับความกระหายสิ่งอื่นที่แดงฉานกว่าของพวกเขาลงได้"}
+{"tag": "LOC_10083A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10083A_IMPERATIVE", "en_sha": "12fec60e0c0a", "status": "draft", "th": "จัดการเฉลิมฉลองให้ได้"}
+{"tag": "LOC_10083A_NAME", "en_sha": "ddcc2953a796", "status": "draft", "th": "\"จะทำไงกับกะลาสีขี้เมา?\""}
+{"tag": "LOC_10083A_STORYTITLE", "en_sha": "1695516487c4", "status": "draft", "th": "บทเพลงกะลาสี"}
+{"tag": "LOC_10084A_COMPLETION", "en_sha": "046e7d80a677", "status": "draft", "th": "แววตาของเหล่ากัปตันของทีชฉายแววดุร้าย"}
+{"tag": "LOC_10084A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10084A_IMPERATIVE", "en_sha": "44805960bafb", "status": "draft", "th": "กำจัดยูนิตทางเรือ 2 ยูนิต"}
+{"tag": "LOC_10084A_NAME", "en_sha": "ca109da20afd", "status": "draft", "th": "\"ซัดเจ้านั่นให้ล้มลง\""}
+{"tag": "LOC_10084A_STORYTITLE", "en_sha": "1695516487c4", "status": "draft", "th": "บทเพลงกะลาสี"}
+{"tag": "LOC_10085A_COMPLETION", "en_sha": "9ab43366d627", "status": "draft", "th": "เหล่ากัปตันมุ่งหน้าสู่ท่าเรือ รอคอยผลกำไรของพวกตน"}
+{"tag": "LOC_10085A_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10085A_IMPERATIVE", "en_sha": "920d1f9631b9", "status": "draft", "th": "ปรับปรุงทรัพยากรชายฝั่ง 1 แห่ง"}
+{"tag": "LOC_10085A_NAME", "en_sha": "e360085acd46", "status": "draft", "th": "\"อีกไม่นานเรือเวลเลอร์แมนจะมา\""}
+{"tag": "LOC_10085A_STORYTITLE", "en_sha": "1695516487c4", "status": "draft", "th": "บทเพลงกะลาสี"}
+{"tag": "LOC_10086A_COMPLETION", "en_sha": "72bcb27bc950", "status": "draft", "th": "เรือเดาว์แล่นผ่านน่านน้ำอักซุมอย่างลื่นไหล แม้ยามบรรทุกทรัพย์สมบัติเต็มลำ และยังลื่นไหลพ้นเงื้อมมือโจรสลัดของหนวดดำไปได้เช่นกัน เรื่องนี้ย่อมแก้ไขได้เป็นแน่"}
+{"tag": "LOC_10086A_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10086B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10086B_NAME", "en_sha": "5abde998b9a4", "status": "draft", "th": "พลเรือเอกแห่งธงดำใจกว้าง อักซุมจะไปที่ใดก็ได้ตามใจ"}
+{"tag": "LOC_10087B_COMPLETION", "en_sha": "0b2d41c47525", "status": "draft", "th": "\"เจ้าแห่งท้องทะเล\" อักซุมไม่ใช่อีกต่อไปแล้ว"}
+{"tag": "LOC_10087B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10087B_IMPERATIVE", "en_sha": "34bddf9e25c2", "status": "draft", "th": "กำจัดเรือเดาว์ 1 ลำ"}
+{"tag": "LOC_10087B_NAME", "en_sha": "1dea67465676", "status": "draft", "th": "ทำให้มีดน้ำนั่นทื่อลง"}
+{"tag": "LOC_10087B_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10088A_COMPLETION", "en_sha": "024584f222a5", "status": "draft", "th": "เมื่อแล่นเรือใกล้ท่าเรือบ้านเกิด ซึ่งพอจะหาอ่าวกำบังได้หากท้องฟ้ามืดครึ้มและน้ำทะเลกลายเป็นสีเหล็ก กัปตันทุกคนยกเว้นผู้ที่ไร้ฝีมือที่สุดย่อมมั่นใจได้ว่าจะถึงท่าอย่างปลอดภัย แต่ในการเดินทางไกลนั้นมีความไม่แน่นอนมากกว่า พายุและชายฝั่งที่ไม่เป็นมิตรได้ทำลายเรือมาแล้วนับไม่ถ้วน"}
+{"tag": "LOC_10088A_STORYTITLE", "en_sha": "ec1aa2152ec7", "status": "draft", "th": "ชายฝั่งแปลกถิ่น"}
+{"tag": "LOC_10088B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10088B_NAME", "en_sha": "7295e16121b3", "status": "draft", "th": "มอบเงินให้กัปตันไว้ติดสินบนนายท่าเรือท้องถิ่น"}
+{"tag": "LOC_10088C_DESCRIPTION", "en_sha": "8ccf493d16f5", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ แต่ {2_reward}"}
+{"tag": "LOC_10088C_NAME", "en_sha": "718df2e756b4", "status": "draft", "th": "สั่งให้ผู้บังคับลมผูกสายลมเป็นปม"}
+{"tag": "LOC_10088D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10088D_NAME", "en_sha": "c492509e89e0", "status": "draft", "th": "เปิดวงพนันว่าใครจะจม"}
+{"tag": "LOC_10089A_COMPLETION", "en_sha": "84266109c8b9", "status": "draft", "th": "โจรสลัดของหนวดดำได้เพื่อนใหม่ เป็นขุนนางหนุ่มผู้อ้างว่าสืบเชื้อสายจากเทพีวีนัส ซึ่งถูกจับได้ในการรบ พรรคพวกของเขาเสนอเงินจำนวนเล็กน้อยเพื่อไถ่ตัวเขา แต่ชายผู้นี้กลับโน้มน้าวให้พวกเขาเพิ่มค่าไถ่เป็นสองเท่า \"ครั้งหน้าที่พวกเจ้าเห็นข้า\" เขากล่าวพร้อมรอยยิ้ม \"ข้าจะฆ่าพวกเจ้าให้หมด\""}
+{"tag": "LOC_10089A_STORYTITLE", "en_sha": "b6410c7e9faa", "status": "draft", "th": "เชลยชาวโรมัน"}
+{"tag": "LOC_10089B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10089B_NAME", "en_sha": "6b06c2e4dd0b", "status": "draft", "th": "ตลกดี! รับเงินไว้"}
+{"tag": "LOC_10089C_DESCRIPTION", "en_sha": "1b88752984d9", "status": "draft", "th": "{1_reward} แต่ {2_reward} กับโรม"}
+{"tag": "LOC_10089C_NAME", "en_sha": "4f8aa6e36d21", "status": "draft", "th": "ตลกดี! โยนมันลงทะเล"}
+{"tag": "LOC_10090A_COMPLETION", "en_sha": "78421a088e74", "status": "draft", "th": "ด้วยเสียงแตกครืนสะท้าน เรือของศัตรูโคลงเคลง น้ำทะลักเข้าสู่ท้องเรือ และเหล่ากะลาสีของหนวดดำกระโดดขึ้นเรือเพื่อกอบกู้สิ่งที่ทำได้ก่อนทุกอย่างจะจมสู่ห้วงลึก ใช่ว่าทุกสิ่งจะกอบกู้ได้"}
+{"tag": "LOC_10090A_STORYTITLE", "en_sha": "b466676cfc7f", "status": "draft", "th": "หีบของเดวี โจนส์"}
+{"tag": "LOC_10090B_DESCRIPTION", "en_sha": "cc7ea2a6c07e", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10090B_NAME", "en_sha": "45df23cf1db1", "status": "draft", "th": "เสบียง!"}
+{"tag": "LOC_10090C_DESCRIPTION", "en_sha": "cc7ea2a6c07e", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10090C_NAME", "en_sha": "ef8f3847d5a1", "status": "draft", "th": "ทอง!"}
+{"tag": "LOC_10090D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10090D_NAME", "en_sha": "76d18aa41fe4", "status": "draft", "th": "ให้ชะตากรรมของมันเป็นบทเรียน"}
+{"tag": "LOC_10091A_COMPLETION", "en_sha": "dedf08ffd2b2", "status": "draft", "th": "ในบรรดากัปตันของหนวดดำ มีผู้หนึ่งที่โดดเด่นขึ้นมา เล่าลือกันว่าเขาบัญชาคลื่นและปลาได้ ท้องฟ้าเหนือเรือของเขามืดลง และเขาทำให้เสากระโดงกับไม้เรือแหลกละเอียดได้ด้วยสายตาเพียงครั้งเดียว"}
+{"tag": "LOC_10091A_STORYTITLE", "en_sha": "d0e1b7d6a55e", "status": "draft", "th": "โจรสลัดผู้น่าสะพรึง"}
+{"tag": "LOC_10091B_DESCRIPTION", "en_sha": "5dff21e1c9ed", "status": "draft", "th": "{1_reward} แก่ผู้บัญชาการกองเรือที่มีอยู่ในปัจจุบัน แต่ {2_reward}"}
+{"tag": "LOC_10091B_NAME", "en_sha": "6318a296cdef", "status": "draft", "th": "นี่คือราชันแห่งท้องทะเล มอบทุกสิ่งที่พวกเขาปรารถนา"}
+{"tag": "LOC_10091C_DESCRIPTION", "en_sha": "cc7ea2a6c07e", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10091C_NAME", "en_sha": "10be9fc3b8e5", "status": "draft", "th": "ผู้บัญชาการก็คือผู้บัญชาการ เท่าเทียมกันใต้ธงดำ"}
+{"tag": "LOC_10091D_DESCRIPTION", "en_sha": "d125504d73b1", "status": "draft", "th": "{1_reward} และผู้บัญชาการกองเรือที่มีอยู่ในปัจจุบันทั้งหมดได้รับเพิ่ม 1 ระดับ แต่เสียผู้บัญชาการกองเรือที่มีระดับสูงสุดไป"}
+{"tag": "LOC_10091D_NAME", "en_sha": "e929d707eb84", "status": "draft", "th": "หนวดดำคือกัปตัน ไม่ใช่พวกหน้าใหม่ที่ไหน"}
+{"tag": "LOC_10092A_COMPLETION", "en_sha": "709bae4031bb", "status": "draft", "th": "กัปตันผู้พ่ายแพ้คุกเข่าบนดาดฟ้าเรือที่ครั้งหนึ่งเคยเป็นของเขา ควันดินปืนลอยอ้อยอิ่งหนักอึ้งในอากาศทะเล \"ปล่อยพวกเราไปเถิด\" เขาวิงวอน \"แล้วจะมีอะไรตอบแทนท่าน...\" สายตาของเขาเหลือบขึ้น \"...เป็นการส่วนตัว...\""}
+{"tag": "LOC_10092A_STORYTITLE", "en_sha": "c0fb525e37c4", "status": "draft", "th": "ครอบครองคือเป็นเจ้าของ"}
+{"tag": "LOC_10092B_DESCRIPTION", "en_sha": "26db8a245519", "status": "draft", "th": "ขโมยแผนที่ของ {1_SUBJECT_CIVILIZATION_ADJ} (สำรวจทุกช่องที่พวกเขาสำรวจแล้ว)"}
+{"tag": "LOC_10092B_NAME", "en_sha": "59161a8a52c4", "status": "draft", "th": "\"เอ็งต้องสาบานตน\""}
+{"tag": "LOC_10092C_DESCRIPTION", "en_sha": "85059418820f", "status": "draft", "th": "{1_reward} ที่มีสินค้า 1 หน่วย"}
+{"tag": "LOC_10092C_NAME", "en_sha": "3c657e4a3f5b", "status": "draft", "th": "\"เอ็งจะบอกพวกข้าว่าจะหาพวกเอ็งได้ที่ไหนอีก\""}
+{"tag": "LOC_10092D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10092D_NAME", "en_sha": "8a52c37616f4", "status": "draft", "th": "\"ไปว่ากับปีศาจโน่น\" แล้วก็มีเสียงน้ำกระเซ็น"}
+{"tag": "LOC_10093A_COMPLETION", "en_sha": "2fa90091853e", "status": "draft", "th": "กองทัพเรือมัชปาหิตพัฒนาปืนหมุนจนสมบูรณ์แบบ เป็นปืนใหญ่ติดดาดฟ้าที่ไม่ต้องให้กัปตันหันกราบเรือเข้าหาศัตรู หากยึดมาได้ก็นับเป็นรางวัลอันงาม"}
+{"tag": "LOC_10093A_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10093C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10093C_NAME", "en_sha": "2514d7a14dd4", "status": "draft", "th": "ยิงเต็มกราบเรือก็แล้วกัน และจะยิงเต็มกราบตลอดไป"}
+{"tag": "LOC_10094B_COMPLETION", "en_sha": "54cc099ca143", "status": "draft", "th": "มันคือการร่ายรำบนยอดคลื่น เรือโจรสลัดหันลำ ลากสมอ ม้วนและคลี่ใบเรือ ปืนหมุนของเจ็ตบังติดตามทุกความเคลื่อนไหว... จนกระทั่งกระสุนนัดหนึ่งที่พลาดเป้าส่งมันลงไปเป็นอาหารฉลาม"}
+{"tag": "LOC_10094B_DESCRIPTION", "en_sha": "fc3dc2c9fde0", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10094B_IMPERATIVE", "en_sha": "4046cdb1d5fe", "status": "draft", "th": "กำจัดเจ็ตบัง 1 ลำ"}
+{"tag": "LOC_10094B_NAME", "en_sha": "2db2c8b8549e", "status": "draft", "th": "งั้นก็ยึดมันมา"}
+{"tag": "LOC_10094B_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10095A_COMPLETION", "en_sha": "efcfc5304774", "status": "draft", "th": "โควตาการผลิตและบัญชีรายชื่อบุคลากร สมุดค่าจ้างและโฉนดที่ดิน สิ่งเหล่านี้ไร้ค่าในสายตาของเอ็ดเวิร์ด ทีช ขณะที่เรือที่ยึดมาได้เผยให้เห็นสิ่งที่อยู่ในท้องเรือ เขาสงสัยว่าคนเราจะร่ำรวยได้เพียงด้วยการชิงทรัพย์ด้วยปลายกระบอกปืนหรือไม่"}
+{"tag": "LOC_10095A_STORYTITLE", "en_sha": "b62d445768b6", "status": "draft", "th": "ผลกำไรทั้งปวงคือการขโมย"}
+{"tag": "LOC_10095C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10095C_NAME", "en_sha": "1d773779d249", "status": "draft", "th": "สัญญาว่าจะไม่ทำอีก"}
+{"tag": "LOC_10096B_COMPLETION", "en_sha": "921ccc24d9fb", "status": "draft", "th": "สิ่งที่เป็นของเจ้าคือของข้า และสิ่งที่เป็นของข้าก็คือของข้า"}
+{"tag": "LOC_10096B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10096B_IMPERATIVE", "en_sha": "d2839228e6db", "status": "draft", "th": "นำขบวนสมบัติที่ไม่ได้ผลิตในถิ่นฐานของคุณกลับมาอีก 3 ขบวน"}
+{"tag": "LOC_10096B_NAME", "en_sha": "3d4c2635b5e6", "status": "draft", "th": "ศูนย์เล็งปืน ไม่ใช่สมุดบัญชี จะเป็นกลยุทธ์ใหม่ของหนวดดำ"}
+{"tag": "LOC_10096B_STORYTITLE", "en_sha": "b62d445768b6", "status": "draft", "th": "ผลกำไรทั้งปวงคือการขโมย"}
+{"tag": "LOC_10097A_COMPLETION", "en_sha": "cb280e36f859", "status": "draft", "th": "\"ข้าคงกลายเป็นหนูท้องเรือเสียแล้ว พวกเอ็งดันทำให้ข้าเป็นเทพเจ้า\" หนวดดำพึมพำอยู่หน้าประตูวิหาร \"เจ้าช่างจารไม้!\" เขาตะโกน \"ไปเติมหนวดปลาหมึกลงบนเคราตรงนั้นซะ ได้ไหม\" ช่างแกะสลักไม้พยายามทำเป็นไม่สนใจว่าผู้นำของตนออกเสียงคำนั้นให้คล้องจองกับคำว่า \"ชีส\""}
+{"tag": "LOC_10097A_STORYTITLE", "en_sha": "3d9c8d4839b8", "status": "draft", "th": "เทพแห่งท้องทะเล"}
+{"tag": "LOC_10097B_DESCRIPTION", "en_sha": "895a038e4146", "status": "draft", "th": "ช่องวัตถุศักดิ์สิทธิ์เพิ่มเติมในพระราชวัง"}
+{"tag": "LOC_10097B_NAME", "en_sha": "4ed2aa50f870", "status": "draft", "th": "เพิ่มหนวดปลาหมึก"}
+{"tag": "LOC_10097C_DESCRIPTION", "en_sha": "c3b6c095016d", "status": "draft", "th": "ช่องวัตถุศักดิ์สิทธิ์เพิ่มเติมในพระราชวัง และ {1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10097C_NAME", "en_sha": "c1433ced2734", "status": "draft", "th": "เพิ่มหนวดปลาหมึกและเปลวไฟ"}
+{"tag": "LOC_10098A_COMPLETION", "en_sha": "498af45f2a26", "status": "draft", "th": "เมื่อได้ข่าวว่าลูกเรือของตนแล่นเรือรอบโลกได้สำเร็จ หนวดดำก็รินเหล้ากร็อกเลี้ยงทุกคน ชาวต่างแดนผู้หนึ่งที่เมามายลุยลงไปในคลื่น โจรสลัดจึงตะโกนเรียก \"เฮ้ย! ไอ้หมาขี้เรื้อน มาทำอะไรในทะเลสาบของข้า? ทะเลทั้งหมดเป็นของข้า เข้าใจไหม?\""}
+{"tag": "LOC_10098A_STORYTITLE", "en_sha": "f39f975de461", "status": "draft", "th": "\"นี่คือทะเลสาบของข้า\""}
+{"tag": "LOC_10098B_DESCRIPTION", "en_sha": "0cfc93e3dc67", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ แต่ความสัมพันธ์กับทุกอารยธรรม -20"}
+{"tag": "LOC_10098B_NAME", "en_sha": "279c5897b842", "status": "draft", "th": "ทำให้เป็นนโยบาย ทะเลเป็นของหนวดดำ"}
+{"tag": "LOC_10098C_DESCRIPTION", "en_sha": "1b3f141ab871", "status": "draft", "th": "ไม่มีผลใด ๆ"}
+{"tag": "LOC_10098C_NAME", "en_sha": "f6f96b23b77e", "status": "draft", "th": "ทำให้เป็นเรื่องตลก"}
+{"tag": "LOC_10099A_COMPLETION", "en_sha": "eed0cce32b31", "status": "draft", "th": "นายพลเรือผู้หนึ่งของหนวดดำมีใจรักงานเขียนอย่างน่าประหลาด ส่วนใหญ่เป็นเอกสารปลอมและบทกวีลามก แต่ในห้องเก็บสินค้าของเรือที่เพิ่งยึดได้ลำล่าสุด พวกเขากลับมองเห็นโอกาส"}
+{"tag": "LOC_10099A_STORYTITLE", "en_sha": "472df8f3e444", "status": "draft", "th": "กวีแห่งโจรสลัด"}
+{"tag": "LOC_10099B_DESCRIPTION", "en_sha": "aacf83f2d40b", "status": "draft", "th": "+1 การสนับสนุนสงครามในสงครามทั้งหมด แต่ {1_reward}"}
+{"tag": "LOC_10099B_NAME", "en_sha": "3eb8d28432d7", "status": "draft", "th": "วางแผนสงครามต่อต้านกองทัพเรือของหนวดดำ"}
+{"tag": "LOC_10099C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10099C_NAME", "en_sha": "6ecebb47ff94", "status": "draft", "th": "ทำลายธงประจำเรือ"}
+{"tag": "LOC_10100A_COMPLETION", "en_sha": "bd2f5834a143", "status": "draft", "th": "นายพลเรือผู้หนึ่งเริ่มเศร้าซึมหลังเหล้ากร็อกแก้วที่ห้า บทสนทนาจึงวกไปถึงกองทัพเรือต่างชาติ \"หยุดก่อน!\" เขาร้อง \"ไม่มีเรือลำไหนในทะเลจะต้านพวกมันได้หรอก\" ดวงตาของหนวดดำเป็นประกาย \"เดี๋ยวก็รู้ เจ้าหนู\""}
+{"tag": "LOC_10100A_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10100C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในทุกถิ่นฐาน"}
+{"tag": "LOC_10100C_NAME", "en_sha": "2f2c6e0329bf", "status": "draft", "th": "หงายท้องยอมแพ้ซะ"}
+{"tag": "LOC_10101B_COMPLETION", "en_sha": "8dad750a2826", "status": "draft", "th": "ธงศึกของศัตรูที่ไหม้เกรียมและยับยู่ยี่ถูกโยนลงแทบเท้าหนวดดำ \"เอาไปแขวนไว้ในส้วม\" เขาสั่ง"}
+{"tag": "LOC_10101B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10101B_IMPERATIVE", "en_sha": "fd9722f21f0e", "status": "draft", "th": "เอาชนะมิกาซะ"}
+{"tag": "LOC_10101B_NAME", "en_sha": "62a594d0223f", "status": "draft", "th": "ส่งกองทัพเรือไปเก็บ"}
+{"tag": "LOC_10101B_STORYTITLE", "en_sha": "5cf129601f19", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเล"}
+{"tag": "LOC_10102A_COMPLETION", "en_sha": "b354446dbb22", "status": "draft", "th": "กองบัญชาการทัพเรือที่ประดับด้วยผ้าดำและกะโหลกไขว้คือที่ตั้งของหอจัดแสดงอันน่าสยดสยอง ซึ่งรวบรวมชัยชนะของหนวดดำตลอดหลายยุคสมัย หอแห่งนี้ประกาศโดยไม่ต้องเอ่ยคำว่า \"ท้องทะเลเป็นของข้า\" หนวดดำครุ่นคิดว่าจะเลือกชิ้นใดไปประดับเหนือประตู"}
+{"tag": "LOC_10102A_STORYTITLE", "en_sha": "f75a74c85a1f", "status": "draft", "th": "ถ้วยรางวัลแห่งท้องทะเลครบถ้วน"}
+{"tag": "LOC_10102B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10102B_NAME", "en_sha": "a8126660b3c1", "status": "draft", "th": "ติดดวงตาวาดลายของเรือเดาว์"}
+{"tag": "LOC_10102C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10102C_NAME", "en_sha": "b4077db0a23d", "status": "draft", "th": "ติดปืนหมุนของเจ็ตบัง"}
+{"tag": "LOC_10102D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10102D_NAME", "en_sha": "37851dd9eba6", "status": "draft", "th": "ติดธงขาดวิ่นของเรือมิกาซะ"}
+{"tag": "LOC_10103A_COMPLETION", "en_sha": "91cacf2a89a8", "status": "draft", "th": "เหล่ากัปตันของหนวดดำเรียกเขาว่า \"ไอ้เหาเห็บ\" \"ไอ้ภัยทะเล\" และสารพัดคำที่เขียนออกมาไม่ได้ เขาคือกัปตันที่น่าเกรงขามที่สุดที่เคยต่อกรกับกองทัพเรือของเอ็ดเวิร์ด ทีช และบัดนี้เขาตกเป็นเชลย"}
+{"tag": "LOC_10103A_STORYTITLE", "en_sha": "50941024f165", "status": "draft", "th": "ไอ้เหาเห็บ"}
+{"tag": "LOC_10103B_DESCRIPTION", "en_sha": "fc3dc2c9fde0", "status": "draft", "th": "{1_reward} แก่ยูนิตทางเรือ"}
+{"tag": "LOC_10103B_NAME", "en_sha": "98cfd7f5755e", "status": "draft", "th": "ลากมันลอดใต้ท้องเรือซะ"}
+{"tag": "LOC_10103C_DESCRIPTION", "en_sha": "a20d1f9f6b32", "status": "draft", "th": "{1_reward} พร้อมการเลื่อนขั้น 5 ครั้ง"}
+{"tag": "LOC_10103C_NAME", "en_sha": "2e2535f02f09", "status": "draft", "th": "จับมันเกณฑ์เป็นลูกเรือ"}
+{"tag": "LOC_10103D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10103D_NAME", "en_sha": "72baf2481609", "status": "draft", "th": "ให้มันเดินไม้กระดาน"}
+{"tag": "LOC_10104A_COMPLETION", "en_sha": "7e6d64b47b40", "status": "draft", "th": "เอ็ดเวิร์ด ทีชโน้มตัวเหนือโต๊ะในเรือ หันไปหาเหล่ากัปตันที่มาชุมนุมกัน แต่ละคนเหลียวมองไปรอบ ๆ อย่างกระวนกระวาย สงสัยว่าถูกเรียกมาด้วยเหตุใด และจะมีใครรอดชีวิตกลับไปบ้างหรือไม่ ร่างสูงใหญ่เทกองงานแกะสลักกระดูกลงบนโต๊ะ \"ดูซะ\" โจรสลัดประกาศ \"นี่คือเกมวางแผนของข้า เลือกมาว่าจะเล่นอันไหน\" กัปตันคนหนึ่งชี้นิ้วที่สั่นเทาไปยังกองหนึ่ง"}
+{"tag": "LOC_10104A_STORYTITLE", "en_sha": "37eee5cef1f0", "status": "draft", "th": "เกมของเอ็ด ทีช"}
+{"tag": "LOC_10104B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10104B_NAME", "en_sha": "d77888c5dacf", "status": "draft", "th": "\"เออ พายุกำลังก่อตัว ข้ารู้ดี\""}
+{"tag": "LOC_10104C_DESCRIPTION", "en_sha": "4dd83f38e889", "status": "draft", "th": "+1 [icon:YIELD_DIPLOMACY] อิทธิพลในถิ่นฐานต่อผลงานชิ้นเอกที่จัดวางแต่ละชิ้น"}
+{"tag": "LOC_10104C_NAME", "en_sha": "603d725b6f46", "status": "draft", "th": "เอ็ด ทีชยิ้มกว้าง \"นี่คือโลกใหม่อันกล้าหาญที่เราอยู่\""}
+{"tag": "LOC_10104D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10104D_NAME", "en_sha": "6778cf80c149", "status": "draft", "th": "หนวดดำหัวเราะในลำคออย่างรู้ทัน \"เอ็งนี่มันพวกปล้นสะดมจริง ๆ\""}
+{"tag": "LOC_ATTRIBUTENODE_EDWARD_TEACH_L1_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_EDWARD_TEACH_L1_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_ATTRIBUTENODE_EDWARD_TEACH_L2_DESCRIPTION", "en_sha": "726ec510c9c8", "status": "draft", "th": "+25% ทองจากการค้าและขบวนสมบัติ"}
+{"tag": "LOC_ATTRIBUTENODE_EDWARD_TEACH_L2_NAME", "en_sha": "812a5407a289", "status": "draft", "th": "โหนดคุณลักษณะทางเศรษฐกิจ"}
+{"tag": "LOC_BADGE_EDWARD_TEACH_NAME", "en_sha": "836689f58398", "status": "draft", "th": "เหรียญตราเอ็ดเวิร์ด ทีช 1"}
+{"tag": "LOC_BADGE_EDWARD_TEACH_P_NAME", "en_sha": "a5ed24b74dc2", "status": "draft", "th": "เหรียญตราเอ็ดเวิร์ด ทีช 2"}
+{"tag": "LOC_BANNER_EDWARD_TEACH_NAME", "en_sha": "9d66c168353c", "status": "draft", "th": "แบนเนอร์เอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_EDWARD_TEACH_1_DESCRIPTION", "en_sha": "9bcd0159da0e", "status": "draft", "th": "ตลอดยุคนี้ ได้รับพลังการรบ +3 เมื่อต่อสู้กับยูนิตทางเรือ แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_EDWARD_TEACH_1_NAME", "en_sha": "43800718da0e", "status": "draft", "th": "การอุทิศของเอ็ดเวิร์ด ทีช ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_EDWARD_TEACH_2_DESCRIPTION", "en_sha": "b7fd840fabff", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_GOLD] ทอง +15% แลกกับ [icon:YIELD_FOOD] อาหาร -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_EDWARD_TEACH_2_NAME", "en_sha": "20464d791502", "status": "draft", "th": "การอุทิศของเอ็ดเวิร์ด ทีช ยุคแห่งการสำรวจ - ทางเศรษฐกิจ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_EDWARD_TEACH_1_DESCRIPTION", "en_sha": "28a141401d6e", "status": "draft", "th": "ตลอดยุคนี้ ได้รับพลังการรบ +3 เมื่อต่อสู้กับยูนิตทางอากาศ แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_EDWARD_TEACH_1_NAME", "en_sha": "7274447934fe", "status": "draft", "th": "การอุทิศของเอ็ดเวิร์ด ทีช ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_EDWARD_TEACH_2_DESCRIPTION", "en_sha": "b7fd840fabff", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_GOLD] ทอง +15% แลกกับ [icon:YIELD_FOOD] อาหาร -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_EDWARD_TEACH_2_NAME", "en_sha": "ae81fddf0731", "status": "draft", "th": "การอุทิศของเอ็ดเวิร์ด ทีช ยุคสมัยใหม่ - ทางเศรษฐกิจ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_EDWARD_TEACH_DESC", "en_sha": "dcf350de1474", "status": "draft", "th": "ชอบผู้นำที่สร้างยูนิตทางเรือ ไม่ชอบผู้นำที่ละเลยการสร้างยูนิตทางเรือ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_EDWARD_TEACH_DESC_DISLIKES", "en_sha": "a5f8367d84dd", "status": "draft", "th": "เอ็ดเวิร์ด ทีชไม่ชอบผู้นำที่ละเลยการสร้างยูนิตทางเรือ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_EDWARD_TEACH_DESC_LIKES", "en_sha": "4233481488cc", "status": "draft", "th": "เอ็ดเวิร์ด ทีชชอบผู้นำที่สร้างยูนิตทางเรือ"}
+{"tag": "LOC_DIPLOMACY_AGENDA_EDWARD_TEACH_NAME", "en_sha": "5e2c8bb2d8a6", "status": "draft", "th": "ควีนแอนส์รีเวนจ์"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_EDWARD_TEACH_ANY", "en_sha": "6ce884c40e71", "status": "draft", "th": "หันกราบเรือเข้าหามัน เหล่าลูกเรือ! มีเลือดรอให้ดื่มอยู่"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_EDWARD_TEACH_ANY", "en_sha": "64a6e0885665", "status": "draft", "th": "ขอให้นรกฉุดวิญญาณข้าไปหากข้าจะไว้ชีวิตเจ้าหรือขอชีวิตจากเจ้า!"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_EDWARD_TEACH_ANY", "en_sha": "af61f2a79c91", "status": "draft", "th": "เออ เจ้าจมเรือข้าได้ ระหว่างปีศาจกับเดวี โจนส์ ก็มีเจ้านี่แหละ"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_EDWARD_TEACH_ANY", "en_sha": "8eda28cf8e35", "status": "draft", "th": "ฟังให้ดี นี่คือพลเรือเอกแห่งธงดำ ภัยร้ายแห่งเจ็ดคาบสมุทร - เอ็ดเวิร์ด ทีช หนวดดำตัวจริงเสียงจริง"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_EDWARD_TEACH_ANY", "en_sha": "8eda28cf8e35", "status": "draft", "th": "ฟังให้ดี นี่คือพลเรือเอกแห่งธงดำ ภัยร้ายแห่งเจ็ดคาบสมุทร - เอ็ดเวิร์ด ทีช หนวดดำตัวจริงเสียงจริง"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_EDWARD_TEACH_ANY", "en_sha": "8eda28cf8e35", "status": "draft", "th": "ฟังให้ดี นี่คือพลเรือเอกแห่งธงดำ ภัยร้ายแห่งเจ็ดคาบสมุทร - เอ็ดเวิร์ด ทีช หนวดดำตัวจริงเสียงจริง"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_EDWARD_TEACH", "en_sha": "85565f7d2cdd", "status": "draft", "th": "ทำได้งามนัก"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_EDWARD_TEACH", "en_sha": "b0d152ed92ef", "status": "draft", "th": "จมมันทิ้งไปซะ!"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_EDWARD_TEACH", "en_sha": "84d4b9c445c0", "status": "draft", "th": "ข้าอยากเรียกเจ้าว่าหมาขี้เรื้อน แต่ข้าชอบหมา"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_EDWARD_TEACH", "en_sha": "00ce4ce8d131", "status": "draft", "th": "เออ นั่นแหละที่จุดชนวนในใจข้า"}
+{"tag": "LOC_LEADER_CHAIN_1260A_COMPLETION", "en_sha": "2642a3f17a13", "status": "draft", "th": "เหล่ากะลาสีกระซิบกระซาบเมื่อเอ็ดเวิร์ด ทีชเดินผ่าน: \"ดูเคราเขานั่นสิวะ ข้างใต้นั่นมีอะไรซ่อนอยู่ เอ็งว่าไหม?\""}
+{"tag": "LOC_LEADER_CHAIN_1260A_STORYTITLE", "en_sha": "6d61ca6ec68a", "status": "draft", "th": "เบื้องหลังเครา"}
+{"tag": "LOC_LEADER_CHAIN_1260B_COMPLETION", "en_sha": "d660c6285c3b", "status": "draft", "th": "\"ข้าบอกเอ็งแล้ว\" กะลาสีคนแรกว่า \"เรือแกลลีพวกนั้นมีไว้สำหรับทองคำแท่งกับเลือด\""}
+{"tag": "LOC_LEADER_CHAIN_1260B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1260B_IMPERATIVE", "en_sha": "29d5b23f788a", "status": "draft", "th": "ฝึกยูนิตทางเรือเพิ่มอีก 4 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1260B_NAME", "en_sha": "cf16f9fd2f95", "status": "draft", "th": "\"มีดสั้น\" อีกคนตอบ"}
+{"tag": "LOC_LEADER_CHAIN_1260B_STORYTITLE", "en_sha": "6d61ca6ec68a", "status": "draft", "th": "เบื้องหลังเครา"}
+{"tag": "LOC_LEADER_CHAIN_1260C_COMPLETION", "en_sha": "10d02d38ee9f", "status": "draft", "th": "\"ดูนั่นสิ\" กะลาสีคนที่สองว่า \"แกลูบคางทีไร ทองก็ร่วงออกมาที\""}
+{"tag": "LOC_LEADER_CHAIN_1260C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1260C_IMPERATIVE", "en_sha": "5e5ec63414b1", "status": "draft", "th": "มีเส้นทางการค้า 2 เส้นทาง"}
+{"tag": "LOC_LEADER_CHAIN_1260C_NAME", "en_sha": "386f30a91616", "status": "draft", "th": "\"คางทองคำไงล่ะ ข้าว่า\""}
+{"tag": "LOC_LEADER_CHAIN_1260C_STORYTITLE", "en_sha": "6d61ca6ec68a", "status": "draft", "th": "เบื้องหลังเครา"}
+{"tag": "LOC_LEADER_CHAIN_1260D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1260D_NAME", "en_sha": "8b3c4c61b020", "status": "draft", "th": "\"เคราอีกกระจุก ที่เล็กกว่า\""}
+{"tag": "LOC_LEADER_CHAIN_1261A_COMPLETION", "en_sha": "184f11166c5c", "status": "draft", "th": "\"พวกบกจ๋า\" หนวดดำเปรยกับกัปตันคนหนึ่ง \"ไม่รู้อะไรเรื่องทะเลซักกะนิด พวกมันเห็นกำแพง แต่พวกเราเห็นประตูกลางทะเล เข้าใจไหม? แล้วนี่\" เขาผายมือไปทางเรือ \"คือกุญแจไขประตูบานนั้น\""}
+{"tag": "LOC_LEADER_CHAIN_1261A_STORYTITLE", "en_sha": "3be2a8ea38ae", "status": "draft", "th": "ประตูกลางทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1261B_COMPLETION", "en_sha": "6af9a78be65e", "status": "draft", "th": "ทะเลคือประตูที่เปิดกว้าง ดังที่หนวดดำทำนายไว้ ผ่านประตูบานนั้นมาคือคมดาบและเปลวเพลิง"}
+{"tag": "LOC_LEADER_CHAIN_1261B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1261B_IMPERATIVE", "en_sha": "df7187917b8a", "status": "draft", "th": "ปล้นสะดม 3 ช่องด้วยยูนิตทางเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1261B_NAME", "en_sha": "c2c54ec21664", "status": "draft", "th": "ไขกุญแจประตู"}
+{"tag": "LOC_LEADER_CHAIN_1261B_STORYTITLE", "en_sha": "3be2a8ea38ae", "status": "draft", "th": "ประตูกลางทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1261C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1261C_NAME", "en_sha": "732fc50b0ec4", "status": "draft", "th": "มุ่งเน้นกองกำลังทางบก"}
+{"tag": "LOC_LEADER_CHAIN_1262A_COMPLETION", "en_sha": "17c8c0fda6af", "status": "draft", "th": "บนเรือสินค้าที่เพิ่งกลับจากการเดินทางอันยาวนาน การโต้เถียงปะทุขึ้นระหว่างต้นหนกับกัปตัน \"ข้าโดนหลอกแล้ว!\" ผู้ก่อกบฏอ้าปากค้าง \"ไอ้หนูท้องเรือ! รับใช้บนเรือลำนี้มาหลายปี แล้วนี่คือส่วนแบ่งของข้ารึ?\" เอ็ดเวิร์ด ทีชก้าวเข้ามาห้าม"}
+{"tag": "LOC_LEADER_CHAIN_1262A_STORYTITLE", "en_sha": "105dfb66be9c", "status": "draft", "th": "โครงร่างของแผนการ"}
+{"tag": "LOC_LEADER_CHAIN_1262B_COMPLETION", "en_sha": "ff5787efd6f0", "status": "draft", "th": "ความเป็นอยู่ดีขึ้นแล้ว แต่ปัญหาเรื่องกะลาสีและค่าแรงของพวกเขายังคงค้างคา บางทีอาจถึงเวลาต้องมีประมวลกฎสักฉบับ"}
+{"tag": "LOC_LEADER_CHAIN_1262B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1262B_IMPERATIVE", "en_sha": "12fec60e0c0a", "status": "draft", "th": "บรรลุการเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1262B_NAME", "en_sha": "c772d0df9fb9", "status": "draft", "th": "\"ได้เลยไอ้หนุ่ม เอ็งจะได้สิ่งที่สมควรได้\" กัปตันยอมถอย"}
+{"tag": "LOC_LEADER_CHAIN_1262B_STORYTITLE", "en_sha": "105dfb66be9c", "status": "draft", "th": "โครงร่างของแผนการ"}
+{"tag": "LOC_LEADER_CHAIN_1262C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1262C_NAME", "en_sha": "1c2608e77997", "status": "draft", "th": "\"ได้เลยไอ้หนุ่ม เอ็งจะได้สิ่งที่สมควรได้\" เสียงตูม"}
+{"tag": "LOC_LEADER_CHAIN_1263A_COMPLETION", "en_sha": "6ddbe4834812", "status": "draft", "th": "สมอเรือกระทบกันดังกริ๊งกร๊างขณะถูกดึงขึ้นเรือ ตัวเรือครวญครางขณะเริ่มเคลื่อนออกจากอู่ เอ็ดเวิร์ด ทีชกวาดตามองเส้นขอบฟ้า สายลมสดชื่นพัดเคราดำของเขาให้พลิ้วไหวรอบใบหู \"เราจะแล่นไปทางไหนดี?\" ต้นหนของเขาถาม"}
+{"tag": "LOC_LEADER_CHAIN_1263A_STORYTITLE", "en_sha": "2d62fbfd29f4", "status": "draft", "th": "การลงเรือ"}
+{"tag": "LOC_LEADER_CHAIN_1263B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1263B_NAME", "en_sha": "5f030f5480c7", "status": "draft", "th": "\"เพื่อเลือดและของปล้นไงเพื่อนยาก\""}
+{"tag": "LOC_LEADER_CHAIN_1263C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1263C_NAME", "en_sha": "9e531c26ab35", "status": "draft", "th": "\"เพื่อเงินทองและกำไร\""}
+{"tag": "LOC_LEADER_CHAIN_1264A_COMPLETION", "en_sha": "0903ae8d45f2", "status": "draft", "th": "ละครเสียดสีเรื่องหนึ่งกำลังได้รับความนิยม โดยพรรณนาหนวดดำว่าเป็นนักต้มตุ๋นจองหองที่ขี้โม้ แน่นอนว่าคนเขียนบทและนักแสดงถูกลงโทษลากใต้ท้องเรือไปเรียบร้อยแล้ว แต่หนวดดำก็ยังกังวลเรื่องภาพลักษณ์ของตน"}
+{"tag": "LOC_LEADER_CHAIN_1264A_STORYTITLE", "en_sha": "2ce09abc0c36", "status": "draft", "th": "เคราสำลี?"}
+{"tag": "LOC_LEADER_CHAIN_1264B_COMPLETION", "en_sha": "e33f507f88d6", "status": "draft", "th": "ความห้าวหาญย่อมมีผู้ชื่นชม กองเรือโจรสลัดกองหนึ่งเข้าร่วมอุดมการณ์"}
+{"tag": "LOC_LEADER_CHAIN_1264B_DESCRIPTION", "en_sha": "904342341c71", "status": "draft", "th": "ผู้บัญชาการกองเรือพร้อมเรือโจรสลัดรับอนุญาต 4 ลำ"}
+{"tag": "LOC_LEADER_CHAIN_1264B_IMPERATIVE", "en_sha": "ee8967537cfa", "status": "draft", "th": "เอาชนะยูนิต 3 ยูนิตโดยไม่ได้อยู่ในภาวะสงครามกับอารยธรรมนั้น (ยูนิตจากขั้วอำนาจอิสระหรือนครรัฐไม่นับ)"}
+{"tag": "LOC_LEADER_CHAIN_1264B_NAME", "en_sha": "d335c95ba14b", "status": "draft", "th": "หาเรื่องกับคนตัวใหญ่"}
+{"tag": "LOC_LEADER_CHAIN_1264B_STORYTITLE", "en_sha": "2ce09abc0c36", "status": "draft", "th": "เคราสำลี?"}
+{"tag": "LOC_LEADER_CHAIN_1264C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1264C_NAME", "en_sha": "fc247da4086e", "status": "draft", "th": "ทีนี้หนวดดำจะเป็นผู้กำกับเอง!"}
+{"tag": "LOC_LEADER_CHAIN_1265A_COMPLETION", "en_sha": "2ed08d816b1b", "status": "draft", "th": "หน้ากระจกเงาสกปรกบานหนึ่ง หนวดดำผูกริบบิ้นและถักเปียให้สิ่งที่เป็นที่มาของฉายาตน มันเป็นเคราที่น่าประทับใจ แต่จะทำให้ผู้คนหวาดกลัวได้หรือไม่?"}
+{"tag": "LOC_LEADER_CHAIN_1265A_STORYTITLE", "en_sha": "13b155cdafb9", "status": "draft", "th": "เคราที่ดำที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1265B_COMPLETION", "en_sha": "b721c7b7dad6", "status": "draft", "th": "บัดนี้เคราลุกฉ่าและพ่นควันโขมง บัดนี้ศัตรูของหนวดดำต่างตัวสั่นงันงก"}
+{"tag": "LOC_LEADER_CHAIN_1265B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1265B_IMPERATIVE", "en_sha": "e4bc8ffb64aa", "status": "draft", "th": "เอาชนะยูนิต 3 ยูนิตด้วยปืนใหญ่บอมบาร์ด"}
+{"tag": "LOC_LEADER_CHAIN_1265B_NAME", "en_sha": "da78398337c8", "status": "draft", "th": "ชนวน - ชนวนที่จุดไฟแล้ว - น่าจะได้ผล"}
+{"tag": "LOC_LEADER_CHAIN_1265B_STORYTITLE", "en_sha": "13b155cdafb9", "status": "draft", "th": "เคราที่ดำที่สุด"}
+{"tag": "LOC_LEADER_CHAIN_1266A_COMPLETION", "en_sha": "e706ed83c732", "status": "draft", "th": "บนเรือหนึ่งลำมีทั้งสรั่งและพนักงานการเงิน ต้นเรือและพ่อครัว และประมวลกฎโจรสลัดกำหนดหน้าที่ของแต่ละคนไว้อย่างชัดเจน เอ็ดเวิร์ด ทีชเริ่มมองเห็นความคล้ายคลึงในนครของตน: ช่างตีเหล็ก อาลักษณ์ นายธนาคาร ช่างทอผ้า"}
+{"tag": "LOC_LEADER_CHAIN_1266A_STORYTITLE", "en_sha": "fcfabe395d77", "status": "draft", "th": "ประมวลกฎโจรสลัดบนบก"}
+{"tag": "LOC_LEADER_CHAIN_1266B_COMPLETION", "en_sha": "6de0bb944221", "status": "draft", "th": "ย่านเขตเมืองแต่ละแห่งมีกัปตันของตน ตลาดแต่ละแห่งมีพนักงานการเงินของตน นครทั้งหลายก็เป็นเพียงเรือที่อยู่บนบก"}
+{"tag": "LOC_LEADER_CHAIN_1266B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1266B_IMPERATIVE", "en_sha": "dbfc0388ab23", "status": "draft", "th": "มีผู้เชี่ยวชาญ 16 คน"}
+{"tag": "LOC_LEADER_CHAIN_1266B_NAME", "en_sha": "d655ce304b6d", "status": "draft", "th": "ร่างประมวลกฎโจรสลัดสำหรับแผ่นดินนี้"}
+{"tag": "LOC_LEADER_CHAIN_1266B_STORYTITLE", "en_sha": "fcfabe395d77", "status": "draft", "th": "ประมวลกฎโจรสลัดบนบก"}
+{"tag": "LOC_LEADER_CHAIN_1266C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1266C_NAME", "en_sha": "534fa3e29146", "status": "draft", "th": "ให้เหล่าโจรสลัดคงสถานะพิเศษไว้"}
+{"tag": "LOC_LEADER_CHAIN_1267A_COMPLETION", "en_sha": "49e2180d6abb", "status": "draft", "th": "บนดาดฟ้าเรือ เสียงแส้หวดดังขึ้นครั้งแล้วครั้งเล่า - สี่สิบที เว้นไว้หนึ่ง นี่คือโทษตามประมวลกฎโจรสลัดสำหรับการสูบกล้องยาสูบที่ไม่มีฝาปิดใต้ดาดฟ้า หรือการลั่นไกอาวุธเปล่า หรือการจุดเทียนไม่มีครอบ หรือการเล่นดนตรีในวันอาทิตย์"}
+{"tag": "LOC_LEADER_CHAIN_1267A_STORYTITLE", "en_sha": "bc13fb0469b4", "status": "draft", "th": "ประมวลกฎโจรสลัด"}
+{"tag": "LOC_LEADER_CHAIN_1267B_COMPLETION", "en_sha": "188e552024b5", "status": "draft", "th": "ประมวลกฎโจรสลัดได้รับการตราขึ้นแล้ว และทุกคนต่างเห็นพ้อง"}
+{"tag": "LOC_LEADER_CHAIN_1267B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1267B_IMPERATIVE", "en_sha": "9d182d0cc305", "status": "draft", "th": "มีช่องนโยบาย 8 ช่อง"}
+{"tag": "LOC_LEADER_CHAIN_1267B_NAME", "en_sha": "2f44b5309522", "status": "draft", "th": "ใช่แล้ว นี่แหละข้อตกลงร่วมของพวกเรา"}
+{"tag": "LOC_LEADER_CHAIN_1267B_STORYTITLE", "en_sha": "bc13fb0469b4", "status": "draft", "th": "ประมวลกฎโจรสลัด"}
+{"tag": "LOC_LEADER_CHAIN_1268A_COMPLETION", "en_sha": "990f5497c7a2", "status": "draft", "th": "ธงดำของหนวดดำเคยทำให้ลูกเรือทั้งหลายแตกฮือหนีทันทีที่มันโผล่พ้นเส้นขอบฟ้า แต่เรือลำใหม่ของเขาข่มขวัญได้อีกขั้นหนึ่ง ด้วยการไม่ปรากฏให้เห็น แต่แฝงตัวซุ่มอยู่ใต้ผิวน้ำ"}
+{"tag": "LOC_LEADER_CHAIN_1268A_STORYTITLE", "en_sha": "9a93576f4d01", "status": "draft", "th": "พลเรือเอกแห่งธงดำ"}
+{"tag": "LOC_LEADER_CHAIN_1268B_COMPLETION", "en_sha": "d47d64c10a9f", "status": "draft", "th": "ธงดำโบกสะบัดในห้วงลึก คลื่นที่ซัดสาดกระซิบว่า \"ความตาย\" เดวี โจนส์เก็บวิญญาณผู้ที่กล้าแล่นเรือในทะเลของหนวดดำ จงฟังเสียงพลเรือเอกแห่งธงดำ"}
+{"tag": "LOC_LEADER_CHAIN_1268B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1268B_IMPERATIVE", "en_sha": "bb13b731fc30", "status": "draft", "th": "เอาชนะยูนิต 10 ยูนิตด้วยเรือดำน้ำ"}
+{"tag": "LOC_LEADER_CHAIN_1268B_NAME", "en_sha": "e6207d029d16", "status": "draft", "th": "หว่านเมล็ดพันธุ์แห่งความหวาดกลัว"}
+{"tag": "LOC_LEADER_CHAIN_1268B_STORYTITLE", "en_sha": "9a93576f4d01", "status": "draft", "th": "พลเรือเอกแห่งธงดำ"}
+{"tag": "LOC_LEADER_CHAIN_1268C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1268C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1268D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1268D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1269A_COMPLETION", "en_sha": "24452fe927c3", "status": "draft", "th": "เรือสินค้าลำหนึ่งของเอ็ดเวิร์ด ทีชถูกทางการต่างชาติยึดไว้ จะลักลอบขนของหรือไม่นั้นดูไม่ใช่ประเด็น - บริษัทการค้าทั้งหลายเรียกร้องให้ประกาศใช้กฎหมายทะเลที่ทีชเป็นผู้ร่างและบังคับใช้เอง"}
+{"tag": "LOC_LEADER_CHAIN_1269A_STORYTITLE", "en_sha": "c9bf21dd53c7", "status": "draft", "th": "พลเรือเอกแห่งธงน้ำเงิน"}
+{"tag": "LOC_LEADER_CHAIN_1269B_COMPLETION", "en_sha": "04ac772bbf06", "status": "draft", "th": "ทุกผู้ที่แล่นเรือในท้องทะเลต่างแสดงความคารวะต่อเอ็ดเวิร์ด ทีช ผู้ปกครองทุกสิ่งที่เดือดพล่านและเป็นฟอง จงฟังเสียงพลเรือเอกแห่งธงน้ำเงิน"}
+{"tag": "LOC_LEADER_CHAIN_1269B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1269B_IMPERATIVE", "en_sha": "b106f265df10", "status": "draft", "th": "ยึดนครชายฝั่ง 1 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1269B_NAME", "en_sha": "1f80b3ea842b", "status": "draft", "th": "ท้องทะเลจะมีแม่ทัพเรือของมัน"}
+{"tag": "LOC_LEADER_CHAIN_1269B_STORYTITLE", "en_sha": "c9bf21dd53c7", "status": "draft", "th": "พลเรือเอกแห่งธงน้ำเงิน"}
+{"tag": "LOC_LEADER_CHAIN_1269C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1269C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1269D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1269D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_EDWARD_TEACH_DESCRIPTION", "en_sha": "a324475249f2", "status": "draft", "th": "ยูนิตทางเรือทั้งหมดได้รับ [icon:UNIT_CAUTION] ความสามารถโจรสลัด ทำให้ข้ามพรมแดนของอารยธรรมอื่นได้ [icon:Action_Pillage] ปล้นเส้นทางการค้าของอารยธรรมที่ไม่ใช่พันธมิตรได้ และโจมตียูนิตของอารยธรรมที่ไม่ใช่พันธมิตรได้โดยไม่ต้องประกาศ [icon:WAR] สงคราม การเอาชนะยูนิตทางเรือใดก็ตามด้วยยูนิตทางเรือของคุณจะให้ [icon:YIELD_GOLD] ทองเท่ากับ 50% ของ [icon:NAR_REW_COMBAT] พลังการรบของยูนิตนั้น และยึดยูนิตนั้นมาอยู่ใต้การควบคุมของคุณ ค่าบำรุงรักษาทอง +1 สำหรับยูนิตทางเรือ"}
+{"tag": "LOC_LEADER_EDWARD_TEACH_NAME", "en_sha": "a98a29977526", "status": "draft", "th": "เอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_EDWARD_TEACH", "en_sha": "bd2d0fd2c3a9", "status": "draft", "th": "จอมพลเรือแห่งธงดำ ท่านรู้ดีว่ากระสุนที่ร้ายแรงที่สุดคือชื่อเสียง หาใช่ปืนไม่ และแม้ท่านจะเกิดมาในนามเอ็ดเวิร์ด ทีช แต่นามหนวดดำต่างหากที่ทำให้กะลาสีทั้งหลายขวัญผวา จงถอนสมอเถิด เพราะมีทั้งเรือและกองคาราวานที่บรรทุกของมีค่าเต็มลำ เตรียมเรือควีนแอนส์รีเวนจ์ให้พร้อมรบอีกครั้ง มีสมบัติรอให้ปล้นอยู่"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_EDWARD_TEACH_ANY", "en_sha": "fcb8f24591a0", "status": "draft", "th": "จ้องตาข้าไว้ สหาย เรามุ่งหมายการปล้นและกำไร และไม่ยอมให้สิ่งใดแก่ทั้งกษัตริย์และพระเจ้า"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_DESCRIPTION", "en_sha": "261530358b75", "status": "draft", "th": "ให้การรบเริ่มต้นขึ้น"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_FUNCTIONAL_DESCRIPTION", "en_sha": "8d3f1efc2cdb", "status": "draft", "th": "[B]+2 [icon:NAR_REW_COMBAT][/B] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]สำหรับ[TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]ยูนิตทางเรือ[/TIP]เมื่อโจมตี"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_NAME", "en_sha": "b52f7d1c90ab", "status": "draft", "th": "ปืนพกคู่"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_PREVIEW", "en_sha": "33e9eaaf0a73", "status": "draft", "th": "+2 ปืนพกคู่"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_BRACE_OF_PISTOLS_UNLOCK_TITLE", "en_sha": "e6dc12e9e4ee", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของเอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_DESCRIPTION", "en_sha": "44b6ee066640", "status": "draft", "th": "ทะยานเหนือท้องทะเล"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_FUNCTIONAL_DESCRIPTION", "en_sha": "beb3a3816ddb", "status": "draft", "th": "การเอาชนะยูนิตทางเรือใด ๆ จะให้ [icon:YIELD_GOLD] เท่ากับ 25% ของ [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ของยูนิตนั้น"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_NAME", "en_sha": "8fac420ac7be", "status": "draft", "th": "หุ่นหัวเรือควีนแอนส์รีเวนจ์"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_FIGUREHEAD_OF_QUEEN_ANNES_REVENGE_UNLOCK_TITLE", "en_sha": "28495fc06b2f", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของเอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_DESCRIPTION", "en_sha": "7bc79c12246a", "status": "draft", "th": "ยารักษาสารพัดโรค"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_FUNCTIONAL_DESCRIPTION", "en_sha": "1b4ccc13d838", "status": "draft", "th": "+5 การรักษาสำหรับ[TIP:LOC_PEDIA_CONCEPTS_NAVAL_UNITS_TOOLTIP]ยูนิตทางเรือ[/TIP]"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_NAME", "en_sha": "ea2ba4ae0abd", "status": "draft", "th": "หีบยา"}
+{"tag": "LOC_MEMENTO_EDWARD_TEACH_MEDICINE_CHEST_UNLOCK_TITLE", "en_sha": "b161a70d2cdb", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของเอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "e080ae383eae", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคโบราณ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "83178f714e69", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคโบราณ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "91ccd02aeed8", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "77f843d338b5", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคแห่งการสำรวจ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "bd284ebdee4b", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคแห่งการสำรวจ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "e744387e5c75", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "c18772e60e34", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคสมัยใหม่ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "bd88ef87fc4a", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคสมัยใหม่ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_DESC", "en_sha": "3fe0a88238fd", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "007db17bdd56", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์พิธีรหัสยะแห่งออร์ฟิอุสให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "e02b87ace80e", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์อาณาจักรแห่งสวรรค์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "9860ef26ab66", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์แดนมหัศจรรย์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "740498c8c169", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สิ่งมหัศจรรย์ของโลกโบราณให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "0a8e79e4caa5", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ Toshakhana ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "f9698e5e56aa", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สมาคมภูมิศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_VICTORY_DESC", "en_sha": "ad846350af66", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DEITY_VICTORY_DESC", "en_sha": "fbdb9769cb65", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "3435baca4a11", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ขนมปังและละครสัตว์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "e3d4953e3127", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์พันธมิตรสี่ฝ่ายให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "c6f177e73247", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์รหัสเอนิกมาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "6ed2f76302f1", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ชักใยอยู่เบื้องหลังให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "cb707467f3e4", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ภาคีนักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "39f4131b1fb0", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สันนิบาตชาติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a6bd3fa051be", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ความโลภคือทองคำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "da803db65241", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์มาตกลงกันที่กาลิกัตให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "a42c6d631206", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์โรงงานของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "68b384a9c637", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์เส้นทางสายไหมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "bed4ffef3696", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์กองเรือสมบัติให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "0698783bd5e1", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์เจ้าพ่อทางรถไฟให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_VICTORY_DESC", "en_sha": "f4485dc9c711", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "769f19c9f4db", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์หอบาเบลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "3337acf2139e", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ที่บ้านก็มีฮับส์บูร์กให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "024ce49f9742", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์อภิมหานครให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "4151925dd2bc", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สี่มุมโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "2930126fe6f5", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ Hic Sunt Dracones ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "dcceb5b44d46", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ดวงอาทิตย์ไม่เคยตกดินให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "895179fd0888", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคโบราณครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "29f5644088de", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สำคัญให้สำเร็จ 4 รายการภายในยุคแห่งการสำรวจครั้งเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a0fd46c93925", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ไกอัสตัวจริงให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "9ce1306e3190", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ Pax Mongolica ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "f58cb774937d", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ศัตรูของโลกให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b85b969fba33", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ Pax Imperatoria ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "24d80359a48c", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ Non Sufficit Orbis ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "60182a9e65c3", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์พันธะทางศีลธรรมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_VICTORY_DESC", "en_sha": "fa098bec677f", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_1_DESC", "en_sha": "c7a0c9b2546d", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สำคัญให้สำเร็จ 1 รายการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_2_DESC", "en_sha": "4e21b34bf2db", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สำคัญให้สำเร็จรวม 5 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_3_DESC", "en_sha": "dfc4791bf870", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์สำคัญให้สำเร็จรวม 25 รายการ ในยุคใดก็ได้"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "c430f89c73b1", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ผู้เชื่อว่าโลกกลมให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "d69154935108", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์ว่าด้วยการโคจรของทรงกลมฟ้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "a35037cf8662", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์เหนือคมดาบให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "c9103700bd99", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์หอสมุดอัสซูร์บานิปาลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "e01fd185f4b5", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์การเรืองปัญญาให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "c0912eda77a5", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช ทำไทรอัมพ์รุ่งอรุณแห่งการแข่งขันทางอวกาศให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_VICTORY_DESC", "en_sha": "9d79e3fdddf2", "status": "draft", "th": "เล่นเป็นเอ็ดเวิร์ด ทีช คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_EDWARD_TEACH_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_ANTIQUITY_DESC", "en_sha": "1cbadd9d4594", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคโบราณ ทำภารกิจเพื่อเปิดเส้นทางสู่ทะเลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_ANTIQUITY_NAME", "en_sha": "3be2a8ea38ae", "status": "draft", "th": "ประตูกลางทะเล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_EXPLORATION_DESC", "en_sha": "d5de13236898", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคแห่งการสำรวจ ทำภารกิจเพื่อจุดชนวนให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_EXPLORATION_NAME", "en_sha": "13b155cdafb9", "status": "draft", "th": "เคราที่ดำที่สุด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_MODERN_DESC", "en_sha": "63e84f938f9e", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคสมัยใหม่ ทำภารกิจเพื่อสร้างภัยคุกคามใต้น้ำให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_A_MODERN_NAME", "en_sha": "9a93576f4d01", "status": "draft", "th": "พลเรือเอกแห่งธงดำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_ANTIQUITY_DESC", "en_sha": "44b3f1965c63", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคโบราณ ทำภารกิจเพื่อยุติข้อพิพาทให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_ANTIQUITY_NAME", "en_sha": "105dfb66be9c", "status": "draft", "th": "โครงร่างของแผนการ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_EXPLORATION_DESC", "en_sha": "f3c6425470e2", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคแห่งการสำรวจ ทำภารกิจเพื่อบังคับใช้กฎของโจรสลัดให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_EXPLORATION_NAME", "en_sha": "bc13fb0469b4", "status": "draft", "th": "ประมวลกฎโจรสลัด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_MODERN_DESC", "en_sha": "4550ab81de42", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช ในยุคสมัยใหม่ ทำภารกิจเพื่อบังคับใช้กฎแห่งท้องทะเลให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_EDWARD_TEACH_QUEST_B_MODERN_NAME", "en_sha": "c9bf21dd53c7", "status": "draft", "th": "พลเรือเอกแห่งธงน้ำเงิน"}
+{"tag": "LOC_MODULE_LEADER_EDWARD_TEACH_DESCRIPTION", "en_sha": "ceaee74bbaf4", "status": "draft", "th": "มีผู้นำใหม่ คือ เอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_MODULE_LEADER_EDWARD_TEACH_NAME", "en_sha": "a98a29977526", "status": "draft", "th": "เอ็ดเวิร์ด ทีช"}
+{"tag": "LOC_MOD_ATTRIBUTE_ECONOMIC_LEGEND_EDWARD_TEACH_L2_DESCRIPTION", "en_sha": "1c4027adcb0c", "status": "draft", "th": "ปลดล็อกตำนาน[n]+25% [icon:YIELD_GOLD] ทองจาก [icon:TRADE_INCOME] รายได้จากการค้าและ [icon:UNIT_TREASURE_FLEET] ขบวนสมบัติ"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_EDWARD_TEACH_L1_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_EDWARD_TEACH_CHAPTER_HISTORY_PARA_1", "en_sha": "9b5653034f6a", "status": "draft", "th": "ความหวาดกลัวคืออาวุธ มันเคยนำหน้ากองทัพมองโกล ทำให้นครทั้งหลายยอมจำนนแม้เพียงได้ยินข่าวลือว่ากองทัพกำลังมา และมันก็มีบทบาทสำคัญยิ่งต่อการปล้นสะดมของหนวดดำทั่วทะเลแคริบเบียน เมื่อ \"ธงเลือด\" สีแดงล้วน หรือ \"ธงหัวกะโหลก\" สีดำรูปกะโหลก (มิใช่โครงกระดูกปีศาจแทงหัวใจอย่างที่มักกล่าวอ้างกัน) ถูกชักขึ้นสู่ยอดเสากระโดง เรือทั้งหลายก็ยอมมอบสินค้าแต่โดยดีแทนที่จะเผชิญกับสิ่งที่ตนหวาดกลัว โจรสลัดร่างสูงผู้แต่งกายพิสดารผู้นี้ขึ้นชื่อเรื่องการเสียบชนวนที่จุดไฟไว้ในหนวดเครา - เพื่อข่มขวัญศัตรูให้ได้ผลยิ่งขึ้น แต่นี่คือหนวดดำ โจรสลัดในจินตนาการ หาใช่เอ็ดเวิร์ด ทีช ตัวจริงไม่"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_EDWARD_TEACH_CHAPTER_HISTORY_PARA_2", "en_sha": "71b9f0e4c156", "status": "draft", "th": "ทีช - ซึ่งบางครั้งเขียนว่า \"แทตช์\" - ปรากฏในบันทึกทางประวัติศาสตร์ที่นิวพรอวิเดนซ์ ฐานที่มั่นของสาธารณรัฐโจรสลัดอันมีอายุสั้นในทะเลแคริบเบียน ก่อนหน้านั้นมีเพียงการคาดเดา เช่น ว่าเขาเคยเป็นโจรสลัดได้รับอนุญาตในสงครามควีนแอนน์ (ซึ่งฝรั่งเศสกับสเปนรบกันเพื่อแย่งชิงอำนาจเหนืออเมริกาเหนือ) หนวดดำรับใช้สาธารณรัฐโจรสลัดอันมีอายุสั้นภายใต้การบัญชาของเบนจามิน ฮอร์นิโกลด์ และได้สั่งสมการพิชิตและชื่อเสียงอย่างรวดเร็ว - ที่โดดเด่นคือการยึดลูกเรือของสตีด บอนเนต \"สุภาพบุรุษ\" อดีตผู้ร่วมงานของเขา เมื่ออำนาจของกัปตันผู้นั้นถูกตั้งคำถาม"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_EDWARD_TEACH_CHAPTER_HISTORY_PARA_3", "en_sha": "0bc607e90c06", "status": "draft", "th": "ทว่าสาธารณรัฐก็ง่อนแง่นลงภายใต้แรงกดดันทั้งจากภายในและภายนอก ขณะที่มันล่มสลาย ทีชก็ออกไปตั้งตัวด้วยตนเอง เขายึดเรือฝรั่งเศสลำหนึ่งและเปลี่ยนชื่อเป็นควีนแอนส์รีเวนจ์ และจากดาดฟ้าเรือลำนั้น เขาได้คุกคามการค้าของยุโรปทั่วโลกใหม่ ในวีรกรรมที่อาจโด่งดังที่สุดของเขา เขาปิดล้อมชาร์ลสทาวน์ ในพื้นที่ซึ่งปัจจุบันคือรัฐเซาท์แคโรไลนา และจับพลเมืองไว้เพื่อเรียกค่าไถ่"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_EDWARD_TEACH_CHAPTER_HISTORY_PARA_4", "en_sha": "f895ff7aff96", "status": "draft", "th": "แม้จะมีชื่อเสียงเช่นนั้น ทีชกลับมีน้ำใจได้ในยามพิชิต และแทบไม่เคยต่อสู้ด้วยการเหวี่ยงดาบสั้นบนดาดฟ้าเรืออย่างที่ทำให้เขาเลื่องชื่อ เชลยของเขาได้รับการปฏิบัติอย่างดี และบางครั้งเขาก็แสดงความเมตตาอย่างมาก - การขู่ว่าจะใช้ความรุนแรง หาใช่ความรุนแรงเองไม่ คืออาวุธที่ร้ายกาจที่สุดของเขา"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_EDWARD_TEACH_CHAPTER_HISTORY_PARA_5", "en_sha": "b2541d610cb9", "status": "draft", "th": "หนวดดำพยายามวางมือและเริ่มต้นชีวิตที่สงบสุขขึ้นในนอร์ทแคโรไลนา แต่การพักผ่อนของเขาคงอยู่เพียงไม่กี่เดือน แม้จะได้รับพระราชทานอภัยโทษแล้ว เขาก็นำเรือควีนแอนส์รีเวนจ์ออกลาดตระเวนน่านน้ำแอตแลนติกอีกครั้ง ในเช้าวันที่ 22 พฤศจิกายน 1718 เขาถูกโจมตีและสังหารโดยโรเบิร์ต เมย์นาร์ด นายเรือโทแห่งราชนาวีอังกฤษ ว่ากันว่าศีรษะของหนวดดำถูกแขวนไว้ที่เสาหัวเรือของเรือธงของเมย์นาร์ด และตามตำนานพื้นบ้านของนอร์ทแคโรไลนา วิญญาณของเขายังคงวนเวียนอยู่ที่หมู่เกาะเอาเตอร์แบงก์ส"}
+{"tag": "LOC_PROFILE_TITLE_EDWARD_TEACH", "en_sha": "3ee3b2139d93", "status": "draft", "th": "หนวดดำ"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_EXPLORATION_1_DESCRIPTION", "en_sha": "99142829d624", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_EXPLORATION_1_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_EXPLORATION_2_DESCRIPTION", "en_sha": "3aeceddb4750", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% ทอง, -10% อาหาร"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_EXPLORATION_2_NAME", "en_sha": "8cfdbb75d076", "status": "draft", "th": "การอุทิศทางเศรษฐกิจ ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_MODERN_1_DESCRIPTION", "en_sha": "de7e99750db3", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_MODERN_1_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_MODERN_2_DESCRIPTION", "en_sha": "d2f2f532496f", "status": "draft", "th": "ในฐานะเอ็ดเวิร์ด ทีช จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% ทอง, -10% อาหาร"}
+{"tag": "LOC_STRATEGYCARD_EDWARD_TEACH_MODERN_2_NAME", "en_sha": "4b888298dc20", "status": "draft", "th": "การอุทิศทางเศรษฐกิจ ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_EDWARD_TEACH_NAME", "en_sha": "3ee3b2139d93", "status": "draft", "th": "หนวดดำ"}
+{"tag": "LOC_TRAIT_LEADER_EDWARD_TEACH_ABILITY_DESCRIPTION", "en_sha": "a88ac483bbaf", "status": "draft", "th": "[BLIST][LI]ยูนิตทางเรือทั้งหมดได้รับ [icon:UNIT_CAUTION] [B]ความสามารถโจรสลัด[/B] ทำให้ข้ามพรมแดนของอารยธรรมอื่นได้ [icon:Action_Pillage] [B]ปล้นเส้นทางการค้า[/B]ของอารยธรรมที่ไม่ใช่พันธมิตรได้ และโจมตียูนิตของอารยธรรมที่ไม่ใช่พันธมิตรได้[B]โดยไม่ต้องประกาศ [icon:WAR] สงคราม[/B][LI]การเอาชนะยูนิตทางเรือใดก็ตามด้วยยูนิตทางเรือของคุณจะให้ [B][icon:YIELD_GOLD] ทอง[/B]เท่ากับ 50% ของ [icon:NAR_REW_COMBAT] [B]พลังการรบ[/B]ของยูนิตนั้น และยึดยูนิตนั้นมาอยู่ใต้การควบคุมของคุณ [LI]ค่าบำรุงรักษา [B]+1 [icon:YIELD_GOLD] ทอง [/B]สำหรับ[B]ยูนิตทางเรือ[/B][/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_EDWARD_TEACH_ABILITY_NAME", "en_sha": "3ee3b2139d93", "status": "draft", "th": "หนวดดำ"}
+{"tag": "LOC_TUTORIAL_PIRATE_ANTIQUITY_BODY", "en_sha": "aa73b8c2f5a8", "status": "draft", "th": "ยูนิตบางประเภทมีความสามารถ [icon:UNIT_CAUTION] [b]โจรสลัด [/b]เช่น ยูนิตทางเรือที่บัญชาการโดย {LOC_LEADER_EDWARD_TEACH_NAME} ด้วยการปล้นแบบโจรสลัด ยูนิตจะโจมตียูนิตอื่นที่ไม่ได้ทำสงครามด้วยได้ คอยระวัง [icon:UNIT_CAUTION] [b]โจรสลัด[/b]ไว้ให้ดี: คุณอาจต้องต่อสู้กลับ"}
+{"tag": "LOC_TUTORIAL_PIRATE_ANTIQUITY_TITLE", "en_sha": "96617775c9e9", "status": "draft", "th": "การปล้นแบบโจรสลัด"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_AKSUM_TOOLTIP", "en_sha": "7482a49eca78", "status": "draft", "th": "[B]อักซุม[/B] เสริมกลยุทธ์ของ [B]เอ็ดเวิร์ด ทีช[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_CARTHAGE_TOOLTIP", "en_sha": "9e4c17e8ca7f", "status": "draft", "th": "[B]คาร์เทจ[/B] เสริมกลยุทธ์ของ [B]เอ็ดเวิร์ด ทีช[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_DESCRIPTION", "en_sha": "ed2cf7fdd024", "status": "draft", "th": "เล่นเป็น [B]เอ็ดเวิร์ด ทีช[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_FRENCH_EMPIRE_TOOLTIP", "en_sha": "3d60501db95d", "status": "draft", "th": "[B]เอ็ดเวิร์ด ทีช[/B] มาจากทวีปเดียวกับ [B]ฝรั่งเศส[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_GREAT_BRITAIN_TOOLTIP", "en_sha": "b71b09ff30c8", "status": "draft", "th": "[B]เอ็ดเวิร์ด ทีช[/B] มีพื้นเพมาจาก [B]บริเตนใหญ่[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_ICELAND_TOOLTIP", "en_sha": "8cf9ec2fa81b", "status": "draft", "th": "[B]ไอซ์แลนด์[/B] เสริมกลยุทธ์ของ [B]เอ็ดเวิร์ด ทีช[/B] ได้เป็นอย่างดี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_EDWARD_TEACH_SPAIN_TOOLTIP", "en_sha": "9297c4b810bf", "status": "draft", "th": "[B]เอ็ดเวิร์ด ทีช[/B] ปล้นสะดมในน่านน้ำของ[B]สเปน[/B]"}
+{"tag": "LOC_VICTORY_LEADER_EDWARD_TEACH", "en_sha": "50c0aaf6c4e2", "status": "draft", "th": "ชักธงดำขึ้น เหล่าลูกเรือ ดึงเข้า!"}

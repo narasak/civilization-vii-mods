@@ -1,0 +1,386 @@
+{"tag": "LOC_10015A_COMPLETION", "en_sha": "dc604629b196", "status": "draft", "th": "ความล้มเหลวทางการทูตที่ถาโถมเข้ามาเมื่อไม่นานนี้อาจทำให้รานีผู้อ่อนแอกว่าแตกสลายได้ แต่เจตจำนงของลักษมีบาอีนั้นไม่มีวันสั่นคลอน ดุจเหล็กกล้าที่ผ่านการหลอมในเปลวไฟ"}
+{"tag": "LOC_10015A_STORYTITLE", "en_sha": "5f602417b4bd", "status": "draft", "th": "ข่ายใยแห่งการทูต"}
+{"tag": "LOC_10015B_DESCRIPTION", "en_sha": "c2ed35206e3b", "status": "draft", "th": "{1_reward} ทหารราบ แต่ {2_reward}"}
+{"tag": "LOC_10015B_NAME", "en_sha": "fa2176dd7f7a", "status": "draft", "th": "แสดงแสนยานุภาพทางทหาร"}
+{"tag": "LOC_10015C_DESCRIPTION", "en_sha": "f42fe6531acd", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด แต่ {2_reward}"}
+{"tag": "LOC_10015C_NAME", "en_sha": "58c6f87ce33b", "status": "draft", "th": "เอาใจรสนิยมของชาวต่างชาติ"}
+{"tag": "LOC_10016A_COMPLETION", "en_sha": "48b1278688be", "status": "draft", "th": "ลักษมีบาอีควบบาดัลเต็มฝีเท้า ผ่านสนามฝึกได้อย่างไร้ที่ติ ท่ามกลางเสียงปรบมือกึกก้องของทหารใหม่ เหล่านายทหารม้าที่เฝ้าดูอยู่ข้างสนามต่างตัดสินใจว่าจะเน้นย้ำด้านใดในการฝึก"}
+{"tag": "LOC_10016A_STORYTITLE", "en_sha": "9874fd13f3ac", "status": "draft", "th": "ผู้นำโดยกำเนิด"}
+{"tag": "LOC_10016B_DESCRIPTION", "en_sha": "65c1aea145da", "status": "draft", "th": "{1_reward} แก่ทหารม้า"}
+{"tag": "LOC_10016B_NAME", "en_sha": "6e181ee304a4", "status": "draft", "th": "ความไม่หวาดหวั่น"}
+{"tag": "LOC_10016C_DESCRIPTION", "en_sha": "65c1aea145da", "status": "draft", "th": "{1_reward} แก่ทหารม้า"}
+{"tag": "LOC_10016C_NAME", "en_sha": "37cd8988949f", "status": "draft", "th": "การควบคุม"}
+{"tag": "LOC_10016D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10016D_NAME", "en_sha": "8455fc9d55c4", "status": "draft", "th": "ความกระตือรือร้นของฝูงชน"}
+{"tag": "LOC_10017A_COMPLETION", "en_sha": "b245a3d55a09", "status": "draft", "th": "ลักษมีบาอีลูบมือไปตามแผงคอของบาดัล นางรู้สึกถึงการเต้นของหัวใจม้าผ่านผิวหนังของมัน"}
+{"tag": "LOC_10017A_STORYTITLE", "en_sha": "9b14df96fcaa", "status": "draft", "th": "พลังแห่งอาชา"}
+{"tag": "LOC_10017B_DESCRIPTION", "en_sha": "3791c989b05b", "status": "draft", "th": "{1_reward} ทหารม้า"}
+{"tag": "LOC_10017B_NAME", "en_sha": "1df18518d354", "status": "draft", "th": "มันคือหัวใจที่ไม่หวาดหวั่น"}
+{"tag": "LOC_10017C_DESCRIPTION", "en_sha": "fd4799331267", "status": "draft", "th": "+2 [icon:YIELD_GOLD] ทองต่อทรัพยากรม้าแต่ละแห่ง"}
+{"tag": "LOC_10017C_NAME", "en_sha": "249d8bc1da99", "status": "draft", "th": "มันคือหัวใจที่ภักดีต่อหน้าที่"}
+{"tag": "LOC_10018A_COMPLETION", "en_sha": "20442b2809eb", "status": "draft", "th": "ในสวนของอาราม เหล่านักเรียนตาโตนั่งฟังลักษมีบาอีเล่าถึงการเลี้ยงดูอันเข้มงวดของนาง ซึ่งผสมผสานทั้งการอ่าน การเขียน การขี่ม้า และมัลลขัมภ์ นักเรียนคนหนึ่งสงสัยว่าพวกตนจะฝึกฝนทั้งกายและใจจนเชี่ยวชาญได้ดังเช่นรานีหรือไม่"}
+{"tag": "LOC_10018A_STORYTITLE", "en_sha": "4ee2c5074304", "status": "draft", "th": "ความรู้คือพลัง"}
+{"tag": "LOC_10018B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10018B_NAME", "en_sha": "f9f4ff98f25b", "status": "draft", "th": "ความรู้คือรากฐานของความยิ่งใหญ่"}
+{"tag": "LOC_10018C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10018C_NAME", "en_sha": "ec2589617672", "status": "draft", "th": "ผู้มีฝีมือคือผู้หล่อหลอมโลก"}
+{"tag": "LOC_10019A_COMPLETION", "en_sha": "8cc78d47097d", "status": "draft", "th": "รากฐานของหมู่บ้านแห่งหนึ่งถูกทำลายจนเหลือเพียงซากปรักหักพัง ลักษมีบาอีผู้เป็นต้นเหตุของความพินาศนี้ยื่นมือแห่งความเมตตาให้แก่ผู้รอดชีวิต มอบโอกาสให้พวกเขาสร้างสิ่งที่ยิ่งใหญ่กว่าเดิมขึ้นใหม่"}
+{"tag": "LOC_10019A_STORYTITLE", "en_sha": "b0ea422bb007", "status": "draft", "th": "สิ่งที่หลงเหลือ"}
+{"tag": "LOC_10019B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10019B_NAME", "en_sha": "6f9d8e1074c8", "status": "draft", "th": "ชนบทต้องการความสามารถของพวกเขา"}
+{"tag": "LOC_10019C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10019C_NAME", "en_sha": "b95efce6edb5", "status": "draft", "th": "พวกเขาอาจอุทิศกำลังให้ลักษมีบาอี"}
+{"tag": "LOC_10020A_COMPLETION", "en_sha": "98256aa30736", "status": "draft", "th": "กลิ่นหอมหวานของกำยานและดอกดาวเรืองอบอวลอยู่เหนือขบวนแห่ศพที่จัดขึ้นเพื่อสดุดีเหล่านักรบผู้สละชีพเพื่อมาตุภูมิ ขบวนแห่หยุดลงเบื้องหน้าลักษมีบาอี"}
+{"tag": "LOC_10020A_STORYTITLE", "en_sha": "ba25804a42da", "status": "draft", "th": "บูชาวีรชน"}
+{"tag": "LOC_10020B_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_10020B_NAME", "en_sha": "0d797a1083c4", "status": "draft", "th": "รำลึกถึงผู้ล่วงลับด้วยงานเลี้ยง"}
+{"tag": "LOC_10020C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_10020C_NAME", "en_sha": "341b948f23ec", "status": "draft", "th": "จารึกพวกเขาไว้ในบทกวีชั่วนิรันดร์"}
+{"tag": "LOC_10021A_COMPLETION", "en_sha": "22e887cd4fa8", "status": "draft", "th": "ขณะที่ {1_Capital} ขยายตัวอย่างรวดเร็ว ลักษมีบาอีเรียกประชุมสภาของนาง และเร่งเร้าให้ใช้มาตรการอันกล้าหาญเพื่อรับมือกับการเติบโตที่ไม่หยุดยั้ง"}
+{"tag": "LOC_10021A_STORYTITLE", "en_sha": "644c986b80b6", "status": "draft", "th": "นครที่กำลังรุ่งเรือง"}
+{"tag": "LOC_10021B_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_10021B_NAME", "en_sha": "68f263ffa9cc", "status": "draft", "th": "ตอบสนองความต้องการแรงงานของนคร"}
+{"tag": "LOC_10021C_DESCRIPTION", "en_sha": "b584a76698c5", "status": "draft", "th": "{1_reward} ใน {2_capital}"}
+{"tag": "LOC_10021C_NAME", "en_sha": "4323ff89ec7e", "status": "draft", "th": "ทำให้มวลชนได้รับความบันเทิง"}
+{"tag": "LOC_10022A_COMPLETION", "en_sha": "927d10921cbd", "status": "draft", "th": "สายตาของลักษมีบาอีกวาดผ่านคำร้องอย่างเป็นทางการจาก {1_INDEPENDENT_CS} นครรัฐแห่งนี้ยืนยันว่าศัตรูของลักษมีบาอีเป็นภัยคุกคามที่ใกล้เข้ามา แต่นางรู้ดีว่าการให้ความช่วยเหลืออาจเป็นอันตรายต่อความผาสุกอันเปราะบางของประชาชน {2_Civilization_adj}"}
+{"tag": "LOC_10022A_STORYTITLE", "en_sha": "ed6ef91a9808", "status": "draft", "th": "ภาระหน้าที่ของผู้ครองแผ่นดิน"}
+{"tag": "LOC_10022B_DESCRIPTION", "en_sha": "2822f67f848e", "status": "draft", "th": "+3 [icon:YIELD_DIPLOMACY] อิทธิพลต่อนครรัฐแต่ละแห่ง แต่ {1_reward}"}
+{"tag": "LOC_10022B_NAME", "en_sha": "aa8dce0c28c2", "status": "draft", "th": "ส่งทรัพยากรไปยังรัฐบริวาร"}
+{"tag": "LOC_10022C_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10022C_NAME", "en_sha": "3482f21e3fec", "status": "draft", "th": "ให้ความผาสุกของประชาชน {1_Civilization_adj} มาก่อน"}
+{"tag": "LOC_10023A_COMPLETION", "en_sha": "22391d1597b0", "status": "draft", "th": "แม้จะเพิ่งได้รับชัยชนะ เหล่าทหารยังคงนั่งยองด้วยแววตาว่างเปล่าอยู่ท่ามกลางซากสมรภูมิ ผู้บัญชาการเร่งให้พวกเขารุกต่อไป แต่พวกเขายังคงไร้เรี่ยวแรง"}
+{"tag": "LOC_10023A_STORYTITLE", "en_sha": "4802c7f10210", "status": "draft", "th": "หัวใจที่อ่อนล้าจากสงคราม"}
+{"tag": "LOC_10023B_DESCRIPTION", "en_sha": "404627493804", "status": "draft", "th": "{1_reward} แก่ทหารราบ แต่ {2_reward}"}
+{"tag": "LOC_10023B_NAME", "en_sha": "a66e2d7c8d1c", "status": "draft", "th": "คำสั่งคือคำสั่ง พวกเขาจะเคลื่อนพลอย่างเร่งด่วน"}
+{"tag": "LOC_10023C_DESCRIPTION", "en_sha": "2215c723e509", "status": "draft", "th": "{1_reward} แก่ยูนิตระยะไกล แต่ {2_reward}"}
+{"tag": "LOC_10023C_NAME", "en_sha": "7b0e6914ea71", "status": "draft", "th": "ส่งเบี้ยเลี้ยงให้ครอบครัวของพวกเขา"}
+{"tag": "LOC_10023D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10023D_NAME", "en_sha": "2bdc900baee8", "status": "draft", "th": "ป่าวประกาศชัยชนะของพวกเขา"}
+{"tag": "LOC_10024A_COMPLETION", "en_sha": "be5bb4a8eb7f", "status": "draft", "th": "ด้วยการตวัดปลายขนนกเพียงครั้งเดียว ลักษมีบาอีประทับตราสันติภาพที่ต้องแลกมาอย่างแสนแพง หลังจากยืนหยัดเป็นผู้พิทักษ์ที่ไม่ย่อท้อของประชาชน {1_CIVILIZATION_adj} นางปฏิญาณว่าจากนี้จะเป็นผู้นำทางและผู้ดูแลที่มั่นคงของพวกเขา"}
+{"tag": "LOC_10024A_STORYTITLE", "en_sha": "79d6043f5cb5", "status": "draft", "th": "สนธิสัญญาสันติภาพ"}
+{"tag": "LOC_10024B_DESCRIPTION", "en_sha": "33e4ad672e23", "status": "draft", "th": "{1_reward} แต่ {2_reward}"}
+{"tag": "LOC_10024B_NAME", "en_sha": "225bfcfcee40", "status": "draft", "th": "ประชาชนต้องพึ่งพาตนเองได้"}
+{"tag": "LOC_10024C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10024C_NAME", "en_sha": "36aaec02dc70", "status": "draft", "th": "คนหนุ่มสาวต้องพร้อมเผชิญความยากลำบาก"}
+{"tag": "LOC_10025A_COMPLETION", "en_sha": "cfde9c5490d5", "status": "draft", "th": "สายลับของลักษมีบาอีมาถึงพร้อมแสงจันทร์ กระตือรือร้นที่จะรับสาส์นลับฉบับถัดไปของนาง {1_Independent} เป็นทั้งดาบและโล่ให้แก่ประชาชน {2_Civilization_adj} แต่ลักษมีบาอีรู้ดีว่าการต่อสู้ยังอีกยาวไกล"}
+{"tag": "LOC_10025A_STORYTITLE", "en_sha": "041c1bd47e60", "status": "draft", "th": "สายลับแห่งความขัดแย้ง"}
+{"tag": "LOC_10025B_DESCRIPTION", "en_sha": "e8ec692fc544", "status": "draft", "th": "การปล้นสะดมให้ [icon:YIELD_GOLD] ทองเท่ากับ 25% ของผลผลิตหรือการฟื้นฟูพลังชีวิต"}
+{"tag": "LOC_10025B_NAME", "en_sha": "3a108e22b3df", "status": "draft", "th": "กอบโกยของที่ริบได้จากสงคราม"}
+{"tag": "LOC_10025C_DESCRIPTION", "en_sha": "6917582bcdfc", "status": "draft", "th": "การปล้นสะดมให้ [icon:YIELD_SCIENCE] วิทยาศาสตร์เท่ากับ 25% ของผลผลิตหรือการฟื้นฟูพลังชีวิต"}
+{"tag": "LOC_10025C_NAME", "en_sha": "bfad08ea76d4", "status": "draft", "th": "เปิดโปงความลับของศัตรู"}
+{"tag": "LOC_10026A_COMPLETION", "en_sha": "284e5d49342a", "status": "draft", "th": "ลูกธนูพุ่งเฉียดบังเหียนของบาดัลขณะที่ลักษมีบาอีหลบหนีอย่างอาจหาญใต้แสงจันทร์ออกจากนครที่ลุกเป็นไฟ ศัตรูของนางอาจยึดบ้านของนางไปได้ แต่นางยังคงไม่มีวันพ่ายแพ้"}
+{"tag": "LOC_10026A_STORYTITLE", "en_sha": "3b7fc33e8f4d", "status": "draft", "th": "ตำนานที่ถือกำเนิดจากความสูญเสีย"}
+{"tag": "LOC_10026B_DESCRIPTION", "en_sha": "1a394608f48f", "status": "draft", "th": "{1_reward} ทหารราบ"}
+{"tag": "LOC_10026B_NAME", "en_sha": "96fe8c6e8def", "status": "draft", "th": "ประกาศระดมพล"}
+{"tag": "LOC_10026C_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_10026C_NAME", "en_sha": "43ef9ae23da1", "status": "draft", "th": "ปลุกแรงสนับสนุนจากประชาชน"}
+{"tag": "LOC_10027A_COMPLETION", "en_sha": "fc3e524af4cb", "status": "draft", "th": "ลักษมีบาอีเห็นเด็กคนหนึ่งกำลังเงื้อกำปั้นใส่อีกคน นางคว้าข้อมือของทั้งคู่ไว้ แล้วอธิบายว่าประชาชน {1_Civilization_adj} ควรยุติข้อพิพาทกันอย่างไร"}
+{"tag": "LOC_10027A_STORYTITLE", "en_sha": "4ee2c5074304", "status": "draft", "th": "ความรู้คือพลัง"}
+{"tag": "LOC_10027B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10027B_NAME", "en_sha": "2d3c4bdc4d72", "status": "draft", "th": "แสวงหาสันติภาพผ่านการเจรจา"}
+{"tag": "LOC_10027C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10027C_NAME", "en_sha": "3376957a668c", "status": "draft", "th": "สอนให้ยืนหยัดด้วยความสามัคคี"}
+{"tag": "LOC_10028A_COMPLETION", "en_sha": "9bc0098945f4", "status": "draft", "th": "คมดาบของลักษมีบาอีวาววับต้องแสงตะวันขณะที่นางร่ายรำกระบวนท่าอันแม่นยำในลานกว้าง ขุนนางผู้หนึ่งที่เดินผ่านมาเลิกคิ้วขึ้น สงสัยในความทุ่มเทที่นางมีต่อศิลปะการต่อสู้ในยุคที่อาวุธปืนครองโลก"}
+{"tag": "LOC_10028A_STORYTITLE", "en_sha": "4321b457f284", "status": "draft", "th": "เพลงดาบ"}
+{"tag": "LOC_10028B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10028B_NAME", "en_sha": "89e33779d044", "status": "draft", "th": "ดาบเป็นสัญลักษณ์มากกว่าเครื่องมือ"}
+{"tag": "LOC_10028C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_10028C_NAME", "en_sha": "898a8fe2334b", "status": "draft", "th": "ในมือของผู้ชำนาญ ดาบย่อมร้ายกาจ"}
+{"tag": "LOC_10029A_COMPLETION", "en_sha": "b83f81c25b6c", "status": "draft", "th": "เมื่อสงครามปะทุขึ้น ลักษมีบาอีไตร่ตรองถึงความชอบธรรมของมัน ที่ปรึกษาชาวอังกฤษผู้หนึ่งเสนอแนะว่า เขาสามารถปลอมแปลงเอกสารที่น่าเชื่อถืออย่างยิ่ง เพื่อลบล้างสิทธิของศัตรูในการปกครองนครแห่งหนึ่งได้ นางครุ่นคิด..."}
+{"tag": "LOC_10029A_STORYTITLE", "en_sha": "8fa45c7c4872", "status": "draft", "th": "แผนที่โลก"}
+{"tag": "LOC_10029B_DESCRIPTION", "en_sha": "0382132778ba", "status": "draft", "th": "+1 การสนับสนุนสงครามในสงครามทั้งหมด"}
+{"tag": "LOC_10029B_NAME", "en_sha": "e792f9ffcc49", "status": "draft", "th": "สร้างของปลอมขึ้นมา"}
+{"tag": "LOC_10029C_DESCRIPTION", "en_sha": "70f0c24faec2", "status": "draft", "th": "เข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_10029C_NAME", "en_sha": "8dd950d5eb90", "status": "draft", "th": "นี่ไม่ใช่วิถีการปกครองของลักษมีบาอี"}
+{"tag": "LOC_ABILITY_LAKSHMIBAI_ARMY_COMMANDER_DESCRIPTION", "en_sha": "048ca70ff8ca", "status": "draft", "th": "ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพลเท่ากับ 25% ของ [icon:NAR_REW_COMBAT] พลังการรบของยูนิตที่ถูกปราบ เมื่ออยู่ใน [icon:COMMANDER_RADIUS] รัศมีบัญชาการ"}
+{"tag": "LOC_ABILITY_LAKSHMIBAI_COMMAND_RADIUS_DESCRIPTION", "en_sha": "9b06077a2638", "status": "draft", "th": "ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพลเท่ากับ 25% ของ [icon:NAR_REW_COMBAT] พลังการรบของยูนิตที่ถูกปราบ"}
+{"tag": "LOC_ATTRIBUTENODE_LAKSHMIBAI_L1_DESCRIPTION", "en_sha": "a1b042ae7477", "status": "draft", "th": "+25% ความสัมพันธ์จากการเริ่มหรือสนับสนุนโครงการร่วม -25% ความสัมพันธ์จากการเริ่มการคว่ำบาตรหรือปฏิเสธโครงการร่วม"}
+{"tag": "LOC_ATTRIBUTENODE_LAKSHMIBAI_L1_NAME", "en_sha": "03d1a5acc12f", "status": "draft", "th": "โหนดคุณลักษณะทางการทูต"}
+{"tag": "LOC_ATTRIBUTENODE_LAKSHMIBAI_L2_DESCRIPTION", "en_sha": "f6798e8f4882", "status": "draft", "th": "+5 พลังการรบให้กับยูนิตทั้งหมดเมื่อสู้กับเขต"}
+{"tag": "LOC_ATTRIBUTENODE_LAKSHMIBAI_L2_NAME", "en_sha": "e3284af3cec3", "status": "draft", "th": "โหนดคุณลักษณะทางการทหาร"}
+{"tag": "LOC_BADGE_LAKSHMIBAI_NAME", "en_sha": "139cb4e25e51", "status": "draft", "th": "เหรียญตราลักษมีบาอี 1"}
+{"tag": "LOC_BADGE_LAKSHMIBAI_P_NAME", "en_sha": "b5cfdde853c7", "status": "draft", "th": "เหรียญตราลักษมีบาอี 2"}
+{"tag": "LOC_BANNER_LAKSHMIBAI_NAME", "en_sha": "0089d56c1a4e", "status": "draft", "th": "แบนเนอร์ลักษมีบาอี"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_LAKSHMIBAI_1_DESCRIPTION", "en_sha": "e52f23536f30", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับ พลังการรบ -2 ของยูนิตทางเรือของคุณ"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_LAKSHMIBAI_1_NAME", "en_sha": "f5b66dd04f4d", "status": "draft", "th": "การอุทิศของลักษมีบาอี ยุคแห่งการสำรวจ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_LAKSHMIBAI_2_DESCRIPTION", "en_sha": "3e2d80d0a832", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางเรือของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_EXP_LEGEND_LAKSHMIBAI_2_NAME", "en_sha": "cd146a51d26a", "status": "draft", "th": "การอุทิศของลักษมีบาอี ยุคแห่งการสำรวจ - ทางการทหาร"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_LAKSHMIBAI_1_DESCRIPTION", "en_sha": "8cb7d37fe679", "status": "draft", "th": "ตลอดยุคนี้ ได้รับ [icon:YIELD_DIPLOMACY] อิทธิพล +15% แลกกับพลังการรบ -2 ของยูนิตทางอากาศของคุณ"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_LAKSHMIBAI_1_NAME", "en_sha": "448eeecfb40d", "status": "draft", "th": "การอุทิศของลักษมีบาอี ยุคสมัยใหม่ - ทางการทูต"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_LAKSHMIBAI_2_DESCRIPTION", "en_sha": "1be1a884df1c", "status": "draft", "th": "ตลอดยุคนี้ ยูนิตทางอากาศของคุณได้รับพลังการรบ +3 แลกกับ [icon:YIELD_DIPLOMACY] อิทธิพล -10%"}
+{"tag": "LOC_CARD_AT_MOD_LEGEND_LAKSHMIBAI_2_NAME", "en_sha": "da4db12372bf", "status": "draft", "th": "การอุทิศของลักษมีบาอี ยุคสมัยใหม่ - ทางการทหาร"}
+{"tag": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_DESC", "en_sha": "8e4f7bde6c95", "status": "draft", "th": "ชอบผู้นำที่มี [icon:YIELD_DIPLOMACY] อิทธิพลสูงที่สุด ไม่ชอบผู้นำที่มี [icon:YIELD_DIPLOMACY] อิทธิพลต่ำที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_DESC_DISLIKES", "en_sha": "b3d1c9cf457d", "status": "draft", "th": "ลักษมีบาอีไม่ชอบผู้นำที่มี [icon:YIELD_DIPLOMACY] อิทธิพลต่ำที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_DESC_LIKES", "en_sha": "2333220df7dd", "status": "draft", "th": "ลักษมีบาอีชอบผู้นำที่มี [icon:YIELD_DIPLOMACY] อิทธิพลสูงที่สุด"}
+{"tag": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_NAME", "en_sha": "85c67272a380", "status": "draft", "th": "เกียรติภูมินิรันดร์"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_LAKSHMIBAI_ANY", "en_sha": "37654631cc0e", "status": "draft", "th": "ฝูงปีศาจดั่งโรคระบาดของท่านจะพบจุดจบในไม่ช้า"}
+{"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_LAKSHMIBAI_ANY", "en_sha": "56289c7cc4df", "status": "draft", "th": "ดั่งมารดาปกป้องบุตร ข้าจะปกป้องจักรวรรดิของข้าจากความชั่วช้าของท่าน"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_LAKSHMIBAI_ANY", "en_sha": "ce1df1db8a09", "status": "draft", "th": "บาดัล พาข้าไปจากที่นี่เถิด การต่อสู้ของเราที่นี่จบสิ้นแล้ว"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}
+{"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_LAKSHMIBAI", "en_sha": "c0aa4f34063c", "status": "draft", "th": "ขอให้งานที่เราร่วมกันทำผลิดอกออกผลมากมาย"}
+{"tag": "LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_LAKSHMIBAI", "en_sha": "0f6425f2a147", "status": "draft", "th": "ฮ่า! คิดหรือว่าข้าจะยอมตกลงด้วย!"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_DECREASED_LEADER_LAKSHMIBAI", "en_sha": "58101cce360c", "status": "draft", "th": "ท่านขว้างถ้อยคำราวกับว่ามันไม่มีผลตามมา"}
+{"tag": "LOC_DIPLO_RELATIONSHIP_INCREASED_LEADER_LAKSHMIBAI", "en_sha": "1f5f1a699623", "status": "draft", "th": "ข้ายินดีที่เราเห็นพ้องต้องกัน มิฉะนั้นแล้ว..."}
+{"tag": "LOC_LAKSHMIBAI_COMMAND_RADIUS_INFLUENCE_PREVIEW", "en_sha": "fbc3144c0924", "status": "draft", "th": "ได้รับอิทธิพลเท่ากับ 25% ของพลังการรบของยูนิตที่ถูกปราบ"}
+{"tag": "LOC_LEADER_CHAIN_1240A_COMPLETION", "en_sha": "f0d6fdb87573", "status": "draft", "th": "ลักษมีบาอีเป็นราชินีโดยกำเนิด แต่อำนาจปกครองย่อมถูกท้าทายได้เสมอ เมื่อผู้ส่งสารกลับมาจากสนามรบ นางครุ่นคิด - ความสง่างามและสิทธิอันชอบธรรมตามกฎหมายเพียงพอต่อการปกครองหรือไม่ หรือทุกสิ่งต้องเปลี่ยนแปลงเพื่อรักษาอำนาจไว้?"}
+{"tag": "LOC_LEADER_CHAIN_1240A_STORYTITLE", "en_sha": "3450a69f5821", "status": "draft", "th": "สิทธิโดยกำเนิด"}
+{"tag": "LOC_LEADER_CHAIN_1240B_COMPLETION", "en_sha": "101ddc51991c", "status": "draft", "th": "ราชสำนักกลายเป็นศูนย์กลางของสิ่งดีงามและงดงามทั้งปวงในโลก และ ณ ใจกลางของศูนย์กลางนั้น: รานี"}
+{"tag": "LOC_LEADER_CHAIN_1240B_DESCRIPTION", "en_sha": "7418fa3e6946", "status": "draft", "th": "{1_reward} ในถิ่นฐานทั้งหมด"}
+{"tag": "LOC_LEADER_CHAIN_1240B_IMPERATIVE", "en_sha": "2d5e0ec0104c", "status": "draft", "th": "มีสิ่งก่อสร้างที่ให้วัฒนธรรม 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1240B_NAME", "en_sha": "186cf2465a19", "status": "draft", "th": "เชื่อมั่นในความแน่วแน่และพระกรุณา"}
+{"tag": "LOC_LEADER_CHAIN_1240B_STORYTITLE", "en_sha": "3450a69f5821", "status": "draft", "th": "สิทธิโดยกำเนิด"}
+{"tag": "LOC_LEADER_CHAIN_1240C_COMPLETION", "en_sha": "98e1980a8838", "status": "draft", "th": "ตั้งแต่พ่อครัวไปจนถึงคนเทกระโถน ทุกคนต้องเข้าแถวฝึกการรบในยามเช้า"}
+{"tag": "LOC_LEADER_CHAIN_1240C_DESCRIPTION", "en_sha": "250c83b23b1a", "status": "draft", "th": "{1_reward} แก่ทหารราบ"}
+{"tag": "LOC_LEADER_CHAIN_1240C_IMPERATIVE", "en_sha": "b1d0896f20e0", "status": "draft", "th": "มีผู้บัญชาการที่เลื่อนขั้นแล้ว 3 ครั้ง"}
+{"tag": "LOC_LEADER_CHAIN_1240C_NAME", "en_sha": "91b6bac55dd3", "status": "draft", "th": "เชื่อมั่นเพียงการเตรียมพร้อมทางการทหาร"}
+{"tag": "LOC_LEADER_CHAIN_1240C_STORYTITLE", "en_sha": "3450a69f5821", "status": "draft", "th": "สิทธิโดยกำเนิด"}
+{"tag": "LOC_LEADER_CHAIN_1240D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1240D_NAME", "en_sha": "3c1bac300d70", "status": "draft", "th": "ฝากความเชื่อมั่นไว้กับความสัมพันธ์ต่างประเทศ"}
+{"tag": "LOC_LEADER_CHAIN_1241A_COMPLETION", "en_sha": "9fd668f39f44", "status": "draft", "th": "เรื่องเล่าแพร่สะพัดไปทั่ววังว่า มีดของมือสังหารผู้หนึ่งร่วงหลุดจากนิ้ว ขณะที่เขาจ้องมองสถาปัตยกรรมที่ประดับนครหลวงของลักษมีบาอีด้วยความตะลึง"}
+{"tag": "LOC_LEADER_CHAIN_1241A_STORYTITLE", "en_sha": "8fcceaecd880", "status": "draft", "th": "ทัศนียภาพที่สะกดใจ"}
+{"tag": "LOC_LEADER_CHAIN_1241B_COMPLETION", "en_sha": "635b67d7d4e6", "status": "draft", "th": "ใครเล่าจะกล้ารุกราน และเสี่ยงทำให้ศิลาแม้ก้อนเดียวของสิ่งมหัศจรรย์เหล่านี้เป็นรอย?"}
+{"tag": "LOC_LEADER_CHAIN_1241B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1241B_IMPERATIVE", "en_sha": "e7b862181dbc", "status": "draft", "th": "มีสิ่งมหัศจรรย์ 4 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1241B_NAME", "en_sha": "4fce7c74e387", "status": "draft", "th": "ความงามจะเป็นปราการของเรา"}
+{"tag": "LOC_LEADER_CHAIN_1241B_STORYTITLE", "en_sha": "8fcceaecd880", "status": "draft", "th": "ทัศนียภาพที่สะกดใจ"}
+{"tag": "LOC_LEADER_CHAIN_1241C_DESCRIPTION", "en_sha": "4082d7dbab85", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้วัฒนธรรม"}
+{"tag": "LOC_LEADER_CHAIN_1241C_NAME", "en_sha": "b145ddafe1a3", "status": "draft", "th": "นี่เป็นเพียงนิทาน"}
+{"tag": "LOC_LEADER_CHAIN_1242A_COMPLETION", "en_sha": "c7259d45a574", "status": "draft", "th": "เมื่อต้องการนักรบเพิ่ม พวกเขาก็มาจากทุ่งนาและการซักล้าง จากการก่ออิฐและการเฝ้าไฟ บัดนี้พวกเขานั่งอยู่บนหลังม้า อาวุธสงครามอยู่ในมือ"}
+{"tag": "LOC_LEADER_CHAIN_1242A_STORYTITLE", "en_sha": "c139c3b73091", "status": "draft", "th": "ขานรับเสียงเรียก"}
+{"tag": "LOC_LEADER_CHAIN_1242B_COMPLETION", "en_sha": "603ddf512fc8", "status": "draft", "th": "บัดนี้ บางทีบัดนี้ลักษมีบาอีอาจหลับได้อย่างปลอดภัย"}
+{"tag": "LOC_LEADER_CHAIN_1242B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1242B_IMPERATIVE", "en_sha": "74e5379f9dd3", "status": "draft", "th": "ฝึกยูนิตทหารม้าระดับ 3 จำนวน 6 ยูนิต"}
+{"tag": "LOC_LEADER_CHAIN_1242B_NAME", "en_sha": "7a3bc889b141", "status": "draft", "th": "เป็นจุดเริ่มต้นที่ดี ฝึกเพิ่มอีก"}
+{"tag": "LOC_LEADER_CHAIN_1242B_STORYTITLE", "en_sha": "c139c3b73091", "status": "draft", "th": "ขานรับเสียงเรียก"}
+{"tag": "LOC_LEADER_CHAIN_1242C_DESCRIPTION", "en_sha": "c28dbe372e23", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้การผลิต"}
+{"tag": "LOC_LEADER_CHAIN_1242C_NAME", "en_sha": "4664f8e6ced7", "status": "draft", "th": "พอแล้ว ให้ผู้อื่นสานงานต่อ"}
+{"tag": "LOC_LEADER_CHAIN_1243A_COMPLETION", "en_sha": "4191674cb028", "status": "draft", "th": "ยุคแห่งความเปลี่ยนแปลง การขยายดินแดน และการพิชิตได้เริ่มต้นขึ้น ลักษมีบาอีบนหลังบาดัลควบม้ารอบนครของนาง ท่ามกลางเสียงโห่ร้องของประชาชน เมื่อมองดูพวกเขา นางเห็นหนทางข้างหน้าสองสาย"}
+{"tag": "LOC_LEADER_CHAIN_1243A_STORYTITLE", "en_sha": "233b8bc4d3ac", "status": "draft", "th": "ทางแยก"}
+{"tag": "LOC_LEADER_CHAIN_1243B_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1243B_NAME", "en_sha": "bc1c3a58ccf5", "status": "draft", "th": "ในดวงตาของพวกเขามีความมั่นใจ"}
+{"tag": "LOC_LEADER_CHAIN_1243C_DESCRIPTION", "en_sha": "55f98435eed1", "status": "draft", "th": "เรื่องราวยังดำเนินต่อไป"}
+{"tag": "LOC_LEADER_CHAIN_1243C_NAME", "en_sha": "64ab5a377825", "status": "draft", "th": "พวกเขาต้องมีอาวุธพร้อมรับยุคที่กำลังมาถึง"}
+{"tag": "LOC_LEADER_CHAIN_1244A_COMPLETION", "en_sha": "5d9e2c9d82db", "status": "draft", "th": "ตำแหน่งรานีบัญชาได้เพียงบางคน แต่ศรัทธาสามารถแผ่ขยายได้กว้างไกลกว่า"}
+{"tag": "LOC_LEADER_CHAIN_1244A_STORYTITLE", "en_sha": "96ceef9f3d5f", "status": "draft", "th": "เทวสิทธิ์"}
+{"tag": "LOC_LEADER_CHAIN_1244B_COMPLETION", "en_sha": "12010de51250", "status": "draft", "th": "รูปของลักษมีบาอีปรากฏในวิหารต่าง ๆ ในฐานะเทวีแห่งอำนาจของราชินี ดูเหมือนว่าเมื่อมีพระบรมเดชานุภาพ ก็ย่อมมีเทวสิทธิ์ตามมา"}
+{"tag": "LOC_LEADER_CHAIN_1244B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1244B_IMPERATIVE", "en_sha": "edb5d49ea2c4", "status": "draft", "th": "เปลี่ยนถิ่นฐาน 5 แห่งให้นับถือศาสนาของคุณ"}
+{"tag": "LOC_LEADER_CHAIN_1244B_NAME", "en_sha": "39ec9ddaa001", "status": "draft", "th": "เผยแผ่ศาสนาใหม่นี้"}
+{"tag": "LOC_LEADER_CHAIN_1244B_STORYTITLE", "en_sha": "96ceef9f3d5f", "status": "draft", "th": "เทวสิทธิ์"}
+{"tag": "LOC_LEADER_CHAIN_1244C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1244C_NAME", "en_sha": "c31456288334", "status": "draft", "th": "การเป็นรานีก็เพียงพอแล้ว"}
+{"tag": "LOC_LEADER_CHAIN_1245A_COMPLETION", "en_sha": "6ae938fcde96", "status": "draft", "th": "เรือสินค้าลำหนึ่งที่ตัวเรือแกะสลักอย่างแปลกตาเข้าเทียบท่า ลูกเรือพูดภาษาท้องถิ่นไม่ได้ แต่พวกเขารู้จักคำหนึ่งคำ: รานี"}
+{"tag": "LOC_LEADER_CHAIN_1245A_STORYTITLE", "en_sha": "c5f0c489e826", "status": "draft", "th": "ผู้ศรัทธา"}
+{"tag": "LOC_LEADER_CHAIN_1245B_COMPLETION", "en_sha": "a08a2555498e", "status": "draft", "th": "แม้ถูกทะเลเค็มกั้นขวาง ลักษมีบาอีก็ยังได้ผู้ติดตาม"}
+{"tag": "LOC_LEADER_CHAIN_1245B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1245B_IMPERATIVE", "en_sha": "afd6bbca1897", "status": "draft", "th": "เปลี่ยนถิ่นฐานต่างชาติ 4 แห่งในดินแดนโพ้นทะเลให้นับถือศาสนาของคุณ"}
+{"tag": "LOC_LEADER_CHAIN_1245B_NAME", "en_sha": "9c575d4beb2b", "status": "draft", "th": "ความชื่นชมอาจกลายเป็นศรัทธาได้"}
+{"tag": "LOC_LEADER_CHAIN_1245B_STORYTITLE", "en_sha": "c5f0c489e826", "status": "draft", "th": "ผู้ศรัทธา"}
+{"tag": "LOC_LEADER_CHAIN_1246A_COMPLETION", "en_sha": "6509cd76a414", "status": "draft", "th": "ในสภาสงครามของลักษมีบาอี แม่ทัพผู้หนึ่งคลี่แผนที่ออก แสดงกองกำลังของนางและของฝ่ายศัตรู แผนที่นั้นคือโลกทั้งใบ กองทหารและเรือรบข้ามระยะทางไกลแสนไกลเพื่อฆ่าหรือถูกฆ่า"}
+{"tag": "LOC_LEADER_CHAIN_1246A_STORYTITLE", "en_sha": "dd180f34309f", "status": "draft", "th": "ผู้มาเยือนที่ไม่พึงปรารถนา"}
+{"tag": "LOC_LEADER_CHAIN_1246B_COMPLETION", "en_sha": "6359996da0a1", "status": "draft", "th": "ลักษมีบาอีจะไม่ยอมให้รองเท้าทหารต่างชาติย่ำในนครของนาง"}
+{"tag": "LOC_LEADER_CHAIN_1246B_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1246B_IMPERATIVE", "en_sha": "fbf125ca7c9a", "status": "draft", "th": "สร้างกำแพงยุคกลางเพิ่มอีก 3 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1246B_NAME", "en_sha": "bd7939a2f1b8", "status": "draft", "th": "เสริมที่มั่นของเราก่อน"}
+{"tag": "LOC_LEADER_CHAIN_1246B_STORYTITLE", "en_sha": "dd180f34309f", "status": "draft", "th": "ผู้มาเยือนที่ไม่พึงปรารถนา"}
+{"tag": "LOC_LEADER_CHAIN_1246C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1246C_NAME", "en_sha": "d9bdedffb2df", "status": "draft", "th": "นำศึกไปสู่ถิ่นของศัตรู"}
+{"tag": "LOC_LEADER_CHAIN_1247A_COMPLETION", "en_sha": "504e20080ec3", "status": "draft", "th": "ผู้คนเดินทางในทะเลนานหลายเดือนเพียงเพื่อขึ้นฝั่งแล้วตาย เพื่อความทะเยอทะยานของคนเพียงไม่กี่คน ลักษมีบาอีได้ก้าวเข้าสู่สมรภูมิแล้ว และนางจะยุติมัน"}
+{"tag": "LOC_LEADER_CHAIN_1247A_STORYTITLE", "en_sha": "4107b6c385d9", "status": "draft", "th": "ตายตั้งแต่มาถึง"}
+{"tag": "LOC_LEADER_CHAIN_1247B_COMPLETION", "en_sha": "3a4a85b83c10", "status": "draft", "th": "ผู้บัญชาการนอนสิ้นใจอยู่บนสนามรบ ขณะที่นักรบของลักษมีบาอียืนล้อมวงด้วยความเคารพ นี่มิใช่เพียงชัยชนะ แต่คือสาร"}
+{"tag": "LOC_LEADER_CHAIN_1247B_DESCRIPTION", "en_sha": "85e0454ffd16", "status": "draft", "th": "การเลื่อนขั้นผู้บัญชาการฟรีแก่ผู้บัญชาการที่มีระดับสูงสุด"}
+{"tag": "LOC_LEADER_CHAIN_1247B_IMPERATIVE", "en_sha": "ccc81d5f6a30", "status": "draft", "th": "เอาชนะผู้บัญชาการของผู้เล่นจากดินแดนโพ้นทะเลในดินแดนโพ้นทะเล"}
+{"tag": "LOC_LEADER_CHAIN_1247B_NAME", "en_sha": "32bf2f81de29", "status": "draft", "th": "ส่งเหล่าขุนนางของพวกมันกลับบ้านในโลงศพ"}
+{"tag": "LOC_LEADER_CHAIN_1247B_STORYTITLE", "en_sha": "4107b6c385d9", "status": "draft", "th": "ตายตั้งแต่มาถึง"}
+{"tag": "LOC_LEADER_CHAIN_1248A_COMPLETION", "en_sha": "e8df6cfc59f1", "status": "draft", "th": "ปัญหาเรื่องความชอบธรรมคลี่คลายลงในท้ายที่สุดด้วยความเพียรพยายาม โลกได้เห็นความเปลี่ยนแปลงอันลึกซึ้ง แต่ลักษมีบาอียังคงอยู่: มั่นคง สง่างาม เป็นรานี"}
+{"tag": "LOC_LEADER_CHAIN_1248A_STORYTITLE", "en_sha": "29290b559497", "status": "draft", "th": "บัดนี้และตลอดไป"}
+{"tag": "LOC_LEADER_CHAIN_1248B_COMPLETION", "en_sha": "c2c38598421c", "status": "draft", "th": "ลักษมีบาอีไม่จำเป็นต้องพิสูจน์สิ่งใด ความสง่างามของนางประจักษ์ชัดในตัวเอง"}
+{"tag": "LOC_LEADER_CHAIN_1248B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1248B_IMPERATIVE", "en_sha": "488e9ed3e2fb", "status": "draft", "th": "จัดแสดงโบราณวัตถุ 3 ชิ้น"}
+{"tag": "LOC_LEADER_CHAIN_1248B_NAME", "en_sha": "091f6bb140bf", "status": "draft", "th": "แสดงให้เห็นถึงน้ำหนักแห่งประวัติศาสตร์ และความมั่นคงของนาง"}
+{"tag": "LOC_LEADER_CHAIN_1248B_STORYTITLE", "en_sha": "29290b559497", "status": "draft", "th": "บัดนี้และตลอดไป"}
+{"tag": "LOC_LEADER_CHAIN_1248C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1248C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1248D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1248D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1249A_COMPLETION", "en_sha": "e9ac8e551f67", "status": "draft", "th": "ลักษมีบาอีมีสมาธิแน่วแน่ขึ้นเมื่อโครงร่างของพันธมิตรและการเป็นปรปักษ์ในโลกเริ่มแจ่มชัด บัดนี้มิตรและศัตรูปรากฏให้เห็นอย่างเด่นชัด"}
+{"tag": "LOC_LEADER_CHAIN_1249A_STORYTITLE", "en_sha": "d6f96447a02e", "status": "draft", "th": "เส้นแบ่งบนผืนทราย"}
+{"tag": "LOC_LEADER_CHAIN_1249B_COMPLETION", "en_sha": "a320b9522ea4", "status": "draft", "th": "ลักษมีบาอีไม่จำเป็นต้องพิสูจน์สิ่งใด อานุภาพของนางประจักษ์ชัดในตัวเอง"}
+{"tag": "LOC_LEADER_CHAIN_1249B_DESCRIPTION", "en_sha": "a3773835969d", "status": "draft", "th": "{1_child_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1249B_IMPERATIVE", "en_sha": "f0e532102489", "status": "draft", "th": "ยึดถิ่นฐาน 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1249B_NAME", "en_sha": "f1b2d871af8c", "status": "draft", "th": "ให้ศัตรูของเรารู้ว่าพวกเขาเป็นใคร"}
+{"tag": "LOC_LEADER_CHAIN_1249B_STORYTITLE", "en_sha": "d6f96447a02e", "status": "draft", "th": "เส้นแบ่งบนผืนทราย"}
+{"tag": "LOC_LEADER_CHAIN_1249C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
+{"tag": "LOC_LEADER_CHAIN_1249C_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_CHAIN_1249D_DESCRIPTION", "en_sha": "f0ba15d36889", "status": "draft", "th": "{1_reward} และเข้าสู่การเฉลิมฉลอง"}
+{"tag": "LOC_LEADER_CHAIN_1249D_NAME", "en_sha": "c0eabe091bdf", "status": "draft", "th": "ปิด"}
+{"tag": "LOC_LEADER_LAKSHMIBAI_DESCRIPTION", "en_sha": "22f9223ec3f4", "status": "draft", "th": "+50% [icon:YIELD_DIPLOMACY] อิทธิพลในการเริ่ม [icon:PROJECT] ปฏิบัติการนครรัฐ - ผนวกรวม เมื่อคุณผนวกรวม [icon:CITYSTATE] [TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]คุณจะได้รับยูนิตทั้งหมดของนครรัฐนั้น เมื่อยูนิตทหารทางบกของคุณเอาชนะยูนิตข้าศึกได้ จะได้รับ [icon:YIELD_DIPLOMACY] อิทธิพลเท่ากับ 100% ของ [icon:NAR_REW_COMBAT] พลังการรบของยูนิตที่พ่ายแพ้"}
+{"tag": "LOC_LEADER_LAKSHMIBAI_NAME", "en_sha": "4c742821c2a3", "status": "draft", "th": "ลักษมีบาอี"}
+{"tag": "LOC_LOADING_LEADER_INTRO_TEXT_LAKSHMIBAI", "en_sha": "958f0f9e9f51", "status": "draft", "th": "ลักษมีบาอี รานีแห่งฌานสี บนหลังบาดัลผู้ยิ่งใหญ่ ท่านมาพร้อมเสียงกีบม้าดั่งฟ้าคำราม และท่านจะไม่ยอมให้ผู้ใดพรากสิทธิ์โดยกำเนิดของท่านไป ด้วยดาบที่ชูขึ้นสูง ท่านเรียกร้องให้ประชาชนปกป้องสิ่งที่เป็นของพวกเขา และไม่ยอมให้เหล่าโจรและผู้ปล้นสะดมได้รางวัลไป จงยืนหยัด รานี และแสดงให้เห็นว่าการเป็นผู้นำนั้นเป็นเช่นไร"}
+{"tag": "LOC_MAIN_CHAR_SELECT_LEADER_LAKSHMIBAI_ANY", "en_sha": "b27397fd69b0", "status": "draft", "th": "อาวุธมีพลังเพียงเท่าผู้ที่ถือมันเท่านั้น และพลังนั้นมาจากหัวใจ"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_BAADALS_REINS_DESCRIPTION", "en_sha": "abe52fc131b8", "status": "draft", "th": "อนุสรณ์แห่งอาชาผู้ภักดี"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_BAADALS_REINS_FUNCTIONAL_DESCRIPTION", "en_sha": "b057f482663c", "status": "draft", "th": "[B]+1 [icon:YIELD_DIPLOMACY][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ต่อ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]ทุ่งปศุสัตว์"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_BAADALS_REINS_NAME", "en_sha": "ad673a787d16", "status": "draft", "th": "บังเหียนของบาดัล"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_BAADALS_REINS_UNLOCK_TITLE", "en_sha": "3da43087e3b7", "status": "draft", "th": "ปลดล็อกที่เลเวล 5 ของลักษมีบาอี"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_DHAL_COMBAT_PREVIEW", "en_sha": "f318b8fff582", "status": "draft", "th": "+{1_Amount} ของที่ระลึกโล่ธาล"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_DHAL_DESCRIPTION", "en_sha": "e0aa26fd9711", "status": "draft", "th": "โล่กลมผู้พิทักษ์"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_DHAL_FUNCTIONAL_DESCRIPTION", "en_sha": "e05e7c18de8e", "status": "draft", "th": "[B]+2 [icon:NAR_REW_COMBAT][/B] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อป้องกันในดินแดนฝ่ายเดียวกัน"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_DHAL_NAME", "en_sha": "4dbef4af98ed", "status": "draft", "th": "โล่ธาล"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_DHAL_UNLOCK_TITLE", "en_sha": "cb922b67ed3f", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของลักษมีบาอี"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_DESCRIPTION", "en_sha": "9b3adc78b6d5", "status": "draft", "th": "สัญลักษณ์แห่งประชาชน"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_FUNCTIONAL_DESCRIPTION", "en_sha": "260efed806b2", "status": "draft", "th": "[B]+2 [icon:YIELD_DIPLOMACY][/B] สำหรับ[TIP:LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP]การเลื่อนขั้น[/TIP]ของ [icon:UNIT_ARMY_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการกองทัพ[/TIP]แต่ละครั้ง"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_NAME", "en_sha": "716471ca69d2", "status": "draft", "th": "ธงแห่งฌานสี"}
+{"tag": "LOC_MEMENTO_LAKSHMIBAI_FLAG_OF_JHANSI_UNLOCK_TITLE", "en_sha": "bd885fc11b47", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของลักษมีบาอี"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_2_DESC", "en_sha": "a424ac1c87ee", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคโบราณให้ได้ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_2_NAME", "en_sha": "bc5e2c11dfc1", "status": "draft", "th": "จบยุคโบราณ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_3_DESC", "en_sha": "678db4c14f77", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคโบราณให้ได้ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_3_NAME", "en_sha": "711f6629ddf7", "status": "draft", "th": "จบยุคโบราณ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_DESC", "en_sha": "f0cbd3d264fb", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_ANTIQUITY_NAME", "en_sha": "41d31ddd3285", "status": "draft", "th": "จบยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_2_DESC", "en_sha": "81d170be6c26", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคแห่งการสำรวจให้ได้ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_2_NAME", "en_sha": "d2bea71b5a5b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_3_DESC", "en_sha": "7d1e08d960fb", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคแห่งการสำรวจให้ได้ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_3_NAME", "en_sha": "6904a462cf8b", "status": "draft", "th": "จบยุคแห่งการสำรวจ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_DESC", "en_sha": "f0d8e43f5a34", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_EXPLORATION_NAME", "en_sha": "cf03b7846859", "status": "draft", "th": "จบยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_2_DESC", "en_sha": "dbc5ff571d3d", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคสมัยใหม่ให้ได้ 2 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_2_NAME", "en_sha": "b1ea079948e8", "status": "draft", "th": "จบยุคสมัยใหม่ 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_3_DESC", "en_sha": "deb531b03ce9", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคสมัยใหม่ให้ได้ 3 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_3_NAME", "en_sha": "62dd71ebfe99", "status": "draft", "th": "จบยุคสมัยใหม่ 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_DESC", "en_sha": "2642f5e78d47", "status": "draft", "th": "ในฐานะลักษมีบาอี จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_AGE_COMPLETED_MODERN_NAME", "en_sha": "0e2720305622", "status": "draft", "th": "จบยุคสมัยใหม่"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "1d7452158242", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"พิธีรหัสยะแห่งออร์ฟิอุส\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "d914acbbf577", "status": "draft", "th": "พิธีรหัสยะแห่งออร์ฟิอุส"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "c8bf9f2c608d", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"อาณาจักรแห่งสวรรค์\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "416b285daa68", "status": "draft", "th": "อาณาจักรแห่งสวรรค์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_MODERN_DESC", "en_sha": "2ac6a1c53302", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"แดนมหัศจรรย์\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_2_MODERN_NAME", "en_sha": "857273dc2222", "status": "draft", "th": "แดนมหัศจรรย์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "5f67ea493437", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"สิ่งมหัศจรรย์ของโลกโบราณ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "e179edb8faf2", "status": "draft", "th": "สิ่งมหัศจรรย์ของโลกโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_EXPLORATION_DESC", "en_sha": "037c27d957f9", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"Toshakhana\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_EXPLORATION_NAME", "en_sha": "9707cc6c26cb", "status": "draft", "th": "Toshakhana"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_MODERN_DESC", "en_sha": "8c72b6c4bb9f", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"สมาคมภูมิศาสตร์\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_TRIUMPH_MODERN_NAME", "en_sha": "3fe15104f40d", "status": "draft", "th": "สมาคมภูมิศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_VICTORY_DESC", "en_sha": "885d87d10596", "status": "draft", "th": "ในฐานะลักษมีบาอี คว้าชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_CULTURE_VICTORY_NAME", "en_sha": "ed02eb78f0bc", "status": "draft", "th": "ชัยชนะทางวัฒนธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DEITY_VICTORY_DESC", "en_sha": "5c320105fd1e", "status": "draft", "th": "ในฐานะลักษมีบาอี คว้าชัยชนะในระดับความยากเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DEITY_VICTORY_NAME", "en_sha": "a87ad9c5aa69", "status": "draft", "th": "ชัยชนะระดับเทพเจ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "edd87c58a531", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ขนมปังและละครสัตว์\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "bae6f430379b", "status": "draft", "th": "ขนมปังและละครสัตว์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "d1b27e22f5a7", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"พันธมิตรสี่ฝ่าย\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "f449ad66a2af", "status": "draft", "th": "พันธมิตรสี่ฝ่าย"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_MODERN_DESC", "en_sha": "ebd1b0a30985", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"รหัสเอนิกมา\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_2_MODERN_NAME", "en_sha": "8079e7802ca0", "status": "draft", "th": "รหัสเอนิกมา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "b7b591e780f3", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ชักใยอยู่เบื้องหลัง\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "a3a2d3992842", "status": "draft", "th": "ชักใยอยู่เบื้องหลัง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "ffe0ae6d5d3e", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ภาคีนักฆ่า\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "490972fa93d8", "status": "draft", "th": "ภาคีนักฆ่า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_MODERN_DESC", "en_sha": "7caf3d229c23", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"สันนิบาตชาติ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_DIPLOMATIC_TRIUMPH_MODERN_NAME", "en_sha": "894a47aa1f1d", "status": "draft", "th": "สันนิบาตชาติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "a4482061b6d2", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ความโลภคือทองคำ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "d1ec4c10bd2e", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"มาตกลงกันที่กาลิกัต\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "76c2e25cbae8", "status": "draft", "th": "มาตกลงกันที่กาลิกัต"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_MODERN_DESC", "en_sha": "93c5002d547e", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"โรงงานของโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_2_MODERN_NAME", "en_sha": "ef3f13e32df7", "status": "draft", "th": "โรงงานของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_ANTIQUITY_DESC", "en_sha": "f4c9a626fa7a", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"เส้นทางสายไหม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_ANTIQUITY_NAME", "en_sha": "f7fea67bcdac", "status": "draft", "th": "เส้นทางสายไหม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_EXPLORATION_DESC", "en_sha": "aa6e48d6844c", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"กองเรือสมบัติ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_EXPLORATION_NAME", "en_sha": "db1cc065ff1d", "status": "draft", "th": "กองเรือสมบัติ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_MODERN_DESC", "en_sha": "8db8f0e8accb", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"เจ้าพ่อทางรถไฟ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_TRIUMPH_MODERN_NAME", "en_sha": "fcee9557d3b8", "status": "draft", "th": "เจ้าพ่อทางรถไฟ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_VICTORY_DESC", "en_sha": "1272eb1942ed", "status": "draft", "th": "ในฐานะลักษมีบาอี คว้าชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_ECONOMIC_VICTORY_NAME", "en_sha": "e15fe323dc34", "status": "draft", "th": "ชัยชนะทางเศรษฐกิจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "1851d2dd15a1", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"หอบาเบล\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "b34db32b3f46", "status": "draft", "th": "หอบาเบล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "246f3dc189a8", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ที่บ้านก็มีฮับส์บูร์ก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "baa8cacbfc84", "status": "draft", "th": "ที่บ้านก็มีฮับส์บูร์ก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_MODERN_DESC", "en_sha": "8161ceff7e4e", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"อภิมหานคร\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_2_MODERN_NAME", "en_sha": "49d6bec1fecd", "status": "draft", "th": "อภิมหานคร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_ANTIQUITY_DESC", "en_sha": "435f4d1a7ad8", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"สี่มุมโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_ANTIQUITY_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_EXPLORATION_DESC", "en_sha": "9c253fd299ed", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"Hic Sunt Dracones\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_EXPLORATION_NAME", "en_sha": "89d5a04e0fb6", "status": "draft", "th": "Hic Sunt Dracones"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_MODERN_DESC", "en_sha": "a4fcac740c77", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ดวงอาทิตย์ไม่เคยตกดิน\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_EXPANSIONIST_TRIUMPH_MODERN_NAME", "en_sha": "749272e0ace1", "status": "draft", "th": "ดวงอาทิตย์ไม่เคยตกดิน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_DESC", "en_sha": "4dac5046d670", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์สำคัญให้สำเร็จ 4 ครั้งภายในยุคโบราณเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_FOUR_MAJOR_TRIUMPHS_ANTIQUITY_NAME", "en_sha": "b02976da3c59", "status": "draft", "th": "ผู้มีชัย ยุคโบราณ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_FOUR_MAJOR_TRIUMPHS_EXPLORATION_DESC", "en_sha": "1a0578fa2437", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์สำคัญให้สำเร็จ 4 ครั้งภายในยุคแห่งการสำรวจเดียว"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_FOUR_MAJOR_TRIUMPHS_EXPLORATION_NAME", "en_sha": "e9393dfc64cb", "status": "draft", "th": "ผู้มีชัย ยุคแห่งการสำรวจ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "ab5f161794a7", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ไกอัสตัวจริง\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "91f24f3130d3", "status": "draft", "th": "ไกอัสตัวจริง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "a9a48219f059", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"Pax Mongolica\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "af3628948450", "status": "draft", "th": "Pax Mongolica"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_MODERN_DESC", "en_sha": "2d128afc3ea3", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ศัตรูของโลก\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_2_MODERN_NAME", "en_sha": "4597e71deb07", "status": "draft", "th": "ศัตรูของโลก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_ANTIQUITY_DESC", "en_sha": "975deb945677", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"Pax Imperatoria\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_ANTIQUITY_NAME", "en_sha": "9f1c69a82dbe", "status": "draft", "th": "Pax Imperatoria"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_EXPLORATION_DESC", "en_sha": "021d65301e90", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"Non Sufficit Orbis\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_EXPLORATION_NAME", "en_sha": "baa8c0e19fd0", "status": "draft", "th": "Non Sufficit Orbis"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_MODERN_DESC", "en_sha": "77f519270754", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"พันธะทางศีลธรรม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_TRIUMPH_MODERN_NAME", "en_sha": "fb499744af9c", "status": "draft", "th": "พันธะทางศีลธรรม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_VICTORY_DESC", "en_sha": "f3bfc30f4021", "status": "draft", "th": "ในฐานะลักษมีบาอี คว้าชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_MILITARY_VICTORY_NAME", "en_sha": "ff4c893c860e", "status": "draft", "th": "ชัยชนะทางการทหาร"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_1_DESC", "en_sha": "78952e60eb27", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์สำคัญให้สำเร็จ 1 ครั้ง"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_1_NAME", "en_sha": "1ecdd77f146b", "status": "draft", "th": "เล่นเกม 1"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_2_DESC", "en_sha": "38568b7b79c4", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์สำคัญให้สำเร็จ 5 ครั้ง ในยุคใดก็ได้รวมกัน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_2_NAME", "en_sha": "fca44f44a633", "status": "draft", "th": "เล่นเกม 2"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_3_DESC", "en_sha": "3072d64e82dd", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์สำคัญให้สำเร็จ 25 ครั้ง ในยุคใดก็ได้รวมกัน"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_PLAY_GAMES_3_NAME", "en_sha": "c0fac15ead41", "status": "draft", "th": "เล่นเกม 3"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_ANTIQUITY_DESC", "en_sha": "ca3839f290a2", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ผู้เชื่อว่าโลกกลม\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_ANTIQUITY_NAME", "en_sha": "4f3b4027f078", "status": "draft", "th": "ผู้เชื่อว่าโลกกลม"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_EXPLORATION_DESC", "en_sha": "51446ef91bbb", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"ว่าด้วยการโคจรของทรงกลมฟ้า\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_EXPLORATION_NAME", "en_sha": "cb4838e35948", "status": "draft", "th": "ว่าด้วยการโคจรของทรงกลมฟ้า"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_MODERN_DESC", "en_sha": "065526ea5757", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"เหนือคมดาบ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_2_MODERN_NAME", "en_sha": "ddd20af0bbc3", "status": "draft", "th": "เหนือคมดาบ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_ANTIQUITY_DESC", "en_sha": "ad78b6e233c1", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"หอสมุดอัสซูร์บานิปาล\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_ANTIQUITY_NAME", "en_sha": "237eecc78cf8", "status": "draft", "th": "หอสมุดอัสซูร์บานิปาล"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_EXPLORATION_DESC", "en_sha": "8f169d4304ed", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"การเรืองปัญญา\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_EXPLORATION_NAME", "en_sha": "78112dc2690b", "status": "draft", "th": "การเรืองปัญญา"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_MODERN_DESC", "en_sha": "248e7e07120c", "status": "draft", "th": "ในฐานะลักษมีบาอี ทำไทรอัมพ์ \"รุ่งอรุณแห่งการแข่งขันทางอวกาศ\" ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_TRIUMPH_MODERN_NAME", "en_sha": "b4ee785e183c", "status": "draft", "th": "รุ่งอรุณแห่งการแข่งขันทางอวกาศ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_VICTORY_DESC", "en_sha": "e007191293eb", "status": "draft", "th": "ในฐานะลักษมีบาอี คว้าชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LAKSHMIBAI_SCIENCE_VICTORY_NAME", "en_sha": "f8acfc968d6b", "status": "draft", "th": "ชัยชนะทางวิทยาศาสตร์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_ANTIQUITY_DESC", "en_sha": "29a4f6f17d9c", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคโบราณ ทำภารกิจเพื่อสร้างความประทับใจแก่นักฆ่าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_ANTIQUITY_NAME", "en_sha": "8fcceaecd880", "status": "draft", "th": "มุมมองที่เข้มงวด"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_EXPLORATION_DESC", "en_sha": "97b5c90ba870", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคแห่งการสำรวจ ทำภารกิจเพื่อเผยแผ่ศรัทธาใหม่ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_EXPLORATION_NAME", "en_sha": "96ceef9f3d5f", "status": "draft", "th": "เทวสิทธิ์"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_MODERN_DESC", "en_sha": "7462be19fb36", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคสมัยใหม่ ทำภารกิจเพื่อแสดงความชอบธรรมผ่านประวัติศาสตร์ให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_A_MODERN_NAME", "en_sha": "29290b559497", "status": "draft", "th": "บัดนี้และตลอดไป"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_ANTIQUITY_DESC", "en_sha": "40c6108f4290", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคโบราณ ทำภารกิจเพื่อส่งเหล่าทหารขึ้นหลังม้าให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_ANTIQUITY_NAME", "en_sha": "c139c3b73091", "status": "draft", "th": "ขานรับเสียงเรียก"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_EXPLORATION_DESC", "en_sha": "d73d89a3ebe0", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคแห่งการสำรวจ ทำภารกิจเพื่อสร้างแนวป้องกันอันแข็งแกร่งให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_EXPLORATION_NAME", "en_sha": "dd180f34309f", "status": "draft", "th": "แขกที่ไม่ได้รับเชิญ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_MODERN_DESC", "en_sha": "fd33a842d288", "status": "draft", "th": "ในฐานะลักษมีบาอี ในยุคสมัยใหม่ ทำภารกิจเพื่อกำจัดศัตรูของเราให้สิ้นซากให้สำเร็จ"}
+{"tag": "LOC_METAPROGRESSION_CHALLENGE_LEADER_LAKSHMIBAI_QUEST_B_MODERN_NAME", "en_sha": "d6f96447a02e", "status": "draft", "th": "เส้นที่ห้ามล้ำ"}
+{"tag": "LOC_MODULE_LAKSHMIBAI_DESCRIPTION", "en_sha": "a640b9e5c382", "status": "draft", "th": "มีผู้นำใหม่ คือ ลักษมีบาอี"}
+{"tag": "LOC_MODULE_LAKSHMIBAI_NAME", "en_sha": "4c742821c2a3", "status": "draft", "th": "ลักษมีบาอี"}
+{"tag": "LOC_MOD_ATTRIBUTE_DIPLOMATIC_LEGEND_LAKSHMIBAI_L1_DESCRIPTION", "en_sha": "4e249e40cf22", "status": "draft", "th": "ปลดล็อกตำนาน +25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่มหรือสนับสนุน [icon:ENDEAVOR] โครงการร่วม -25% [icon:RELATIONSHIP] ความสัมพันธ์จากการเริ่ม [icon:SANCTIONS] การคว่ำบาตรหรือการปฏิเสธ [icon:ENDEAVOR] โครงการร่วม"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2_COMBAT_PREVIEW", "en_sha": "8649ad10220d", "status": "draft", "th": "+{1_Value} คุณลักษณะทางการทหารจากตำนาน"}
+{"tag": "LOC_MOD_ATTRIBUTE_MILITARISTIC_LEGEND_LAKSHMIBAI_L2_DESCRIPTION", "en_sha": "49dc7bb94399", "status": "draft", "th": "ปลดล็อกตำนาน +5 [icon:NAR_REW_COMBAT] พลังการรบสำหรับยูนิตทั้งหมดเมื่อต่อสู้กับ [icon:CITY_FORTIFIED] เขตป้อมปราการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_1", "en_sha": "5cd821dbc4aa", "status": "draft", "th": "ฌานสีเป็นรัฐเล็ก ๆ ทางตอนกลางค่อนเหนือของอินเดีย ซึ่งในอดีตเป็นอิสระและได้รับการค้ำจุนจากพันธมิตรกับจักรวรรดิทรงอำนาจใกล้เคียง โดยเฉพาะราชวงศ์โมกุล ในปี 1740 ฌานสีกลายเป็นส่วนหนึ่งของจักรวรรดิมราฐะ ซึ่งไม่นานก็เปลี่ยนผ่านไปสู่การปกครองทางอ้อมโดยบริษัทอินเดียตะวันออก ภายใต้การกำกับดูแลของชาวยุโรป เมื่อราชาแห่งฌานสีสิ้นพระชนม์ ผู้สืบทอดต้องได้รับการรับรองจากผู้บริหารชาวอังกฤษ หลังกฎนี้มีผลบังคับใช้ การถ่ายโอนอำนาจไม่กี่ครั้งแรกระหว่างผู้ปกครองซึ่งล้วนเป็นสายเลือดเดียวกัน (จากบิดาสู่บุตร จากพี่สู่น้อง) ก็ผ่านไปโดยไม่มีผู้ใดคัดค้าน"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_2", "en_sha": "26de790587f8", "status": "draft", "th": "แต่ในปี 1853 ราชาคงคาธร ราว ประชวรใกล้สิ้นพระชนม์โดยไม่มีรัชทายาทและไม่มีพี่น้องที่จะสืบราชบัลลังก์ได้อย่างชอบธรรม ตามธรรมเนียมในสถานการณ์เช่นนี้ พระองค์ทรงรับเด็กชายคนหนึ่งเป็นบุตรบุญธรรม คือดาโมดาร์ ราว บุตรของลูกพี่ลูกน้อง ขณะประชวรอยู่บนแท่นบรรทม และทรงแต่งตั้งเขาเป็นผู้สืบทอด นายทหารชาวอังกฤษคนหนึ่งเป็นพยานในพิธีนี้ และคงคาธร ราว ทรงเขียนจดหมายอธิบายความชอบธรรมของการรับบุตรบุญธรรมตามประเพณีของฌานสี แต่เมื่อเห็นโอกาสขยายอำนาจ ชาวอังกฤษจึงเลือกไม่รับรองดาโมดาร์ ราว เป็นรัชทายาทโดยชอบธรรมหลังคงคาธร ราว สิ้นพระชนม์ และกลับประกาศว่าราชบัลลังก์ว่างลง แล้วผนวกรัฐนี้ไป"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_3", "en_sha": "05544035095a", "status": "draft", "th": "แต่พวกเขาไม่ได้คาดคิดถึงชายาของคงคาธร ราว"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_4", "en_sha": "051f0b01791f", "status": "draft", "th": "ลักษมีบาอีเป็นนามที่ได้รับหลังการอภิเษกสมรส พระนางประสูติในนามมณิกรรณิกา ตามเพ ในปี 1835 และเติบโตในราชสำนักของพาชี ราวที่ 2 ผู้ปกครองมราฐะ ซึ่งบิดาผู้เป็นทหารของพระนางรับใช้อยู่ การเลี้ยงดูของพระนางไม่ธรรมดา พระนางเรียนอ่านเขียนตั้งแต่ยังเล็ก แต่ส่วนใหญ่เติบโตมาพร้อมกับเด็กชายในราชสำนัก ด้วยเหตุนี้พระนางจึงฝึกกีฬาและศิลปะการต่อสู้ร่วมกับพวกเขา ทั้งมวยปล้ำ ฟันดาบ และการยิงปืน พระนางชำนาญการขี่ม้าเป็นพิเศษ และดูแลม้าของตนเองตลอดพระชนม์ชีพ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_5", "en_sha": "3dd2b1cd2a43", "status": "draft", "th": "การอภิเษกสมรสกับราชาคงคาธร ราว ยืนยาวเพียงกว่าสิบปี และเมื่อพระองค์สิ้นพระชนม์และอังกฤษเข้ายึดครอง พระนางก็ถูกบีบให้ออกจากพระราชวังพร้อมบุตรบุญธรรม พระนางเก็บตัวเงียบอยู่หลายปี ด้วยตระหนักว่าอังกฤษกุมไพ่ทุกใบไว้ และการต่อต้านในเวลานั้นย่อมไร้ประโยชน์ ทว่าพระนางยังคงมีบทบาทในหมู่ราษฎรในฐานะมารดาของผู้ปกครองโดยชอบธรรม และบุคลิกอันมีเสน่ห์ของพระนางก็ได้รับความเคารพจากทุกฝ่าย"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_6", "en_sha": "7193a32dac4c", "status": "draft", "th": "ในปี 1857 กบฏอินเดียปะทุขึ้นที่มีรัต ทางเหนือของเดลี ชัยชนะต่ออังกฤษที่ตามมาพิสูจน์ถึงพลังเบื้องหลังการลุกฮือ และลักษมีบาอีก็ฉวยโอกาสเข้าร่วมเพื่อทวงคืนอาณาจักรของพระนาง พระนางรวบรวมกองทหารของตนเองและเข้าร่วมการกบฏเมื่อทหารฝ่ายกบฏมาถึงฌานสี ยึดป้อมของอังกฤษและสังหารหมู่ทหารรักษาการณ์ชาวยุโรปพร้อมครอบครัว บทบาทอันเป็นที่ถกเถียงของพระนางในความรุนแรงครั้งนี้ (ยังไม่ชัดเจนว่าพระนางมีส่วนร่วมหรือทหารที่เข้ามาเป็นผู้ก่อความโหดร้าย) ทำให้พระนางถูกสื่ออังกฤษโจมตี แต่พระนางยังคงสนับสนุนทุนแก่ฝ่ายกบฏต่อไป ดาโมดาร์ ราว บุตรชายวัยเยาว์ของพระนางได้รับการประกาศอย่างเป็นทางการให้เป็นราชาแห่งฌานสี และลักษมีบาอีได้รับแต่งตั้งเป็นผู้สำเร็จราชการ"}
+{"tag": "LOC_PEDIA_LEADERS_PAGE_LEADER_LAKSHMIBAI_CHAPTER_HISTORY_PARA_7", "en_sha": "af5fc54bb459", "status": "draft", "th": "หลังหยุดพักไปเพียงช่วงสั้น ๆ อังกฤษก็กลับมาทวงคืนฌานสีในต้นปี 1858 และเริ่มการปิดล้อมซึ่งกินเวลาหลายเดือน จนกองกำลังของลักษมีบาอีไม่อาจต้านทานได้อีกต่อไป เรื่องเล่าที่แพร่หลายกล่าวว่าพระนางหนีออกจากป้อมด้วยการควบม้ากระโดดข้ามกำแพงโดยมีบุตรชายอยู่บนหลัง และทุกวันนี้ยังมีป้ายระบุจุดนั้นไว้ที่ป้อมฌานสี พระนางยังคงต่อต้านต่อไปหลังจากนั้น รวบรวมทหารและออกรบด้วยตนเอง บ่อยครั้งในชุดบุรุษ แต่กองกำลังของพระนางพ่ายแพ้ซ้ำแล้วซ้ำเล่า และลักษมีบาอีสิ้นพระชนม์ในการรบเมื่อวันที่ 17 มิถุนายน ขณะมีพระชนมายุเพียง 22 พรรษา อังกฤษต้องใช้เวลาอีกห้าเดือนจึงควบคุมฌานสีได้ทั้งหมด"}
+{"tag": "LOC_PROFILE_TITLE_LAKSHMIBAI", "en_sha": "da3da0c770eb", "status": "draft", "th": "รานีแห่งฌานสี"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_EXPLORATION_1_DESCRIPTION", "en_sha": "b100d3cd96b2", "status": "draft", "th": "ในฐานะลักษมีบาอี จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางเรือ"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_EXPLORATION_1_NAME", "en_sha": "cac1bdd6013a", "status": "draft", "th": "การอุทิศทางการทูต ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_EXPLORATION_2_DESCRIPTION", "en_sha": "e36941796e32", "status": "draft", "th": "ในฐานะลักษมีบาอี จะเข้าถึงการอุทิศใหม่ของยุคแห่งการสำรวจได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางเรือของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_EXPLORATION_2_NAME", "en_sha": "e4a266329aff", "status": "draft", "th": "การอุทิศทางการทหาร ยุคแห่งการสำรวจ"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_MODERN_1_DESCRIPTION", "en_sha": "70ae5f25e963", "status": "draft", "th": "ในฐานะลักษมีบาอี จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+15% อิทธิพล, -2 พลังการรบให้กับยูนิตทางอากาศ"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_MODERN_1_NAME", "en_sha": "79f5438c1d7d", "status": "draft", "th": "การอุทิศทางการทูต ยุคสมัยใหม่"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_MODERN_2_DESCRIPTION", "en_sha": "44d95a871c44", "status": "draft", "th": "ในฐานะลักษมีบาอี จะเข้าถึงการอุทิศใหม่ของยุคสมัยใหม่ได้:[n]\n\t\t\t\t+3 พลังการรบให้กับยูนิตทางอากาศของคุณ, -10% อิทธิพล"}
+{"tag": "LOC_STRATEGYCARD_LAKSHMIBAI_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
+{"tag": "LOC_TITLE_LAKSHMIBAI_NAME", "en_sha": "da3da0c770eb", "status": "draft", "th": "รานีแห่งฌานสี"}
+{"tag": "LOC_TRAIT_LEADER_LAKSHMIBAI_ABILITY_DESCRIPTION", "en_sha": "e2fb8a828588", "status": "draft", "th": "[BLIST][LI][B]+50% [icon:YIELD_DIPLOMACY] อิทธิพล [/B]ในการเริ่ม[icon:PROJECT] [B]ปฏิบัติการนครรัฐ - ผนวกรวม[/B][LI]เมื่อคุณผนวกรวม [icon:CITYSTATE] [B][TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP] [/B] คุณจะได้รับยูนิตทั้งหมดของนครรัฐนั้น[LI]เมื่อ[B]ยูนิตทหารทางบก [/B]ของคุณเอาชนะยูนิตข้าศึกได้ จะได้รับ [icon:YIELD_DIPLOMACY] [B]อิทธิพล [/B]เท่ากับ [B]100% [/B]ของ [icon:NAR_REW_COMBAT] [B]พลังการรบ[/B]ของยูนิตที่พ่ายแพ้[/LIST]"}
+{"tag": "LOC_TRAIT_LEADER_LAKSHMIBAI_ABILITY_NAME", "en_sha": "da3da0c770eb", "status": "draft", "th": "รานีแห่งฌานสี"}
+{"tag": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_CHOLA_TOOLTIP", "en_sha": "61ea90e7e543", "status": "draft", "th": "[B]ลักษมีบาอี[/B] มาจากทวีปเดียวกับ [B]โจฬะ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_DESCRIPTION", "en_sha": "5bbd134dcffc", "status": "draft", "th": "เล่นเป็น [B]ลักษมีบาอี[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_MAURYA_TOOLTIP", "en_sha": "1fe31b11111f", "status": "draft", "th": "[B]ลักษมีบาอี[/B] มาจากภูมิภาคเดียวกับ [B]เมารยะ[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_LAKSHMIBAI_MUGHAL_TOOLTIP", "en_sha": "97f10cf20262", "status": "draft", "th": "[B]ลักษมีบาอี[/B] มาจากภูมิภาคเดียวกับ [B]โมกุล[/B]"}
+{"tag": "LOC_VICTORY_LEADER_LAKSHMIBAI", "en_sha": "1e1ab1d3ca7d", "status": "draft", "th": "ความมืดถูกพิชิตแล้ว ถูกเหยียบย่ำอยู่ใต้กีบม้าของข้า"}
