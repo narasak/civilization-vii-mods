@@ -11,6 +11,9 @@
 // MEASURED 2026-11-06 on macOS, item 3834574849 — this does NOT work from a Mac:
 //   as app 1295660 (the game):   preview -> 'access denied'; a title-only update -> OK
 //   as app 3688890 (Dev Tools):  preview -> 'a generic failure' (Windows-only tool, not installed)
+//   a NEW item made with ISteamUGC::CreateItem (item 3834585868): preview -> 'access denied' too, so it
+//   is not the legacy-cloud storage of a steamcmd-created item; Civ VII refuses previews from any client
+//   but its own uploader.
 // The main preview has to be set once with the uploader in Civilization VII Development Tools on
 // Windows. Later steamcmd updates run with --no-preview and leave it in place.
 import { createRequire } from 'node:module';
