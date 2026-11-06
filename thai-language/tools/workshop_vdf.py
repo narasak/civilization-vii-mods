@@ -33,6 +33,13 @@ def main():
     if not os.path.isfile(os.path.join(content, 'thai-language.modinfo')):
         print('COULD NOT LOOK: no build in dist/lth-thai-language — run tools/package.sh first')
         return 2
+    # steamcmd's VDF reader ends a value at the first double quote even when escaped: the first
+    # description was cut at 'แล้วเปิดใช้ \' (2026-11-06). Refuse instead of publishing a truncated page.
+    for name in ('description.txt',):
+        text = open(os.path.join(MOD, 'workshop', name), encoding='utf-8').read()
+        if '"' in text or '\\' in text:
+            print(f'workshop/{name}: contains a double quote or backslash, which steamcmd truncates at')
+            return 1
     modinfo = open(os.path.join(MOD, 'thai-language.modinfo'), encoding='utf-8').read()
     ver = re.search(r'<Mod id="lth-thai-language" version="(\d+)"', modinfo).group(1)
     id_path = os.path.join(MOD, 'workshop', 'published_id.txt')
