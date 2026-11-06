@@ -14,7 +14,14 @@ English text: keep the game language on English.
 
 ## Install
 
-Build from source (macOS):
+- **Steam Workshop:** subscribe to "Thai Language Pack - ภาษาไทย" (link once public).
+- **Manual:** download `thai-language-pack-v<N>.zip` from [Releases](https://github.com/narasak/civilization-vii-mods/releases) and unzip it into your Mods folder
+  (macOS `~/Library/Application Support/Civilization VII/Mods/`, Windows `%LOCALAPPDATA%\Firaxis Games\Sid Meier's Civilization VII\Mods\`).
+
+Then enable "Thai Language Pack" under Add-Ons.
+
+### Build from source (macOS)
+
 
 ```sh
 pip install -r tools/requirements.txt          # fonttools, pythainlp, defusedxml
@@ -23,7 +30,7 @@ LTH_PYTHON=python3 tools/install.sh            # build text, run every check, co
 ```
 
 `install.sh` reads the game's own text from your installation to place each translation; it refuses to
-install if any check fails. Then enable "Thai Language" under Add-Ons.
+install if any check fails. `tools/package.sh` builds the release zip from the same gated build.
 
 ## How it works
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="lth-thai-language" version="8" xmlns="ModInfo">
+<Mod id="lth-thai-language" version="9" xmlns="ModInfo">
 	<Properties>
 		<!-- ASCII ONLY. Thai here is drawn on the Add-Ons screen, where our font is not loaded, so it
 		     shows as empty boxes. (It was first blamed for a crash on quit; a control run with NO third-party mods (2026-11-06 08:28) crashed identically, so the crash is not ours.)
 		     tools/check.py enforces this. -->
-		<Name>Thai Language - Phase 0 test</Name>
-		<Description>Phase 0 proof of concept: bundles a Thai font, replaces ~30 menu strings with Thai, and shows a diagnostics panel on the main menu. Keep the game language set to English.</Description>
+		<Name>Thai Language Pack</Name>
+		<Description>Thai translation of the whole game: menus, tooltips, Civilopedia, narrative events and leader dialog, for the base game, all three Ages and all DLC. Bundles Thai fonts (Sarabun, Kanit). Keep the game language set to English. Source: github.com/narasak/civilization-vii-mods</Description>
 		<Authors>narasak</Authors>
 		<Package>Mod</Package>
 		<AffectsSavedGames>0</AffectsSavedGames>

@@ -3,7 +3,8 @@
 # the check is never installed.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")/.." && pwd)"
-DEST="$HOME/Library/Application Support/Civilization VII/Mods/lth-thai-language"
+# LTH_DEST overrides the target (tools/package.sh stages a release there).
+DEST="${LTH_DEST:-$HOME/Library/Application Support/Civilization VII/Mods/lth-thai-language}"
 
 # Generated text first (needs fonttools + pythainlp: pip install -r tools/requirements.txt;
 # point LTH_PYTHON at that interpreter), then the gate reads what was generated.

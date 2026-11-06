@@ -1,0 +1,26 @@
+[h1]Thai Language Pack - ภาษาไทยสำหรับ Civilization VII[/h1]
+
+แปลข้อความในเกมเป็นภาษาไทยทั้งหมด ทั้งเมนู คำแนะนำ ซีวิโลพีเดีย เหตุการณ์เรื่องราว และบทสนทนาของผู้นำ
+ครอบคลุมเกมหลักทั้ง 3 ยุค และ DLC ทุกตัว พร้อมฟอนต์ไทย (Sarabun, Kanit) ในตัว ไม่ต้องติดตั้งฟอนต์เพิ่ม
+
+[h2]วิธีใช้[/h2]
+[list]
+[*]กด Subscribe แล้วเปิดใช้ "Thai Language Pack" ในหน้า Add-Ons
+[*]ตั้งภาษาของเกมเป็น English ไว้ตามเดิม (เกมไม่มีภาษาไทยให้เลือก ม็อดนี้จึงแทนที่ข้อความภาษาอังกฤษด้วยภาษาไทย)
+[*]ไม่กระทบเซฟเกม เปิดหรือปิดได้ทุกเมื่อ
+[/list]
+
+[h2]สถานะ[/h2]
+แปลแล้ว 46,593 จาก 46,622 ข้อความ (99.9%) เป็นฉบับทดสอบ หากพบคำแปลผิดหรือข้อความล้นกรอบ
+แจ้งได้ที่หน้า Discussions หรือ GitHub พร้อมภาพหน้าจอ
+
+[h2]English[/h2]
+Full Thai translation of Civilization VII: menus, tooltips, Civilopedia, narrative events and leader
+dialog, for the base game, all three Ages and all DLC. Bundles Thai fonts, so nothing else to install.
+Keep the game language set to English: Thai is not a selectable language, so this mod replaces the
+English text. Does not affect saved games.
+
+Source code, translation glossary and issue tracker:
+[url=https://github.com/narasak/civilization-vii-mods]github.com/narasak/civilization-vii-mods[/url]
+
+Unofficial fan project, not affiliated with Firaxis Games or 2K. Fonts: Sarabun and Kanit, SIL Open Font License 1.1.

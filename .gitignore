@@ -16,3 +16,6 @@ thai-language/glossary/names.tsv
 __pycache__/
 .DS_Store
 .idea/
+
+# Release builds (tools/package.sh)
+*/dist/
