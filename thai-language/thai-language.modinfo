@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="lth-thai-language" version="11" xmlns="ModInfo">
+<Mod id="lth-thai-language" version="12" xmlns="ModInfo">
 	<Properties>
 		<!-- ASCII ONLY. Thai here is drawn on the Add-Ons screen, where our font is not loaded, so it
 		     shows as empty boxes. (It was first blamed for a crash on quit; a control run with NO third-party mods (2026-11-06 08:28) crashed identically, so the crash is not ours.)
@@ -29,16 +29,13 @@
 			<AlwaysMet></AlwaysMet>
 		</Criteria>
 		<Criteria id="lth-cond-05" any="true">
-			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
-			<AgeInUse>AGE_EXPLORATION</AgeInUse>
-			<AgeInUse>AGE_MODERN</AgeInUse>
+			<AgeAtOrBefore>AGE_ANTIQUITY</AgeAtOrBefore>
 		</Criteria>
 		<Criteria id="lth-cond-06" any="true">
-			<AgeInUse>AGE_EXPLORATION</AgeInUse>
-			<AgeInUse>AGE_MODERN</AgeInUse>
+			<AgeAtOrBefore>AGE_EXPLORATION</AgeAtOrBefore>
 		</Criteria>
 		<Criteria id="lth-cond-07" any="true">
-			<AgeInUse>AGE_MODERN</AgeInUse>
+			<AgeAtOrBefore>AGE_MODERN</AgeAtOrBefore>
 		</Criteria>
 		<Criteria id="lth-cond-08">
 			<AlwaysMet></AlwaysMet>

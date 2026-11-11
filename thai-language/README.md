@@ -8,9 +8,17 @@ English text: keep the game language on English.
 
 ## Status
 
-- 46,593 of 46,622 game strings translated (99.94%); the rest are empty strings and English grammar helpers.
+- 46,766 of 46,781 game strings translated (99.97%); the rest are empty strings and English grammar helpers.
 - Published on the Steam Workshop (public since 2026-11-06). Machine-assisted, checked by tooling and tested in game. Reports welcome.
-- Tested on Civilization VII 1.5.0, macOS.
+- Built against Civilization VII build 26334429 (2026-11-11), macOS.
+
+### After a game patch
+
+```sh
+python3 tools/extract.py         # re-read the game text
+python3 tools/prune_stale.py     # drop rows whose English changed or was removed
+# translate the strings that are now untranslated, then collect, harmonize, package, upload
+```
 
 ## Install
 

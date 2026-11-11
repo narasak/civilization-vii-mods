@@ -105,6 +105,7 @@
 {"tag": "LOC_CROSSPLAY_CHOICE_2_CONFLICT_RESOLUTION", "en_sha": "64fbb2cedf07", "status": "draft", "th": "Crossplay ที่ผูกกับ 2K"}
 {"tag": "LOC_CROSSPLAY_CHOICE_2_CONTEXT_RESOLUTION", "en_sha": "02979a6dfec2", "status": "draft", "th": "เซฟ Crossplay ที่ผูกกับ 2K {1_CrossplayType}"}
 {"tag": "LOC_CROSSPLAY_TITLE_CONFLICT_RESOLUTION", "en_sha": "461cb9d1a7a0", "status": "draft", "th": "เซฟ Crossplay ของบัญชีที่ผูกกับ 2K ขัดแย้งกัน"}
+{"tag": "LOC_CURRENT_SEARCH", "en_sha": "2d92ff1c0811", "status": "draft", "th": "การค้นหาปัจจุบัน"}
 {"tag": "LOC_CYCLE_NEXT", "en_sha": "c64b8cd3901b", "status": "draft", "th": "วนไปถัดไป"}
 {"tag": "LOC_CYCLE_NEXT_HELP", "en_sha": "fbaf62695857", "status": "draft", "th": "วนการเลือกไปยังยูนิตหรือนครถัดไป"}
 {"tag": "LOC_CYCLE_PREV", "en_sha": "f47d8482d328", "status": "draft", "th": "วนไปก่อนหน้า"}
@@ -168,6 +169,7 @@
 {"tag": "LOC_GENERIC_ABORT", "en_sha": "6f3abbe484ab", "status": "draft", "th": "ยกเลิก"}
 {"tag": "LOC_GENERIC_ACCEPT", "en_sha": "bb54db510a92", "status": "draft", "th": "ยอมรับ"}
 {"tag": "LOC_GENERIC_BACK", "en_sha": "b52b36b7269f", "status": "draft", "th": "ย้อนกลับ"}
+{"tag": "LOC_GENERIC_BACK_TO_GAME", "en_sha": "8049674dc62a", "status": "draft", "th": "กลับสู่เกม"}
 {"tag": "LOC_GENERIC_CANCEL", "en_sha": "77dfd2135f4d", "status": "draft", "th": "ยกเลิก"}
 {"tag": "LOC_GENERIC_CHOOSE", "en_sha": "2fa207bff516", "status": "draft", "th": "เลือก{1_Choice}"}
 {"tag": "LOC_GENERIC_CIVILIZATION", "en_sha": "aa98e90127c6", "status": "draft", "th": "อารยธรรม"}
@@ -275,6 +277,18 @@
 {"tag": "LOC_KICK_DIALOG_TITLE", "en_sha": "7745708feb2c", "status": "draft", "th": "เตะผู้เล่น?"}
 {"tag": "LOC_KICK_VOTE_CHOICE_DIALOG", "en_sha": "f7ee4b3e24e7", "status": "draft", "th": "{2_kickerPlayerName} ได้เริ่มโหวตเตะ {1_kickPlayerName}[N]คุณต้องการเตะ {1_kickPlayerName} ออกจากเกมหรือไม่"}
 {"tag": "LOC_KICK_VOTE_CONFIRM_DIALOG", "en_sha": "67ed0c141758", "status": "draft", "th": "คุณแน่ใจหรือไม่ว่าต้องการเตะ {1_kickPlayerName} ออกจากเกม ระบบจะเริ่มการโหวต"}
+{"tag": "LOC_LANGUAGE_DE_DE_NAME", "en_sha": "caa2d5f38246", "status": "draft", "th": "ภาษาเยอรมัน"}
+{"tag": "LOC_LANGUAGE_EN_US_NAME", "en_sha": "649df08a448e", "status": "draft", "th": "ภาษาอังกฤษ"}
+{"tag": "LOC_LANGUAGE_ES_ES_NAME", "en_sha": "43a84100efb0", "status": "draft", "th": "ภาษาสเปน"}
+{"tag": "LOC_LANGUAGE_FR_FR_NAME", "en_sha": "c0747e4c0303", "status": "draft", "th": "ภาษาฝรั่งเศส"}
+{"tag": "LOC_LANGUAGE_IT_IT_NAME", "en_sha": "27273634cd4f", "status": "draft", "th": "ภาษาอิตาลี"}
+{"tag": "LOC_LANGUAGE_JA_JP_NAME", "en_sha": "43a017c348f9", "status": "draft", "th": "ภาษาญี่ปุ่น"}
+{"tag": "LOC_LANGUAGE_KO_KR_NAME", "en_sha": "195a6fa5c5ce", "status": "draft", "th": "ภาษาเกาหลี"}
+{"tag": "LOC_LANGUAGE_PL_PL_NAME", "en_sha": "f1a06a49bbfc", "status": "draft", "th": "ภาษาโปแลนด์"}
+{"tag": "LOC_LANGUAGE_PT_BR_NAME", "en_sha": "ed1e3d16afce", "status": "draft", "th": "ภาษาโปรตุเกส (บราซิล)"}
+{"tag": "LOC_LANGUAGE_RU_RU_NAME", "en_sha": "3bf5ee3d7535", "status": "draft", "th": "ภาษารัสเซีย"}
+{"tag": "LOC_LANGUAGE_ZH_HANS_CN_NAME", "en_sha": "ee535983f64a", "status": "draft", "th": "ภาษาจีน (ตัวย่อ)"}
+{"tag": "LOC_LANGUAGE_ZH_HANT_HK_NAME", "en_sha": "1fff736353ff", "status": "draft", "th": "ภาษาจีน (ตัวเต็ม)"}
 {"tag": "LOC_LEADER_RANDOM_DESCRIPTION", "en_sha": "d6efef0f5c23", "status": "draft", "th": "ระบบจะเลือกผู้นำให้คุณ"}
 {"tag": "LOC_LEADER_RANDOM_NAME", "en_sha": "58d888c08aa5", "status": "draft", "th": "สุ่ม"}
 {"tag": "LOC_LOAD_GAME_ERROR_BAD_MAPSIZE_BODY", "en_sha": "216258429962", "status": "draft", "th": "ขนาดแผนที่นี้ใช้ไม่ได้กับแพลตฟอร์มนี้"}
@@ -349,11 +363,13 @@
 {"tag": "LOC_NAV_SELECT", "en_sha": "8598222918d3", "status": "draft", "th": "เลือก"}
 {"tag": "LOC_NAV_UP", "en_sha": "2038bdec9210", "status": "draft", "th": "ขึ้น"}
 {"tag": "LOC_NAV_UP_HELP", "en_sha": "6afb916c6ad9", "status": "draft", "th": "นำทางขึ้น"}
+{"tag": "LOC_NEAR_MY_CITIES", "en_sha": "90153f789537", "status": "draft", "th": "ใกล้นครของฉัน"}
 {"tag": "LOC_NEXT_ACTION", "en_sha": "076901c6f882", "status": "draft", "th": "การกระทำถัดไป"}
 {"tag": "LOC_NEXT_ACTION_HELP", "en_sha": "929950371458", "status": "draft", "th": "ดำเนินการกระทำถัดไป หรือจบเทิร์นของผู้เล่นหากไม่มีการกระทำเหลืออยู่"}
 {"tag": "LOC_NEXT_SELECT", "en_sha": "6e938afba43f", "status": "draft", "th": "เลือกถัดไป"}
 {"tag": "LOC_NOTIFICATION", "en_sha": "753a22b2eb61", "status": "draft", "th": "การแจ้งเตือน"}
 {"tag": "LOC_NOTIFICATION_HELP", "en_sha": "6305368aa494", "status": "draft", "th": "เปิดการแจ้งเตือนบน HUD"}
+{"tag": "LOC_NOT_OWNED", "en_sha": "48ebe9bab058", "status": "draft", "th": "ไม่มีเจ้าของ"}
 {"tag": "LOC_OOBE_TITLE_AUDIO", "en_sha": "54f8065441c1", "status": "draft", "th": "เลือกตัวเลือกเสียงของคุณ"}
 {"tag": "LOC_OOBE_TITLE_AUTOSAVE", "en_sha": "17060b147873", "status": "draft", "th": "เกมนี้รองรับการบันทึกอัตโนมัติ[n]กรุณาอย่าปิดเกมขณะที่เห็นไอคอนนี้"}
 {"tag": "LOC_OOBE_TITLE_DISPLAY", "en_sha": "637f5a09db44", "status": "draft", "th": "เลือกตัวเลือกการแสดงผลของคุณ"}
@@ -374,12 +390,14 @@
 {"tag": "LOC_OPTIONS_ACCESSIBILITY_LONG_PRESS_DESCRIPTION", "en_sha": "b7ad08ffbc9e", "status": "draft", "th": "เปลี่ยนระยะเวลาที่สามารถกดคลิกเมาส์หรือแตะหน้าจอค้างไว้ก่อนที่จะนับเป็นการเคลื่อนที่ หากคุณมือไม่ค่อยนิ่งหรือเมาส์ของคุณไวมาก ค่าที่สูงขึ้นจะช่วยไม่ให้การคลิกและการแตะถูกตีความผิดว่าเป็นการลาก"}
 {"tag": "LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED", "en_sha": "a0ac3a9f5d6d", "status": "draft", "th": "เปิดใช้ Adaptive Triggers"}
 {"tag": "LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED_DESCRIPTION", "en_sha": "d6e100049782", "status": "draft", "th": "เปิดใช้ฟังก์ชันเอฟเฟกต์ไกปืนในเกมหรือไม่"}
+{"tag": "LOC_OPTIONS_ADVANCED_AA_DISABLED", "en_sha": "90140ad0764e", "status": "draft", "th": "เปลี่ยนจากการลดรอยหยักอัตโนมัติเป็นการตั้งค่าเองเพื่อแก้ไขตัวเลือกนี้"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_0", "en_sha": "46d705277fe8", "status": "draft", "th": "คำเตือนจากที่ปรึกษา"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_0_DESCRIPTION", "en_sha": "a2bc2bb397d5", "status": "draft", "th": "กำหนดวิธีที่ที่ปรึกษาในเกมแจ้งคำเตือนสำคัญให้คุณทราบ"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_1", "en_sha": "437a06fd44c9", "status": "draft", "th": "เฉพาะเมื่อติดตาม"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_1_DESCRIPTION", "en_sha": "3fd7fbf4657d", "status": "draft", "th": "ที่ปรึกษาแต่ละคนจะแจ้งคำเตือนสำคัญเฉพาะเมื่อคุณติดตามที่ปรึกษาคนนั้นอยู่"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_2", "en_sha": "a91bcce893b5", "status": "draft", "th": "เสมอ"}
 {"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_2_DESCRIPTION", "en_sha": "630d39082235", "status": "draft", "th": "ที่ปรึกษาแต่ละคนจะแจ้งคำเตือนสำคัญเสมอแม้คุณจะไม่ได้ติดตามก็ตาม"}
+{"tag": "LOC_OPTIONS_ADVISOR_WARNINGS_DISABLED", "en_sha": "152a51945e70", "status": "draft", "th": "ปิดบทช่วยสอนเพื่อแก้ไขตัวเลือกนี้"}
 {"tag": "LOC_OPTIONS_ARE_YOU_SURE", "en_sha": "410bf23a3f08", "status": "draft", "th": "คุณแน่ใจหรือไม่"}
 {"tag": "LOC_OPTIONS_ARE_YOU_SURE_DEFAULT", "en_sha": "fd6330cb11b8", "status": "draft", "th": "คุณแน่ใจหรือไม่ว่าต้องการคืนค่าเป็นการตั้งค่าเริ่มต้น"}
 {"tag": "LOC_OPTIONS_AUDIO_DYNAMIC_RANGE", "en_sha": "e363920fd6b2", "status": "draft", "th": "ช่วงไดนามิก"}
@@ -455,6 +473,7 @@
 {"tag": "LOC_OPTIONS_DEFAULTS", "en_sha": "428819bf9e83", "status": "draft", "th": "ค่าเริ่มต้น"}
 {"tag": "LOC_OPTIONS_DEFAULTS_DESCRIPTION", "en_sha": "0ca951b6b3b5", "status": "draft", "th": "คืนค่าการเปลี่ยนแปลงทั้งหมดเป็นการตั้งค่าเริ่มต้น"}
 {"tag": "LOC_OPTIONS_DISABLED_IN_GAME", "en_sha": "a405862fb169", "status": "draft", "th": "ไม่สามารถแก้ไขตัวเลือกนี้ขณะอยู่ในเกม"}
+{"tag": "LOC_OPTIONS_DISABLED_IN_MP_GAME", "en_sha": "3ea52ffb93c7", "status": "draft", "th": "ไม่สามารถแก้ไขตัวเลือกนี้ได้ขณะอยู่ในเกมผู้เล่นหลายคน"}
 {"tag": "LOC_OPTIONS_DISPLAY_LANGUAGE", "en_sha": "42727fc326e3", "status": "draft", "th": "ภาษาที่แสดง"}
 {"tag": "LOC_OPTIONS_EMBLEM_BRIGHTNESS", "en_sha": "f4145dd73966", "status": "draft", "th": "ปรับการตั้งค่าจนมองไม่เห็นตราสัญลักษณ์ด้านบน และมองเห็นสี่เหลี่ยมตรงกลางได้เพียงเล็กน้อย"}
 {"tag": "LOC_OPTIONS_ENABLE_EDGE_PANNING", "en_sha": "ee855c96caf1", "status": "draft", "th": "เลื่อนกล้องที่ขอบจอ"}
@@ -848,6 +867,7 @@
 {"tag": "LOC_OPTIONS_PLAYER_COMBAT_CAMERA_PAN_2", "en_sha": "ba85b18a1a2c", "status": "draft", "th": "การรบทั้งหมด"}
 {"tag": "LOC_OPTIONS_PLAYER_COMBAT_CAMERA_PAN_2_DESCRIPTION", "en_sha": "0cd56ab8b8e3", "status": "draft", "th": "กล้องจะเลื่อนไปยังยูนิตของคุณทุกครั้งที่ได้รับความเสียหาย"}
 {"tag": "LOC_OPTIONS_PLAYER_COMBAT_CAMERA_PAN_DESCRIPTION", "en_sha": "94262540090e", "status": "draft", "th": "เลื่อนกล้องไปยังการรบที่ยูนิตของคุณถูกโจมตีโดยอัตโนมัติ"}
+{"tag": "LOC_OPTIONS_PLOT_TILE_TOOLTIP_DELAY", "en_sha": "8d60460164a8", "status": "draft", "th": "หน่วงเวลาคำแนะนำช่อง"}
 {"tag": "LOC_OPTIONS_PLOT_TOOLTIP_DELAY", "en_sha": "f2d2e18aad84", "status": "draft", "th": "หน่วงเวลาคำแนะนำช่อง"}
 {"tag": "LOC_OPTIONS_PLOT_TOOLTIP_DELAY_DESCRIPTION", "en_sha": "375213a4c14a", "status": "draft", "th": "จำนวนวินาทีที่รอก่อนแสดงคำแนะนำบนช่องในโลก"}
 {"tag": "LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE", "en_sha": "548d8831cdbe", "status": "draft", "th": "{1: number 0.0} วินาที"}
@@ -986,6 +1006,9 @@
 {"tag": "LOC_OPTIONS_ZOOM_SPEED", "en_sha": "708ee1ea040d", "status": "draft", "th": "ความเร็วการซูม"}
 {"tag": "LOC_OPTIONS_ZOOM_SPEED_DESCRIPTION", "en_sha": "7a90c2e609fb", "status": "draft", "th": "ความเร็วในการซูมของกล้อง"}
 {"tag": "LOC_OPTION_KEY_QUOTE", "en_sha": "2ace62c1befa", "status": "draft", "th": "\""}
+{"tag": "LOC_OWNED", "en_sha": "fbde0405bf4f", "status": "draft", "th": "มีเจ้าของ"}
+{"tag": "LOC_OWNED_BY_ME", "en_sha": "d51c71a26a13", "status": "draft", "th": "เป็นของฉัน"}
+{"tag": "LOC_OWNED_BY_OTHERS", "en_sha": "b35b69838774", "status": "draft", "th": "เป็นของผู้อื่น"}
 {"tag": "LOC_PANEL_X_CLOSE", "en_sha": "9453e1cad14b", "status": "draft", "th": "ปิดแผงนี้"}
 {"tag": "LOC_PANEL_X_MINIMIZE", "en_sha": "5866f3413e28", "status": "draft", "th": "ย่อ/ขยายแผงนี้"}
 {"tag": "LOC_PLATFORM_ICON_EOS", "en_sha": "914788b160c9", "status": "draft", "th": "Epic Games Store"}
@@ -1203,6 +1226,45 @@
 {"tag": "LOC_SCROLL_BOTTOM", "en_sha": "c75e2d5076fc", "status": "draft", "th": "เลื่อนไปล่างสุด"}
 {"tag": "LOC_SCROLL_PAN", "en_sha": "156b2b4d9bc7", "status": "draft", "th": "การเลื่อน"}
 {"tag": "LOC_SCROLL_PAN_HELP", "en_sha": "c584119ed4f5", "status": "draft", "th": "เลื่อนดูรายการ"}
+{"tag": "LOC_SEARCH_NAVTRAY_ADD", "en_sha": "61cc55aa0453", "status": "draft", "th": "เพิ่ม"}
+{"tag": "LOC_SEARCH_NAVTRAY_CLOSE_HELPER", "en_sha": "cdadd12859bb", "status": "draft", "th": "ปิดตัวช่วย"}
+{"tag": "LOC_SEARCH_NAVTRAY_FILTER", "en_sha": "d7decf1aa22b", "status": "draft", "th": "ตัวกรอง"}
+{"tag": "LOC_SEARCH_NAVTRAY_HELPER", "en_sha": "1e7eebdb08c9", "status": "draft", "th": "ตัวช่วย"}
+{"tag": "LOC_SEARCH_NAVTRAY_KEYBOARD", "en_sha": "6662c40bac78", "status": "draft", "th": "คีย์บอร์ด"}
+{"tag": "LOC_SEARCH_NAVTRAY_REMOVE", "en_sha": "e963907dac5c", "status": "draft", "th": "ลบ"}
+{"tag": "LOC_SEARCH_NAVTRAY_START_SEARCH", "en_sha": "3fb45c21d79f", "status": "draft", "th": "เริ่มค้นหา"}
+{"tag": "LOC_SEARCH_NAVTRAY_TOGGLE_APPEND", "en_sha": "d81c36031abe", "status": "draft", "th": "เปิด/ปิดการต่อท้าย"}
+{"tag": "LOC_SEARCH_NAVTRAY_TOGGLE_TERM", "en_sha": "b185e18c753b", "status": "draft", "th": "เปิด/ปิดคำค้น"}
+{"tag": "LOC_SEARCH_NAVTRAY_UNDO", "en_sha": "39fc72124884", "status": "draft", "th": "เลิกทำ"}
+{"tag": "LOC_SEARCH_TERM_BIOME", "en_sha": "4e60685e05f6", "status": "draft", "th": "ชีวนิเวศ"}
+{"tag": "LOC_SEARCH_TERM_BUILDING", "en_sha": "9d914bfcf1c5", "status": "draft", "th": "สิ่งก่อสร้าง"}
+{"tag": "LOC_SEARCH_TERM_CITY", "en_sha": "4271627f4f0b", "status": "draft", "th": "นคร"}
+{"tag": "LOC_SEARCH_TERM_CITY_CENTER", "en_sha": "67753954b9a8", "status": "draft", "th": "ใจกลางนคร"}
+{"tag": "LOC_SEARCH_TERM_CITY_STATES", "en_sha": "96f63957c7bf", "status": "draft", "th": "นครรัฐ"}
+{"tag": "LOC_SEARCH_TERM_CITY_STATES_HYPHEN", "en_sha": "089084824a06", "status": "draft", "th": "นครรัฐ"}
+{"tag": "LOC_SEARCH_TERM_CIVILIAN", "en_sha": "d18e442fc597", "status": "draft", "th": "พลเรือน"}
+{"tag": "LOC_SEARCH_TERM_CONSTRUCTIBLE", "en_sha": "9757c67e352f", "status": "draft", "th": "สิ่งปลูกสร้าง"}
+{"tag": "LOC_SEARCH_TERM_DISCOVERIES", "en_sha": "be1c21d6fe0a", "status": "draft", "th": "การค้นพบ"}
+{"tag": "LOC_SEARCH_TERM_DISCOVERY", "en_sha": "3b3290c7fa38", "status": "draft", "th": "การค้นพบ"}
+{"tag": "LOC_SEARCH_TERM_DISTRICT", "en_sha": "c0cb139cce34", "status": "draft", "th": "เขต"}
+{"tag": "LOC_SEARCH_TERM_FEATURE", "en_sha": "ad565d9d01d0", "status": "draft", "th": "ลักษณะภูมิประเทศ"}
+{"tag": "LOC_SEARCH_TERM_GREAT_PERSON", "en_sha": "1000c777c715", "status": "draft", "th": "บุคคลผู้ยิ่งใหญ่"}
+{"tag": "LOC_SEARCH_TERM_HOLY_CITY", "en_sha": "a4f6c6bcf6af", "status": "draft", "th": "นครศักดิ์สิทธิ์"}
+{"tag": "LOC_SEARCH_TERM_IMPASSABLE", "en_sha": "8305273a0964", "status": "draft", "th": "ผ่านไม่ได้"}
+{"tag": "LOC_SEARCH_TERM_IMPROVEMENT", "en_sha": "06a595874228", "status": "draft", "th": "สิ่งปรับปรุง"}
+{"tag": "LOC_SEARCH_TERM_LAKES", "en_sha": "18f7a350af28", "status": "draft", "th": "ทะเลสาบ"}
+{"tag": "LOC_SEARCH_TERM_MILITARY", "en_sha": "430853fbd980", "status": "draft", "th": "การทหาร"}
+{"tag": "LOC_SEARCH_TERM_PILLAGED", "en_sha": "de6c19505ff7", "status": "draft", "th": "ถูกปล้นสะดม"}
+{"tag": "LOC_SEARCH_TERM_PLOT", "en_sha": "36d4b773518b", "status": "draft", "th": "ช่อง"}
+{"tag": "LOC_SEARCH_TERM_RESOURCE", "en_sha": "021493f340d3", "status": "draft", "th": "ทรัพยากร"}
+{"tag": "LOC_SEARCH_TERM_RIVERS", "en_sha": "5a34cef8639b", "status": "draft", "th": "แม่น้ำ"}
+{"tag": "LOC_SEARCH_TERM_RURAL", "en_sha": "4c84a2775573", "status": "draft", "th": "เขตชนบท"}
+{"tag": "LOC_SEARCH_TERM_TERRAIN", "en_sha": "e7d721bc9ae7", "status": "draft", "th": "ภูมิประเทศ"}
+{"tag": "LOC_SEARCH_TERM_TOWN", "en_sha": "5d9c113b57b1", "status": "draft", "th": "เมือง"}
+{"tag": "LOC_SEARCH_TERM_UNIT", "en_sha": "f6b935ab3371", "status": "draft", "th": "ยูนิต"}
+{"tag": "LOC_SEARCH_TERM_URBAN", "en_sha": "ce1644cf082f", "status": "draft", "th": "เขตเมือง"}
+{"tag": "LOC_SEARCH_TERM_VILLAGE", "en_sha": "1be3c783278a", "status": "draft", "th": "หมู่บ้าน"}
+{"tag": "LOC_SEARCH_TERM_WONDER", "en_sha": "66e2e2d9d946", "status": "draft", "th": "สิ่งมหัศจรรย์"}
 {"tag": "LOC_SHELL_ACTION_1", "en_sha": "cf0e3e65d99d", "status": "draft", "th": "โต้ตอบ 1"}
 {"tag": "LOC_SHELL_ACTION_1_HELP", "en_sha": "d52c8915b503", "status": "draft", "th": "การโต้ตอบพิเศษ 1 ที่เฉพาะสำหรับแต่ละหน้าจอ"}
 {"tag": "LOC_SHELL_ACTION_2", "en_sha": "05183c0e8e05", "status": "draft", "th": "โต้ตอบ 2"}
@@ -1255,6 +1317,7 @@
 {"tag": "LOC_UI_AGE_TRANSITION_VIEW_CIVS", "en_sha": "3e130b485e50", "status": "draft", "th": "ดูอารยธรรม"}
 {"tag": "LOC_UI_AGE_TRANSITION_VIEW_MAP", "en_sha": "7e06a4c7c4de", "status": "draft", "th": "ดูแผนที่"}
 {"tag": "LOC_UI_ALREADY_FRIEND", "en_sha": "3f1320a59b1c", "status": "draft", "th": "{1_PlayerName} เป็นเพื่อนของคุณอยู่แล้ว"}
+{"tag": "LOC_UI_APPEND_SEARCH_TERMS", "en_sha": "94733098f70d", "status": "draft", "th": "ต่อท้ายคำค้น"}
 {"tag": "LOC_UI_CHAT_COMMAND_ARG_MESSAGE", "en_sha": "ce96d5dfc981", "status": "draft", "th": "(ข้อความแชท)"}
 {"tag": "LOC_UI_CHAT_COMMAND_ARG_PLAYER", "en_sha": "ec98acaab15d", "status": "draft", "th": "(ชื่อผู้เล่น)"}
 {"tag": "LOC_UI_CHAT_COMMAND_DESC_GLOBAL", "en_sha": "4bad1d865f85", "status": "draft", "th": "ส่งแชทถึงทุกคน"}
@@ -1277,6 +1340,7 @@
 {"tag": "LOC_UI_CHAT_ICONS_RESOURCES", "en_sha": "87df60de337f", "status": "draft", "th": "ทรัพยากร"}
 {"tag": "LOC_UI_CHAT_ICONS_YIELDS", "en_sha": "738a2b66281e", "status": "draft", "th": "ผลผลิต"}
 {"tag": "LOC_UI_CHAT_NEW_MESSAGE", "en_sha": "0e738305b214", "status": "draft", "th": "ข้อความใหม่"}
+{"tag": "LOC_UI_CHAT_PANEL_CLOSE", "en_sha": "387ca3dd2f29", "status": "draft", "th": "ปิดแผงแชท"}
 {"tag": "LOC_UI_CHAT_PANEL_OPEN_TIP", "en_sha": "601f1d151a31", "status": "draft", "th": "เปิดแผงแชท"}
 {"tag": "LOC_UI_CHAT_PANEL_OPEN_TIP_ICONS", "en_sha": "9cf338b8d68d", "status": "draft", "th": "เปิดตัวเลือกไอคอน"}
 {"tag": "LOC_UI_CHAT_PANEL_OPEN_TIP_PREVIEW", "en_sha": "aa8838e36729", "status": "draft", "th": "เปิดตัวอย่างข้อความ"}
@@ -1310,6 +1374,7 @@
 {"tag": "LOC_UI_CHAT_SEND_TO", "en_sha": "d11f7478dd01", "status": "draft", "th": "ส่งถึง"}
 {"tag": "LOC_UI_CHAT_TEAM", "en_sha": "218887269ad5", "status": "draft", "th": "ทีม"}
 {"tag": "LOC_UI_CHAT_TO", "en_sha": "ae79ea1e9c63", "status": "draft", "th": "ถึง"}
+{"tag": "LOC_UI_CLEAR", "en_sha": "719ea396ad92", "status": "draft", "th": "ล้าง"}
 {"tag": "LOC_UI_CODE_REDEEM_ERROR_ALREADY_REDEEMED", "en_sha": "b377300bb1a2", "status": "draft", "th": "รหัสนี้ถูกแลกรับไปแล้ว"}
 {"tag": "LOC_UI_CODE_REDEEM_ERROR_BAD_REQUEST", "en_sha": "a9ce14e5551a", "status": "draft", "th": "คำขอรหัสไม่ถูกต้อง"}
 {"tag": "LOC_UI_CODE_REDEEM_ERROR_RESOURCE_NOT_FOUND", "en_sha": "212eb8fae61a", "status": "draft", "th": "ไม่พบรหัส"}
@@ -1379,6 +1444,7 @@
 {"tag": "LOC_UI_CREATE_GAME_LEADER_ABILITY", "en_sha": "b3ef15abb371", "status": "draft", "th": "ความสามารถของผู้นำ"}
 {"tag": "LOC_UI_CREATE_GAME_LEADER_SELECT", "en_sha": "ff6b0abbbcd5", "status": "draft", "th": "เลือกผู้นำ"}
 {"tag": "LOC_UI_CREATE_GAME_MAP_OPTIONS_DESCRIPTION", "en_sha": "da4d49a95fb2", "status": "draft", "th": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}
+{"tag": "LOC_UI_CREATE_GAME_MAP_TYPES_NUMBER", "en_sha": "b6b5fa12a2b4", "status": "draft", "th": "ประเภทแผนที่ ({1_NumMap})"}
 {"tag": "LOC_UI_CREATE_GAME_MEMENTOS", "en_sha": "5f8031a3e4da", "status": "draft", "th": "ของที่ระลึก"}
 {"tag": "LOC_UI_CREATE_GAME_MEMENTOS_DESCRIPTION", "en_sha": "14edc9786cb9", "status": "draft", "th": "ของที่ระลึกเป็นไอเทมพิเศษที่ได้รับจากความคืบหน้าในระบบตำนาน ซึ่งสามารถติดตั้งก่อนเริ่มเกมแต่ละครั้งเพื่อมอบโบนัสพิเศษในเกม ของที่ระลึกทำหน้าที่เหมือนอุปกรณ์สวมใส่ของผู้นำ โดยให้ผลตั้งแต่การเพิ่มค่าสถานะพื้นฐานไปจนถึงความได้เปรียบเฉพาะสถานการณ์ ผู้นำแต่ละคนติดตั้งของที่ระลึกได้สูงสุด 2 ชิ้น ซึ่งช่วยให้ปรับกลยุทธ์ได้อย่างยืดหยุ่นและทรงพลัง ของที่ระลึกสามารถสลับเปลี่ยนได้ระหว่างยุค"}
 {"tag": "LOC_UI_CREATE_GAME_MEMENTOS_INFO", "en_sha": "18690eef347e", "status": "draft", "th": "ของที่ระลึกสามารถสลับเปลี่ยนได้ระหว่างยุค"}
@@ -1429,6 +1495,7 @@
 {"tag": "LOC_UI_FRIENDS_SEARCH", "en_sha": "bce06414177f", "status": "draft", "th": "ค้นหา"}
 {"tag": "LOC_UI_FRIENDS_SEARCH_FIELD", "en_sha": "fae7a782559f", "status": "draft", "th": "กรอกชื่อผู้ใช้ 2K ของเพื่อน"}
 {"tag": "LOC_UI_FRIENDS_SEARCH_TITLE", "en_sha": "33541112ffc9", "status": "draft", "th": "ค้นหาเพื่อน 2K"}
+{"tag": "LOC_UI_HIDE_PREVIOUS_AGES", "en_sha": "3f84dbe58a2f", "status": "draft", "th": "ซ่อนรายการจากยุคก่อนหน้า"}
 {"tag": "LOC_UI_HOTSEAT_GAME_RULES_NO_MODS_TITLE", "en_sha": "85739f49ace6", "status": "draft", "th": "กฎ Hotseat"}
 {"tag": "LOC_UI_HOTSEAT_GAME_RULES_TITLE", "en_sha": "f490dc9a4441", "status": "draft", "th": "กฎและม็อดของ Hotseat"}
 {"tag": "LOC_UI_INSPECT_TOOLTIP", "en_sha": "0e4c3805809c", "status": "draft", "th": "กดเพื่อตรวจดู"}
@@ -1500,6 +1567,8 @@
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_ADVISORS_TT", "en_sha": "6450d8ec4e48", "status": "draft", "th": "เปิดและปิดหน้าจอสภาที่ปรึกษา"}
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_CIVICS_SCREEN", "en_sha": "9b7656be7c47", "status": "draft", "th": "เปิด/ปิดแผนผังวัฒนธรรม"}
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_CIVICS_SCREEN_TT", "en_sha": "37c13ed74002", "status": "draft", "th": "เปิดและปิดแผนผังวัฒนธรรม"}
+{"tag": "LOC_UI_KBM_MAPPING_TOGGLE_DETAILS", "en_sha": "cb727bef541a", "status": "draft", "th": "เปิด/ปิดรายละเอียด"}
+{"tag": "LOC_UI_KBM_MAPPING_TOGGLE_DETAILS_TT", "en_sha": "5f25dbb8d36c", "status": "draft", "th": "เปิด/ปิดรายละเอียดเพิ่มเติมในบางหน้าจอและเลนส์ เช่น ไม้บรรทัดรัศมีในเลนส์ผู้ตั้งถิ่นฐาน หรือรายละเอียดผลผลิตระหว่างการวางสิ่งก่อสร้าง"}
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_GREAT_PEOPLE_SCREEN", "en_sha": "84d0c4fa9535", "status": "draft", "th": "เปิด/ปิดบุคคลผู้ยิ่งใหญ่"}
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_GREAT_PEOPLE_SCREEN_TT", "en_sha": "747fd0f161d2", "status": "draft", "th": "เปิดและปิดหน้าจอบุคคลผู้ยิ่งใหญ่"}
 {"tag": "LOC_UI_KBM_MAPPING_TOGGLE_GREAT_WORKS_SCREEN", "en_sha": "e7ea5e22aab4", "status": "draft", "th": "เปิด/ปิดผลงานชิ้นเอก"}
@@ -1753,6 +1822,7 @@
 {"tag": "LOC_UI_MP_NEW_GAME_JOIN", "en_sha": "9a3f6528f260", "status": "draft", "th": "เข้าร่วม"}
 {"tag": "LOC_UI_MP_NEW_GAME_TITLE", "en_sha": "f6f041688474", "status": "draft", "th": "เกมใหม่"}
 {"tag": "LOC_UI_MP_NOT_CONNECTED_TO_LOBBY", "en_sha": "19e284d2d2f4", "status": "draft", "th": "ไม่ได้เชื่อมต่อกับล็อบบี้"}
+{"tag": "LOC_UI_MP_PAUSE", "en_sha": "ae170d4150e1", "status": "draft", "th": "หยุดผู้เล่นหลายคนชั่วคราว"}
 {"tag": "LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_FRIEND_REQUEST", "en_sha": "d8c0c6f23609", "status": "draft", "th": "ตอบรับคำขอเป็นเพื่อน"}
 {"tag": "LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_GAME_INVITE_REQUEST", "en_sha": "6677f9cf7a0c", "status": "draft", "th": "ตอบรับคำเชิญเข้าเกม"}
 {"tag": "LOC_UI_MP_PLAYER_OPTIONS_ADD_PLAT_FRIEND", "en_sha": "2394299d6feb", "status": "draft", "th": "เพื่อน"}
@@ -1786,6 +1856,7 @@
 {"tag": "LOC_UI_MP_REPORT_PLAYER_BODY", "en_sha": "e58764bb226e", "status": "draft", "th": "ผู้เล่นนี้มีพฤติกรรมไม่เหมาะสมอย่างไร"}
 {"tag": "LOC_UI_MP_REPORT_PLAYER_TITLE", "en_sha": "051100fdbdc3", "status": "draft", "th": "รายงานผู้เล่น"}
 {"tag": "LOC_UI_MP_REPORT_TITLE", "en_sha": "8f676c4a91c8", "status": "draft", "th": "รายงานเกม"}
+{"tag": "LOC_UI_MP_RESUME", "en_sha": "1ae4d2ecd135", "status": "draft", "th": "เล่นผู้เล่นหลายคนต่อ"}
 {"tag": "LOC_UI_MP_SOCIAL_BUTTON_LABEL", "en_sha": "2e6fbbc8a9fb", "status": "draft", "th": "เมนูโซเชียล"}
 {"tag": "LOC_UI_MP_SOCIAL_RESTRICTED_GAME", "en_sha": "3fbba3419070", "status": "draft", "th": "เกมกำหนดเอง"}
 {"tag": "LOC_UI_MP_STAGING_CLIENT_TITLE", "en_sha": "93365d6d6b23", "status": "draft", "th": "หน้าจอเตรียมเกมผู้เล่นหลายคน: การตั้งค่าของผู้เข้าร่วม"}
@@ -1814,6 +1885,22 @@
 {"tag": "LOC_UI_REDEEM_CODE_SUCCESS_TITLE", "en_sha": "f6fd268833e8", "status": "draft", "th": "แลกรับรหัสสำเร็จ"}
 {"tag": "LOC_UI_REDEEM_CODE_TEXT_FIELD", "en_sha": "e6fdc7777e09", "status": "draft", "th": "ใส่รหัสที่นี่"}
 {"tag": "LOC_UI_SAVE_CONFIG", "en_sha": "c6606cd51cd1", "status": "draft", "th": "บันทึกการกำหนดค่า"}
+{"tag": "LOC_UI_SEARCH_CLEAR_FILTER_TERMS_TOOLTIP", "en_sha": "31f02ab3c533", "status": "draft", "th": "ล้างคำกรองคำสุดท้ายในรายการ"}
+{"tag": "LOC_UI_SEARCH_CLEAR_SEARCH_TERMS_TOOLTIP", "en_sha": "44f997244a3f", "status": "draft", "th": "ล้างคำค้นคำสุดท้ายในรายการ"}
+{"tag": "LOC_UI_SEARCH_FILTER_OUT", "en_sha": "0ac22fdb8a70", "status": "draft", "th": "กรองออก"}
+{"tag": "LOC_UI_SEARCH_FILTER_OUT_TOOLTIP", "en_sha": "ef2c68de0a1e", "status": "draft", "th": "ผลการค้นหาจะตัดรายการที่ตรงกับคำใดก็ตามที่ป้อนไว้ที่นี่ออก"}
+{"tag": "LOC_UI_SEARCH_HISTORY", "en_sha": "90ccd6497400", "status": "draft", "th": "ประวัติ"}
+{"tag": "LOC_UI_SEARCH_NO_RESULTS", "en_sha": "b993b0c53719", "status": "draft", "th": "ไม่พบผลลัพธ์"}
+{"tag": "LOC_UI_SEARCH_OPEN_SIDEBAR_FILTER_TOOLTIP", "en_sha": "fd2054519c0d", "status": "draft", "th": "เปิดแถบด้านข้างของคำที่ใช้กรอง"}
+{"tag": "LOC_UI_SEARCH_OPEN_SIDEBAR_TOOLTIP", "en_sha": "699c880c9499", "status": "draft", "th": "เปิดแถบด้านข้างของคำที่ใช้ค้นหา"}
+{"tag": "LOC_UI_SEARCH_OVER_99", "en_sha": "925333e73995", "status": "draft", "th": "มากกว่า 99 ผลลัพธ์"}
+{"tag": "LOC_UI_SEARCH_OVER_X", "en_sha": "65faa4ac2304", "status": "draft", "th": "มากกว่า {1_Amount} ผลลัพธ์"}
+{"tag": "LOC_UI_SEARCH_RESULTS", "en_sha": "ea961b084c65", "status": "draft", "th": "{1_Amount} ผลลัพธ์"}
+{"tag": "LOC_UI_SEARCH_RESULT_OF", "en_sha": "05972199586c", "status": "draft", "th": "ผลลัพธ์ {1_Amount} จาก {2_Amount}"}
+{"tag": "LOC_UI_SEARCH_SEARCHING", "en_sha": "ba2b5a5fc869", "status": "draft", "th": "กำลังค้นหา..."}
+{"tag": "LOC_UI_SEARCH_TILE_COUNT", "en_sha": "1274782e28f7", "status": "draft", "th": "{1_Amount} ช่อง"}
+{"tag": "LOC_UI_SEARCH_TILE_SEARCH_FILTERS", "en_sha": "587fc03628fd", "status": "draft", "th": "ตัวกรองการค้นหาช่อง"}
+{"tag": "LOC_UI_SEARCH_TOOLTIP", "en_sha": "55c7d24b7c4a", "status": "draft", "th": "ผลการค้นหาจะรวมผลของแต่ละรายการที่ป้อนไว้ที่นี่ โดยใช้จุลภาคคั่นระหว่างคำ"}
 {"tag": "LOC_UI_SHOW_TOOLTIPS", "en_sha": "4275f5717bd1", "status": "draft", "th": "แสดงคำแนะนำ (กดค้าง)"}
 {"tag": "LOC_UI_SOCIAL_PLAYER_OPTIONS", "en_sha": "6e322618391f", "status": "draft", "th": "ตัวเลือกผู้เล่น"}
 {"tag": "LOC_UI_SOCIAL_TITLE", "en_sha": "41a575086b73", "status": "draft", "th": "โซเชียล"}

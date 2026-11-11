@@ -368,6 +368,7 @@
 {"tag": "LOC_TRAIT_LEADER_WASHINGTON_ABILITY_NAME", "en_sha": "c7c6b8616f13", "status": "draft", "th": "การประชุมร่างรัฐธรรมนูญ"}
 {"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_AMERICA_TOOLTIP", "en_sha": "835466364232", "status": "draft", "th": "[B]วอชิงตัน[/B] เป็นประธานาธิบดีคนแรกของ [B]อเมริกา[/B]"}
 {"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_DESCRIPTION", "en_sha": "38bb4f4d48e5", "status": "draft", "th": "เล่นเป็น [B]วอชิงตัน[/B]"}
+{"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_ENGLAND_TOOLTIP", "en_sha": "74d1d1bd51a0", "status": "draft", "th": "[B]วอชิงตัน[/B]มีบรรพบุรุษเป็นชาวอังกฤษ"}
 {"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_GREECE_TOOLTIP", "en_sha": "b055fb738067", "status": "draft", "th": "ปรัชญาของ [B]วอชิงตัน[/B] มีรากฐานมาจาก [B]กรีกโบราณ[/B]"}
 {"tag": "LOC_UNLOCK_PLAY_AS_WASHINGTON_NORMAN_TOOLTIP", "en_sha": "28261f137d35", "status": "draft", "th": "บรรพบุรุษของ [B]วอชิงตัน[/B] เป็นชาวอังกฤษ ซึ่งได้รับอิทธิพลอย่างลึกซึ้งจาก [B]ชาวนอร์มัน[/B]"}
 {"tag": "LOC_VICTORY_LEADER_WASHINGTON", "en_sha": "1c5515166c8b", "status": "draft", "th": "เราประกาศชัยชนะมิใช่ในฐานะกษัตริย์ผู้พิชิต แต่ในฐานะสหภาพของผู้รักชาติ"}

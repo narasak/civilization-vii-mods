@@ -115,7 +115,7 @@
 {"tag": "LOC_DIPLOMACY_AGENDA_ETERNAL_GLORY_NAME", "en_sha": "85c67272a380", "status": "draft", "th": "เกียรติภูมินิรันดร์"}
 {"tag": "LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_LAKSHMIBAI_ANY", "en_sha": "37654631cc0e", "status": "draft", "th": "ฝูงปีศาจดั่งโรคระบาดของท่านจะพบจุดจบในไม่ช้า"}
 {"tag": "LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_LAKSHMIBAI_ANY", "en_sha": "56289c7cc4df", "status": "draft", "th": "ดั่งมารดาปกป้องบุตร ข้าจะปกป้องจักรวรรดิของข้าจากความชั่วช้าของท่าน"}
-{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_LAKSHMIBAI_ANY", "en_sha": "ce1df1db8a09", "status": "draft", "th": "บาดัล พาข้าไปจากที่นี่เถิด การต่อสู้ของเราที่นี่จบสิ้นแล้ว"}
+{"tag": "LOC_DIPLO_DEFEAT_AI_LEADER_LAKSHMIBAI_ANY", "en_sha": "c77c18f3d796", "status": "draft", "th": "บาดัล พาข้าไปจากที่นี่เถิด การต่อสู้ของเราที่นี่จบสิ้นแล้ว"}
 {"tag": "LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}
 {"tag": "LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}
 {"tag": "LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_LAKSHMIBAI_ANY", "en_sha": "5d61b65f9cf8", "status": "draft", "th": "ข้าคือรานีลักษมีบาอี ผู้พิทักษ์เสรีภาพและมารดาของประชาชน"}

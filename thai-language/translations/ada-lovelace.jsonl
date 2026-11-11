@@ -52,9 +52,9 @@
 {"tag": "LOC_10007C_NAME", "en_sha": "4fe4729270fd", "status": "draft", "th": "สิ่งลึกลับคือแรงผลักดันให้เราค้นหาคำตอบ"}
 {"tag": "LOC_10008A_COMPLETION", "en_sha": "a82c5e1c5b00", "status": "draft", "th": "เหล่าที่ปรึกษาเตือนเอดาว่าแบบร่างของนางทะเยอทะยานเกินไปและไม่อาจสร้างขึ้นได้จริง งานคืบหน้าช้าเมื่อไม่มีนางคอยกุมบังเหียน แต่สูตรคำนวณไม่อาจเขียนขึ้นเองได้"}
 {"tag": "LOC_10008A_STORYTITLE", "en_sha": "e431b876f07e", "status": "draft", "th": "ตามหลัง"}
-{"tag": "LOC_10008B_DESCRIPTION", "en_sha": "3ce7c3f9c146", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้วิทยาศาสตร์ แต่ {2_reward} ในเมือง"}
+{"tag": "LOC_10008B_DESCRIPTION", "en_sha": "3e5f622d86ad", "status": "draft", "th": "{1_reward} บนสิ่งก่อสร้างที่ให้วิทยาศาสตร์ในถิ่นฐานทั้งหมด แต่ {2_reward} ในเมือง"}
 {"tag": "LOC_10008B_NAME", "en_sha": "40205793bb89", "status": "draft", "th": "ตามหลังยังดีกว่าตกรอบ"}
-{"tag": "LOC_10008C_DESCRIPTION", "en_sha": "021863caf15a", "status": "draft", "th": "{1_reward} ในเมือง แต่ {2_reward} บนสิ่งก่อสร้างที่ให้วิทยาศาสตร์"}
+{"tag": "LOC_10008C_DESCRIPTION", "en_sha": "c48f7aa09bfa", "status": "draft", "th": "{1_reward} ในเมือง แต่ {2_reward} บนสิ่งก่อสร้างที่ให้วิทยาศาสตร์ในถิ่นฐานทั้งหมด"}
 {"tag": "LOC_10008C_NAME", "en_sha": "1de40bb5624e", "status": "draft", "th": "ความรีบร้อนให้ผลลัพธ์ที่บิดเบือน"}
 {"tag": "LOC_10009A_COMPLETION", "en_sha": "0111b8d207e9", "status": "draft", "th": "เอดาเคาะปลายขนนกกับหน้าผาก ภาวนาให้ความคิดใหม่ผุดขึ้นมา ไฟฟ้าขับเคลื่อนเครื่องจักรและให้แสงสว่าง แต่ย่อมต้องมีวิธีใช้มันที่ล้ำสมัยกว่านี้"}
 {"tag": "LOC_10009A_STORYTITLE", "en_sha": "c7ff03cc7dc0", "status": "draft", "th": "จงมีแสงสว่าง"}
@@ -132,7 +132,7 @@
 {"tag": "LOC_LEADER_CHAIN_1210B_STORYTITLE", "en_sha": "146be05e2498", "status": "draft", "th": "วางรากฐาน"}
 {"tag": "LOC_LEADER_CHAIN_1210C_COMPLETION", "en_sha": "634d2c3391ae", "status": "draft", "th": "ผู้ช่วยของเอดา เลิฟเลซ ปั้นและเผาดินเหนียวให้เป็นอิฐ พลางนึกถึงผู้คนมากมายที่วันหนึ่งจะได้เดินบนผลงานของพวกเขา"}
 {"tag": "LOC_LEADER_CHAIN_1210C_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}
-{"tag": "LOC_LEADER_CHAIN_1210C_IMPERATIVE", "en_sha": "2999ba3b037b", "status": "draft", "th": "สร้างโรงทำอิฐเพิ่มอีก 2 แห่ง"}
+{"tag": "LOC_LEADER_CHAIN_1210C_IMPERATIVE", "en_sha": "5df25723b1a6", "status": "draft", "th": "สร้างโรงทำอิฐเพิ่มอีก 2 แห่ง"}
 {"tag": "LOC_LEADER_CHAIN_1210C_NAME", "en_sha": "5ffed04afd21", "status": "draft", "th": "ปั้นแต่งผืนโลกตามใจปรารถนา"}
 {"tag": "LOC_LEADER_CHAIN_1210C_STORYTITLE", "en_sha": "146be05e2498", "status": "draft", "th": "วางรากฐาน"}
 {"tag": "LOC_LEADER_CHAIN_1210D_DESCRIPTION", "en_sha": "bd34cba388a7", "status": "draft", "th": "{1_reward}"}

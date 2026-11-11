@@ -1764,6 +1764,8 @@
 {"tag": "LOC_CITYCOMMAND_DESTROY_RAZE_CONDITIONS", "en_sha": "877f2b62011d", "status": "draft", "th": "{1_Name} จะถูกทำลายทีละน้อยตลอดระยะเวลา {2_NumTurns} เทิร์น ระหว่างนี้ถิ่นฐานจะไม่สร้างผลผลิตใด ๆ[n]{3_conquest_penalty}[n]{4_razing_penalty}"}
 {"tag": "LOC_CITYCOMMAND_EXPAND_NO_EXPANSION_PLOTS", "en_sha": "1f12d4fa0cea", "status": "draft", "th": "ถิ่นฐานนี้ยังขยายไม่ได้ในขณะนี้"}
 {"tag": "LOC_CITYCOMMAND_KEEP_NO_PENALTY", "en_sha": "f88f9efe4fdf", "status": "draft", "th": "คุณไม่ได้รับบทลงโทษจากการเก็บถิ่นฐานนี้ไว้"}
+{"tag": "LOC_CITYCOMMAND_LIBERATE_CITY_STATE_DESC", "en_sha": "6f65839028c8", "status": "draft", "th": "คืนสถานะนครรัฐให้แก่ถิ่นฐานนี้ คุณจะกลับมาเป็นเจ้าอธิราชของนครรัฐนี้อีกครั้งและได้รับโบนัสที่นครรัฐนี้เคยมอบให้คืนมา"}
+{"tag": "LOC_CITYCOMMAND_LIBERATE_FOUNDER_DESC", "en_sha": "64893392efe0", "status": "draft", "th": "คืนถิ่นฐานนี้ให้แก่จักรวรรดิผู้ก่อตั้ง"}
 {"tag": "LOC_CITYCOMMAND_NEW_POPULATION_BODY", "en_sha": "b2c21b2acbc1", "status": "draft", "th": "{1_CityName} ขยายได้แล้ว! ประชากรนี้ควรอยู่ที่นี่และขยายไปยังช่องใหม่ หรือกลายเป็นผู้อพยพและย้ายไปที่อื่น"}
 {"tag": "LOC_CITYCOMMAND_NEW_POPULATION_HEADER", "en_sha": "4ac992174a02", "status": "draft", "th": "ขยายหรืออพยพ"}
 {"tag": "LOC_CITYCOMMAND_OPTION_MIGRATE", "en_sha": "929ecd9d6ef7", "status": "draft", "th": "อพยพ"}
@@ -1771,6 +1773,7 @@
 {"tag": "LOC_CITYCOMMAND_PRODUCTION_FAILURE_BESIEGED", "en_sha": "1e92aef35b5e", "status": "draft", "th": "ตำแหน่งที่เหมาะสมสำหรับวางยูนิตทั้งหมดถูกล้อมไว้"}
 {"tag": "LOC_CITYCOMMAND_PRODUCTION_FAILURE_NO_SPAWN_LOCATION", "en_sha": "9380ada4d443", "status": "draft", "th": "ไม่มีตำแหน่งที่เหมาะสมสำหรับวางยูนิตนี้"}
 {"tag": "LOC_CITY_BANNER_CONQUERED_TOOLTIP", "en_sha": "d690fe40b40f", "status": "draft", "th": "ถิ่นฐานที่ถูกพิชิต"}
+{"tag": "LOC_CITY_BANNER_UNREST_TOOLTIP", "en_sha": "45d82852ec4c", "status": "draft", "th": "ถิ่นฐานเกิดความไม่สงบ อีก {1_Duration} เทิร์นจึงจะซื้อหรือเปลี่ยนจุดเน้นได้"}
 {"tag": "LOC_CITY_CUSTOM_NAME", "en_sha": "02fec561ec38", "status": "draft", "th": "ชื่อนครที่กำหนดเอง"}
 {"tag": "LOC_CITY_PURCHASE_DISABLED_DURING_UNREST", "en_sha": "befbe1771009", "status": "draft", "th": "ถิ่นฐานเกิดความไม่สงบ"}
 {"tag": "LOC_CITY_PURCHASE_INSUFFICIENT_FUNDS", "en_sha": "ffb7fa5ceb37", "status": "draft", "th": "ทองในคลังไม่เพียงพอ"}
@@ -1815,6 +1818,8 @@
 {"tag": "LOC_CIVILIZATION_INDEPENDENT_ADJECTIVE", "en_sha": "1be3c783278a", "status": "draft", "th": "หมู่บ้าน"}
 {"tag": "LOC_CIVILIZATION_INDEPENDENT_FULLNAME", "en_sha": "28dfe58bbd81", "status": "draft", "th": "หมู่บ้าน"}
 {"tag": "LOC_CIVILIZATION_INDEPENDENT_NAME", "en_sha": "28dfe58bbd81", "status": "draft", "th": "หมู่บ้าน"}
+{"tag": "LOC_CIVILIZATION_INDEPENDENT_POWER", "en_sha": "55587ba30277", "status": "draft", "th": "ขั้วอำนาจอิสระ"}
+{"tag": "LOC_CIVILIZATION_INDEPENDENT_POWER_SHORTHAND", "en_sha": "f9aba3f1299b", "status": "draft", "th": "ip"}
 {"tag": "LOC_CIVILIZATION_INDEPENDENT_SINGULAR", "en_sha": "eac8030bf6a4", "status": "draft", "th": "หมู่บ้าน{1_Name}"}
 {"tag": "LOC_CIVILIZATION_KHMER_ADJECTIVE", "en_sha": "3db4bac2e32c", "status": "draft", "th": "เขมร"}
 {"tag": "LOC_CIVILIZATION_KHMER_FULLNAME", "en_sha": "6575aee4bb5a", "status": "draft", "th": "จักรวรรดิเขมร"}
@@ -2013,7 +2018,7 @@
 {"tag": "LOC_COMMERCE_NO_UNASSIGNED_CONNECTED_RESOURCES_NO_RESOURCES", "en_sha": "0edfd82e8f9d", "status": "draft", "th": "ไม่มีทรัพยากรที่เชื่อมต่อกับเครือข่ายการค้าของคุณ เชื่อมต่อถิ่นฐานเข้ากับเครือข่ายการค้า ปรับปรุงทรัพยากร หรือเริ่มเส้นทางการค้าเพื่อเข้าถึงทรัพยากร"}
 {"tag": "LOC_COMMERCE_NO_UNASSIGNED_DISCONNECTED_RESOURCES", "en_sha": "694a7ee38ec1", "status": "draft", "th": "ทรัพยากรที่ขาดการเชื่อมต่อจากเครือข่ายการค้าของคุณถูกมอบหมายครบแล้ว"}
 {"tag": "LOC_COMMERCE_NO_UNASSIGNED_DISCONNECTED_RESOURCES_NO_RESOURCES", "en_sha": "c14ed053d0fb", "status": "draft", "th": "ไม่มีทรัพยากรที่ขาดการเชื่อมต่อจากเครือข่ายการค้าของคุณ"}
-{"tag": "LOC_COMMERCE_PLOT_DAMAGED", "en_sha": "ddbfed5f71be", "status": "draft", "th": "ช่องนี้เสียหายและต้องซ่อมแซมก่อน ทรัพยากรนี้จึงจะให้ผลผลิต"}
+{"tag": "LOC_COMMERCE_PLOT_DAMAGED", "en_sha": "b47fefb6ab15", "status": "draft", "th": "ช่องนี้เสียหายและต้องซ่อมแซมก่อน ทรัพยากรนี้จึงจะให้ผลผลิต"}
 {"tag": "LOC_COMMERCE_REPLACE_RESOURCE_LABEL", "en_sha": "a7cf7b25a703", "status": "draft", "th": "แทนที่"}
 {"tag": "LOC_COMMERCE_RESOURCE_ALLOCATION_DESCRIPTION", "en_sha": "8733b8632d2a", "status": "draft", "th": "มอบหมายทรัพยากรให้ถิ่นฐานของคุณเพื่อเพิ่มผลผลิตให้สูงสุด!"}
 {"tag": "LOC_COMMERCE_RESOURCE_CAMELS_REPLACE_FAIL", "en_sha": "e243b0fc4372", "status": "draft", "th": "ให้เคลียร์ช่องทรัพยากรบางช่องก่อนย้ายทรัพยากรอูฐ เนื่องจากอูฐให้ +2 [icon:RADIAL_RESOURCES] ความจุทรัพยากรแก่ [icon:YIELD_CITIES] นครที่ได้รับมอบหมาย"}
@@ -2318,6 +2323,7 @@
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS", "en_sha": "3d407f4fc28c", "status": "draft", "th": "ประกาศสงครามกับเพื่อนร่วมทีมไม่ได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_PEACE_OPPOSING_IDEOLOGIES", "en_sha": "ca6f51d61cdb", "status": "draft", "th": "อุดมการณ์ตรงข้ามกันทำสันติภาพกันไม่ได้"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_WAR_SAME_IDEOLOGIES", "en_sha": "710dda1c584f", "status": "draft", "th": "อุดมการณ์เดียวกันทำสงครามกันไม่ได้"}
+{"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_NUCLEAR_STRIKE", "en_sha": "87a3164c9e12", "status": "draft", "th": "[WIP] คุณมีการโจมตีด้วยนิวเคลียร์ที่กำลังดำเนินอยู่"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT", "en_sha": "7ba9804e6148", "status": "draft", "th": "เพิ่งทำสันติภาพ ประกาศสงครามได้อีกใน {1_turns} เทิร์น"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_FORMAL_NEEDS_HOSTILE", "en_sha": "3ce3ad647a3e", "status": "draft", "th": "สงครามอย่างเป็นทางการต้องมี [icon:RELATIONSHIP] ความสัมพันธ์แบบเป็นปรปักษ์ก่อน"}
 {"tag": "LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY", "en_sha": "79d48730ed50", "status": "draft", "th": "ยังเร็วเกินไป เริ่มสงครามได้อีกใน {1_turns} เทิร์น"}
@@ -2922,6 +2928,7 @@
 {"tag": "LOC_DIPLOMACY_THEIR_ACTIONS_HEADER", "en_sha": "e8e3deebf55b", "status": "draft", "th": "ปฏิบัติการของฝ่ายนั้น"}
 {"tag": "LOC_DIPLOMACY_TOKENS_FROM_SUCCESSFUL_ACTIONS", "en_sha": "b0138b3d2308", "status": "draft", "th": "ปฏิบัติการที่สำเร็จ"}
 {"tag": "LOC_DIPLOMACY_TREATY_RESPONSE_REJECT", "en_sha": "341b8c118fd2", "status": "draft", "th": "เราขอปฏิเสธปฏิบัติการ {1_actionName} ของท่าน! ใช้ [icon:YIELD_DIPLOMACY] อิทธิพลเพื่อสกัดปฏิบัติการนี้เป็นเวลา {2_cooldown} เทิร์น"}
+{"tag": "LOC_DIPLOMACY_UKNOWN_WAR", "en_sha": "bc7819b34ff8", "status": "draft", "th": "ไม่ทราบ"}
 {"tag": "LOC_DIPLOMACY_UNKNOWN_PLAYER", "en_sha": "14dc11a58aee", "status": "draft", "th": "ผู้เล่นที่ไม่รู้จัก"}
 {"tag": "LOC_DIPLOMACY_VIEW_ACTIONS", "en_sha": "9820646bb2cd", "status": "draft", "th": "ดูปฏิบัติการ"}
 {"tag": "LOC_DIPLOMACY_VIEW_CIV", "en_sha": "0225171af1f0", "status": "draft", "th": "ดูอารยธรรม"}
@@ -3169,6 +3176,7 @@
 {"tag": "LOC_DISCOVERY_DISPERSAL_DESCRIPTION", "en_sha": "7ade00dd4bbf", "status": "draft", "th": "ทอง +{1_Value} จากการค้นพบ"}
 {"tag": "LOC_DISTRICT_CITY_CENTER_NAME", "en_sha": "67753954b9a8", "status": "draft", "th": "ใจกลางนคร"}
 {"tag": "LOC_DISTRICT_GENERAL_NAME", "en_sha": "c0cb139cce34", "status": "draft", "th": "เขต"}
+{"tag": "LOC_DISTRICT_QUARTER_NAME", "en_sha": "0d3830748786", "status": "draft", "th": "ย่าน"}
 {"tag": "LOC_DISTRICT_RURAL_NAME", "en_sha": "4c84a2775573", "status": "draft", "th": "เขตชนบท"}
 {"tag": "LOC_DISTRICT_UNIMPROVED_NAME", "en_sha": "ed384c104134", "status": "draft", "th": "ยังไม่ได้ปรับปรุง"}
 {"tag": "LOC_DISTRICT_URBAN_NAME", "en_sha": "ce1644cf082f", "status": "draft", "th": "เขตเมือง"}
@@ -3181,6 +3189,7 @@
 {"tag": "LOC_DLC_SEASONPASS_3_UNLOCK_CONDITION", "en_sha": "90f372b479f8", "status": "draft", "th": "วิธีปลดล็อก: ซื้อ Tides of Power"}
 {"tag": "LOC_DLC_SEASONPASS_4_UNLOCK_CONDITION", "en_sha": "0e4871c99b4d", "status": "draft", "th": "วิธีปลดล็อก: ซื้อ Brush and Blade"}
 {"tag": "LOC_DLC_SEASONPASS_5_UNLOCK_CONDITION", "en_sha": "726d4cf2ae99", "status": "draft", "th": "วิธีปลดล็อก: ซื้อ Hall of History"}
+{"tag": "LOC_DOMINION_FLOATER", "en_sha": "d54e7624b7c9", "status": "draft", "th": "+{1_Value} อำนาจครอบครอง"}
 {"tag": "LOC_DOMINION_POINTS_NEEDED_TO_WIN", "en_sha": "1a31232db21e", "status": "draft", "th": "อำนาจครอบครองที่ต้องใช้เพื่อชนะ"}
 {"tag": "LOC_ECNOMIC_BOOST_REWARD_ESTABLISH_WORLD_BANK_REDUCTION_DESCRIPTION", "en_sha": "89a8970729cf", "status": "draft", "th": "ค่าใช้จ่ายของการกระทำ จัดตั้งสำนักงานธนาคารโลก ของนายธนาคารผู้ยิ่งใหญ่ลดลง 5% ต่อแต้มมรดกทางเศรษฐกิจแต่ละแต้ม"}
 {"tag": "LOC_ECONOMIC_BOOST_REWARD_NAME", "en_sha": "9ecb889afcc6", "status": "draft", "th": "การเร่งชัยชนะทางเศรษฐกิจ"}
@@ -3238,12 +3247,12 @@
 {"tag": "LOC_FAVOR_FROM_WONDER", "en_sha": "f60de12ac5d9", "status": "draft", "th": "จากสิ่งมหัศจรรย์ที่คุณมี"}
 {"tag": "LOC_FAVOR_FROM_WONDER_ALT", "en_sha": "2dbc7516234a", "status": "draft", "th": "จากสิ่งมหัศจรรย์ที่ฝ่ายนั้นมี"}
 {"tag": "LOC_FEATURE_ATOLL_NAME", "en_sha": "d775a3b0edb0", "status": "draft", "th": "เกาะปะการังวงแหวน"}
-{"tag": "LOC_FEATURE_BARRIER_REEF_DESCRIPTION", "en_sha": "06bdf5801d0e", "status": "draft", "th": "[icon:YIELD_FOOD] อาหาร [icon:YIELD_HAPPINESS] ความสุข และ [icon:YIELD_SCIENCE] วิทยาศาสตร์ +2 ต่อยุค [icon:YIELD_SCIENCE] วิทยาศาสตร์ +2 บน [icon:CITY_RURAL] สิ่งปรับปรุง [icon:CITY_URBAN] เขต และ [icon:WONDER] สิ่งมหัศจรรย์ในชีวนิเวศทะเลที่อยู่ติดกัน"}
+{"tag": "LOC_FEATURE_BARRIER_REEF_DESCRIPTION", "en_sha": "d503ff92490c", "status": "draft", "th": "+1 [icon:YIELD_FOOD] [icon:YIELD_SCIENCE] และ [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_FOOD] [icon:YIELD_SCIENCE] และ [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +2 [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP] [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]และ [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ในชีวนิเวศทะเลที่อยู่ติดกัน"}
 {"tag": "LOC_FEATURE_BARRIER_REEF_NAME", "en_sha": "1c27e792ef9b", "status": "draft", "th": "เกรตแบร์ริเออร์รีฟ"}
-{"tag": "LOC_FEATURE_BARRIER_REEF_TOOLTIP", "en_sha": "dddb5b79234a", "status": "draft", "th": "[icon:YIELD_SCIENCE] วิทยาศาสตร์ +2 บน [icon:CITY_RURAL] สิ่งปรับปรุง [icon:CITY_URBAN] เขต และ [icon:WONDER] สิ่งมหัศจรรย์ในชีวนิเวศทะเลที่อยู่ติดกัน"}
-{"tag": "LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION", "en_sha": "ab2e68cdb499", "status": "draft", "th": "[icon:YIELD_SCIENCE] วิทยาศาสตร์ +2 [icon:YIELD_CULTURE] วัฒนธรรม +2 ต่อยุค [icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 แก่ [icon:CITY_UNIMPROVED] ภูมิประเทศชายฝั่งทั้งหมดในถิ่นฐานนี้ ยูนิตที่เคลื่อนที่เข้าสู่สิ่งมหัศจรรย์ทางธรรมชาตินี้จะถูกเคลื่อนย้ายไปยังตำแหน่งสุ่มในมหาสมุทร"}
+{"tag": "LOC_FEATURE_BARRIER_REEF_TOOLTIP", "en_sha": "64e4105ff500", "status": "draft", "th": "+2 [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP] [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]และ [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ในชีวนิเวศทะเลที่อยู่ติดกัน"}
+{"tag": "LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION", "en_sha": "1a5c35f8ac8b", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] และ [icon:YIELD_CULTURE] เพิ่มอีก +1 [icon:YIELD_SCIENCE] และ [icon:YIELD_CULTURE] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +1 [icon:YIELD_SCIENCE] แก่ [icon:CITY_UNIMPROVED] ภูมิประเทศชายฝั่งทั้งหมดใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้ ยูนิตที่เคลื่อนที่เข้าสู่[TIP:LOC_PEDIA_CONCEPTS_NATURAL_WONDER_TOOLTIP]สิ่งมหัศจรรย์ทางธรรมชาติ[/TIP]นี้จะถูกเคลื่อนย้ายไปยังตำแหน่งสุ่มในมหาสมุทร"}
 {"tag": "LOC_FEATURE_BERMUDA_TRIANGLE_NAME", "en_sha": "7ccbc12712c7", "status": "draft", "th": "สามเหลี่ยมเบอร์มิวดา"}
-{"tag": "LOC_FEATURE_BERMUDA_TRIANGLE_TOOLTIP", "en_sha": "f0b37a93b604", "status": "draft", "th": "[icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 แก่ [icon:CITY_UNIMPROVED] ภูมิประเทศชายฝั่งทั้งหมดในถิ่นฐานนี้ ยูนิตที่เคลื่อนที่เข้าสู่สิ่งมหัศจรรย์ทางธรรมชาตินี้จะถูกเคลื่อนย้ายไปยังตำแหน่งสุ่มในมหาสมุทร"}
+{"tag": "LOC_FEATURE_BERMUDA_TRIANGLE_TOOLTIP", "en_sha": "ab212dd64fbb", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] แก่ [icon:CITY_UNIMPROVED] ภูมิประเทศชายฝั่งทั้งหมดใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้ ยูนิตที่เคลื่อนที่เข้าสู่[TIP:LOC_PEDIA_CONCEPTS_NATURAL_WONDER_TOOLTIP]สิ่งมหัศจรรย์ทางธรรมชาติ[/TIP]นี้จะถูกเคลื่อนย้ายไปยังตำแหน่งสุ่มในมหาสมุทร"}
 {"tag": "LOC_FEATURE_CLASS_AQUATIC_ADJ", "en_sha": "ebfecc756b31", "status": "draft", "th": "ทางน้ำ"}
 {"tag": "LOC_FEATURE_CLASS_AQUATIC_DESC", "en_sha": "ee23a67df53e", "status": "draft", "th": "ภูมิประเทศที่ปรากฏในมหาสมุทร ทะเลสาบ หรือแม่น้ำ แม้โดยปกติจะจมอยู่ใต้น้ำทั้งหมด แต่ภูมิประเทศทางน้ำบางแห่งก็โผล่พ้นผิวน้ำหรือมองเห็นได้จากด้านบน"}
 {"tag": "LOC_FEATURE_CLASS_AQUATIC_NAME", "en_sha": "ebfecc756b31", "status": "draft", "th": "ทางน้ำ"}
@@ -3258,61 +3267,61 @@
 {"tag": "LOC_FEATURE_CLASS_WET_NAME", "en_sha": "371aa65603b2", "status": "draft", "th": "พื้นที่ชุ่มน้ำ"}
 {"tag": "LOC_FEATURE_DESERT_FLOODPLAIN_NAME", "en_sha": "37e4de22efb8", "status": "draft", "th": "ที่ราบน้ำท่วมถึงทะเลทราย"}
 {"tag": "LOC_FEATURE_FOREST_NAME", "en_sha": "c702ea238677", "status": "draft", "th": "ป่าไม้ (พืชพรรณ)"}
-{"tag": "LOC_FEATURE_GRAND_CANYON_DESCRIPTION", "en_sha": "b9ab3a7d097c", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรม +2 และ [icon:YIELD_HAPPINESS] ความสุข +4 ต่อยุค [icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพื้นราบในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_GRAND_CANYON_DESCRIPTION", "en_sha": "b596868672ab", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] และ +2 [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_CULTURE] และ +2 [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +1 [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]ภูมิประเทศพื้นราบ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_GRAND_CANYON_NAME", "en_sha": "21e8f729d1d4", "status": "draft", "th": "แกรนด์แคนยอน"}
-{"tag": "LOC_FEATURE_GRAND_CANYON_TOOLTIP", "en_sha": "63641f9551c6", "status": "draft", "th": "[icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพื้นราบในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_GRAND_CANYON_TOOLTIP", "en_sha": "036b968966f1", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_FLAT_TERRAIN_TOOLTIP]ภูมิประเทศพื้นราบ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_GRASSLAND_FLOODPLAIN_NAME", "en_sha": "2d30c0df20fd", "status": "draft", "th": "ที่ราบน้ำท่วมถึงทุ่งหญ้า"}
-{"tag": "LOC_FEATURE_GULLFOSS_DESCRIPTION", "en_sha": "ba5e915f43a9", "status": "draft", "th": "[icon:YIELD_FOOD] อาหาร +6 ต่อยุค [icon:YIELD_CULTURE] วัฒนธรรมและ [icon:YIELD_PRODUCTION] การผลิต +1 แก่ [icon:CITY_RURAL] สิ่งปรับปรุง [icon:CITY_URBAN] เขต และ [icon:WONDER] สิ่งมหัศจรรย์ที่อยู่ติดกัน ให้น้ำจืด"}
+{"tag": "LOC_FEATURE_GULLFOSS_DESCRIPTION", "en_sha": "baa9b6fb1d35", "status": "draft", "th": "+3 [icon:YIELD_FOOD] เพิ่มอีก +3 [icon:YIELD_FOOD] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +1 [icon:YIELD_CULTURE] และ [icon:YIELD_PRODUCTION] แก่ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP] [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]และ [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ที่อยู่ติดกัน ให้น้ำจืด"}
 {"tag": "LOC_FEATURE_GULLFOSS_NAME", "en_sha": "474c50df2bb6", "status": "draft", "th": "น้ำตกกุลล์ฟอสส์"}
-{"tag": "LOC_FEATURE_GULLFOSS_TOOLTIP", "en_sha": "fc44b9c7cb65", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรมและ [icon:YIELD_PRODUCTION] การผลิต +1 แก่ [icon:CITY_RURAL] สิ่งปรับปรุง [icon:CITY_URBAN] เขต และ [icon:WONDER] สิ่งมหัศจรรย์ที่อยู่ติดกัน ให้น้ำจืด"}
-{"tag": "LOC_FEATURE_HOERIKWAGGO_DESCRIPTION", "en_sha": "a7af0167d136", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรม +2 และ [icon:YIELD_FOOD] อาหาร +4 ต่อยุค [icon:YIELD_HAPPINESS] ความสุข +2 บน [icon:CITY_UNIQUE_QUARTER] ย่านที่อยู่ติดกัน"}
+{"tag": "LOC_FEATURE_GULLFOSS_TOOLTIP", "en_sha": "ac634b36227f", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] และ [icon:YIELD_PRODUCTION] แก่ [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP] [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]และ [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ที่อยู่ติดกัน ให้น้ำจืด"}
+{"tag": "LOC_FEATURE_HOERIKWAGGO_DESCRIPTION", "en_sha": "b15fa874ed80", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] และ +2 [icon:YIELD_FOOD] เพิ่มอีก +1 [icon:YIELD_CULTURE] และ +2 [icon:YIELD_FOOD] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +2 [icon:YIELD_HAPPINESS] บน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]ที่อยู่ติดกัน"}
 {"tag": "LOC_FEATURE_HOERIKWAGGO_NAME", "en_sha": "8f6f4c8a540b", "status": "draft", "th": "โฮริกวักโก"}
-{"tag": "LOC_FEATURE_HOERIKWAGGO_TOOLTIP", "en_sha": "320143e85a9d", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +2 บน [icon:CITY_UNIQUE_QUARTER] ย่านที่อยู่ติดกัน"}
+{"tag": "LOC_FEATURE_HOERIKWAGGO_TOOLTIP", "en_sha": "6d17d1b25a15", "status": "draft", "th": "+2 [icon:YIELD_HAPPINESS] บน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]ที่อยู่ติดกัน"}
 {"tag": "LOC_FEATURE_ICE_NAME", "en_sha": "0a2af398fe47", "status": "draft", "th": "น้ำแข็ง"}
-{"tag": "LOC_FEATURE_IGUAZU_FALLS_DESCRIPTION", "en_sha": "80e3bcc3030d", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +2 และ [icon:YIELD_FOOD] อาหาร +4 ต่อยุค [icon:YIELD_PRODUCTION] การผลิต +2 บน [icon:CITY_URBAN] เขตที่อยู่ติดกัน ให้น้ำจืด"}
+{"tag": "LOC_FEATURE_IGUAZU_FALLS_DESCRIPTION", "en_sha": "8ddb3429e3cb", "status": "draft", "th": "+1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_FOOD] เพิ่มอีก +1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_FOOD] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +2 [icon:YIELD_PRODUCTION] บน [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ที่อยู่ติดกัน ให้น้ำจืด"}
 {"tag": "LOC_FEATURE_IGUAZU_FALLS_NAME", "en_sha": "6ff3ffd5b4dd", "status": "draft", "th": "น้ำตกอีกวาซู"}
-{"tag": "LOC_FEATURE_IGUAZU_FALLS_TOOLTIP", "en_sha": "cf7eaabcdff8", "status": "draft", "th": "[icon:YIELD_PRODUCTION] การผลิต +2 บน [icon:CITY_URBAN] เขตที่อยู่ติดกัน ให้น้ำจืด"}
-{"tag": "LOC_FEATURE_KILIMANJARO_DESCRIPTION", "en_sha": "58b9a9148a6f", "status": "draft", "th": "[icon:YIELD_PRODUCTION] การผลิต +2 และ [icon:YIELD_HAPPINESS] ความสุข +4 ต่อยุค ภูมิประเทศภูเขาไฟ"}
+{"tag": "LOC_FEATURE_IGUAZU_FALLS_TOOLTIP", "en_sha": "5d1d9a67a2c0", "status": "draft", "th": "+2 [icon:YIELD_PRODUCTION] บน [icon:CITY_URBAN] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ที่อยู่ติดกัน ให้น้ำจืด"}
+{"tag": "LOC_FEATURE_KILIMANJARO_DESCRIPTION", "en_sha": "139fec15fd9e", "status": "draft", "th": "+1 [icon:YIELD_PRODUCTION] และ +2 [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_PRODUCTION] และ +2 [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ภูมิประเทศภูเขาไฟ เมื่อปะทุ ภูเขาคิลิมันจาโรมีโอกาสมอบผลผลิตให้แก่ช่องที่อยู่ติดกันมากขึ้น และในปริมาณที่มากขึ้น"}
 {"tag": "LOC_FEATURE_KILIMANJARO_NAME", "en_sha": "a2db5bccdd84", "status": "draft", "th": "ภูเขาคิลิมันจาโร"}
-{"tag": "LOC_FEATURE_KILIMANJARO_TOOLTIP", "en_sha": "edbaf2b50c93", "status": "draft", "th": "ภูมิประเทศภูเขาไฟ"}
+{"tag": "LOC_FEATURE_KILIMANJARO_TOOLTIP", "en_sha": "41a8892414cb", "status": "draft", "th": "ภูมิประเทศภูเขาไฟ เมื่อปะทุ ภูเขาคิลิมันจาโรมีโอกาสมอบผลผลิตให้แก่ช่องที่อยู่ติดกันมากขึ้น และในปริมาณที่มากขึ้น"}
 {"tag": "LOC_FEATURE_LOTUS_NAME", "en_sha": "bfc6ec178a27", "status": "draft", "th": "ดอกบัว"}
 {"tag": "LOC_FEATURE_MANGROVE_NAME", "en_sha": "1549cb705b88", "status": "draft", "th": "ป่าชายเลน (ชุ่มน้ำ)"}
 {"tag": "LOC_FEATURE_MARSH_NAME", "en_sha": "24978a201e78", "status": "draft", "th": "บึง (ชุ่มน้ำ)"}
-{"tag": "LOC_FEATURE_MOUNT_EVEREST_DESCRIPTION", "en_sha": "0de5719e7a6e", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +2 [icon:YIELD_CULTURE] วัฒนธรรม +2 [icon:YIELD_DIPLOMACY] อิทธิพล +2 ต่อยุค เมื่อค้นพบ จะเปิดเผยภูมิประเทศภูเขาทั้งหมดบนทวีปเดียวกับยอดเขาเอเวอเรสต์"}
+{"tag": "LOC_FEATURE_MOUNT_EVEREST_DESCRIPTION", "en_sha": "aac80faf4754", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] [icon:YIELD_HAPPINESS] และ [icon:YIELD_DIPLOMACY] เพิ่มอีก +1 [icon:YIELD_CULTURE] [icon:YIELD_HAPPINESS] และ [icon:YIELD_DIPLOMACY] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]เมื่อค้นพบ จะเปิดเผยภูมิประเทศภูเขาทั้งหมดบน[TIP:LOC_PEDIA_CONCEPTS_CONTINENT_TOOLTIP]ทวีป[/TIP]เดียวกับยอดเขาเอเวอเรสต์"}
 {"tag": "LOC_FEATURE_MOUNT_EVEREST_NAME", "en_sha": "30eb978cba74", "status": "draft", "th": "ยอดเขาเอเวอเรสต์"}
-{"tag": "LOC_FEATURE_MOUNT_EVEREST_TOOLTIP", "en_sha": "ee0db32fc00f", "status": "draft", "th": "เมื่อค้นพบ จะเปิดเผยภูมิประเทศภูเขาทั้งหมดบนทวีปเดียวกับยอดเขาเอเวอเรสต์"}
+{"tag": "LOC_FEATURE_MOUNT_EVEREST_TOOLTIP", "en_sha": "094db5508183", "status": "draft", "th": "เมื่อค้นพบ จะเปิดเผยภูมิประเทศภูเขาทั้งหมดบน[TIP:LOC_PEDIA_CONCEPTS_CONTINENT_TOOLTIP]ทวีป[/TIP]เดียวกับยอดเขาเอเวอเรสต์"}
 {"tag": "LOC_FEATURE_OASIS_NAME", "en_sha": "62a0095414fc", "status": "draft", "th": "โอเอซิส (ชุ่มน้ำ)"}
 {"tag": "LOC_FEATURE_PLAINS_FLOODPLAIN_NAME", "en_sha": "de79469a2dff", "status": "draft", "th": "ที่ราบน้ำท่วมถึงที่ราบ"}
 {"tag": "LOC_FEATURE_RAINFOREST_NAME", "en_sha": "6dd58f11a887", "status": "draft", "th": "ป่าฝน (พืชพรรณ)"}
-{"tag": "LOC_FEATURE_REDWOOD_FOREST_DESCRIPTION", "en_sha": "4ccd5f1f1522", "status": "draft", "th": "[icon:YIELD_FOOD] อาหาร [icon:YIELD_HAPPINESS] ความสุข และ [icon:YIELD_PRODUCTION] การผลิต +2 ต่อยุค [icon:YIELD_CULTURE] วัฒนธรรมและ [icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพืชพรรณในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_REDWOOD_FOREST_DESCRIPTION", "en_sha": "d75960f478fa", "status": "draft", "th": "+1 [icon:YIELD_FOOD] [icon:YIELD_PRODUCTION] และ [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_FOOD] [icon:YIELD_PRODUCTION] และ [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +1 [icon:YIELD_CULTURE] และ [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]ภูมิประเทศพืชพรรณ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_REDWOOD_FOREST_NAME", "en_sha": "d9b14d737907", "status": "draft", "th": "ป่าเรดวูด"}
-{"tag": "LOC_FEATURE_REDWOOD_FOREST_TOOLTIP", "en_sha": "0996f71418b5", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรมและ [icon:YIELD_SCIENCE] วิทยาศาสตร์ +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพืชพรรณในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_REDWOOD_FOREST_TOOLTIP", "en_sha": "841fb77d20ee", "status": "draft", "th": "+1 [icon:YIELD_CULTURE] และ [icon:YIELD_SCIENCE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP]ภูมิประเทศพืชพรรณ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_REEF_NAME", "en_sha": "59ff3b42cd77", "status": "draft", "th": "แนวปะการัง"}
 {"tag": "LOC_FEATURE_SAGEBRUSH_STEPPE_NAME", "en_sha": "3339f57fd08f", "status": "draft", "th": "ทุ่งหญ้าสเตปป์เซจบรัช (พืชพรรณ)"}
 {"tag": "LOC_FEATURE_SAVANNA_WOODLAND_NAME", "en_sha": "e3d001ba4ebb", "status": "draft", "th": "ป่าสะวันนา (พืชพรรณ)"}
 {"tag": "LOC_FEATURE_TAIGA_NAME", "en_sha": "fec2b0a9d95d", "status": "draft", "th": "ป่าไทกา (พืชพรรณ)"}
-{"tag": "LOC_FEATURE_THERA_DESCRIPTION", "en_sha": "c46b61926a5b", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +2 และ [icon:YIELD_CULTURE] วัฒนธรรม +4 ต่อยุค ภูมิประเทศภูเขาไฟ"}
+{"tag": "LOC_FEATURE_THERA_DESCRIPTION", "en_sha": "1ff433b3dc5c", "status": "draft", "th": "+1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_CULTURE] เพิ่มอีก +1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_CULTURE] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ภูมิประเทศภูเขาไฟ เมื่อปะทุ ทีรามีโอกาสมอบผลผลิตให้แก่ช่องที่อยู่ติดกันมากขึ้น และในปริมาณที่มากขึ้น"}
 {"tag": "LOC_FEATURE_THERA_NAME", "en_sha": "307d3c71e0a8", "status": "draft", "th": "ทีรา"}
-{"tag": "LOC_FEATURE_THERA_TOOLTIP", "en_sha": "edbaf2b50c93", "status": "draft", "th": "ภูมิประเทศภูเขาไฟ"}
-{"tag": "LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION", "en_sha": "ec46436a860d", "status": "draft", "th": "[icon:YIELD_FOOD] อาหาร +2 และ [icon:YIELD_HAPPINESS] ความสุข +4 ต่อยุค [icon:YIELD_FOOD] อาหารและ [icon:YIELD_PRODUCTION] การผลิต +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศทุนดราในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_THERA_TOOLTIP", "en_sha": "7873b81bb5db", "status": "draft", "th": "ภูมิประเทศภูเขาไฟ เมื่อปะทุ ทีรามีโอกาสมอบผลผลิตให้แก่ช่องที่อยู่ติดกันมากขึ้น และในปริมาณที่มากขึ้น"}
+{"tag": "LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION", "en_sha": "ce324edfdd11", "status": "draft", "th": "+1 [icon:YIELD_FOOD] และ +2 [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_FOOD] และ +2 [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +1 [icon:YIELD_FOOD] และ [icon:YIELD_PRODUCTION] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บนภูมิประเทศทุนดราใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_TORRES_DEL_PAINE_NAME", "en_sha": "0f894af7930f", "status": "draft", "th": "ตอร์เรสเดลไพเน"}
-{"tag": "LOC_FEATURE_TORRES_DEL_PAINE_TOOLTIP", "en_sha": "9231548fdb10", "status": "draft", "th": "[icon:YIELD_FOOD] อาหารและ [icon:YIELD_PRODUCTION] การผลิต +1 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศทุนดราในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_TORRES_DEL_PAINE_TOOLTIP", "en_sha": "fdb9ce018d9d", "status": "draft", "th": "+1 [icon:YIELD_FOOD] และ [icon:YIELD_PRODUCTION] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บนภูมิประเทศทุนดราใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_TROPICAL_FLOODPLAIN_NAME", "en_sha": "2601ae1d5188", "status": "draft", "th": "ที่ราบน้ำท่วมถึงเขตร้อน"}
 {"tag": "LOC_FEATURE_TUNDRA_BOG_NAME", "en_sha": "a532c7fd55c6", "status": "draft", "th": "พรุทุนดรา (ชุ่มน้ำ)"}
 {"tag": "LOC_FEATURE_TUNDRA_FLOODPLAIN_NAME", "en_sha": "75ad0d04ae17", "status": "draft", "th": "ที่ราบน้ำท่วมถึงทุนดรา"}
-{"tag": "LOC_FEATURE_ULURU_DESCRIPTION", "en_sha": "da07b8306a89", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +6 ต่อยุค [icon:YIELD_CULTURE] วัฒนธรรม +2 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศทะเลทรายในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_ULURU_DESCRIPTION", "en_sha": "bdef18432cd6", "status": "draft", "th": "+3 [icon:YIELD_HAPPINESS] เพิ่มอีก +3 [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +2 [icon:YIELD_CULTURE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บนภูมิประเทศทะเลทรายใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_ULURU_NAME", "en_sha": "2d1541730789", "status": "draft", "th": "อูลูรู"}
-{"tag": "LOC_FEATURE_ULURU_TOOLTIP", "en_sha": "f35bda157a1a", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรม +2 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศทะเลทรายในถิ่นฐานนี้"}
-{"tag": "LOC_FEATURE_VALLEY_OF_FLOWERS_DESCRIPTION", "en_sha": "9ff9efeea6e7", "status": "draft", "th": "[icon:YIELD_FOOD] อาหาร [icon:YIELD_CULTURE] วัฒนธรรม และ [icon:YIELD_HAPPINESS] ความสุข +2 ต่อยุค ระยะ [icon:TRADE_ROUTE] เส้นทางการค้าทางบก +10 ไปยังถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_ULURU_TOOLTIP", "en_sha": "38eb35dd46f1", "status": "draft", "th": "+2 [icon:YIELD_CULTURE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บนภูมิประเทศทะเลทรายใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
+{"tag": "LOC_FEATURE_VALLEY_OF_FLOWERS_DESCRIPTION", "en_sha": "287f4343fdd1", "status": "draft", "th": "+1 [icon:YIELD_FOOD] [icon:YIELD_CULTURE] และ [icon:YIELD_HAPPINESS] เพิ่มอีก +1 [icon:YIELD_FOOD] [icon:YIELD_CULTURE] และ [icon:YIELD_HAPPINESS] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]ระยะ [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]ทางบก +10 ไปยัง[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_VALLEY_OF_FLOWERS_NAME", "en_sha": "a67f59f9b478", "status": "draft", "th": "หุบเขาแห่งดอกไม้"}
-{"tag": "LOC_FEATURE_VALLEY_OF_FLOWERS_TOOLTIP", "en_sha": "b8aef9416128", "status": "draft", "th": "ระยะ [icon:TRADE_ROUTE] เส้นทางการค้าทางบก +10 ไปยังถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_VALLEY_OF_FLOWERS_TOOLTIP", "en_sha": "7b8139902457", "status": "draft", "th": "ระยะ [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]ทางบก +10 ไปยัง[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_VOLCANO_NAME", "en_sha": "8ea2c5b5f236", "status": "draft", "th": "ภูเขาไฟ"}
 {"tag": "LOC_FEATURE_VOLCANO_NAME_ACTIVE", "en_sha": "671da18f6de7", "status": "draft", "th": "ภูเขาไฟ - ยังคุกรุ่น"}
 {"tag": "LOC_FEATURE_VOLCANO_NAME_INACTIVE", "en_sha": "4c11b7ae8338", "status": "draft", "th": "ภูเขาไฟ - สงบแล้ว"}
 {"tag": "LOC_FEATURE_WATERING_HOLE_NAME", "en_sha": "d6adee7d40ab", "status": "draft", "th": "แอ่งน้ำ (ชุ่มน้ำ)"}
-{"tag": "LOC_FEATURE_ZHANGJIAJIE_DESCRIPTION", "en_sha": "fb6ac176e87f", "status": "draft", "th": "[icon:YIELD_HAPPINESS] ความสุข +2 และ [icon:YIELD_PRODUCTION] การผลิต +4 ต่อยุค [icon:YIELD_CULTURE] วัฒนธรรม +2 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพื้นขรุขระในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_ZHANGJIAJIE_DESCRIPTION", "en_sha": "93621f538bef", "status": "draft", "th": "+1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_PRODUCTION] เพิ่มอีก +1 [icon:YIELD_HAPPINESS] และ +2 [icon:YIELD_PRODUCTION] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP] +2 [icon:YIELD_CULTURE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]ภูมิประเทศขรุขระ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FEATURE_ZHANGJIAJIE_NAME", "en_sha": "d856eab120a8", "status": "draft", "th": "จางเจียเจี้ย"}
-{"tag": "LOC_FEATURE_ZHANGJIAJIE_TOOLTIP", "en_sha": "21dd854c6302", "status": "draft", "th": "[icon:YIELD_CULTURE] วัฒนธรรม +2 บน [icon:CITY_RURAL] สิ่งปรับปรุงบนภูมิประเทศพื้นขรุขระในถิ่นฐานนี้"}
+{"tag": "LOC_FEATURE_ZHANGJIAJIE_TOOLTIP", "en_sha": "e6fec2c09590", "status": "draft", "th": "+2 [icon:YIELD_CULTURE] บน [icon:CITY_RURAL] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]บน[TIP:LOC_PEDIA_CONCEPTS_ROUGH_TERRAIN_TOOLTIP]ภูมิประเทศขรุขระ[/TIP]ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้"}
 {"tag": "LOC_FIRST_MEET_FRIENDLY_BOTH_CAPITALS_REVEALED", "en_sha": "078f99465c73", "status": "draft", "th": "ทั้ง [icon:NOTIFICATION_SELECT_CAPITAL] นครหลวงของคุณและ [icon:NOTIFICATION_SELECT_CAPITAL] นครหลวง {2_CapitalName} ของ {1_LeaderName} จะถูกเปิดเผย"}
 {"tag": "LOC_FIRST_MEET_FRIENDLY_ERROR_CAPITALS_REVEALED", "en_sha": "0806b2457b4b", "status": "draft", "th": "เกิดปัญหาในการระบุว่า [icon:NOTIFICATION_SELECT_CAPITAL] นครหลวงใดจะถูกเปิดเผย"}
 {"tag": "LOC_FIRST_MEET_FRIENDLY_GREETING", "en_sha": "67095e351c72", "status": "draft", "th": "+{1_cost} [icon:YIELD_DIPLOMACY] อิทธิพล"}
@@ -3365,6 +3374,7 @@
 {"tag": "LOC_GAME_TURN_TIMER_TIME_EXTENDED", "en_sha": "b1ca9d698161", "status": "draft", "th": "เวลาเทิร์นแบบขยาย"}
 {"tag": "LOC_GAME_TURN_TIMER_TIME_EXTENDED_TOOLTIP", "en_sha": "47307157f64a", "status": "draft", "th": "เวลาเทิร์นที่ใช้สำหรับเทิร์นที่ยาวขึ้น (ระหว่างการเริ่มเกมขั้นสูง เทิร์นสุดท้ายของยุค และเทิร์นแรกหลังการเปลี่ยนผ่านยุค) (หน่วยวินาที)"}
 {"tag": "LOC_GAME_TURN_TIMER_TIME_TOOLTIP", "en_sha": "a3043770f64b", "status": "draft", "th": "เวลาเทิร์นที่ใช้สำหรับเทิร์นปกติ (หน่วยวินาที)"}
+{"tag": "LOC_GDP_FLOATER", "en_sha": "a670861ac820", "status": "draft", "th": "+{1_Value} GDP"}
 {"tag": "LOC_GENERIC_TRAIT", "en_sha": "b36366d44b43", "status": "draft", "th": "ลักษณะเด่น"}
 {"tag": "LOC_GLOBAL_YIELDS_COLLAPSE_ALL", "en_sha": "d6524f6aacf8", "status": "draft", "th": "ยุบทั้งหมด"}
 {"tag": "LOC_GLOBAL_YIELDS_DIPLO_ACTIONS", "en_sha": "5f99a6743b97", "status": "draft", "th": "การกระทำทางการทูต"}
@@ -3752,6 +3762,7 @@
 {"tag": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_NEUTRAL_MOD_DESCRIPTION", "en_sha": "ea47b876d75e", "status": "draft", "th": "ขั้วอำนาจอิสระจะวางตัวเป็นกลางกับคุณ"}
 {"tag": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_SUZERAIN_MOD_DESCRIPTION", "en_sha": "5fd247b99e00", "status": "draft", "th": "ขั้วอำนาจอิสระจะกลายเป็น[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]โดยมีคุณเป็น[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]เจ้าอธิราช[/TIP]"}
 {"tag": "LOC_INFLUENCE_INDEPENDENT_INVESTMENT_VERY_HOSTILE_MOD_DESCRIPTION", "en_sha": "ed061f1c3f88", "status": "draft", "th": "ขั้วอำนาจอิสระจะเป็นปรปักษ์กับคุณอย่างรุนแรง"}
+{"tag": "LOC_INNOVATION_FLOATER", "en_sha": "aacad6ae8011", "status": "draft", "th": "+{1_Value} นวัตกรรม"}
 {"tag": "LOC_INNOVATION_LITERACY_NAME", "en_sha": "60e14e8bf2af", "status": "draft", "th": "การรู้หนังสือ"}
 {"tag": "LOC_INNOVATION_POINTS_NEEDED_TO_WIN", "en_sha": "4537b1a4a948", "status": "draft", "th": "นวัตกรรมที่ต้องใช้เพื่อชนะ"}
 {"tag": "LOC_INNOVATION_SOCIAL_CLASS_NAME", "en_sha": "3dbbd44efb9e", "status": "draft", "th": "ชนชั้นทางสังคม"}
@@ -3946,10 +3957,10 @@
 {"tag": "LOC_LEGACY_AQ_ECONOMIC_4_NAME", "en_sha": "0fdd174edf65", "status": "draft", "th": "ความโลภคือทองคำ"}
 {"tag": "LOC_LEGACY_AQ_ECONOMIC_4_RACE_TRIGGER_DESCRIPTION", "en_sha": "734b52dcd091", "status": "draft", "th": "เป็นผู้แรกที่ซื้อของมูลค่ารวม 10,000 [icon:YIELD_GOLD] ใน[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]นี้ ไม่นับ[TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]ค่าบำรุงรักษา[/TIP]"}
 {"tag": "LOC_LEGACY_AQ_ECONOMIC_4_TRIGGER_DESCRIPTION", "en_sha": "8a901f58a4cc", "status": "draft", "th": "ซื้อของมูลค่ารวม [B]10,000 [icon:YIELD_GOLD][/B] ใน[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]นี้ ไม่นับ[TIP:LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP]ค่าบำรุงรักษา[/TIP]"}
-{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_DESCRIPTION", "en_sha": "c9e138313d18", "status": "draft", "th": "[B]+1 [icon:YIELD_GOLD][/B] ต่อ [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]แต่ละชิ้น"}
+{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_DESCRIPTION", "en_sha": "387430275a1f", "status": "draft", "th": "[B]+1 [icon:YIELD_GOLD][/B] ต่อ [icon:RESOURCECLASS_EMPIRE] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]แต่ละชิ้น"}
 {"tag": "LOC_LEGACY_AQ_ECONOMIC_5_NAME", "en_sha": "c360dfabd9de", "status": "draft", "th": "ตลาดทราจัน"}
-{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_RACE_TRIGGER_DESCRIPTION", "en_sha": "caa21faf6a46", "status": "draft", "th": "เป็นผู้แรกที่มี [B]18 [icon:RADIAL_RESOURCES][/B] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]"}
-{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_TRIGGER_DESCRIPTION", "en_sha": "45e4ce7f04c1", "status": "draft", "th": "มี [B]18 [icon:RADIAL_RESOURCES][/B] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]"}
+{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_RACE_TRIGGER_DESCRIPTION", "en_sha": "f6dcdac0d160", "status": "draft", "th": "เป็นผู้แรกที่มี [B]18 [icon:RESOURCECLASS_EMPIRE][/B] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]"}
+{"tag": "LOC_LEGACY_AQ_ECONOMIC_5_TRIGGER_DESCRIPTION", "en_sha": "dd11aa3f20bf", "status": "draft", "th": "มี [B]18 [icon:RESOURCECLASS_EMPIRE][/B] [TIP:LOC_PEDIA_CONCEPTS_EMPIRE_RESOURCES_TOOLTIP]ทรัพยากรจักรวรรดิ[/TIP]"}
 {"tag": "LOC_LEGACY_AQ_EXPANSIONIST_1_DESCRIPTION", "en_sha": "074efcbe6dd1", "status": "draft", "th": "[icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]ได้รับ[TIP:LOC_PEDIA_CONCEPTS_POPULATION_TOOLTIP]ประชากร[/TIP]เพิ่มอีก [B]2 [icon:YIELD_POPULATION][/B] เมื่อเกิดเหตุการณ์การเติบโตครั้งแรก"}
 {"tag": "LOC_LEGACY_AQ_EXPANSIONIST_1_NAME", "en_sha": "2ce6a9a79536", "status": "draft", "th": "สี่มุมโลก"}
 {"tag": "LOC_LEGACY_AQ_EXPANSIONIST_1_RACE_TRIGGER_DESCRIPTION", "en_sha": "2d11c67b81b2", "status": "draft", "th": "เป็นผู้แรกที่ก่อตั้ง[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP] [B]8[/B] แห่ง"}
@@ -4466,7 +4477,7 @@
 {"tag": "LOC_LOADING_AGE_START_SUFFIX", "en_sha": "ead051c40a61", "status": "draft", "th": "เริ่มต้นขึ้นแล้ว"}
 {"tag": "LOC_LOADING_AGE_TRANSITION_EXPLORATION", "en_sha": "33e69c53e1e2", "status": "draft", "th": "โลกตื่นขึ้น ณ ที่ซึ่งครั้งหนึ่งจักรวรรดิที่ตั้งรกรากเคยยืนหยัดดุจป้อมปราการท่ามกลางพรมแดนอันป่าเถื่อน บัดนี้กลับมีเครือข่ายถนนหนทางและบ้านเมือง ณ ที่ซึ่งครั้งหนึ่งความลับแห่งการเขียนและการโลหะกรรมเคยถูกหวงแหนไว้ในนครที่มีกำแพงล้อม บัดนี้ทุกคนต่างมีหนทางสู่อำนาจ \tโลกตื่นขึ้น และยื่นมือออกไปสู่ภายนอก"}
 {"tag": "LOC_LOADING_AGE_TRANSITION_EXPLORATION_HEADER", "en_sha": "4816be3da481", "status": "draft", "th": "โลกตื่นขึ้น"}
-{"tag": "LOC_LOADING_AGE_TRANSITION_MODERN", "en_sha": "5ff6c84fb00f", "status": "draft", "th": "ไอน้ำทลายโลกเก่า มหาวิหารหลีกทางให้โรงงาน ใบเรือหลีกทางให้ลูกสูบ เสียงเคียวของคนเกี่ยวข้าวหลีกทางให้เสียงฟู่และเสียงกระทบกึงกังของเครื่องจักร โลกถูกประดิษฐ์ขึ้นใหม่ทุกวัน ถูกทำลายและสร้างขึ้นใหม่"}
+{"tag": "LOC_LOADING_AGE_TRANSITION_MODERN", "en_sha": "ec1b9cec200b", "status": "draft", "th": "ไอน้ำทลายโลกเก่า มหาวิหารหลีกทางให้โรงงาน ใบเรือหลีกทางให้ลูกสูบ เสียงเคียวของคนเกี่ยวข้าวหลีกทางให้เสียงฟู่และเสียงกระทบกึงกังของเครื่องจักร โลกถูกประดิษฐ์ขึ้นใหม่ทุกวัน ถูกทำลายและสร้างขึ้นใหม่"}
 {"tag": "LOC_LOADING_AGE_TRANSITION_MODERN_HEADER", "en_sha": "9da25e3c937e", "status": "draft", "th": "ฟันเฟืองหมุนไป"}
 {"tag": "LOC_LOADING_BEGIN_GAME", "en_sha": "a34981a73425", "status": "draft", "th": "เริ่มเกม"}
 {"tag": "LOC_LOADING_CIVILIZATION_ABILITY", "en_sha": "d1d017e4e540", "status": "draft", "th": "ความสามารถของอารยธรรม"}
@@ -4600,6 +4611,10 @@
 {"tag": "LOC_MAP_ARCHIPELAGO_NAME", "en_sha": "683401fd100b", "status": "draft", "th": "หมู่เกาะสองซีกโลก (แบบเดิม)"}
 {"tag": "LOC_MAP_ARCHIPELAGO_VORONOI_DESCRIPTION", "en_sha": "cae9fc19f23d", "status": "draft", "th": "แผนที่ที่มีกลุ่มเกาะหลัก 2 กลุ่มซึ่งมีรูปร่างและขนาดแตกต่างกัน พร้อมเกาะเล็กและหมู่เกาะกระจายอยู่ทั่วมหาสมุทร"}
 {"tag": "LOC_MAP_ARCHIPELAGO_VORONOI_NAME", "en_sha": "455252104dd1", "status": "draft", "th": "หมู่เกาะ"}
+{"tag": "LOC_MAP_CATEGORY_LEGACY_NAME", "en_sha": "fb74bcaf7699", "status": "draft", "th": "แบบเดิม"}
+{"tag": "LOC_MAP_CATEGORY_REGIONAL_NAME", "en_sha": "a4e69e4a3440", "status": "draft", "th": "ภูมิภาค"}
+{"tag": "LOC_MAP_CATEGORY_STANDARD_NAME", "en_sha": "2dfa66079d9b", "status": "draft", "th": "มาตรฐาน"}
+{"tag": "LOC_MAP_CATEGORY_UNCATEGORIZED_NAME", "en_sha": "4ef7d73c1a83", "status": "draft", "th": "ไม่จัดหมวดหมู่"}
 {"tag": "LOC_MAP_CONTINENTS_DESCRIPTION", "en_sha": "2c078fdb285f", "status": "draft", "th": "แผ่นดินขนาดใหญ่ต่อเนื่องที่ให้การเล่นที่สมดุล"}
 {"tag": "LOC_MAP_CONTINENTS_NAME", "en_sha": "eacafef7c426", "status": "draft", "th": "ทวีป (แบบเดิม)"}
 {"tag": "LOC_MAP_CONTINENTS_PLUS_DESCRIPTION", "en_sha": "eb84cf1cc6ce", "status": "draft", "th": "ทวีปฉบับขยายที่แบ่งกั้นด้วยหมู่เกาะแนวตั้ง"}
@@ -4607,6 +4622,8 @@
 {"tag": "LOC_MAP_CONTINENTS_VORONOI_DESCRIPTION", "en_sha": "bb718f72e498", "status": "draft", "th": "แผ่นดินตามธรรมชาติ 2 ผืน พร้อมเกาะขนาดต่าง ๆ"}
 {"tag": "LOC_MAP_CONTINENTS_VORONOI_NAME", "en_sha": "1931a1f4c68c", "status": "draft", "th": "ทวีปและหมู่เกาะ"}
 {"tag": "LOC_MAP_DESCRIPTION", "en_sha": "847a5d3f5f29", "status": "draft", "th": "เลือกประเภทแผนที่ของเกม"}
+{"tag": "LOC_MAP_DONUT_VORONOI_DESCRIPTION", "en_sha": "314e0bb29c81", "status": "draft", "th": "แผนที่ที่มีผืนแผ่นดินขนาดใหญ่รูปโดนัทเพียงผืนเดียว ก่อให้เกิดทั้งมหาสมุทรด้านในและด้านนอก"}
+{"tag": "LOC_MAP_DONUT_VORONOI_NAME", "en_sha": "d7cf5706f1f3", "status": "draft", "th": "โดนัท"}
 {"tag": "LOC_MAP_EARTH_DESCRIPTION", "en_sha": "1e35e4683152", "status": "draft", "th": "แผนที่โลกขนาดใหญ่มากที่จำลองโลกจริงให้ใกล้เคียงที่สุด ทั้งภูมิประเทศ แม่น้ำ ทรัพยากร และตำแหน่งสิ่งมหัศจรรย์ทางธรรมชาติ"}
 {"tag": "LOC_MAP_EARTH_NAME", "en_sha": "a074430f352b", "status": "draft", "th": "โลก"}
 {"tag": "LOC_MAP_FRACTAL_DESCRIPTION", "en_sha": "ad2964592522", "status": "draft", "th": "แผนที่ที่คาดเดาไม่ได้ ซึ่งอาจมีแผ่นดินหลายผืน"}
@@ -4617,6 +4634,8 @@
 {"tag": "LOC_MAP_PANGAEA_PLUS_NAME", "en_sha": "322d168114ba", "status": "draft", "th": "แพนเจียพลัส (แบบเดิม)"}
 {"tag": "LOC_MAP_PANGAEA_VORONOI_DESCRIPTION", "en_sha": "623278b6d30d", "status": "draft", "th": "แผ่นดินตามธรรมชาติผืนเดียว พร้อมเกาะขนาดต่าง ๆ"}
 {"tag": "LOC_MAP_PANGAEA_VORONOI_NAME", "en_sha": "1f814e8ac7e7", "status": "draft", "th": "แพนเจียและหมู่เกาะ"}
+{"tag": "LOC_MAP_RANDOM_EARTH_DESCRIPTION", "en_sha": "8e39300d6604", "status": "draft", "th": "แผนที่ขนาดใหญ่มากรูปโลก ซึ่งสุ่มสร้างภูมิประเทศภายในทวีป"}
+{"tag": "LOC_MAP_RANDOM_EARTH_NAME", "en_sha": "7bf7146808df", "status": "draft", "th": "โลกแบบสุ่ม"}
 {"tag": "LOC_MAP_SCRIPT", "en_sha": "fece87f09e5a", "status": "draft", "th": "ประเภทแผนที่"}
 {"tag": "LOC_MAP_SEA_LEVEL_DESCRIPTION", "en_sha": "27b385bc344c", "status": "draft", "th": "ระดับน้ำทะเล"}
 {"tag": "LOC_MAP_SEA_LEVEL_NAME", "en_sha": "27b385bc344c", "status": "draft", "th": "ระดับน้ำทะเล"}
@@ -4630,6 +4649,8 @@
 {"tag": "LOC_MAP_START_POSITION_BALANCED_DESCRIPTION", "en_sha": "feb7f779150f", "status": "draft", "th": "พื้นที่เริ่มต้นของผู้เล่นแต่ละคนมีขนาดใกล้เคียงกัน เหมาะสำหรับการเล่นหลายคน"}
 {"tag": "LOC_MAP_START_POSITION_BALANCED_NAME", "en_sha": "03342dbb856b", "status": "draft", "th": "สมดุล"}
 {"tag": "LOC_MAP_START_POSITION_DESCRIPTION", "en_sha": "be6b15ea92e2", "status": "draft", "th": "เลือกวิธีกำหนดตำแหน่งเริ่มต้น"}
+{"tag": "LOC_MAP_START_POSITION_HISTORICAL_DESCRIPTION", "en_sha": "157e07df570b", "status": "draft", "th": "ตำแหน่งเริ่มต้นจะกำหนดตามถิ่นกำเนิดทางประวัติศาสตร์ของอารยธรรมของคุณ"}
+{"tag": "LOC_MAP_START_POSITION_HISTORICAL_NAME", "en_sha": "1cea59c31de3", "status": "draft", "th": "ตำแหน่งเริ่มต้นตามจริง"}
 {"tag": "LOC_MAP_START_POSITION_NAME", "en_sha": "489d0809376e", "status": "draft", "th": "ตำแหน่งเริ่มต้น"}
 {"tag": "LOC_MAP_START_POSITION_STANDARD_DESCRIPTION", "en_sha": "4e9786bf0678", "status": "draft", "th": "รูปร่างแผนที่เป็นธรรมชาติมากขึ้น แต่พื้นที่เริ่มต้นอาจไม่สมดุลสำหรับผู้เล่นทุกคน"}
 {"tag": "LOC_MAP_START_POSITION_STANDARD_NAME", "en_sha": "2dfa66079d9b", "status": "draft", "th": "มาตรฐาน"}
@@ -4663,7 +4684,7 @@
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_CHAKRA_NAME", "en_sha": "2fa0d12e3977", "status": "draft", "th": "จักร"}
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_CHAKRA_UNLOCK_TITLE", "en_sha": "3f3f57d1f8fe", "status": "draft", "th": "ปลดล็อกที่เลเวล 2 ของพระเจ้าอโศก ผู้ละทางโลก"}
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_DIAMOND_THRONE_DESCRIPTION", "en_sha": "dbbe2a8ab851", "status": "draft", "th": "สถานที่แห่งการตรัสรู้"}
-{"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_DIAMOND_THRONE_FUNCTIONAL_DESCRIPTION", "en_sha": "438ce5a7caee", "status": "draft", "th": "[B]+1 [icon:YIELD_HAPPINESS][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]ย่าน[/TIP]ระหว่าง [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]"}
+{"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_DIAMOND_THRONE_FUNCTIONAL_DESCRIPTION", "en_sha": "487189cb027b", "status": "draft", "th": "[B]+1 [icon:YIELD_HAPPINESS][/B] ต่อ[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]บน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]ระหว่าง [icon:CELEBRATION] [TIP:LOC_PEDIA_CONCEPTS_CELEBRATIONS_TOOLTIP]การเฉลิมฉลอง[/TIP]"}
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_DIAMOND_THRONE_NAME", "en_sha": "a748249856f4", "status": "draft", "th": "วัชรอาสน์"}
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_DIAMOND_THRONE_UNLOCK_TITLE", "en_sha": "0e9f0e02b2e9", "status": "draft", "th": "ปลดล็อกที่เลเวล 9 ของพระเจ้าอโศก ผู้ละทางโลก"}
 {"tag": "LOC_MEMENTO_ASHOKA_RENOUNCER_GOLD_SAPPHIRE_FLOWERS_DESCRIPTION", "en_sha": "8b4dd4c05d39", "status": "draft", "th": "บุปผาเบื้องใต้บัลลังก์"}
@@ -4751,7 +4772,7 @@
 {"tag": "LOC_MEMENTO_FOUNDATION_ANTIKYTHERA_MECHANISM_NAME", "en_sha": "7d116169c96e", "status": "draft", "th": "กลไกแอนติไคเธอรา"}
 {"tag": "LOC_MEMENTO_FOUNDATION_ANTIKYTHERA_MECHANISM_UNLOCK_TITLE", "en_sha": "9e7628888df0", "status": "draft", "th": "ปลดล็อกที่เลเวล 6"}
 {"tag": "LOC_MEMENTO_FOUNDATION_ART_OF_WAR_DESCRIPTION", "en_sha": "34a9da67aec0", "status": "draft", "th": "มีความสำคัญยิ่งยวด"}
-{"tag": "LOC_MEMENTO_FOUNDATION_ART_OF_WAR_FUNCTIONAL_DESCRIPTION", "en_sha": "47224a1728ce", "status": "draft", "th": "[B]+10%[/B] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_EXPERIENCE_TOOLTIP]ประสบการณ์ผู้บัญชาการ[/TIP]เพิ่มเป็น +50% เมื่ออยู่ภายใน[TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]รัศมีบัญชาการ[/TIP]ของ[icon:UNIT_ARMY_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]ที่มีเลเวลสูงกว่า"}
+{"tag": "LOC_MEMENTO_FOUNDATION_ART_OF_WAR_FUNCTIONAL_DESCRIPTION", "en_sha": "a343870fa500", "status": "draft", "th": "[B]+10%[/B] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_EXPERIENCE_TOOLTIP]ประสบการณ์ผู้บัญชาการ[/TIP]เพิ่มเป็น +50% เมื่ออยู่ภายใน[TIP:LOC_PEDIA_CONCEPTS_COMMAND_RADIUS_TOOLTIP]รัศมีบัญชาการ[/TIP]ของ [icon:UNIT_ARMY_COMMANDER] [TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]ที่มีเลเวลสูงกว่า"}
 {"tag": "LOC_MEMENTO_FOUNDATION_ART_OF_WAR_NAME", "en_sha": "575c0db884a0", "status": "draft", "th": "ตำราพิชัยสงคราม"}
 {"tag": "LOC_MEMENTO_FOUNDATION_ART_OF_WAR_UNLOCK_TITLE", "en_sha": "5e21c017ac27", "status": "draft", "th": "ปลดล็อกที่เลเวล 18"}
 {"tag": "LOC_MEMENTO_FOUNDATION_COLADA_TIZONA_COMBAT_PREVIEW", "en_sha": "2d40afcb1c3d", "status": "draft", "th": "+{1_Amount} ของที่ระลึกโกลาดาและติโซนา"}
@@ -8017,7 +8038,7 @@
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_03_DESCRIPTION", "en_sha": "18847d2c3f16", "status": "draft", "th": "+25% [icon:YIELD_SCIENCE] วิทยาศาสตร์ในการวิจัยความเชี่ยวชาญ [icon:RADIAL_TECH] เทคโนโลยี"}
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_04_DESCRIPTION", "en_sha": "966bfbc451cb", "status": "draft", "th": "+20% [icon:YIELD_GOLD] ทองและ [icon:YIELD_HAPPINESS] ความสุขในการบำรุงรักษา [icon:CITY_BUILDING_LIST] [TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]"}
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_05_DESCRIPTION", "en_sha": "c14e02d2291c", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] วิทยาศาสตร์ใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ต่อ [icon:RADIAL_RESOURCES] [TIP:LOC_PEDIA_CONCEPTS_RESOURCES_TOOLTIP]ทรัพยากร[/TIP]แต่ละชิ้นที่มอบหมายให้"}
-{"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_06_DESCRIPTION", "en_sha": "6a06e16ee884", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] วิทยาศาสตร์ใน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]ย่าน[/TIP]แต่ละแห่ง"}
+{"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_06_DESCRIPTION", "en_sha": "5aa4603e89ad", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] วิทยาศาสตร์ใน [icon:CITY_UNIQUE_QUARTER] [TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]แต่ละแห่ง"}
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_07_DESCRIPTION", "en_sha": "8762d91d8da6", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] วิทยาศาสตร์จาก [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]ผู้เชี่ยวชาญ[/TIP]หรือ +2 หากคุณมี [icon:YIELD_CITIES] [TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ไม่เกิน 3 แห่ง"}
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_08_DESCRIPTION", "en_sha": "19a889f965b2", "status": "draft", "th": "+10[icon:YIELD_SCIENCE] วิทยาศาสตร์ต่อยุคต่อ [icon:PLAYER_RELATIONSHIP_ALLIANCE]  [TIP:LOC_PEDIA_CONCEPTS_ALLIANCE_TOOLTIP]พันธมิตร[/TIP]แต่ละรายที่คุณมี"}
 {"tag": "LOC_MOD_ATTRIBUTE_SCIENTIFIC_09_DESCRIPTION", "en_sha": "bc4b54684b0d", "status": "draft", "th": "+1 [icon:YIELD_SCIENCE] วิทยาศาสตร์ต่อยุคใน [icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]หรือ +2 ใน[TIP:LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP]ดินแดนโพ้นทะเล[/TIP]"}
@@ -8155,6 +8176,8 @@
 {"tag": "LOC_NOTIFICATION_CHOOSE_TOWN_PROJECT_SUMMARY", "en_sha": "de18c3a755ed", "status": "draft", "th": "ลองเลือกจุดเน้นให้เมืองของคุณ"}
 {"tag": "LOC_NOTIFICATION_CITY_DISTRICT_CONTROL_LOST_MESSAGE", "en_sha": "929e9e1e0f6c", "status": "draft", "th": "เขตถูกยึด!"}
 {"tag": "LOC_NOTIFICATION_CITY_DISTRICT_CONTROL_LOST_SUMMARY", "en_sha": "82363b698eaf", "status": "draft", "th": "ศัตรูเข้ายึดครองเขตหนึ่งใน {1_CityName} แล้ว!"}
+{"tag": "LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE", "en_sha": "22d5745c4afe", "status": "draft", "th": "ถิ่นฐานได้รับการปลดปล่อย"}
+{"tag": "LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY", "en_sha": "f2a2f03d5e87", "status": "draft", "th": "ถิ่นฐานที่คุณก่อตั้งได้รับการปลดปล่อยและส่งคืนให้คุณแล้ว"}
 {"tag": "LOC_NOTIFICATION_CITY_NEAR_UNHAPPINESS_LOSS_MESSAGE", "en_sha": "3f0b4399e564", "status": "draft", "th": "นครเกิดความไม่สงบ"}
 {"tag": "LOC_NOTIFICATION_CITY_NEAR_UNHAPPINESS_LOSS_SUMMARY", "en_sha": "edd3398479a2", "status": "draft", "th": "{1_CityName} ไม่มีความสุขอย่างมากและเริ่มกระสับกระส่าย อีกไม่นานอาจเกิดจลาจลและเริ่มทำลายสิ่งก่อสร้าง!"}
 {"tag": "LOC_NOTIFICATION_CITY_NEW_POPULATION_MESSAGE", "en_sha": "0572938617a3", "status": "draft", "th": "นครเติบโต"}
@@ -8173,7 +8196,7 @@
 {"tag": "LOC_NOTIFICATION_COMMANDER_RESPAWN_SUMMARY", "en_sha": "dea7ce1e297d", "status": "draft", "th": "หลังจากพ่ายแพ้ {1_CommanderType} ของคุณได้กลับมาสู้อีกครั้ง"}
 {"tag": "LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE", "en_sha": "eed005c4a8dd", "status": "draft", "th": "สั่งการยูนิต"}
 {"tag": "LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY", "en_sha": "878ff7b0d2bc", "status": "draft", "th": "เคลื่อนที่ยูนิตหรือสั่งให้ปฏิบัติการ"}
-{"tag": "LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE", "en_sha": "bd87cb872e7c", "status": "draft", "th": "ทำลายหรือเก็บนคร"}
+{"tag": "LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE", "en_sha": "c05289c8ebfa", "status": "draft", "th": "จัดการถิ่นฐานใหม่"}
 {"tag": "LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY", "en_sha": "07d15809d785", "status": "draft", "th": "คุณพิชิตนครได้ในเทิร์นนี้ ตัดสินใจว่าจะเก็บไว้ ทำลาย หรือปลดปล่อย"}
 {"tag": "LOC_NOTIFICATION_COOPERATIVE_PROJECT_STARTED_MESSAGE", "en_sha": "6b9aa8293c36", "status": "draft", "th": "เริ่มโครงการร่วมแล้ว"}
 {"tag": "LOC_NOTIFICATION_COOPERATIVE_PROJECT_STARTED_SUMMARY", "en_sha": "47574f1b012f", "status": "draft", "th": "ผู้นำอีกคนได้เริ่มโครงการร่วม"}
@@ -8289,6 +8312,10 @@
 {"tag": "LOC_NOTIFICATION_FREE_TECH_AWARDED_SUMMARY", "en_sha": "ee106032af53", "status": "draft", "th": "ปลดล็อกเทคโนโลยีใหม่แล้ว: {1_TechNames}"}
 {"tag": "LOC_NOTIFICATION_GAME_INVITE", "en_sha": "6e7ec3eb3ab5", "status": "draft", "th": "{1_FriendName} อยากเล่นด้วย!"}
 {"tag": "LOC_NOTIFICATION_GAME_INVITE_TT", "en_sha": "e1cde461998e", "status": "draft", "th": "{1_FriendName} เชิญคุณเข้าร่วมเกมผู้เล่นหลายคน"}
+{"tag": "LOC_NOTIFICATION_GAME_SETUP_PARAMETERS_CHANGED", "en_sha": "a6bad5110850", "status": "draft", "th": "ตัวเลือกการตั้งค่าเกม ({1_Parameter}) ถูกเปลี่ยนเนื่องจากตัวเลือกอื่นมีการเปลี่ยนแปลง[nn]ระบบได้ปรับเป็นตัวเลือกที่ใช้ได้ ({2_Current}) แล้ว"}
+{"tag": "LOC_NOTIFICATION_GAME_SETUP_PARAMETERS_CHANGED_TITLE", "en_sha": "9a6cc4491666", "status": "draft", "th": "การตั้งค่าถูกเปลี่ยน"}
+{"tag": "LOC_NOTIFICATION_GREAT_PERSON_EARNED_MESSAGE", "en_sha": "9390305fcc12", "status": "draft", "th": "ได้รับบุคคลผู้ยิ่งใหญ่"}
+{"tag": "LOC_NOTIFICATION_GREAT_PERSON_EARNED_SUMMARY", "en_sha": "e9eb20a507bf", "status": "draft", "th": "คุณได้รับ {1_UnitName} ใน {2_CityName}[n]{3_UnitDescription}"}
 {"tag": "LOC_NOTIFICATION_GREAT_WORK_CREATED_ARCHIVE_SUMMARY", "en_sha": "5737e637fe57", "status": "draft", "th": "ผลงานชิ้นเอก {1_Name} ถูกเพิ่มเข้าคลังเก็บของคุณแล้ว"}
 {"tag": "LOC_NOTIFICATION_GREAT_WORK_CREATED_BUILDING_SUMMARY", "en_sha": "052403bc6e75", "status": "draft", "th": "ผลงานชิ้นเอก {1_Name} ถูกเพิ่มเข้า {2_Building} ในถิ่นฐาน {3_City} แล้ว"}
 {"tag": "LOC_NOTIFICATION_GREAT_WORK_CREATED_MESSAGE", "en_sha": "773f8f8ab38f", "status": "draft", "th": "สร้างผลงานชิ้นเอกแล้ว"}
@@ -8304,6 +8331,8 @@
 {"tag": "LOC_NOTIFICATION_IDEOLOGY_CHOSEN_SUMMARY", "en_sha": "026640d4c709", "status": "draft", "th": "คุณเริ่มวิจัย {1_IdeologyName} แล้ว และเป็นสมาชิกถาวรของอุดมการณ์นั้น ความสัมพันธ์ของคุณกับผู้นำคนอื่นจะเพิ่มขึ้นหากพวกเขานับถืออุดมการณ์เดียวกับคุณ และจะลดลงหากพวกเขานับถืออุดมการณ์อื่น"}
 {"tag": "LOC_NOTIFICATION_INVALID_ASSIGNED_RESOURCE_MESSAGE", "en_sha": "b8c7b358be45", "status": "draft", "th": "การมอบหมายทรัพยากรไม่ถูกต้องอีกต่อไป"}
 {"tag": "LOC_NOTIFICATION_INVALID_ASSIGNED_RESOURCE_SUMMARY", "en_sha": "bc26427b5935", "status": "draft", "th": "ทรัพยากร {1_ResourceName} ที่เคยอยู่ใน {2_CityName} ใช้ที่นั่นไม่ได้อีกต่อไป และถูกยกเลิกการมอบหมายแล้ว"}
+{"tag": "LOC_NOTIFICATION_LAST_GREAT_PERSON_MESSAGE", "en_sha": "97cb6e0d729c", "status": "draft", "th": "บุคคลผู้ยิ่งใหญ่คนสุดท้าย"}
+{"tag": "LOC_NOTIFICATION_LAST_GREAT_PERSON_SUMMARY", "en_sha": "1ed45459d967", "status": "draft", "th": "คุณได้รับ {1_UnitClass} คนสุดท้ายแล้ว จะไม่สามารถรับบุคคลผู้ยิ่งใหญ่ประเภทนี้ได้อีก"}
 {"tag": "LOC_NOTIFICATION_LEGACY_COMPLETED_MESSAGE", "en_sha": "aadf3381c063", "status": "draft", "th": "ไทรอัมพ์สำเร็จ"}
 {"tag": "LOC_NOTIFICATION_LEGACY_COMPLETED_SUMMARY", "en_sha": "0ad6ff37bdf2", "status": "draft", "th": "{1_PlayerName} ทำไทรอัมพ์ \"{2_Name}\" สำเร็จแล้ว - {3_TriggerDescription}"}
 {"tag": "LOC_NOTIFICATION_LEGACY_PATH_COMPLETE_MESSAGE", "en_sha": "dbfa5e28a309", "status": "draft", "th": "เส้นทางมรดก"}
@@ -8330,6 +8359,8 @@
 {"tag": "LOC_NOTIFICATION_NEW_CULTURE_TREE_SUMMARY", "en_sha": "5265a6ed5eab", "status": "draft", "th": "เราได้เปิดเผยแผนผังหลักการพลเมืองใหม่: {1_TreeName}"}
 {"tag": "LOC_NOTIFICATION_NINJA_SIGHTED_MESSAGE", "en_sha": "19e5f466733a", "status": "draft", "th": "ชิโนบิกำลังเข้าใกล้"}
 {"tag": "LOC_NOTIFICATION_NINJA_SIGHTED_SUMMARY", "en_sha": "06ade4e1519e", "status": "draft", "th": "เราพบชิโนบิกำลังเข้าใกล้นคร {1_CityName} ของเรา พวกเขาสามารถสังหารผู้บัญชาการกองทัพได้"}
+{"tag": "LOC_NOTIFICATION_PAUSE_DEBOUNCED", "en_sha": "42de514e7820", "status": "draft", "th": "หยุดเกมชั่วคราวไม่ได้"}
+{"tag": "LOC_NOTIFICATION_PAUSE_DEBOUNCED_TT", "en_sha": "bb2718d8ae61", "status": "draft", "th": "คุณไม่สามารถหยุดเกมชั่วคราวได้ในตอนนี้ ต้องรอ 10 วินาทีก่อนลองอีกครั้ง"}
 {"tag": "LOC_NOTIFICATION_PLAGUE_DISSIPATES_MESSAGE", "en_sha": "1b47732190e8", "status": "draft", "th": "โรคระบาดสงบลง"}
 {"tag": "LOC_NOTIFICATION_PLAGUE_DISSIPATES_SUMMARY", "en_sha": "fb9f684af2e8", "status": "draft", "th": "ถิ่นฐาน {1_CityName} ปลอดจากโรคระบาดแล้ว"}
 {"tag": "LOC_NOTIFICATION_PLAGUE_MAJOR_OUTBREAK_MESSAGE", "en_sha": "5b25006c86ab", "status": "draft", "th": "โรคระบาดครั้งใหญ่"}
@@ -8531,7 +8562,7 @@
 {"tag": "LOC_PEDIA_CONCEPTS_DEFENSIVE_FORTIFICATION_TOOLTIP", "en_sha": "579f6567117a", "status": "draft", "th": "ป้อมปราการเป็นได้ทั้ง[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]หรือ[TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP][NN]สิ่งก่อสร้างป้อมปราการจะเปลี่ยน[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ของตนให้เป็น[TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]เขตป้อมปราการ[/TIP][NN]สิ่งปรับปรุงป้อมปราการจะมอบโบนัสการรบแก่ยูนิตที่ตั้งรับอยู่ในช่องนั้น"}
 {"tag": "LOC_PEDIA_CONCEPTS_DIPLOMATIC_PROJECTS_TOOLTIP", "en_sha": "ab7bf23002ba", "status": "draft", "th": "โครงการทางการทูตคือปฏิบัติการทางการทูตที่ทำได้กับ[TIP:LOC_PEDIA_CONCEPTS_INDEPENDENT_POWER_TOOLTIP]ขั้วอำนาจอิสระ[/TIP]หรือ[TIP:LOC_PEDIA_CONCEPTS_CITY_STATE_TOOLTIP]นครรัฐ[/TIP]ที่[TIP:LOC_PEDIA_CONCEPTS_SUZERAIN_TOOLTIP]อยู่ใต้เจ้าอธิราช[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_DISTANT_LANDS_TOOLTIP", "en_sha": "11c1fc628e99", "status": "draft", "th": "ดินแดนโพ้นทะเลคือพื้นที่ของโลกที่ต้องข้ามมหาสมุทรจาก[TIP:LOC_PEDIA_CONCEPTS_CAPITAL_TOOLTIP]นครหลวง[/TIP]ของคุณ จึงเข้าถึงไม่ได้จนกว่าจะถึง[TIP:LOC_PEDIA_CONCEPTS_EXPLORATION_AGE_TOOLTIP]ยุคแห่งการสำรวจ[/TIP]"}
-{"tag": "LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP", "en_sha": "51bd621e9a4a", "status": "draft", "th": "เขตคือช่องที่มี[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]อย่างน้อยหนึ่งแห่ง โดยปกติแต่ละเขตรองรับสิ่งก่อสร้างได้สูงสุด 2 แห่ง[NN]เมื่อเขตหนึ่งเต็มไปด้วยสิ่งก่อสร้างที่ไม่[TIP:LOC_PEDIA_CONCEPTS_OVERBUILDABLE_TOOLTIP]สร้างทับได้[/TIP]เขตนั้นจะกลายเป็นย่าน"}
+{"tag": "LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP", "en_sha": "7239a594d158", "status": "draft", "th": "เขตคือช่องที่มี[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]อย่างน้อยหนึ่งแห่ง โดยปกติแต่ละเขตรองรับสิ่งก่อสร้างได้สูงสุด 2 แห่ง[NN]เมื่อเขตหนึ่งเต็มไปด้วยสิ่งก่อสร้างที่ไม่[TIP:LOC_PEDIA_CONCEPTS_OVERBUILDABLE_TOOLTIP]สร้างทับได้[/TIP]เขตนั้นจะกลายเป็น[TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_DOMINION_TOOLTIP", "en_sha": "076d9f60e049", "status": "draft", "th": "อำนาจครอบครองคือคะแนนที่ใช้สำหรับ[TIP:LOC_PEDIA_CONCEPTS_MILITARY_VICTORY_TOOLTIP]ชัยชนะทางการทหาร[/TIP]เป็นตัวชี้วัดว่าจักรวรรดิของคุณมีอำนาจทางทหารเหนือกว่าเพียงใด และได้มาจาก[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ที่คุณก่อตั้งและพิชิตเป็นหลัก"}
 {"tag": "LOC_PEDIA_CONCEPTS_DUSTSTORM_TOOLTIP", "en_sha": "0b2cbd9262ed", "status": "draft", "th": "พายุฝุ่นคือ[TIP:LOC_PEDIA_CONCEPTS_NATURAL_DISASTERS_TOOLTIP]ภัยธรรมชาติ[/TIP]ชนิดหนึ่งที่ฝุ่นถูกพัดฟุ้งกระจาย"}
 {"tag": "LOC_PEDIA_CONCEPTS_ECONOMIC_VICTORY_TOOLTIP", "en_sha": "21d9d460c3db", "status": "draft", "th": "หนึ่งในชัยชนะ 4 ประเภท ชัยชนะทางเศรษฐกิจจะมอบให้เมื่อผู้นำมีอำนาจทางเศรษฐกิจเหนือผู้เล่นอื่นทั้งหมด ซึ่งวัดจาก [TIP:LOC_PEDIA_CONCEPTS_GDP_TOOLTIP]GDP[/TIP]"}
@@ -8565,6 +8596,7 @@
 {"tag": "LOC_PEDIA_CONCEPTS_INNOVATION_TOOLTIP", "en_sha": "513ce69e3d8e", "status": "draft", "th": "นวัตกรรมแสดงถึงความคืบหน้าของคุณสู่[TIP:LOC_PEDIA_CONCEPTS_SCIENTIFIC_VICTORY_TOOLTIP]ชัยชนะทางวิทยาศาสตร์[/TIP]คุณได้รับนวัตกรรมได้หลายวิธี เช่น การจัดวาง[TIP:LOC_PEDIA_CONCEPTS_CODEX_TOOLTIP]โคเด็กซ์[/TIP]การวิจัย[TIP:LOC_PEDIA_CONCEPTS_MASTERY_TOOLTIP]ความเชี่ยวชาญเทคโนโลยี[/TIP]และการทำ[TIP:LOC_PEDIA_CONCEPTS_SCIENCE_PROJECT_TOOLTIP]โครงการทางวิทยาศาสตร์[/TIP]ให้สำเร็จ เมื่อคุณมีนวัตกรรมครบ 100 และมีฐานปล่อยจรวด การนับถอยหลังสู่ชัยชนะทางวิทยาศาสตร์จะเริ่มขึ้น"}
 {"tag": "LOC_PEDIA_CONCEPTS_ISLAND_TOOLTIP", "en_sha": "be7daa4dfbd3", "status": "draft", "th": "เกาะคือผืนแผ่นดินที่ต่อเนื่องกันในโลก ซึ่งมีขนาดไม่เกิน 30 ช่อง"}
 {"tag": "LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP", "en_sha": "1fd25e331b4d", "status": "draft", "th": "ยูนิตทางบกส่วนใหญ่เคลื่อนที่บนภูมิประเทศทางบก และอยู่ภายใต้กฎการเคลื่อนที่และการรบบนภูมิประเทศทางบก ยูนิตเหล่านี้สามารถ[TIP:LOC_PEDIA_CONCEPTS_EMBARK_TOOLTIP]ลงเรือ[/TIP]เพื่อเข้าสู่[TIP:LOC_PEDIA_CONCEPTS_WATER_TERRAIN_TOOLTIP]ภูมิประเทศทางน้ำ[/TIP]ได้"}
+{"tag": "LOC_PEDIA_CONCEPTS_LIGHT_CAVALRY_TOOLTIP", "en_sha": "3ab0d6d0bbce", "status": "draft", "th": "ยูนิตทหารม้าเบามี[TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]ต่ำกว่า[TIP:LOC_PEDIA_CONCEPTS_CAVALRY_UNITS_TOOLTIP]ยูนิตทหารม้า[/TIP]อื่น แต่เคลื่อนที่ได้เร็วยิ่งกว่า ไม่ถูกจำกัดการเคลื่อนที่จากภูมิประเทศ และยังคงไม่สนใจ[TIP:LOC_PEDIA_CONCEPTS_ZONE_OF_CONTROL_TOOLTIP]เขตควบคุม[/TIP]นอกจากนี้ยังได้รับโบนัส[TIP:LOC_PEDIA_CONCEPTS_FLANKING_TOOLTIP]การตีขนาบ[/TIP] +100% ดังนั้นให้เริ่มการรบด้วยยูนิตอื่นก่อน แล้วตามด้วยยูนิตทหารม้าเบา!"}
 {"tag": "LOC_PEDIA_CONCEPTS_MAINTENANCE_TOOLTIP", "en_sha": "cf58c6971b0a", "status": "draft", "th": "ค่าบำรุงรักษาคือค่าใช้จ่ายผลผลิตต่อเนื่องที่เรียกเก็บทุกเทิร์นเพื่อบำรุงรักษายูนิต[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]และ[icon:SPECIALIST][TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]ผู้เชี่ยวชาญ[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_MAJOR_TRIUMPH_TOOLTIP", "en_sha": "232b13ed7a4b", "status": "draft", "th": "ไทรอัมพ์สำคัญคือไทรอัมพ์ที่ให้รางวัลเป็น[TIP:LOC_PEDIA_CONCEPTS_DEDICATION_TOOLTIP]การอุทิศ[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_MASTERY_TOOLTIP", "en_sha": "d3d224bfb20a", "status": "draft", "th": "ความเชี่ยวชาญคือโหนดเสริมบน[TIP:LOC_PEDIA_CONCEPTS_TECH_TOOLTIP]แผนผังเทคโนโลยี[/TIP]และ[TIP:LOC_PEDIA_CONCEPTS_CIVIC_TOOLTIP]แผนผังหลักการพลเมือง[/TIP]มักมอบโบนัสเฉพาะตัวหรือการปลดล็อกอื่น ๆ ที่เกี่ยวข้องกับเทคโนโลยีหรือหลักการพลเมืองหลัก"}
@@ -8761,7 +8793,7 @@
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_PARA_2", "en_sha": "4882ae5e461e", "status": "draft", "th": "การรบใน Civilization VII ยังคงหลักการสำคัญหลายประการจากภาคก่อน ๆ ไว้ ยูนิตทหารแต่ละยูนิตมีค่าสถานะชุดหนึ่งที่กำหนดความสามารถในการรบ ซึ่งเสริมได้ด้วยการเลื่อนขั้นของผู้บัญชาการ ความได้เปรียบทางภูมิประเทศ และโบนัสพิเศษอื่น ๆ ค่าสถานะหลักได้แก่[BLIST][LI]พลังชีวิต (HP): ยูนิตแต่ละยูนิตมีพลังชีวิต 100 หน่วย เมื่อยูนิตได้รับความเสียหาย HP จะลดลง การโจมตีที่รุนแรงกว่าจะทำให้เสีย HP มากกว่า ยูนิตจะถูกทำลายเมื่อ HP ลดลงเหลือ 0[LI]พลังการรบ (CS): ค่านี้บ่งบอกประสิทธิภาพการรบโดยรวมของยูนิต สำหรับยูนิตประชิด ค่านี้แทนทั้งพลังโจมตีและพลังป้องกัน สำหรับยูนิตระยะไกล ค่านี้แทนเพียงพลังป้องกันเท่านั้น[LI]พลังระยะไกล (RS): เป็นค่าเฉพาะของยูนิตระยะไกล ใช้วัดพลังโจมตีจากระยะไกลของยูนิต อย่างไรก็ตาม การโจมตีระยะไกลจะได้ผลน้อยลงเมื่อโจมตีแนวป้องกันของนครและยูนิตทางเรือ[LI]ระยะ: ค่านี้กำหนดระยะที่ยูนิตโจมตีได้ และเกี่ยวข้องกับยูนิตระยะไกล/ยูนิตปิดล้อม ยูนิตลาดตระเวนบางประเภท และอมตะ ตัวอย่างเช่น ระยะ 1 จำกัดการโจมตีไว้เฉพาะช่องที่อยู่ติดกัน ส่วนระยะ 3 โจมตีได้ไกลถึงสามช่อง[LI]แต้มการเคลื่อนที่ (MP): ใช้เมื่อยูนิตเคลื่อนที่หรือกระทำการต่าง ๆ โดยทั่วไปต้องใช้ 1 MP ต่อช่องเพื่อเคลื่อนที่บนที่ราบและผืนน้ำ แต่ค่านี้อาจเปลี่ยนไปเมื่อมีถนน เนินเขา การข้ามแม่น้ำ และเขตควบคุมของศัตรู ยูนิตต้องมี MP เพียงพอจึงจะเคลื่อนที่และโจมตีได้ ค่า MP ที่สูงจึงช่วยให้ครอบคลุมพื้นที่ได้กว้างด้วยยูนิตที่น้อยลง[LI]ระยะมองเห็น: ค่านี้บ่งบอกจำนวนช่องรอบตำแหน่งที่ยูนิตเปิดเผยได้ โดยขจัด \"หมอกสงคราม\" ยูนิตส่วนใหญ่มีระยะมองเห็น 2 แม้จะไม่ใช่ค่าสถานะการรบโดยตรง แต่ระยะมองเห็นก็สำคัญอย่างยิ่งต่อการให้ยูนิตระยะไกลระบุเป้าหมาย[LI]พลังการระดมยิง: การโจมตีแบบระดมยิงได้ผลดีกว่าการโจมตีระยะไกลเมื่อโจมตีช่องที่มีป้อมปราการ ยูนิตปิดล้อมจึงเป็นตัวเลือกที่เหมาะที่สุดในการทุ่มอำนาจการยิงเหนือกว่าใส่แนวป้องกันเช่นนี้ ทั้งยูนิตระยะไกลและยูนิตปิดล้อมทางบกจะใช้พลังการระดมยิงเมื่อโจมตียูนิตทางเรือ ส่งผลให้ยูนิตระยะไกลสร้างความเสียหายแก่เป้าหมายทางเรือได้น้อยลง ขณะที่ยูนิตปิดล้อมสร้างความเสียหายได้มากขึ้น[/LIST]"}
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_PARA_3", "en_sha": "dd1512b2d947", "status": "draft", "th": "เคล็ดลับ: การวางยูนิตประชิดไว้หน้ายูนิตระยะไกลเป็นรูปขบวนคลาสสิกที่ได้ผลดี จงใช้กลยุทธ์นี้บ่อย ๆ! หากคุณประสบความยากลำบากในการทำสงคราม ลองมองหาวิธีต่าง ๆ ในการเพิ่มพลังการรบให้ยูนิตของคุณ"}
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_TITLE", "en_sha": "af169bb89cfb", "status": "draft", "th": "การรบ"}
-{"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1", "en_sha": "559ae55fd84c", "status": "draft", "th": "ยูนิตระยะไกลไม่ได้รับความเสียหายตอบกลับเมื่อโจมตี จึงเหมาะอย่างยิ่งที่จะจับคู่กับยูนิตประชิดแนวหน้า อย่างไรก็ตาม ยูนิตระยะไกลเปราะบางต่อยูนิตประชิด โดยเฉพาะทหารม้า ซึ่งได้รับพลังการรบเพิ่มเมื่อโจมตียูนิตระยะไกล ยูนิตระยะไกลมีค่าพลังประชิดที่ใช้คำนวณความเสียหายที่ได้รับเมื่อป้องกันการโจมตีประชิด แต่โดยทั่วไปค่าพลังประชิดของยูนิตระยะไกลมักต่ำ นอกจากนี้ยูนิตระยะไกลยังใช้พลังการระดมยิงเมื่อโจมตียูนิตทางเรือ ซึ่งต่ำกว่าของยูนิตปิดล้อม"}
+{"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1", "en_sha": "370087bbe875", "status": "draft", "th": "ยูนิตระยะไกลไม่ได้รับความเสียหายตอบกลับเมื่อโจมตี จึงเหมาะอย่างยิ่งที่จะจับคู่กับยูนิตประชิดแนวหน้า อย่างไรก็ตาม ยูนิตระยะไกลเปราะบางต่อยูนิตประชิด โดยเฉพาะทหารม้า ซึ่งได้รับพลังการรบเพิ่มเมื่อโจมตียูนิตระยะไกล ยูนิตระยะไกลมีค่าพลังประชิดที่ใช้คำนวณความเสียหายที่ได้รับเมื่อป้องกันการโจมตีประชิด แต่โดยทั่วไปค่าพลังประชิดของยูนิตระยะไกลมักต่ำ นอกจากนี้ยูนิตระยะไกลยังใช้พลังการระดมยิงเมื่อโจมตียูนิตทางเรือ ซึ่งต่ำกว่าของยูนิตปิดล้อม"}
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_2", "en_sha": "b392ccba45f9", "status": "draft", "th": "การโจมตีระยะไกลจะได้รับโบนัสการรบที่ได้มาระหว่างการเล่นจากช่องที่ยูนิตของคุณประจำอยู่ในขณะนั้น ซึ่งต่างจากการโจมตีประชิดที่โบนัสจะคิดจากช่องของฝ่ายป้องกันซึ่งเป็นที่ที่การโจมตีเกิดขึ้น"}
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_3", "en_sha": "d23e06811b51", "status": "draft", "th": "เคล็ดลับ: ยูนิตที่ได้รับความเสียหายจะสูญเสียพลังการรบไปบางส่วน ความสามารถในการโจมตีโดยไม่ได้รับความเสียหายตอบกลับเป็นข้อได้เปรียบที่ยิ่งใหญ่ที่สุดประการหนึ่งของการรบระยะไกล"}
 {"tag": "LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_TITLE", "en_sha": "d59b02951540", "status": "draft", "th": "การรบระยะไกล"}
@@ -9172,6 +9204,7 @@
 {"tag": "LOC_PEDIA_CONCEPTS_POPULATION_TOOLTIP", "en_sha": "7cc25e4347d6", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]แต่ละแห่งมีจำนวนประชากรที่ประกอบด้วย 3 ประเภท ได้แก่ ประชากรเขตเมือง ประชากรเขตชนบท และผู้เชี่ยวชาญ[NN]ประชากรเขตเมืองมาจากจำนวน[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]ที่ถิ่นฐานมี[NN]ประชากรเขตชนบทและผู้เชี่ยวชาญขึ้นอยู่กับปริมาณ [icon:YIELD_FOOD][b]อาหาร[/b]ที่ถิ่นฐานผลิตได้ เมื่อสะสมอาหารได้เพียงพอ ถิ่นฐานจะเติบโต คุณสามารถกำหนดประชากรนั้นไปยังช่องที่ยังไม่ได้ปรับปรุงเพื่อวาง[TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]ซึ่งเพิ่มประชากรเขตชนบท หรือไปยัง[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]เพื่อวาง [icon:SPECIALIST][TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]ผู้เชี่ยวชาญ[/TIP]เมื่อปลดล็อกแล้ว"}
 {"tag": "LOC_PEDIA_CONCEPTS_PROJECTS_TOOLTIP", "en_sha": "784ea6d10423", "status": "draft", "th": "โครงการคือตัวเลือก [icon:YIELD_PRODUCTION][b]การผลิต[/b]พิเศษใน[TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]ซึ่งจะมีผลเมื่อทำสำเร็จ"}
 {"tag": "LOC_PEDIA_CONCEPTS_PROMOTION_TOOLTIP", "en_sha": "73d84d3e71e3", "status": "draft", "th": "การเลื่อนขั้นคือโบนัสที่[TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]ได้รับจาก[TIP:LOC_PEDIA_CONCEPTS_COMMANDER_EXPERIENCE_TOOLTIP]ค่าประสบการณ์[/TIP][NN]การไปถึงการเลื่อนขั้นสุดท้ายของสายการเลื่อนขั้นจะปลดล็อก[TIP:LOC_PEDIA_CONCEPTS_COMMENDATION_TOOLTIP]เหรียญเชิดชู[/TIP]"}
+{"tag": "LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP", "en_sha": "292867d07d55", "status": "draft", "th": "ย่านคือ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]ใดก็ตามที่เต็มไปด้วย[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP]ที่ไม่[TIP:LOC_PEDIA_CONCEPTS_OVERBUILDABLE_TOOLTIP]สร้างทับได้[/TIP] (สิ่งก่อสร้างที่[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]หรือมาจากยุคปัจจุบัน) ซึ่งอาจเป็นเขตที่มีสิ่งก่อสร้างเต็มช่องเพียงแห่งเดียวก็ได้ กำแพงไม่นับรวมทั้งในทางเพิ่มหรือขัดขวางการเกิดย่าน[NN][TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]ย่านเฉพาะตัว[/TIP]คือย่านประเภทพิเศษที่เกิดขึ้นเมื่อสิ่งก่อสร้างทั้งสองแห่งบนช่องเป็น[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]ของอารยธรรมเดียวกัน"}
 {"tag": "LOC_PEDIA_CONCEPTS_RANGED_ATTACK_TOOLTIP", "en_sha": "ccb8149a796d", "status": "draft", "th": "การโจมตีระยะไกลโจมตีเป้าหมายที่อยู่ห่างออกไปตั้งแต่ 1 ช่องขึ้นไป และไม่ได้รับ[TIP:LOC_PEDIA_CONCEPTS_RECIPROCAL_DAMAGE_TOOLTIP]ความเสียหายสะท้อนกลับ[/TIP]แต่ต้องมี[TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]ระยะมองเห็น[/TIP] [NN]การโจมตีระยะไกลจะใช้พลังโจมตีระยะไกลของยูนิตเมื่อโจมตียูนิตที่ไม่ได้ตั้งมั่น และใช้พลังการระดมยิงของยูนิตเมื่อโจมตียูนิตที่ตั้งมั่นและ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_RANGED_UNITS_TOOLTIP", "en_sha": "113af7b2c69c", "status": "draft", "th": "ยูนิตระยะไกลมีพลังโจมตีระยะไกลสูงขึ้น และเก่งในการโจมตี[TIP:LOC_PEDIA_CONCEPTS_LAND_UNITS_TOOLTIP]ยูนิตทางบก[/TIP]แต่อ่อนแอในการป้องกัน และในการโจมตี[TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]เขตป้อมปราการ[/TIP]และยูนิตที่ตั้งมั่น"}
 {"tag": "LOC_PEDIA_CONCEPTS_RECIPROCAL_DAMAGE_TOOLTIP", "en_sha": "ac4fa99ac621", "status": "draft", "th": "เมื่อยูนิตใช้การโจมตีระยะประชิดต่อยูนิตอื่นหรือ[TIP:LOC_PEDIA_CONCEPTS_FORTIFIED_DISTRICTS_TOOLTIP]เขตป้อมปราการ[/TIP]ยูนิตนั้นจะได้รับความเสียหายสะท้อนกลับกลับมาบางส่วน[NN][TIP:LOC_PEDIA_CONCEPTS_RANGED_ATTACK_TOOLTIP]การโจมตีระยะไกล[/TIP]ไม่ได้รับความเสียหายสะท้อนกลับ"}
@@ -9223,7 +9256,7 @@
 {"tag": "LOC_PEDIA_CONCEPTS_TRIUMPH_TOOLTIP", "en_sha": "fa595b5b3764", "status": "draft", "th": "ไทรอัมพ์คือภารกิจท้าทายที่ไม่บังคับซึ่งคุณสามารถทำให้สำเร็จได้ใน[TIP:LOC_PEDIA_CONCEPTS_AGE_TOOLTIP]ยุค[/TIP]หนึ่ง ไทรอัมพ์แต่ละรายการมีธีมตาม[TIP:LOC_PEDIA_CONCEPTS_ATTRIBUTE_TOOLTIP]คุณลักษณะ[/TIP]หนึ่งในหกประการของเกม ได้แก่ ทางวัฒนธรรม ทางวิทยาศาสตร์ ทางการทหาร ทางการทูต ทางการขยายดินแดน และทางเศรษฐกิจ ไทรอัมพ์ที่สำเร็จแล้วจะมอบ[TIP:LOC_PEDIA_CONCEPTS_DEDICATION_TOOLTIP]การอุทิศ[/TIP]หรือโบนัสในทันที"}
 {"tag": "LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP", "en_sha": "d90eca9d9982", "status": "draft", "th": "สิ่งก่อสร้างเฉพาะตัวคือสิ่งก่อสร้างแบบ[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]ประเภทหนึ่งที่มีเฉพาะในอารยธรรมของคุณ[NN]สิ่งก่อสร้างเหล่านี้สร้างได้เฉพาะใน[TIP:LOC_PEDIA_CONCEPTS_CITIES_TOOLTIP]นคร[/TIP]เท่านั้น และเมื่อสร้างสิ่งก่อสร้างเฉพาะตัวทั้งสองแห่งของอารยธรรมไว้ใน[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]เดียวกัน ก็จะกลายเป็น[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]ย่านเฉพาะตัว[/TIP]"}
 {"tag": "LOC_PEDIA_CONCEPTS_UNIQUE_IMPROVEMENT_TOOLTIP", "en_sha": "8b25c7efd7f4", "status": "draft", "th": "สิ่งปรับปรุงเฉพาะตัวคือสิ่งปรับปรุงแบบ[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]ประเภทหนึ่งที่ต้องสร้างทับสิ่งปรับปรุงที่มีอยู่แล้ว[NN]สิ่งปรับปรุงเฉพาะตัวยังคงได้รับโบนัส[TIP:LOC_PEDIA_CONCEPTS_WAREHOUSE_TOOLTIP]คลังสินค้า[/TIP]ของสิ่งปรับปรุงที่ถูกแทนที่"}
-{"tag": "LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP", "en_sha": "ffbc6fddbedc", "status": "draft", "th": "ย่านเฉพาะตัวคือ[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]ย่าน[/TIP]ประเภทพิเศษที่มอบโบนัสแบบ[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]เพิ่มเติม"}
+{"tag": "LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP", "en_sha": "589bc7fc3d34", "status": "draft", "th": "ย่านเฉพาะตัวคือ[TIP:LOC_PEDIA_CONCEPTS_QUARTER_TOOLTIP]ย่าน[/TIP]ประเภทพิเศษที่มอบโบนัสแบบ[TIP:LOC_PEDIA_CONCEPTS_AGELESS_TOOLTIP]ไร้กาลเวลา[/TIP]เพิ่มเติม"}
 {"tag": "LOC_PEDIA_CONCEPTS_UNIQUE_UNITS_TOOLTIP", "en_sha": "75b1d79a498a", "status": "draft", "th": "ยูนิตเฉพาะตัวคือยูนิตพิเศษที่มักผูกอยู่กับอารยธรรมใดอารยธรรมหนึ่ง ยูนิตเหล่านี้มักมีโบนัสและผลเฉพาะตัว และโดยทั่วไปแข็งแกร่งกว่ายูนิตทั่วไปที่เทียบเท่ากัน"}
 {"tag": "LOC_PEDIA_CONCEPTS_UNREST_TOOLTIP", "en_sha": "3871480ffd74", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ที่เกิดความไม่สงบจะไม่สามารถซื้อยูนิต[TIP:LOC_PEDIA_CONCEPTS_BUILDINGS_TOOLTIP]สิ่งก่อสร้าง[/TIP] [TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]หรือการซ่อมแซมได้ [NN]ถิ่นฐานเหล่านั้นจะได้รับบทลงโทษ [icon:YIELD_HAPPINESS][b]ความสุข[/b] จนกว่าความไม่สงบจะสิ้นสุดลง"}
 {"tag": "LOC_PEDIA_CONCEPTS_VEGETATED_TERRAIN_TOOLTIP", "en_sha": "8a20a285c982", "status": "draft", "th": "ภูมิประเทศพืชพรรณจะทำให้การเคลื่อนที่ของยูนิตสิ้นสุดลงและบดบัง[TIP:LOC_PEDIA_CONCEPTS_SIGHT_TOOLTIP]ระยะมองเห็น[/TIP]ยูนิตจะได้รับโบนัส[TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อป้องกันอยู่บนภูมิประเทศพืชพรรณ"}
@@ -9911,6 +9944,7 @@
 {"tag": "LOC_PLOTKEY_REGULAR", "en_sha": "8d4e4ef3ea52", "status": "draft", "th": "ปกติ"}
 {"tag": "LOC_PLOTKEY_UNAVAILABLE", "en_sha": "2c9c1f79142d", "status": "draft", "th": "ไม่พร้อมใช้งาน"}
 {"tag": "LOC_PLOT_DIVIDER_DOT", "en_sha": "ecf727ea048d", "status": "draft", "th": "-"}
+{"tag": "LOC_PLOT_OWNER", "en_sha": "89ff31225c5f", "status": "draft", "th": "เจ้าของ"}
 {"tag": "LOC_PLOT_TOOLTIP_ALERT_NO_TILE_EFFECTS_OR_YIELDS", "en_sha": "003823ca5767", "status": "draft", "th": "ไม่ได้ให้ผลของช่องหรือผลผลิต"}
 {"tag": "LOC_PLOT_TOOLTIP_ALERT_OCCUPIED", "en_sha": "30c51a99d5e7", "status": "draft", "th": "ถูกยึดครอง"}
 {"tag": "LOC_PLOT_TOOLTIP_ALERT_OCCUPIED_DETAILS", "en_sha": "91f2d07f1ff1", "status": "draft", "th": "มียูนิตทหารของศัตรูอยู่บนช่อง"}
@@ -9925,6 +9959,9 @@
 {"tag": "LOC_PLOT_TOOLTIP_DAMAGED", "en_sha": "052fc7980994", "status": "draft", "th": "เสียหาย"}
 {"tag": "LOC_PLOT_TOOLTIP_DAMAGED_WALLS", "en_sha": "968f1206baa7", "status": "draft", "th": "กำแพงเสียหาย"}
 {"tag": "LOC_PLOT_TOOLTIP_DEBUG_TITLE", "en_sha": "de13ae9e58e3", "status": "draft", "th": "ข้อมูลดีบัก"}
+{"tag": "LOC_PLOT_TOOLTIP_DISTRICT_FORTIFIED", "en_sha": "a306bdbfed7b", "status": "draft", "th": "มีป้อมปราการ"}
+{"tag": "LOC_PLOT_TOOLTIP_DISTRICT_HEALTH", "en_sha": "d1a7eb014151", "status": "draft", "th": "{1_HEALTH} HP"}
+{"tag": "LOC_PLOT_TOOLTIP_DISTRICT_HEALTH_TITLE", "en_sha": "76025337a0a8", "status": "draft", "th": "พลังชีวิตของเขต"}
 {"tag": "LOC_PLOT_TOOLTIP_ENDS_MOVEMENT", "en_sha": "43dd9509d90a", "status": "draft", "th": "สิ้นสุดการเคลื่อนที่"}
 {"tag": "LOC_PLOT_TOOLTIP_EXCAVATE_RUINS_DESCRIPTION", "en_sha": "6553f94fd74f", "status": "draft", "th": "นักสำรวจสามารถขุดค้นซากปรักหักพังนี้เพื่อรับโบราณวัตถุได้"}
 {"tag": "LOC_PLOT_TOOLTIP_EXCAVATE_TITLE", "en_sha": "9c8a03017ea2", "status": "draft", "th": "ขุดค้นโบราณวัตถุ"}
@@ -9969,6 +10006,7 @@
 {"tag": "LOC_PLOT_TOOLTIP_URBAN_QUARTER", "en_sha": "0d3830748786", "status": "draft", "th": "ย่าน"}
 {"tag": "LOC_PLOT_TOOLTIP_YOU", "en_sha": "905cb326c779", "status": "draft", "th": "คุณ"}
 {"tag": "LOC_PLOT_TOTAL_YIELDS", "en_sha": "f31c8ff26117", "status": "draft", "th": "[style:text-accent-3]ผลผลิตรวม:[/style] {1_Yields}"}
+{"tag": "LOC_PLOT_UNOWNED", "en_sha": "d6e25716ec92", "status": "draft", "th": "ไม่มีเจ้าของ"}
 {"tag": "LOC_PLUNDER_CULTURE_NAME", "en_sha": "1db19285e437", "status": "draft", "th": "วัฒนธรรม"}
 {"tag": "LOC_PLUNDER_DIPLOMACY_NAME", "en_sha": "03ecfa6479fa", "status": "draft", "th": "อิทธิพล"}
 {"tag": "LOC_PLUNDER_FOOD_TOWN_NAME", "en_sha": "35b259290ec3", "status": "draft", "th": "อาหาร"}
@@ -10425,9 +10463,9 @@
 {"tag": "LOC_REWARD_AMOUNT_PER_XP", "en_sha": "b4fa002a3fce", "status": "draft", "th": "{1_value: number +#;-#} {2_type} ต่อแต้มค่าประสบการณ์ที่ได้รับ"}
 {"tag": "LOC_REWARD_AMOUNT_POLICY_SLOTS", "en_sha": "3b858b9f7d5a", "status": "draft", "th": "+{1_value} [icon:NAR_REW_TRADITION_SLOT] ช่องนโยบาย"}
 {"tag": "LOC_REWARD_AMOUNT_PURCHASE_CHARGE", "en_sha": "2c23a7f350fb", "status": "draft", "th": "+{1_Value} สิทธิ์ซื้อ {2_type} ฟรี"}
-{"tag": "LOC_REWARD_AMOUNT_RELIGION_ALL_SETTLEMENTS", "en_sha": "cc24ad224cd2", "status": "draft", "th": "+{1_value} {2_type} ต่อถิ่นฐานแต่ละแห่งที่นับถือศาสนาของคุณ"}
+{"tag": "LOC_REWARD_AMOUNT_RELIGION_ALL_SETTLEMENTS", "en_sha": "b59b978465bf", "status": "draft", "th": "+{1_value} {2_type} ต่อถิ่นฐานแต่ละแห่งที่นับถือศาสนาของคุณ"}
 {"tag": "LOC_REWARD_AMOUNT_RELIGION_BIOME", "en_sha": "c2a1832b26ee", "status": "draft", "th": "+{1_value} {2_type} ต่อช่อง {3_biome} แต่ละช่องในถิ่นฐานของอารยธรรมอื่นที่นับถือศาสนาของคุณ"}
-{"tag": "LOC_REWARD_AMOUNT_RELIGION_DOMESTIC_SETTLEMENTS", "en_sha": "416f0d72c1d4", "status": "draft", "th": "+{1_value} {2_type} ต่อถิ่นฐานแต่ละแห่งที่คุณเป็นเจ้าของและนับถือศาสนาของคุณ"}
+{"tag": "LOC_REWARD_AMOUNT_RELIGION_DOMESTIC_SETTLEMENTS", "en_sha": "b240d7e1b8d3", "status": "draft", "th": "+{1_value} {2_type} ต่อถิ่นฐานแต่ละแห่งที่คุณเป็นเจ้าของและนับถือศาสนาของคุณ"}
 {"tag": "LOC_REWARD_AMOUNT_RELIGION_FOREIGN_SETTLEMENTS", "en_sha": "e8cfc72f11af", "status": "draft", "th": "+{1_value} {2_type} ต่อถิ่นฐานของอารยธรรมอื่นที่นับถือศาสนาของคุณ"}
 {"tag": "LOC_REWARD_AMOUNT_RELIGION_NATURAL_WONDER", "en_sha": "e99bbf69ba52", "status": "draft", "th": "+{1_value} {2_type} ต่อช่องที่มีสิ่งมหัศจรรย์ทางธรรมชาติแต่ละช่องในถิ่นฐานของอารยธรรมอื่นที่นับถือศาสนาของคุณ"}
 {"tag": "LOC_REWARD_AMOUNT_RELIGION_TERRAIN", "en_sha": "6d37c53e3294", "status": "draft", "th": "+{1_value} {2_type} ต่อช่อง {3_terrain} แต่ละช่องในถิ่นฐานของอารยธรรมอื่นที่นับถือศาสนาของคุณ"}
@@ -10920,8 +10958,10 @@
 {"tag": "LOC_STRATEGYCARD_XERXES_KING_MODERN_2_DESCRIPTION", "en_sha": "42841c078092", "status": "draft", "th": "ในฐานะเซอร์ซีส ราชันแห่งราชา ปลดล็อกการอุทิศใหม่ของยุคสมัยใหม่:[n]\n\t\t\t\tพลังการรบ +3 สำหรับยูนิตทางอากาศของคุณ, อิทธิพล -10%"}
 {"tag": "LOC_STRATEGYCARD_XERXES_KING_MODERN_2_NAME", "en_sha": "35c870bd16f0", "status": "draft", "th": "การอุทิศทางการทหาร ยุคสมัยใหม่"}
 {"tag": "LOC_SUB_SYSTEM_CULTURE_CURRENT_RESEARCH", "en_sha": "c9abe560f191", "status": "draft", "th": "กำลังศึกษา {1_civicName} [N]อีก {2_Turns} เทิร์นจึงจะศึกษาเสร็จ"}
+{"tag": "LOC_SUB_SYSTEM_CULTURE_CURRENT_RESEARCH_DEPTH", "en_sha": "48ac937a786e", "status": "draft", "th": "กำลังศึกษา {1_civicName} {3_Depth: Roman} [N]อีก {2_Turns} เทิร์นจึงจะศึกษาเสร็จ"}
 {"tag": "LOC_SUB_SYSTEM_CULTURE_NO_RESEARCH", "en_sha": "0f0614c1e750", "status": "draft", "th": "ขณะนี้คุณไม่ได้ศึกษาหลักการพลเมืองใดๆ"}
 {"tag": "LOC_SUB_SYSTEM_TECH_CURRENT_RESEARCH", "en_sha": "bf4268c24943", "status": "draft", "th": "กำลังวิจัย {1_techName} [N]อีก {2_Turns} เทิร์นจึงจะวิจัยเสร็จ"}
+{"tag": "LOC_SUB_SYSTEM_TECH_CURRENT_RESEARCH_DEPTH", "en_sha": "5924020862a0", "status": "draft", "th": "กำลังวิจัย {1_techName} {3_Depth: Roman} [N]อีก {2_Turns} เทิร์นจึงจะวิจัยเสร็จ"}
 {"tag": "LOC_SUB_SYSTEM_TECH_NO_RESEARCH", "en_sha": "49afab0c5e70", "status": "draft", "th": "ขณะนี้คุณไม่ได้วิจัยเทคโนโลยีใดๆ"}
 {"tag": "LOC_SUB_SYSTEM_TRADITIONS_DURING_CELEBRATION", "en_sha": "0684e3452284", "status": "draft", "th": "ดูรัฐบาลของคุณ[N] [N][STYLE:font-title-base][STYLE:text-secondary][STYLE:uppercase]{1_name}[/S][/S][/S][N]เหลือ [B]{2_turns} เทิร์น[/b] ใน[b]การเฉลิมฉลอง[/b][N] [N][STYLE:font-title-base][STYLE:text-secondary][STYLE:uppercase]โบนัส[/S][/S][/S][N]{3_description}"}
 {"tag": "LOC_SUB_SYSTEM_TRADITIONS_TURNS_UNTIL_CELEBRATION_END", "en_sha": "5360da508caf", "status": "draft", "th": "ดูรัฐบาลของคุณ[n]อีก {1_turns} เทิร์นการเฉลิมฉลองจะสิ้นสุดลง"}
@@ -10982,6 +11022,21 @@
 {"tag": "LOC_TAG_TRAIT_WILDCARD_NAME", "en_sha": "91987ff6f549", "status": "draft", "th": "ไวลด์การ์ด"}
 {"tag": "LOC_TAG_UNIQUE", "en_sha": "87c6f410754d", "status": "draft", "th": "เฉพาะตัว"}
 {"tag": "LOC_TAG_UNIQUE_IMPROVEMENT", "en_sha": "87c6f410754d", "status": "draft", "th": "เฉพาะตัว"}
+{"tag": "LOC_TAG_UNIT_CLASS_AIRCRAFT", "en_sha": "ddd068101243", "status": "draft", "th": "ทางอากาศ"}
+{"tag": "LOC_TAG_UNIT_CLASS_CAVALRY", "en_sha": "91906ea1db38", "status": "draft", "th": "ทหารม้า"}
+{"tag": "LOC_TAG_UNIT_CLASS_COMMAND", "en_sha": "79056c7ae5c3", "status": "draft", "th": "ผู้บัญชาการ"}
+{"tag": "LOC_TAG_UNIT_CLASS_GREATPERSON", "en_sha": "1000c777c715", "status": "draft", "th": "บุคคลผู้ยิ่งใหญ่"}
+{"tag": "LOC_TAG_UNIT_CLASS_HEAVY", "en_sha": "9aa90abf254b", "status": "draft", "th": "ทางเรือหนัก"}
+{"tag": "LOC_TAG_UNIT_CLASS_INFANTRY", "en_sha": "d2b4ee24d885", "status": "draft", "th": "ทหารราบ"}
+{"tag": "LOC_TAG_UNIT_CLASS_LAND", "en_sha": "d9df90d8002f", "status": "draft", "th": "ทางบก"}
+{"tag": "LOC_TAG_UNIT_CLASS_LIGHT", "en_sha": "2404220c98a3", "status": "draft", "th": "ทางเรือเบา"}
+{"tag": "LOC_TAG_UNIT_CLASS_MAKE_TRADE_ROUTE", "en_sha": "b0811e470d6b", "status": "draft", "th": "การค้า"}
+{"tag": "LOC_TAG_UNIT_CLASS_NAVAL", "en_sha": "0b89c72f87a7", "status": "draft", "th": "ทางเรือ"}
+{"tag": "LOC_TAG_UNIT_CLASS_RANGED", "en_sha": "a6a535b865db", "status": "draft", "th": "ระยะไกล"}
+{"tag": "LOC_TAG_UNIT_CLASS_RECON", "en_sha": "3ea8912995b5", "status": "draft", "th": "ลาดตระเวน"}
+{"tag": "LOC_TAG_UNIT_CLASS_RELIGIOUS", "en_sha": "4654dc5c135a", "status": "draft", "th": "ศาสนา"}
+{"tag": "LOC_TAG_UNIT_CLASS_SIEGE", "en_sha": "c76a88b60ccf", "status": "draft", "th": "ปิดล้อม"}
+{"tag": "LOC_TAG_UNIT_CLASS_UNIQUE", "en_sha": "87c6f410754d", "status": "draft", "th": "เฉพาะตัว"}
 {"tag": "LOC_TAG_WAREHOUSE", "en_sha": "298dff72dae2", "status": "draft", "th": "คลังสินค้า"}
 {"tag": "LOC_TAG_WATER", "en_sha": "de9b1be49dae", "status": "draft", "th": "น้ำ"}
 {"tag": "LOC_TEAMS_TOO_MANY_PLAYERS", "en_sha": "27f9af61f604", "status": "draft", "th": "มีผู้เล่นในทีมเดียวมากเกินไป"}
@@ -11002,13 +11057,17 @@
 {"tag": "LOC_TERM_AGE", "en_sha": "ff9f1ff32120", "status": "draft", "th": "ยุค"}
 {"tag": "LOC_TERM_BASE_COST", "en_sha": "fa13ccd611af", "status": "draft", "th": "ราคาพื้นฐาน"}
 {"tag": "LOC_TERM_NONE", "en_sha": "6eef6648406c", "status": "draft", "th": "ไม่มี"}
+{"tag": "LOC_TERRAIN_COASTAL", "en_sha": "f5c8dfd201ed", "status": "draft", "th": "แนวชายฝั่ง"}
 {"tag": "LOC_TERRAIN_COAST_NAME", "en_sha": "d5fe5e08813d", "status": "draft", "th": "ทะเลชายฝั่ง"}
 {"tag": "LOC_TERRAIN_FLAT_NAME", "en_sha": "79c9e13ab7d5", "status": "draft", "th": "พื้นราบ"}
 {"tag": "LOC_TERRAIN_HILL_NAME", "en_sha": "932b56219866", "status": "draft", "th": "พื้นขรุขระ"}
+{"tag": "LOC_TERRAIN_IMPASSABLE", "en_sha": "8305273a0964", "status": "draft", "th": "ผ่านไม่ได้"}
+{"tag": "LOC_TERRAIN_ISLAND", "en_sha": "132a732d69f0", "status": "draft", "th": "เกาะ"}
 {"tag": "LOC_TERRAIN_LAKE_NAME", "en_sha": "cce6c47f8fb3", "status": "draft", "th": "ทะเลสาบ"}
 {"tag": "LOC_TERRAIN_MOUNTAIN_NAME", "en_sha": "40f841122e69", "status": "draft", "th": "ภูเขา"}
 {"tag": "LOC_TERRAIN_NAVIGABLE_RIVER_NAME", "en_sha": "aa0f8ef30644", "status": "draft", "th": "แม่น้ำที่เดินเรือได้"}
 {"tag": "LOC_TERRAIN_OCEAN_NAME", "en_sha": "724ff7d23fb5", "status": "draft", "th": "มหาสมุทร"}
+{"tag": "LOC_TERRAIN_WATER", "en_sha": "de9b1be49dae", "status": "draft", "th": "น้ำ"}
 {"tag": "LOC_TIMEOUT_AMOUNT", "en_sha": "642e2183187a", "status": "draft", "th": "ยูนิตออกจากแผนที่เป็นเวลา {1_value} เทิร์นเต็ม"}
 {"tag": "LOC_TIME_AD", "en_sha": "cb47831448d6", "status": "draft", "th": "ค.ศ. {1_Date: number #}"}
 {"tag": "LOC_TIME_AD_SAVE", "en_sha": "2922d8dced8f", "status": "draft", "th": "{2} CE-{1_Date}"}
@@ -11058,6 +11117,7 @@
 {"tag": "LOC_TITLE_PACHACUTI_NAME", "en_sha": "e34f7af1cd04", "status": "draft", "th": "ผู้เขย่าโลก"}
 {"tag": "LOC_TITLE_TRUNG_TRAC_NAME", "en_sha": "95ca44814a57", "status": "draft", "th": "ราชินีกบฏ"}
 {"tag": "LOC_TITLE_XERXES_KING_OF_KINGS_NAME", "en_sha": "64d75bea52ce", "status": "draft", "th": "ราชันแห่งราชา"}
+{"tag": "LOC_TOURISM_FLOATER", "en_sha": "ddf8d1fc8b56", "status": "draft", "th": "+{1_Value} การท่องเที่ยว"}
 {"tag": "LOC_TOURISM_POINTS_NEEDED_TO_WIN", "en_sha": "67d930e928e1", "status": "draft", "th": "การท่องเที่ยวที่ต้องใช้เพื่อชนะ"}
 {"tag": "LOC_TOWN_SET_FOCUS_DIALOG_BODY", "en_sha": "15b3170d73f9", "status": "draft", "th": "[STYLE:text-negative]จุดเน้นของเมืองนี้เป็นแบบเฉพาะ[/STYLE][N][STYLE:text-accent-2]คุณจะเลือกได้เฉพาะจุดเน้นนี้หรือเมืองกำลังเติบโตจนกว่าจะถึงยุคถัดไป[/STYLE]"}
 {"tag": "LOC_TOWN_SET_FOCUS_DIALOG_TITLE", "en_sha": "410bf23a3f08", "status": "draft", "th": "แน่ใจหรือไม่?"}
@@ -11085,7 +11145,7 @@
 {"tag": "LOC_TRADE_LENS_TITLE", "en_sha": "f8ad1f642850", "status": "draft", "th": "เส้นทางการค้าที่เป็นไปได้"}
 {"tag": "LOC_TRADE_LENS_TITLE_ALT", "en_sha": "386f13ae6880", "status": "draft", "th": "เพิ่มเส้นทางการค้า"}
 {"tag": "LOC_TRADE_LENS_YIELD", "en_sha": "9765b30f3d47", "status": "draft", "th": "[style: {1_Style}]{2_Amount: number +#.###;-#.###}[icon:{3_Icon}][/style]"}
-{"tag": "LOC_TRADE_LENS_YIELD_EXPORT", "en_sha": "a5689fc3d966", "status": "draft", "th": "{1_Yields} ไปยัง {2_CityName}"}
+{"tag": "LOC_TRADE_LENS_YIELD_EXPORT", "en_sha": "4bed0def66cb", "status": "draft", "th": "{1_Yields} ต่อเทิร์นไปยัง {2_CityName}"}
 {"tag": "LOC_TRADE_ROUTE_LAND_NAME", "en_sha": "f5eb1e47ec37", "status": "draft", "th": "การค้าทางบกจาก {1_SourceCity}"}
 {"tag": "LOC_TRADE_ROUTE_SEA_NAME", "en_sha": "aaa8a94092a8", "status": "draft", "th": "การค้าทางทะเลจาก {1_SourceCity}"}
 {"tag": "LOC_TRADE_YIELD_STRING", "en_sha": "b3bd71909224", "status": "draft", "th": "{1_Amount} {2_YieldName}"}
@@ -11321,6 +11381,7 @@
 {"tag": "LOC_UI_CITYSTATE_BONUS_CHOOSER_TITLE", "en_sha": "9e0c36b60e8e", "status": "draft", "th": "เลือกโบนัสเจ้าอธิราช"}
 {"tag": "LOC_UI_CITY_BACK_TO_PRODUCTION", "en_sha": "e5874ef2748f", "status": "draft", "th": "กลับไปที่การผลิต"}
 {"tag": "LOC_UI_CITY_BANNER_EMPTY_PRODUCTION_QUEUE", "en_sha": "93d794941e91", "status": "draft", "th": "ไม่มีรายการเพิ่มเติมในคิว"}
+{"tag": "LOC_UI_CITY_BANNER_HOLY_CITY", "en_sha": "a4f6c6bcf6af", "status": "draft", "th": "นครศักดิ์สิทธิ์"}
 {"tag": "LOC_UI_CITY_BANNER_POPULATION_INFO", "en_sha": "79eaa6f3ac68", "status": "draft", "th": "ประชากรเขตเมือง: {1_Urban}[n]ประชากรเขตชนบท: {2_Rural}[n]ผู้เชี่ยวชาญ: {3_Specialists}"}
 {"tag": "LOC_UI_CITY_BANNER_PRODUCTION", "en_sha": "c917fcd25f95", "status": "draft", "th": "กำลังผลิต:"}
 {"tag": "LOC_UI_CITY_BANNER_PRODUCTION_BONUS_CONSTRUCTIBLE", "en_sha": "85ac751d8b19", "status": "draft", "th": "({1: number +#.#;-#.#} [icon:YIELD_PRODUCTION] พื้นฐาน x {2: number #.#;-#.#}% [TIP:LOC_PEDIA_CONCEPTS_EFFICIENCY_TOOLTIP]ประสิทธิภาพ[/TIP]สำหรับ {3})"}
@@ -11336,6 +11397,8 @@
 {"tag": "LOC_UI_CITY_CAPTURE_CONSIDER_RENAME", "en_sha": "372cae66e1e3", "status": "draft", "th": "ถิ่นฐานนี้มีชื่อที่กำหนดเอง ลองพิจารณาเปลี่ยนชื่อหลังจากตัดสินใจว่าจะทำอย่างไรกับถิ่นฐานนี้"}
 {"tag": "LOC_UI_CITY_CAPTURE_KEEP_SETTLEMENT", "en_sha": "5d76c72899d9", "status": "draft", "th": "เก็บถิ่นฐานไว้"}
 {"tag": "LOC_UI_CITY_CAPTURE_KEEP_SETTLEMENT_DESC", "en_sha": "6feff71d008d", "status": "draft", "th": "ความสุขและการผลิตจะลดลงชั่วคราวจนกว่าถิ่นฐานจะถูกผนวกรวม[n]{1_penalty}"}
+{"tag": "LOC_UI_CITY_CAPTURE_LIBERATE_CITY_STATE", "en_sha": "eac0b1e40a34", "status": "draft", "th": "ปลดปล่อยเป็นนครรัฐ"}
+{"tag": "LOC_UI_CITY_CAPTURE_LIBERATE_SETTLEMENT", "en_sha": "34858f8b78f9", "status": "draft", "th": "ปลดปล่อยคืนแก่เจ้าของเดิม {1_LeaderName}"}
 {"tag": "LOC_UI_CITY_CAPTURE_RAZED_DESC", "en_sha": "3e7858e9401c", "status": "draft", "th": "ถิ่นฐานนี้กำลังถูกเผาทำลาย และจะถูกลบออกทั้งหมดใน {1_Turns} เทิร์น"}
 {"tag": "LOC_UI_CITY_CAPTURE_RAZE_SETTLEMENT", "en_sha": "33264ea5c3a1", "status": "draft", "th": "เผาทำลายถิ่นฐาน"}
 {"tag": "LOC_UI_CITY_CAPTURE_RAZE_SETTLEMENT_DESC", "en_sha": "a7333784adb8", "status": "draft", "th": "ลบถิ่นฐานออกอย่างถาวรหลังจาก {1_Turns} เทิร์น การกระทำนี้ทำให้เกิดบทลงโทษทางการทูต -100"}
@@ -11492,6 +11555,7 @@
 {"tag": "LOC_UI_CITY_VIEW_BUILDING_PLACEMENT", "en_sha": "9e1a4650ec8b", "status": "draft", "th": "การวางสิ่งก่อสร้าง"}
 {"tag": "LOC_UI_CITY_VIEW_CONVERT_TO_URBAN_WARNING", "en_sha": "194c60083037", "status": "draft", "th": "เปลี่ยนเป็นช่องเขตเมือง?"}
 {"tag": "LOC_UI_CITY_VIEW_FROM_THIS_PLOT", "en_sha": "bbd56f719b4f", "status": "draft", "th": "จากช่องนี้"}
+{"tag": "LOC_UI_CITY_VIEW_INCOMPLETE_DISTRICT", "en_sha": "fbebf3454680", "status": "draft", "th": "คุณมีเขตที่ว่างเปล่าอยู่ คุณไม่สามารถวางเขตใหม่ได้จนกว่าจะสร้างสิ่งก่อสร้างในเขตนั้นเสร็จอย่างน้อย 1 แห่ง"}
 {"tag": "LOC_UI_CITY_VIEW_PLACE_HERE", "en_sha": "9936b12bb7df", "status": "draft", "th": "วางที่นี่?"}
 {"tag": "LOC_UI_CITY_VIEW_PLACE_OVER", "en_sha": "547b6c84b665", "status": "draft", "th": "วางทับ {1_Name}"}
 {"tag": "LOC_UI_CITY_VIEW_PLACE_OVER_DESC", "en_sha": "101107b71db9", "status": "draft", "th": "การกระทำนี้จะสร้างทับ {1_Name}"}
@@ -11572,6 +11636,7 @@
 {"tag": "LOC_UI_DISABLED_METAPROGRESSION", "en_sha": "5fe40c96f8f7", "status": "draft", "th": "ปิดใช้ตำนานแล้ว"}
 {"tag": "LOC_UI_DRAG_START", "en_sha": "3c44a6d53d52", "status": "draft", "th": "เริ่มลาก"}
 {"tag": "LOC_UI_DRAG_STOP", "en_sha": "cfd4b5434f5a", "status": "draft", "th": "หยุดลาก"}
+{"tag": "LOC_UI_EFFECT_TITLE", "en_sha": "73be54c86084", "status": "draft", "th": "ผล:"}
 {"tag": "LOC_UI_ENABLED_METAPROGRESSION", "en_sha": "444a2be9428c", "status": "draft", "th": "เปิดใช้ตำนานแล้ว"}
 {"tag": "LOC_UI_ESTABLISH_BELIEFS_ADD_NEW_BELIEF", "en_sha": "0a095863648e", "status": "draft", "th": "เพิ่มความเชื่อใหม่"}
 {"tag": "LOC_UI_ESTABLISH_BELIEFS_BELIEF_ALREADY_TAKEN", "en_sha": "230177b1e1ee", "status": "draft", "th": "ความเชื่อนี้ถูกศาสนาอื่นถือครองอยู่แล้ว"}
@@ -11686,7 +11751,7 @@
 {"tag": "LOC_UI_IMPROVEMENT_FOR_TILE", "en_sha": "a2d5c8a568ad", "status": "draft", "th": "การเลือกช่องนี้จะทำให้คุณได้ {LOC_GRAMMAR_A_AN << {1_ImprovementName}}"}
 {"tag": "LOC_UI_INSPECTOR", "en_sha": "8222c902ae07", "status": "draft", "th": "ตัวตรวจสอบ"}
 {"tag": "LOC_UI_IN_CELEBRATION", "en_sha": "5df8cf871b96", "status": "draft", "th": "อยู่ระหว่างการเฉลิมฉลอง"}
-{"tag": "LOC_UI_JUST_COMPLETED", "en_sha": "6ea49770ffa2", "status": "draft", "th": "เพิ่งเสร็จสิ้น"}
+{"tag": "LOC_UI_JUST_COMPLETED", "en_sha": "1798b3ba42ee", "status": "draft", "th": "เสร็จสิ้น"}
 {"tag": "LOC_UI_KICK_MP_UNLINK", "en_sha": "15203933c12a", "status": "draft", "th": "ต้องมีบัญชี 2K เพื่อเล่นแบบผู้เล่นหลายคน"}
 {"tag": "LOC_UI_KICK_SESSION_BODY", "en_sha": "b695de1ae375", "status": "draft", "th": "ตรวจพบว่ามีเกมอีกอินสแตนซ์กำลังทำงานอยู่ ต้องการยุติเซสชันอื่นเพื่อดำเนินการต่อหรือไม่? หากปฏิเสธ เซสชันปัจจุบันจะออกจากระบบ"}
 {"tag": "LOC_UI_KICK_SESSION_TITTLE", "en_sha": "9994053e3269", "status": "draft", "th": "ตรวจพบหลายเซสชัน"}
@@ -11746,6 +11811,8 @@
 {"tag": "LOC_UI_MINI_MAP_CONQUEST_TOOLTIP", "en_sha": "7bb45d9fc8b8", "status": "draft", "th": "แสดงเขตที่ต้องยึดเพื่อเข้าควบคุมถิ่นฐาน"}
 {"tag": "LOC_UI_MINI_MAP_CONTINENT", "en_sha": "2513cf08a13d", "status": "draft", "th": "ทวีป"}
 {"tag": "LOC_UI_MINI_MAP_DECORATION", "en_sha": "899db74e23be", "status": "draft", "th": "ของตกแต่ง"}
+{"tag": "LOC_UI_MINI_MAP_DISCOVERY", "en_sha": "be1c21d6fe0a", "status": "draft", "th": "การค้นพบ"}
+{"tag": "LOC_UI_MINI_MAP_DISCOVERY_TOOLTIP", "en_sha": "fef0bf2c24c3", "status": "draft", "th": "ไฮไลต์ตำแหน่งของการค้นพบ"}
 {"tag": "LOC_UI_MINI_MAP_EMPIRE", "en_sha": "1f87c3714e90", "status": "draft", "th": "จักรวรรดิ"}
 {"tag": "LOC_UI_MINI_MAP_GENERAL_APPEAL", "en_sha": "d8cb03e33092", "status": "draft", "th": "ความน่าดึงดูด"}
 {"tag": "LOC_UI_MINI_MAP_GOVERNMENT", "en_sha": "5c9cb498f540", "status": "draft", "th": "รัฐบาล"}
@@ -11832,6 +11899,7 @@
 {"tag": "LOC_UI_ORDINAL_7", "en_sha": "90d915e9e69d", "status": "draft", "th": "ที่ 7"}
 {"tag": "LOC_UI_ORDINAL_8", "en_sha": "0e5b479cef70", "status": "draft", "th": "ที่ 8"}
 {"tag": "LOC_UI_ORDINAL_9", "en_sha": "0d455374cf3a", "status": "draft", "th": "ที่ 9"}
+{"tag": "LOC_UI_ORIGIN_OFF_MAP", "en_sha": "2445bd3d859c", "status": "draft", "th": "นอกแผนที่"}
 {"tag": "LOC_UI_OTHER_OWNER", "en_sha": "a26d72e95de2", "status": "draft", "th": "ช่องที่อารยธรรมอื่นเป็นเจ้าของ"}
 {"tag": "LOC_UI_PANTHEON_ALREADY_TAKEN", "en_sha": "93beea31c565", "status": "draft", "th": "มีอารยธรรมอื่นบูชาลัทธิบูชาเทพนี้อยู่แล้ว"}
 {"tag": "LOC_UI_PANTHEON_ALREADY_TAKEN_BY_YOU", "en_sha": "6b0e4d1417de", "status": "draft", "th": "คุณบูชาลัทธิบูชาเทพนี้อยู่แล้ว"}
@@ -12135,6 +12203,7 @@
 {"tag": "LOC_UI_TOGGLE_CHAT_PANEL", "en_sha": "75e03580ab55", "status": "draft", "th": "เปิด/ปิดแชท"}
 {"tag": "LOC_UI_TOGGLE_LENS_PANEL", "en_sha": "ef57216f62a4", "status": "draft", "th": "เปิด/ปิดเลนส์"}
 {"tag": "LOC_UI_TOGGLE_TUT_INSPECTOR", "en_sha": "2166337134f6", "status": "draft", "th": "เปิด/ปิดตัวตรวจสอบบทแนะนำ"}
+{"tag": "LOC_UI_TOGGLE_UNIT_LIST_PANEL", "en_sha": "2b539c418de1", "status": "draft", "th": "รายชื่อยูนิต"}
 {"tag": "LOC_UI_TOOPTIP_TREASURE_HOMELANDS", "en_sha": "1a0a1022cc19", "status": "draft", "th": "ทรัพยากรนี้อยู่ในมาตุภูมิ"}
 {"tag": "LOC_UI_TOWN_DETAILS_HEADER", "en_sha": "4d4c49d5b266", "status": "draft", "th": "รายละเอียดเมือง"}
 {"tag": "LOC_UI_TOWN_DETAILS_SPECIALIST_PER_TILE", "en_sha": "519d3d3ff72c", "status": "draft", "th": "[icon:YIELD_TOWNS] [TIP:LOC_PEDIA_CONCEPTS_TOWN_TOOLTIP]เมือง[/TIP]นี้มี [icon:SPECIALIST] [TIP:LOC_PEDIA_CONCEPTS_SPECIALIST_TOOLTIP]ผู้เชี่ยวชาญ[/TIP]ได้ {1_Specialist} คนต่อช่องในขณะนี้"}
@@ -12165,6 +12234,8 @@
 {"tag": "LOC_UI_UNITCITYLIST_MOVED", "en_sha": "7e71b18796cf", "status": "draft", "th": "เคลื่อนที่แล้ว"}
 {"tag": "LOC_UI_UNITCITYLIST_NOT_MOVED", "en_sha": "0835372b5963", "status": "draft", "th": "ยังไม่ได้เคลื่อนที่ เหลือการเคลื่อนที่ {1_movesRemaining} ครั้ง"}
 {"tag": "LOC_UI_UNITCITYLIST_TITLE", "en_sha": "c4b473e084ec", "status": "draft", "th": "ยูนิต/นคร"}
+{"tag": "LOC_UI_UNIT_LIST_FOCUS_ACTIONS", "en_sha": "3ebd455eda16", "status": "draft", "th": "โฟกัสคำสั่ง"}
+{"tag": "LOC_UI_UNIT_LIST_FOCUS_LIST", "en_sha": "f0471e03b9ff", "status": "draft", "th": "โฟกัสรายชื่อยูนิต"}
 {"tag": "LOC_UI_UNMET_PLAYER_NAME", "en_sha": "4f6902d42a23", "status": "draft", "th": "ผู้เล่นที่ยังไม่ได้พบ"}
 {"tag": "LOC_UI_USER_LOGOUT_ACCOUNT", "en_sha": "215d8533dd83", "status": "draft", "th": "คุณออกจากระบบแล้ว"}
 {"tag": "LOC_UI_VICTORY", "en_sha": "25296a531b53", "status": "draft", "th": "ชัยชนะ!"}
@@ -12264,6 +12335,7 @@
 {"tag": "LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_SPECIALIST_SLOTS", "en_sha": "5249706830a5", "status": "draft", "th": "ต้องอยู่บนช่องที่มีช่องผู้เชี่ยวชาญว่าง {1_Amount} ช่อง"}
 {"tag": "LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_TOWN", "en_sha": "5f2255c0f730", "status": "draft", "th": "ต้องอยู่บนช่องในเมือง"}
 {"tag": "LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_VALID_SETTLEMENT_LOCATION", "en_sha": "da5e9545497c", "status": "draft", "th": "ต้องอยู่บนช่องที่เป็นตำแหน่งตั้งถิ่นฐานที่ถูกต้อง"}
+{"tag": "LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_SETTLEMENT_BEING_RAZED", "en_sha": "acfb204f08f4", "status": "draft", "th": "ไม่สามารถเปิดใช้ความสามารถนี้ได้ เพราะถิ่นฐานนี้กำลังถูกเผาทำลาย"}
 {"tag": "LOC_UNITCOMMAND_ACTIVATE_LESS_THAN_X_BUILDING", "en_sha": "53c194d110e7", "status": "draft", "th": "ช่องต้องมีสิ่งก่อสร้างน้อยกว่า {1_Amount} หลัง"}
 {"tag": "LOC_UNITCOMMAND_ADD_TO_ARMY_DESCRIPTION", "en_sha": "9363cb9a8186", "status": "draft", "th": "สั่งให้ยูนิตเข้าร่วมกับผู้บัญชาการที่อยู่ใกล้เคียง"}
 {"tag": "LOC_UNITCOMMAND_ADD_TO_ARMY_FAILURE_MAX_CIVILIAN_UNITS", "en_sha": "b4bd292b349e", "status": "draft", "th": "จำนวนยูนิตที่ไม่ใช่ยูนิตรบถึงขีดจำกัดแล้ว"}
@@ -12448,7 +12520,7 @@
 {"tag": "LOC_UNITOPERATION_EXECUTE_SCRIPT_NAME", "en_sha": "7c38eeb4d323", "status": "draft", "th": "รันสคริปต์"}
 {"tag": "LOC_UNITOPERATION_EXTRACT_ARTIFACT_IN_PROGRESS", "en_sha": "70d91add8b5c", "status": "draft", "th": "การขุดค้นจะเสร็จสิ้นในอีก {1_Turns} เทิร์น"}
 {"tag": "LOC_UNITOPERATION_EXTRACT_ARTIFACT_IN_PROGRESS_OTHER_UNIT", "en_sha": "a0b758345d4d", "status": "draft", "th": "มีการขุดค้นเริ่มขึ้นที่นี่แล้ว"}
-{"tag": "LOC_UNITOPERATION_FORTIFY_DESCRIPTION", "en_sha": "65564acfe5c8", "status": "draft", "th": "สร้างที่มั่นชั่วคราว"}
+{"tag": "LOC_UNITOPERATION_FORTIFY_DESCRIPTION", "en_sha": "fa9f62fac82c", "status": "draft", "th": "สร้างที่มั่นชั่วคราว ตามปกติใช้เวลา 2 เทิร์นจึงจะเสร็จ ยูนิตได้รับพลังการรบ +3 เมื่อป้องกันโดยมีที่มั่น"}
 {"tag": "LOC_UNITOPERATION_FORTIFY_NAME", "en_sha": "9ae9fef7e9c8", "status": "draft", "th": "ตั้งมั่น"}
 {"tag": "LOC_UNITOPERATION_FOUND_CITY_DESCRIPTION", "en_sha": "c49484514b9e", "status": "draft", "th": "ก่อตั้งถิ่นฐาน ต้องไม่อยู่ภายในระยะ 3 ช่องจากถิ่นฐานหรือขั้วอำนาจอิสระอื่น"}
 {"tag": "LOC_UNITOPERATION_FOUND_CITY_NAME", "en_sha": "25b38dc8768d", "status": "draft", "th": "ก่อตั้งถิ่นฐาน"}
@@ -12543,8 +12615,11 @@
 {"tag": "LOC_UNITOPERATION_WAIT_FOR_NAME", "en_sha": "a325ebe57dbf", "status": "draft", "th": "รอ"}
 {"tag": "LOC_UNITOPERATION_WMDSTRIKE_ACT_OF_WAR_SUMMARY", "en_sha": "bd83061e4d16", "status": "draft", "th": "การโจมตีพื้นที่นี้จะเริ่ม[icon:WAR] สงครามกับผู้เล่นหลายราย"}
 {"tag": "LOC_UNITOPERATION_WMDSTRIKE_AVAILABLE_WARHEADS", "en_sha": "1015d3ba4dc4", "status": "draft", "th": "อาวุธนิวเคลียร์ที่มี: {1_Count}"}
+{"tag": "LOC_UNITOPERATION_WMDSTRIKE_CONFIRM_STRIKE_SUMMARY", "en_sha": "b3f109fa9350", "status": "draft", "th": "คุณแน่ใจหรือไม่ว่าต้องการโจมตีตำแหน่งนี้"}
+{"tag": "LOC_UNITOPERATION_WMDSTRIKE_CONFIRM_STRIKE_TITLE", "en_sha": "cf73439692be", "status": "draft", "th": "โจมตีตำแหน่งนี้หรือไม่"}
 {"tag": "LOC_UNITOPERATION_WMDSTRIKE_NO_AVAILABLE_WARHEAD", "en_sha": "23a316d66f20", "status": "draft", "th": "ไม่มีหัวรบที่พร้อมใช้"}
 {"tag": "LOC_UNITOPERATION_WMDSTRIKE_NO_CAPABLE_AIRCRAFT", "en_sha": "bf757797b60d", "status": "draft", "th": "ขณะนี้ไม่มียูนิตที่รวมอยู่ซึ่งสามารถใช้อาวุธทำลายล้างสูงได้"}
+{"tag": "LOC_UNITOPERATION_WMDSTRIKE_PLAYER_WAR_TYPE", "en_sha": "334cf750e285", "status": "draft", "th": "{1}: {2}"}
 {"tag": "LOC_UNITOPERATION_WMD_STRIKE_DESCRIPTION", "en_sha": "ff19853417d7", "status": "draft", "th": "จุดระเบิดอาวุธทำลายล้างสูงที่ตำแหน่งหนึ่ง"}
 {"tag": "LOC_UNITOPERATION_WMD_STRIKE_NAME", "en_sha": "b98a1f60d3ae", "status": "draft", "th": "โจมตีด้วยอาวุธทำลายล้างสูง"}
 {"tag": "LOC_UNIT_AERODROME_COMMANDER_DESCRIPTION", "en_sha": "16cfd364dd8c", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ยูนิตผู้บัญชาการ[/TIP]ทางอากาศพิเศษที่เชื่อมโยงกับสิ่งก่อสร้างสนามบินและเคลื่อนที่ไม่ได้"}
@@ -12553,6 +12628,9 @@
 {"tag": "LOC_UNIT_ARMY_COMMANDER_NAME", "en_sha": "da356e54067f", "status": "draft", "th": "ผู้บัญชาการกองทัพ"}
 {"tag": "LOC_UNIT_CARRIER_COMMANDER_DESCRIPTION", "en_sha": "3a4148a10ce5", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_SUPPORT_UNIT_TOOLTIP]ยูนิตสนับสนุน[/TIP]ทางทะเลและยูนิต[TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ผู้บัญชาการ[/TIP]ทางอากาศ"}
 {"tag": "LOC_UNIT_CARRIER_COMMANDER_NAME", "en_sha": "a2a1b81ed531", "status": "draft", "th": "เรือบรรทุกเครื่องบิน"}
+{"tag": "LOC_UNIT_CLASS_CIVILIAN", "en_sha": "d18e442fc597", "status": "draft", "th": "พลเรือน"}
+{"tag": "LOC_UNIT_CLASS_MILITARY", "en_sha": "430853fbd980", "status": "draft", "th": "การทหาร"}
+{"tag": "LOC_UNIT_CLASS_SUPPORT", "en_sha": "f32d5a3b17e6", "status": "draft", "th": "สนับสนุน"}
 {"tag": "LOC_UNIT_FLEET_COMMANDER_DESCRIPTION", "en_sha": "f74895472b44", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_COMMANDER_TOOLTIP]ยูนิตผู้บัญชาการทางทะเล[/TIP]"}
 {"tag": "LOC_UNIT_FLEET_COMMANDER_NAME", "en_sha": "2134671bec89", "status": "draft", "th": "ผู้บัญชาการกองเรือ"}
 {"tag": "LOC_UNIT_FOUNDER_DESCRIPTION", "en_sha": "b12a7b15d3d4", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_SUPPORT_UNIT_TOOLTIP]ยูนิตสนับสนุน[/TIP]ทางบกที่สามารถก่อตั้ง [icon:NOTIFICATION_SELECT_CAPITAL] นครหลวงได้"}
@@ -12568,6 +12646,11 @@
 {"tag": "LOC_UNIT_INVALID", "en_sha": "701faf80c637", "status": "draft", "th": "ยูนิตไม่ถูกต้อง"}
 {"tag": "LOC_UNIT_JOHN_MAYNARD_KEYNES_DESCRIPTION", "en_sha": "1fecf46578ee", "status": "draft", "th": "ยูนิตพลเรือนเฉพาะตัวที่สามารถใช้ทองและอิทธิพลในนครหลวงเพื่อเปิดสาขาธนาคารโลก ซึ่งจำเป็นต่อชัยชนะทางเศรษฐกิจในยุคสมัยใหม่"}
 {"tag": "LOC_UNIT_JOHN_MAYNARD_KEYNES_NAME", "en_sha": "91073d1c8e7b", "status": "draft", "th": "นายธนาคารผู้ยิ่งใหญ่"}
+{"tag": "LOC_UNIT_LIST_COMMANDER_TITLE", "en_sha": "cb403cbed73b", "status": "draft", "th": "ผู้บัญชาการและกองทัพ"}
+{"tag": "LOC_UNIT_LIST_HP", "en_sha": "16fe6547bc1b", "status": "draft", "th": "{1_current}/{2_max} HP"}
+{"tag": "LOC_UNIT_LIST_REINFORCE_DESCRIPTION", "en_sha": "4f36c5797b8b", "status": "draft", "th": "ยูนิตนี้กำลังเคลื่อนที่ไปเสริมกำลังกองทัพ จะไปถึงใน {1_numTurns} เทิร์น"}
+{"tag": "LOC_UNIT_LIST_RESPAWN_DESCRIPTION", "en_sha": "40438c95da78", "status": "draft", "th": "ยูนิตนี้พ่ายแพ้แล้ว จะเกิดใหม่ที่ถิ่นฐานที่ใกล้ที่สุดใน {1_numTurns} เทิร์น"}
+{"tag": "LOC_UNIT_LIST_RESPAWN_NAME", "en_sha": "1b63d897aae9", "status": "draft", "th": "เกิดใหม่"}
 {"tag": "LOC_UNIT_MERCHANT_DESCRIPTION", "en_sha": "454401fdb5ad", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_CIVILIAN_UNIT_TOOLTIP]ยูนิตพลเรือน[/TIP]ที่สามารถสร้าง [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]หรือสร้างถนนระหว่าง[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]"}
 {"tag": "LOC_UNIT_MERCHANT_NAME", "en_sha": "0ed527aeba16", "status": "draft", "th": "พ่อค้า"}
 {"tag": "LOC_UNIT_MIGRANT_DESCRIPTION", "en_sha": "4f664e8b00ac", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_CIVILIAN_UNIT_TOOLTIP]ยูนิตพลเรือน[/TIP]ที่สามารถเข้าร่วม[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]เพื่อเพิ่ม[TIP:LOC_PEDIA_CONCEPTS_IMPROVEMENT_TOOLTIP]สิ่งปรับปรุง[/TIP]ใหม่"}
@@ -13325,6 +13408,7 @@
 {"tag": "LOC_VOLCANO_HUAL_LAI_NAME", "en_sha": "19d3eecf1371", "status": "draft", "th": "ฮูอาลาลาย"}
 {"tag": "LOC_VOLCANO_HUNAHPU_NAME", "en_sha": "d5057ce5de74", "status": "draft", "th": "อูนาปู"}
 {"tag": "LOC_VOLCANO_ILOPANGO_VOLCANO_NAME", "en_sha": "b938c92dce2a", "status": "draft", "th": "ภูเขาไฟอีโลปังโก"}
+{"tag": "LOC_VOLCANO_INACTIVE", "en_sha": "09af574c7f20", "status": "draft", "th": "สงบ"}
 {"tag": "LOC_VOLCANO_KATLA_NAME", "en_sha": "3ac2667b2101", "status": "draft", "th": "กัตลา"}
 {"tag": "LOC_VOLCANO_KELUD_NAME", "en_sha": "7d560d0a757f", "status": "draft", "th": "เกอลุด"}
 {"tag": "LOC_VOLCANO_KHORGO_NAME", "en_sha": "fb445b969f27", "status": "draft", "th": "คอร์โก"}
@@ -13420,7 +13504,6 @@
 {"tag": "LOC_VOLCANO_YEAK_LAOM_VOLCANO_NAME", "en_sha": "76303c035788", "status": "draft", "th": "ภูเขาไฟเยียกเลาม์"}
 {"tag": "LOC_VOLCANO_YELLOWSTONE_CALDERA_NAME", "en_sha": "6edb73cf8e87", "status": "draft", "th": "แอ่งภูเขาไฟเยลโลว์สโตน"}
 {"tag": "LOC_VOLCANO_ZUIDWAL_VOLCANO_NAME", "en_sha": "931476608171", "status": "draft", "th": "ภูเขาไฟเซาต์วัล"}
-{"tag": "LOC_VP_FLOATER", "en_sha": "a670861ac820", "status": "draft", "th": "+{1_Value} GDP"}
 {"tag": "LOC_WARNING_ADVICE_ANTIQUITY_CULTURE_BEHIND_01_MESSAGE", "en_sha": "31f3f48f9875", "status": "draft", "th": "[TIP:LOC_PEDIA_CONCEPTS_ADVISOR_TOOLTIP]ที่ปรึกษาด้านวัฒนธรรม[/TIP]ของคุณจะให้คำแนะนำ คำเตือน และเคล็ดลับในการคว้า[TIP:LOC_PEDIA_CONCEPTS_CULTURAL_VICTORY_TOOLTIP]ชัยชนะทางวัฒนธรรม[/TIP]แม้คุณจะเป็นผู้ตัดสินใจเสมอ แต่ที่ปรึกษาก็ช่วยได้มากหากคุณไม่แน่ใจว่าจะทำอย่างไรต่อ และแม้คุณจะไม่ได้มุ่งสู่ชัยชนะทางวัฒนธรรม ที่ปรึกษาก็ช่วยให้คุณเข้าใจเรื่องทางวัฒนธรรมได้ดีขึ้น[nn]คุณสามารถเปิดดูข้อความที่ผ่านมา รวมถึงข้อความของที่ปรึกษาอีกสามคนได้จากหน้าจอนี้ หมั่นตรวจดูบ่อย ๆ เพื่อเรียนรู้ข้อมูลสำคัญเกี่ยวกับเกม[nn]ที่ปรึกษาด้านวัฒนธรรมพร้อมช่วยให้คุณคว้าชัยชนะทางวัฒนธรรม แต่หากคุณต้องการติดตามที่ปรึกษาคนอื่น หรือปิดที่ปรึกษาทั้งหมด ก็ทำได้จากหน้าจอนี้"}
 {"tag": "LOC_WARNING_ADVICE_ANTIQUITY_CULTURE_BEHIND_01_NOTE_DESC", "en_sha": "6aa8eba80063", "status": "draft", "th": "หมั่นกลับมาที่นี่บ่อย ๆ เพื่อรับคำแนะนำเพิ่มเติมจาก[TIP:LOC_PEDIA_CONCEPTS_ADVISOR_TOOLTIP]ที่ปรึกษา[/TIP]และทบทวนข้อความก่อนหน้า"}
 {"tag": "LOC_WARNING_ADVICE_ANTIQUITY_CULTURE_BEHIND_01_NOTE_TITLE", "en_sha": "3b057831a1fa", "status": "draft", "th": "ลองทำสิ่งนี้ดู..."}
@@ -13554,6 +13637,7 @@
 {"tag": "LOC_WORLD_GOLD_DECREASE_FLOATER", "en_sha": "e972378f3b0b", "status": "draft", "th": "[STYLE:yield-gold]-{1_Value} ทอง[/STYLE]"}
 {"tag": "LOC_WORLD_GOLD_INCREASE_FLOATER", "en_sha": "202d3ef6b650", "status": "draft", "th": "[STYLE:yield-gold]+{1_Value} ทอง[/STYLE]"}
 {"tag": "LOC_WORLD_GREAT_BANKER_FLOATER", "en_sha": "64d846a7e7fd", "status": "draft", "th": "+{1_Amount} GDP"}
+{"tag": "LOC_WORLD_GREAT_WORK_FLOATER", "en_sha": "b8e70fce5c7d", "status": "draft", "th": "+{1_GreatWorks} ผลงานชิ้นเอก"}
 {"tag": "LOC_WORLD_HAPPINESS_DECREASE_FLOATER", "en_sha": "0639d04c3bca", "status": "draft", "th": "[STYLE:yield-happiness]-{1_Value} ความสุข[/STYLE]"}
 {"tag": "LOC_WORLD_HAPPINESS_INCREASE_FLOATER", "en_sha": "4f31af958854", "status": "draft", "th": "[STYLE:yield-happiness]+{1_Value} ความสุข[/STYLE]"}
 {"tag": "LOC_WORLD_HEAL_INCREASE_FLOATER", "en_sha": "ac9664ed1b50", "status": "draft", "th": "+{1_Value} HP"}
