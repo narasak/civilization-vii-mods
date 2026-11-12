@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!-- v1 borrows official art (no new art packages can be built on macOS). Pattern: DLC dai-viet data/icons/icons.xml. -->
+<!-- Own 2D icons (tools/make_icons.py) as fs://game/<mod id>/ PNGs, per the official Database Modding doc; loading backgrounds still borrow Siam's. Pattern: DLC dai-viet data/icons/icons.xml. -->
 <Database>
 	<IconDefinitions>
 		<Row>
 			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
-			<Path>blp:civ_sym_siam</Path>
+			<Path>fs://game/lth-ayutthaya/icons/civ_sym_lth_ayutthaya.png</Path>
 		</Row>
 		<Row>
 			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
@@ -25,27 +25,27 @@
 		</Row>
 		<Row>
 			<ID>UNIT_LTH_BANG_RACHAN</ID>
-			<Path>blp:unitflag_swordsman</Path>
+			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_bang_rachan.png</Path>
 		</Row>
 		<Row>
 			<ID>UNIT_LTH_BANG_RACHAN_2</ID>
-			<Path>blp:unitflag_swordsman</Path>
+			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_bang_rachan.png</Path>
 		</Row>
 		<Row>
 			<ID>UNIT_LTH_BANG_RACHAN_3</ID>
-			<Path>blp:unitflag_swordsman</Path>
+			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_bang_rachan.png</Path>
 		</Row>
 		<Row>
 			<ID>UNIT_LTH_THAMMATHUT</ID>
-			<Path>blp:unitflag_pedanda</Path>
+			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_thammathut.png</Path>
 		</Row>
 		<Row>
 			<ID>BUILDING_LTH_UBOSOT</ID>
-			<Path>blp:buildicon_vihara</Path>
+			<Path>fs://game/lth-ayutthaya/icons/buildicon_lth_ubosot.png</Path>
 		</Row>
 		<Row>
 			<ID>BUILDING_LTH_PRANG</ID>
-			<Path>blp:buildicon_meru</Path>
+			<Path>fs://game/lth-ayutthaya/icons/buildicon_lth_prang.png</Path>
 		</Row>
 	</IconDefinitions>
 	<IconAliases>

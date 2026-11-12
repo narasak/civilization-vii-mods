@@ -22,6 +22,10 @@ the gap in the game's Thai line: Khmer (Antiquity) → **Ayutthaya** (Exploratio
 Numbers follow the official civilizations (unique buildings +6, unique units at base strength plus a
 conditional bonus). Design and sources: [`docs/superpowers/specs/2026-11-12-ayutthaya-design.md`](../docs/superpowers/specs/2026-11-12-ayutthaya-design.md).
 
+## Install
+
+[Steam Workshop item 3838292054](https://steamcommunity.com/sharedfiles/filedetails/?id=3838292054) (private while testing), uploaded with Firaxis' official Workshop Uploader. Enable "Ayutthaya Civilization" under Add-Ons.
+
 ## Known limits (v1)
 
 - The Ubosot and Prang have **no 3D model yet**: the game's visual remaps work for units but not for new

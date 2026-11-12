@@ -132,6 +132,16 @@ def main(check_only):
         if m not in defined_mods:
             findings.append(f'{m}: referenced as a modifier but no <Modifier id> defines it')
 
+    # 4b: every fs://game/lth-ayutthaya/<path> the data or UI uses exists on disk and is imported by the modinfo
+    ui_text = ''.join(open(f, encoding='utf-8').read() for f in glob.glob(os.path.join(MOD, 'ui', '*.js')))
+    mod_paths = set(re.findall(r'fs://game/lth-ayutthaya/([A-Za-z0-9_./-]+)', everything + ui_text))
+    imported = modinfo_items(os.path.join(MOD, 'ayutthaya.modinfo'))
+    for rel in sorted(mod_paths):
+        if not os.path.isfile(os.path.join(MOD, rel)):
+            findings.append(f'fs://game/lth-ayutthaya/{rel}: referenced but the file is missing')
+        elif rel not in imported:
+            findings.append(f'fs://game/lth-ayutthaya/{rel}: referenced but not in an <ImportFiles> of the modinfo')
+
     # 5: modinfo lists exactly our files
     listed = modinfo_items(os.path.join(MOD, 'ayutthaya.modinfo'))
     on_disk = {os.path.relpath(f, MOD) for f in files}
@@ -140,7 +150,7 @@ def main(check_only):
     for f in sorted(x for x in listed - on_disk if not x.startswith('text/gen/') and not os.path.isfile(os.path.join(MOD, x))):
         findings.append(f'{f}: listed in ayutthaya.modinfo but missing')
 
-    print(f'examined {len(strings)} strings, {len(files)} data/config files, {len(used)} LOC keys used'
+    print(f'examined {len(strings)} strings, {len(files)} data/config files, {len(used)} LOC keys used, {len(mod_paths)} mod file paths'
           + ('' if base is not None else ' (game catalogue missing: game keys NOT checked, run thai-language/tools/extract.py)'))
     if findings:
         print(f'{len(findings)} finding(s):')

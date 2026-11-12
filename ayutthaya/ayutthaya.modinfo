@@ -12,6 +12,12 @@
 	<Dependencies>
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
 	</Dependencies>
+	<References>
+		<!-- Loaded before us when present (official modinfo doc): the Thai pack's text, then our Thai over it;
+		     the Asia wonders DLC for Wat Xieng Thong. Neither is required. -->
+		<Mod id="lth-thai-language" title="Thai Language Pack"/>
+		<Mod id="asia-wonders" title="LOC_MODULE_ASIA_WONDERS_NAME"/>
+	</References>
 	<ActionCriteria>
 		<Criteria id="always">
 			<AlwaysMet></AlwaysMet>
@@ -39,12 +45,20 @@
 	<ActionGroups>
 		<ActionGroup id="lth-ayu-art" scope="game" criteria="always">
 			<Actions>
+				<UIScripts>
+					<Item>ui/lth-ayu-portrait.js</Item>
+				</UIScripts>
 				<ImportFiles>
 					<!-- Panel art. The setup screen asks for "bg-panel-lth_ayutthaya" with no extension
 					     (core civ-select-model.js); the narrative panel asks for the .png. Both shipped until a test shows which resolves. -->
 					<Item>art/bg-panel-lth_ayutthaya</Item>
 					<Item>art/bg-panel-lth_ayutthaya.png</Item>
 					<Item>art/lth_ayutthaya_vert.png</Item>
+					<Item>icons/civ_sym_lth_ayutthaya.png</Item>
+					<Item>icons/unitflag_lth_bang_rachan.png</Item>
+					<Item>icons/unitflag_lth_thammathut.png</Item>
+					<Item>icons/buildicon_lth_ubosot.png</Item>
+					<Item>icons/buildicon_lth_prang.png</Item>
 				</ImportFiles>
 				<UpdateIcons>
 					<Item>data/icons/icons.xml</Item>
@@ -144,6 +158,11 @@
 					<Item>art/bg-panel-lth_ayutthaya</Item>
 					<Item>art/bg-panel-lth_ayutthaya.png</Item>
 					<Item>art/lth_ayutthaya_vert.png</Item>
+					<Item>icons/civ_sym_lth_ayutthaya.png</Item>
+					<Item>icons/unitflag_lth_bang_rachan.png</Item>
+					<Item>icons/unitflag_lth_thammathut.png</Item>
+					<Item>icons/buildicon_lth_ubosot.png</Item>
+					<Item>icons/buildicon_lth_prang.png</Item>
 				</ImportFiles>
 				<UpdateIcons>
 					<Item>data/icons/icons.xml</Item>

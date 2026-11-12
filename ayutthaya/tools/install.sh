@@ -15,7 +15,7 @@ rsync -a --delete --delete-excluded \
   --include '/ayutthaya.modinfo' --include '/README.md' \
   --include '/config/' --include '/config/*.xml' \
   --include '/data/' --include '/data/*.xml' --include '/data/icons/' --include '/data/icons/*.xml' \
-  --include '/art/' --include '/art/bg-panel-lth_ayutthaya' --include '/art/bg-panel-lth_ayutthaya.png' --include '/art/lth_ayutthaya_vert.png' --include '/ui/' --include '/ui/*.js' \
+  --include '/art/' --include '/art/bg-panel-lth_ayutthaya' --include '/art/bg-panel-lth_ayutthaya.png' --include '/art/lth_ayutthaya_vert.png' --include '/icons/' --include '/icons/*.png' --include '/ui/' --include '/ui/*.js' \
   --include '/text/' --include '/text/gen/' --include '/text/gen/*.xml' \
   --exclude '*' "$HERE/" "$DEST/"
 echo "installed -> $DEST"
