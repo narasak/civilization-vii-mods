@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Unique civic tree, 3 nodes like Majapahit (800 / 800 / 1200). Pattern: age-exploration progression-trees-culture-unique.xml. -->
+<Database>
+	<Types>
+		<Row Type="TREE_CIVICS_EX_LTH_AYUTTHAYA" Kind="KIND_TREE"/>
+		<Row Type="NODE_CIVIC_EX_LTH_AYU_KHLONG" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_LTH_AYU_SANGHA" Kind="KIND_TREE_NODE"/>
+		<Row Type="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" Kind="KIND_TREE_NODE"/>
+	</Types>
+	<ProgressionTrees>
+		<Row ProgressionTreeType="TREE_CIVICS_EX_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" SystemType="SYSTEM_CULTURE" Name="LOC_TREE_CIVICS_EX_LTH_AYUTTHAYA_NAME"/>
+	</ProgressionTrees>
+	<ProgressionTreeNodes>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KHLONG" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="800" Name="LOC_CIVIC_LTH_AYU_KHLONG_NAME" IconString="cult_siam"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_SANGHA" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="800" Name="LOC_CIVIC_LTH_AYU_SANGHA_NAME" IconString="cult_siam"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="1200" Name="LOC_CIVIC_LTH_AYU_KRUNG_SI_NAME" IconString="cult_siam"/>
+	</ProgressionTreeNodes>
+	<ProgressionTreeNodeUnlocks>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KHLONG" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_LTH_UBOSOT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KHLONG" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_KUNG_MAE_NAM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_SANGHA" TargetKind="KIND_CONSTRUCTIBLE" TargetType="BUILDING_LTH_PRANG" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_SANGHA" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_RONG_RIAN_WAT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_PHRA_KHLANG" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" TargetKind="KIND_MODIFIER" TargetType="MOD_EX_SETTLEMENT_CAP_INCREASE" UnlockDepth="1"/>
+	</ProgressionTreeNodeUnlocks>
+	<ProgressionTreePrereqs>
+		<Row Node="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" PrereqNode="NODE_CIVIC_EX_LTH_AYU_KHLONG"/>
+		<Row Node="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" PrereqNode="NODE_CIVIC_EX_LTH_AYU_SANGHA"/>
+	</ProgressionTreePrereqs>
+</Database>

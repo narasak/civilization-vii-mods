@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Who may pick Ayutthaya at the Exploration Age, and Ayutthaya's path to Siam.
+     Pattern: DLC dai-viet unlocks-base-standard.xml + unlocks-exploration.xml (always loaded). -->
+<Database>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_SIAM" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SIAM"/>
+	</Unlocks>
+	<UnlockRewards>
+		<Row UnlockType="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA" Name="LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_LTH_AYUTTHAYA" UnlockRewardType="CIVILIZATION_LTH_AYUTTHAYA" UnlockRewardKind="KIND_CIVILIZATION"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SIAM" Name="LOC_CIVILIZATION_SIAM_NAME" Description="LOC_UNLOCK_MODERN_CIV_DESCRIPTION" Icon="CIVILIZATION_SIAM" UnlockRewardType="CIVILIZATION_SIAM" UnlockRewardKind="KIND_CIVILIZATION"/>
+	</UnlockRewards>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_LTH_CIV_IS_KHMER" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_LTH_CIV_IS_AYUTTHAYA" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="REQSET_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<Row RequirementId="REQ_LTH_CIV_IS_KHMER" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+		<Row RequirementId="REQ_LTH_CIV_IS_AYUTTHAYA" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+		<!-- Same requirement Songhai uses (base-standard unlocks.xml REQ_PLAYER_HAS_3_NAVIGABLE_RIVER_SETTLEMENT). -->
+		<Row RequirementId="REQ_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" RequirementType="REQUIREMENT_PLAYER_HAS_X_SETTLEMENTS_AT"/>
+		<Row RequirementId="REQ_LTH_AGE_IS_ANTIQUITY" RequirementType="REQUIREMENT_GAME_AGE_TYPE_MATCH"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_LTH_CIV_IS_KHMER" Name="CivilizationType" Value="CIVILIZATION_KHMER"/>
+		<Row RequirementId="REQ_LTH_CIV_IS_AYUTTHAYA" Name="CivilizationType" Value="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row RequirementId="REQ_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" Name="Tiles" Value="3"/>
+		<Row RequirementId="REQ_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" Name="Amount" Value="3"/>
+		<Row RequirementId="REQ_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" Name="SettlementLocationType" Value="SETTLEMENT_LOCATION_NAVIGABLE_RIVER"/>
+		<Row RequirementId="REQ_LTH_AGE_IS_ANTIQUITY" Name="AgeType" Value="AGE_ANTIQUITY"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_LTH_CIV_IS_KHMER" RequirementId="REQ_LTH_CIV_IS_KHMER"/>
+		<Row RequirementSetId="REQSET_LTH_CIV_IS_AYUTTHAYA" RequirementId="REQ_LTH_CIV_IS_AYUTTHAYA"/>
+		<Row RequirementSetId="REQSET_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" RequirementId="REQ_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS"/>
+		<Row RequirementSetId="REQSET_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" RequirementId="REQ_LTH_AGE_IS_ANTIQUITY"/>
+	</RequirementSetRequirements>
+	<UnlockRequirements>
+		<Row UnlockType="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA" RequirementSetId="REQSET_LTH_CIV_IS_KHMER" Description="LOC_UNLOCK_PLAY_AS_KHMER_DESCRIPTION" Tooltip="LOC_UNLOCK_LTH_PLAY_AS_KHMER_AYUTTHAYA_TOOLTIP"/>
+		<Row UnlockType="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA" RequirementSetId="REQSET_LTH_3_NAVIGABLE_RIVER_SETTLEMENTS" Description="LOC_UNLOCK_NAVIGABLE_RIVER_SETTLEMENT_DESCRIPTION" Tooltip="LOC_UNLOCK_LTH_RIVER_AYUTTHAYA_TOOLTIP" GameplayUnlock="True" NarrativeText="LOC_UNLOCK_LTH_RIVER_AYUTTHAYA_NARRATIVE"/>
+		<Row UnlockType="UNLOCK_CIVILIZATION_SIAM" RequirementSetId="REQSET_LTH_CIV_IS_AYUTTHAYA" Description="LOC_UNLOCK_LTH_PLAY_AS_AYUTTHAYA_DESCRIPTION" Tooltip="LOC_UNLOCK_LTH_PLAY_AS_AYUTTHAYA_SIAM_TOOLTIP"/>
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_LTH_AYUTTHAYA" ConfigurationValue="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_SIAM" ConfigurationValue="CIVILIZATION_SIAM"/>
+	</UnlockConfigurationValues>
+</Database>

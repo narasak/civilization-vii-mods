@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Loaded in game and shell. Pattern: DLC dai-viet unlocks-syncretism.xml. -->
+<Database>
+	<CivilizationSyncretismUnlocks>
+		<Row CivilizationType="CIVILIZATION_KHMER" UnlockCivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" UnlockCivilizationType="CIVILIZATION_SIAM"/>
+	</CivilizationSyncretismUnlocks>
+</Database>

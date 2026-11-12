@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Patterns: LEIOMANO_MOD_COMBAT_MELEE (strength), RELIGIOUS_MOVEMENT_MOD_MISSIONARY_MOVEMENT (own territory),
+     PEDANDA_MOD_CULTURE_ON_CONVERSION (yield per conversion). -->
+<GameEffects xmlns="GameEffects">
+	<!-- Bang Rachan: villagers fight hardest for their own fields. -->
+	<Modifier id="LTH_BANG_RACHAN_MOD_HOMELAND" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_IN_OWNER_TERRITORY"/>
+		</SubjectRequirements>
+		<Argument name="Amount">5</Argument>
+		<String context="Preview">LOC_ABILITY_LTH_BANG_RACHAN_PREVIEW</String>
+	</Modifier>
+	<!-- Thammathut: the wat teaches as it converts. -->
+	<Modifier id="LTH_THAMMATHUT_MOD_SCIENCE_ON_CONVERSION" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_INITIATION_YIELD">
+		<Argument name="Amount" type="ScaleByGameSpeed">25</Argument>
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+	</Modifier>
+</GameEffects>

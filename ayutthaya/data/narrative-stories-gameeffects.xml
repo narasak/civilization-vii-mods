@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Patterns: 11042A (civ gate + condition), 11042C (grant a unit by class), 1C (narrative yield), 17B (unique quarter). -->
+<GameEffects xmlns="GameEffects">
+	<RequirementSet id="REQSET_LTH_AYU_NARRATIVE_REQUISITE">
+		<Requirement xref="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA"/>
+	</RequirementSet>
+	<!-- 01: The Legend of Bang Rachan. Fires once you field two Bang Rachan units. -->
+	<RequirementSet id="REQSET_LTH_AYU_01A_NARRATIVE">
+		<Requirement xref="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Requirement type="REQUIREMENT_PLAYER_HAS_AT_LEAST_NUM_UNIT_TYPE">
+			<Argument name="UnitTag">UNIT_CLASS_LTH_BANG_RACHAN</Argument>
+			<Argument name="Amount">2</Argument>
+		</Requirement>
+	</RequirementSet>
+	<Modifier id="LTH_AYU_01B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_GRANT_UNIT" run-once="true" permanent="true">
+		<Argument name="UnitTag">UNIT_CLASS_LTH_BANG_RACHAN</Argument>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+	<Modifier id="LTH_AYU_01C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
+	<!-- 02: The floating market at Wat Doem. Fires once a settlement completes the Wat quarter. -->
+	<RequirementSet id="REQSET_LTH_AYU_02A_NARRATIVE">
+		<Requirement xref="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Requirement type="REQUIREMENT_COLLECTION_ANY_MET">
+			<Argument name="CollectionType">COLLECTION_PLAYER_CITIES</Argument>
+			<Argument name="RequirementSetId">SUBREQSET_LTH_AYU_02A_NARRATIVE</Argument>
+		</Requirement>
+	</RequirementSet>
+	<RequirementSet id="SUBREQSET_LTH_AYU_02A_NARRATIVE">
+		<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+			<Argument name="UniqueQuarterType">QUARTER_LTH_WAT</Argument>
+		</Requirement>
+	</RequirementSet>
+	<Modifier id="LTH_AYU_02B_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
+	<Modifier id="LTH_AYU_02C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
+</GameEffects>

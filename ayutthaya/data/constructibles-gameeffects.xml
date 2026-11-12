@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wat quarter bonus: the wat was the village school. Pattern: MOD_MAURYA_MATHA_HAPPINESS (REQUIREMENT_CITY_HAS_UNIQUE_QUARTER). -->
+<GameEffects xmlns="GameEffects">
+	<Modifier id="MOD_LTH_WAT_SCIENCE" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+				<Argument name="UniqueQuarterType">QUARTER_LTH_WAT</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+		<Argument name="Amount">4</Argument>
+		<Argument name="Tooltip">LOC_QUARTER_LTH_WAT_NAME</Argument>
+	</Modifier>
+	<Modifier id="MOD_LTH_WAT_CULTURE" collection="COLLECTION_ALL_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+				<Argument name="UniqueQuarterType">QUARTER_LTH_WAT</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">2</Argument>
+		<Argument name="Tooltip">LOC_QUARTER_LTH_WAT_NAME</Argument>
+	</Modifier>
+</GameEffects>

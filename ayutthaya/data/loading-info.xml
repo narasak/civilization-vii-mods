@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Loading screen. Borrows Siam's images; no narration audio. Pattern: DLC dai-viet loading-info-exploration.xml. -->
+<Database>
+	<LoadingInfo_Civilizations>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_LTH_AYUTTHAYA" BackgroundImageHigh="fs://game/lsbg_siam_1080.png" BackgroundImageLow="fs://game/lsbg_siam_720.png" ForegroundImage="fs://game/civ_line_siam.png" Tip="LOC_LOADING_CIV_TIPS_TEXT_LTH_AYUTTHAYA"/>
+	</LoadingInfo_Civilizations>
+</Database>

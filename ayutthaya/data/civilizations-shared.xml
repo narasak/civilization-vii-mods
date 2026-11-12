@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Always loaded. Pattern: DLC dai-viet civilizations-shared.xml and age-exploration Majapahit/Songhai rows. -->
+<Database>
+	<Types>
+		<Row Type="TRAIT_LTH_AYUTTHAYA_ABILITY" Kind="KIND_TRAIT"/>
+	</Types>
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Name="LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME" FullName="LOC_CIVILIZATION_LTH_AYUTTHAYA_FULLNAME" Description="LOC_CIVILIZATION_LTH_AYUTTHAYA_DESCRIPTION" Adjective="LOC_CIVILIZATION_LTH_AYUTTHAYA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" ApexAge="AGE_EXPLORATION" AITargetCityPercentage="75" CapitalName="LOC_CITY_NAME_LTH_AYUTTHAYA1" RandomCityNameDepth="10"/>
+	</Civilizations>
+	<Traits>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" Name="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME" Description="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_DESCRIPTION" InternalOnly="true"/>
+	</Traits>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_EXPLORATION_CIV"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
+	</CivilizationTraits>
+	<LeaderCivPriorities>
+		<!-- AI only; the setup screen reads LeaderCivilizationBias in config.xml. -->
+		<Row Leader="LEADER_ASHOKA" Civilization="CIVILIZATION_LTH_AYUTTHAYA" Priority="2"/>
+		<Row Leader="LEADER_TRUNG_TRAC" Civilization="CIVILIZATION_LTH_AYUTTHAYA" Priority="1"/>
+	</LeaderCivPriorities>
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA1"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA2"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA3"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA4"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA5"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA6"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA7"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA8"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA9"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA10"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA11"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA12"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA13"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA14"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA15"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA16"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA17"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA18"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA19"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA20"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA21"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA22"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA23"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA24"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA25"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA26"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA27"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA28"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA29"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CityName="LOC_CITY_NAME_LTH_AYUTTHAYA30"/>
+	</CityNames>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TerrainType="TERRAIN_NAVIGABLE_RIVER" Score="20"/>
+	</StartBiasTerrains>
+	<VisArt_CivilizationBuildingCultures>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="BUILDING_CULTURE_SEA"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="BUILDING_CULTURE_SEA_ANT"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="BUILDING_CULTURE_SEA_EXP"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="BUILDING_CULTURE_SEA_MOD"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="ANT_STONE"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="EXP_STONE"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" BuildingCulture="MOD_STONE"/>
+	</VisArt_CivilizationBuildingCultures>
+	<VisArt_CivilizationUnitCultures>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" UnitCulture="SEA"/>
+	</VisArt_CivilizationUnitCultures>
+	<AiListTypes>
+		<Row ListType="LTH Ayutthaya Unit Biases"/>
+		<Row ListType="LTH Ayutthaya Government Bias"/>
+		<Row ListType="LTH Ayutthaya Constructibles Biases"/>
+		<Row ListType="LTH Ayutthaya Settlement Plot Evaluations"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="LTH Ayutthaya Unit Biases" LeaderType="TRAIT_LTH_AYUTTHAYA" System="UnitBiases"/>
+		<Row ListType="LTH Ayutthaya Government Bias" LeaderType="TRAIT_LTH_AYUTTHAYA" System="GovernmentBiases"/>
+		<Row ListType="LTH Ayutthaya Constructibles Biases" LeaderType="TRAIT_LTH_AYUTTHAYA" System="ConstructibleBiases"/>
+		<Row ListType="LTH Ayutthaya Settlement Plot Evaluations" LeaderType="TRAIT_LTH_AYUTTHAYA" System="SettlementPlotEvaluations"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="LTH Ayutthaya Unit Biases" Item="UNIT_LTH_BANG_RACHAN" Value="50"/>
+		<Row ListType="LTH Ayutthaya Unit Biases" Item="UNIT_LTH_BANG_RACHAN_2" Value="50"/>
+		<Row ListType="LTH Ayutthaya Unit Biases" Item="UNIT_LTH_BANG_RACHAN_3" Value="50"/>
+		<Row ListType="LTH Ayutthaya Unit Biases" Item="UNIT_LTH_THAMMATHUT" Value="25"/>
+		<Row ListType="LTH Ayutthaya Government Bias" Item="GOVERNMENT_THEOCRACY" Value="25"/>
+		<Row ListType="LTH Ayutthaya Constructibles Biases" Item="BUILDING_TEMPLE" Value="200"/>
+		<Row ListType="LTH Ayutthaya Constructibles Biases" Item="BUILDING_BAZAAR" Value="100"/>
+		<Row ListType="LTH Ayutthaya Settlement Plot Evaluations" Item="Specific Terrain" Value="5" StringVal="TERRAIN_NAVIGABLE_RIVER" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+	</AiFavoredItems>
+</Database>

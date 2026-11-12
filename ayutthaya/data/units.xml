@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bang Rachan Villagers: replace the Swordsman line, stats and costs as official (Leiomano pattern).
+     Thammathut: replaces the Missionary (Majapahit Pedanda pattern). age-exploration units.xml. -->
+<Database>
+	<Types>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LTH_THAMMATHUT" Kind="KIND_UNIT"/>
+		<Row Type="ABILITY_LTH_BANG_RACHAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LTH_THAMMATHUT" Kind="KIND_ABILITY"/>
+	</Types>
+	<Units>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_DESCRIPTION" Tier="1" Maintenance="2" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_3_DESCRIPTION" Tier="3" Maintenance="6" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row UnitType="UNIT_LTH_THAMMATHUT" Name="LOC_UNIT_LTH_THAMMATHUT_NAME" Description="LOC_UNIT_LTH_THAMMATHUT_DESCRIPTION" BaseSightRange="1" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" SpreadCharges="3" ZoneOfControl="false" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+	</Units>
+	<Unit_Stats>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN" Combat="35"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" Combat="40"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" Combat="45"/>
+	</Unit_Stats>
+	<Unit_Costs>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN" YieldType="YIELD_PRODUCTION" Cost="130"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" YieldType="YIELD_PRODUCTION" Cost="170"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" YieldType="YIELD_PRODUCTION" Cost="220"/>
+		<Row UnitType="UNIT_LTH_THAMMATHUT" YieldType="YIELD_PRODUCTION" Cost="150"/>
+	</Unit_Costs>
+	<Unit_RequiredConstructibles>
+		<Row UnitType="UNIT_LTH_THAMMATHUT" ConstructibleType="BUILDING_TEMPLE"/>
+	</Unit_RequiredConstructibles>
+	<UnitUpgrades>
+		<Row Unit="UNIT_LTH_BANG_RACHAN" UpgradeUnit="UNIT_LTH_BANG_RACHAN_2"/>
+		<Row Unit="UNIT_LTH_BANG_RACHAN_2" UpgradeUnit="UNIT_LTH_BANG_RACHAN_3"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_LTH_BANG_RACHAN" ReplacesUnitType="UNIT_SWORDSMAN"/>
+		<Row CivUniqueUnitType="UNIT_LTH_BANG_RACHAN_2" ReplacesUnitType="UNIT_MAN_AT_ARMS"/>
+		<Row CivUniqueUnitType="UNIT_LTH_BANG_RACHAN_3" ReplacesUnitType="UNIT_PIKEMAN"/>
+		<Row CivUniqueUnitType="UNIT_LTH_THAMMATHUT" ReplacesUnitType="UNIT_MISSIONARY"/>
+	</UnitReplaces>
+	<Tags>
+		<Row Tag="UNIT_CLASS_LTH_BANG_RACHAN" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_LTH_THAMMATHUT" Category="UNIT_CLASS"/>
+	</Tags>
+	<TypeTags>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_LTH_BANG_RACHAN"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_UNIQUE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Tag="UNIT_CLASS_LTH_BANG_RACHAN"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_2" Tag="UNIT_CLASS_UNIQUE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_MELEE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_INFANTRY"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_LTH_BANG_RACHAN"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_UNIQUE"/>
+		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_ELITE_INFANTRY"/>
+		<Row Type="UNIT_LTH_THAMMATHUT" Tag="UNIT_CLASS_LTH_THAMMATHUT"/>
+		<Row Type="UNIT_LTH_THAMMATHUT" Tag="UNIT_CLASS_RELIGIOUS"/>
+	</TypeTags>
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_LTH_BANG_RACHAN" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_ABILITY_LTH_BANG_RACHAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LTH_THAMMATHUT" Name="LOC_UNIT_LTH_THAMMATHUT_NAME" Description="LOC_ABILITY_LTH_THAMMATHUT_DESCRIPTION"/>
+	</UnitAbilities>
+	<UnitClass_Abilities>
+		<Row UnitAbilityType="ABILITY_LTH_BANG_RACHAN" UnitClassType="UNIT_CLASS_LTH_BANG_RACHAN"/>
+		<Row UnitAbilityType="ABILITY_LTH_THAMMATHUT" UnitClassType="UNIT_CLASS_LTH_THAMMATHUT"/>
+	</UnitClass_Abilities>
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_LTH_BANG_RACHAN" ModifierId="LTH_BANG_RACHAN_MOD_HOMELAND"/>
+		<Row UnitAbilityType="ABILITY_LTH_THAMMATHUT" ModifierId="LTH_THAMMATHUT_MOD_SCIENCE_ON_CONVERSION"/>
+	</UnitAbilityModifiers>
+	<Unit_Advisories>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_LTH_THAMMATHUT" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
+	</Unit_Advisories>
+	<!-- Tier 2 and 3 arrive with the same techs as every Swordsman-line unique (Leiomano rows in progression-trees-tech.xml). -->
+	<ProgressionTreeNodeUnlocks>
+		<Row ProgressionTreeNodeType="NODE_TECH_EX_HERALDRY" TargetKind="KIND_UNIT" TargetType="UNIT_LTH_BANG_RACHAN_2" UnlockDepth="1" RequiredTraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_EX_METAL_CASTING" TargetKind="KIND_UNIT" TargetType="UNIT_LTH_BANG_RACHAN_3" UnlockDepth="1" RequiredTraitType="TRAIT_LTH_AYUTTHAYA"/>
+	</ProgressionTreeNodeUnlocks>
+</Database>

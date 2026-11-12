@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Unique traditions (policy cards). Pattern: age-exploration traditions-tot.xml (Majapahit). -->
+<Database>
+	<Types>
+		<Row Type="TRADITION_LTH_KUNG_MAE_NAM" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_LTH_RONG_RIAN_WAT" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_LTH_PHRA_KHLANG" Kind="KIND_TRADITION"/>
+	</Types>
+	<Traditions>
+		<Row TraditionType="TRADITION_LTH_KUNG_MAE_NAM" Name="LOC_TRADITION_LTH_KUNG_MAE_NAM_NAME" Description="LOC_TRADITION_LTH_KUNG_MAE_NAM_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+		<Row TraditionType="TRADITION_LTH_RONG_RIAN_WAT" Name="LOC_TRADITION_LTH_RONG_RIAN_WAT_NAME" Description="LOC_TRADITION_LTH_RONG_RIAN_WAT_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+		<Row TraditionType="TRADITION_LTH_PHRA_KHLANG" Name="LOC_TRADITION_LTH_PHRA_KHLANG_NAME" Description="LOC_TRADITION_LTH_PHRA_KHLANG_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+	</Traditions>
+	<TraditionModifiers>
+		<Row TraditionType="TRADITION_LTH_KUNG_MAE_NAM" ModifierId="LTH_KUNG_MAE_NAM_RIVER_GOLD"/>
+		<Row TraditionType="TRADITION_LTH_RONG_RIAN_WAT" ModifierId="LTH_RONG_RIAN_WAT_TEMPLE_SCIENCE"/>
+		<Row TraditionType="TRADITION_LTH_PHRA_KHLANG" ModifierId="LTH_PHRA_KHLANG_TRADE_GOLD"/>
+		<Row TraditionType="TRADITION_LTH_PHRA_KHLANG" ModifierId="LTH_PHRA_KHLANG_TRADE_INFLUENCE"/>
+	</TraditionModifiers>
+</Database>

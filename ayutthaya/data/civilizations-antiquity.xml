@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ability when Ayutthaya is played in the Antiquity Age ("allow across time" setup). Pattern: DLC dai-viet civilizations-antiquity.xml. -->
+<Database>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_LTH_AYU_AQ_RIVER_FOOD"/>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_LTH_AYU_AQ_MARKET_GOLD"/>
+	</TraitModifiers>
+</Database>

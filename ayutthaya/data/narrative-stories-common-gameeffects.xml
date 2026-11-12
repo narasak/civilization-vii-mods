@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pattern: DLC dai-viet narrative-stories-common-gameeffects.xml. -->
+<GameEffects xmlns="GameEffects">
+	<Requirement id="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA" type="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES">
+		<Argument name="CivilizationType">CIVILIZATION_LTH_AYUTTHAYA</Argument>
+	</Requirement>
+</GameEffects>

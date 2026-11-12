@@ -1,0 +1,515 @@
+# Every player-facing string of the Ayutthaya mod, English and Thai side by side.
+# tools/build.py turns this into text/gen/en_us.xml (always) and text/gen/th.xml (only with the Thai
+# Language Pack). A block is "@TAG", then "en:" and "th:" lines. A line starting with "+" continues the
+# previous one with a space. Thai terms follow the Thai Language Pack glossary (thai-language/glossary).
+
+# ---------------------------------------------------------------- civilization
+@LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME
+en: Ayutthaya
+th: อยุธยา
+
+@LOC_CIVILIZATION_LTH_AYUTTHAYA_FULLNAME
+en: Kingdom of Ayutthaya
+th: อาณาจักรอยุธยา
+
+@LOC_CIVILIZATION_LTH_AYUTTHAYA_ADJECTIVE
+en: Ayutthayan
+th: อยุธยา
+
+@LOC_CIVILIZATION_LTH_AYUTTHAYA_DESCRIPTION
+en: +1 [icon:YIELD_FOOD] Food on Navigable River tiles. +3 [icon:YIELD_GOLD] Gold on Bazaars in Settlements with a Navigable River. Build the Wat, a [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Unique Quarter[/TIP] that teaches as it blesses.
+th: +1 [icon:YIELD_FOOD] อาหารบนช่องแม่น้ำที่เดินเรือได้ +3 [icon:YIELD_GOLD] ทองจากตลาดบาซาร์ในถิ่นฐานที่มีแม่น้ำที่เดินเรือได้ สร้างวัด ซึ่งเป็น[TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]ย่านเฉพาะตัว[/TIP]ที่เป็นทั้งที่พึ่งทางใจและโรงเรียนของชุมชน
+
+@LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME
+en: Venice of the East
+th: เวนิสตะวันออก
+
+@LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_DESCRIPTION
+en: [BLIST][LI][B]+1 [icon:YIELD_FOOD] Food[/B] on Navigable River tiles: the rivers teem with prawns and fish.[LI][B]+3 [icon:YIELD_GOLD] Gold[/B] on Bazaars in Settlements with a Navigable River: boats become a floating market.[/BLIST]
+th: [BLIST][LI][B]+1 [icon:YIELD_FOOD] อาหาร[/B]บนช่องแม่น้ำที่เดินเรือได้ เพราะแม่น้ำอุดมด้วยกุ้งและปลา[LI][B]+3 [icon:YIELD_GOLD] ทอง[/B]จากตลาดบาซาร์ในถิ่นฐานที่มีแม่น้ำที่เดินเรือได้ เพราะเรือค้าขายรวมกันเป็นตลาดน้ำ[/BLIST]
+
+@LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_AQ_DESCRIPTION
+en: [BLIST][LI][B]+1 [icon:YIELD_FOOD] Food[/B] on Navigable River tiles.[LI][B]+2 [icon:YIELD_GOLD] Gold[/B] on Markets in Settlements with a Navigable River.[LI]The Wat, the Bang Rachan Villagers and the Thammathut arrive in the Exploration Age.[/BLIST]
+th: [BLIST][LI][B]+1 [icon:YIELD_FOOD] อาหาร[/B]บนช่องแม่น้ำที่เดินเรือได้[LI][B]+2 [icon:YIELD_GOLD] ทอง[/B]จากตลาดในถิ่นฐานที่มีแม่น้ำที่เดินเรือได้[LI]วัด ชาวบ้านบางระจัน และพระธรรมทูตจะมาถึงในยุคแห่งการสำรวจ[/BLIST]
+
+@LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_MO_DESCRIPTION
+en: [BLIST][LI][B]+2 [icon:YIELD_FOOD] Food[/B] on Navigable River tiles.[LI][B]+4 [icon:YIELD_GOLD] Gold[/B] on Ports in Settlements with a Navigable River.[/BLIST]
+th: [BLIST][LI][B]+2 [icon:YIELD_FOOD] อาหาร[/B]บนช่องแม่น้ำที่เดินเรือได้[LI][B]+4 [icon:YIELD_GOLD] ทอง[/B]จากท่าเรือพาณิชย์ในถิ่นฐานที่มีแม่น้ำที่เดินเรือได้[/BLIST]
+
+@LOC_MOD_CIV_WONDER_PRODUCTION_LTH_AYUTTHAYA_DESCRIPTION
+en: +30% [icon:YIELD_PRODUCTION] Production from being Ayutthaya's associated [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonder[/TIP].
+th: +30% [icon:YIELD_PRODUCTION] การผลิตจากการเป็น [icon:WONDER] [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]ประจำอยุธยา
+
+# ---------------------------------------------------------------- the Wat quarter
+@LOC_QUARTER_LTH_WAT_NAME
+en: Wat
+th: วัด
+
+@LOC_QUARTER_LTH_WAT_DESCRIPTION
+en: Ayutthaya [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]Unique Quarter[/TIP]. Created by constructing the Ubosot and Prang in the same [TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]District[/TIP]. +4 [icon:YIELD_SCIENCE] Science and +2 [icon:YIELD_CULTURE] Culture in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP]: the wat was the village school.
+th: [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_QUARTER_TOOLTIP]ย่านเฉพาะตัว[/TIP]ของอยุธยา เกิดจากการสร้างอุโบสถและพระปรางค์ใน[TIP:LOC_PEDIA_CONCEPTS_DISTRICT_TOOLTIP]เขต[/TIP]เดียวกัน +4 [icon:YIELD_SCIENCE] วิทยาศาสตร์และ +2 [icon:YIELD_CULTURE] วัฒนธรรมใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้ เพราะวัดคือโรงเรียนของหมู่บ้าน
+
+@LOC_QUARTER_LTH_WAT_TOOLTIP
+en: +4 [icon:YIELD_SCIENCE] Science and +2 [icon:YIELD_CULTURE] Culture in this [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP].
+th: +4 [icon:YIELD_SCIENCE] วิทยาศาสตร์และ +2 [icon:YIELD_CULTURE] วัฒนธรรมใน[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]นี้
+
+@LOC_BUILDING_LTH_UBOSOT_NAME
+en: Ubosot
+th: อุโบสถ
+
+@LOC_BUILDING_LTH_UBOSOT_DESCRIPTION
+en: Ayutthaya [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Happiness Building[/TIP]. +6[icon:YIELD_HAPPINESS] Happiness. +1[icon:YIELD_HAPPINESS] Happiness Adjacency for Navigable Rivers and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP].
+th: [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างที่ให้ความสุขเฉพาะตัว[/TIP]ของอยุธยา +6[icon:YIELD_HAPPINESS] ความสุข +1[icon:YIELD_HAPPINESS] ความสุขจากการอยู่ติดกับแม่น้ำที่เดินเรือได้และ[TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]
+
+@LOC_BUILDING_LTH_UBOSOT_TOOLTIP
+en: The ordination hall at the heart of every wat, where monks are ordained and the community gathers.[N]Ayutthaya [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].
+th: โบสถ์อันเป็นหัวใจของวัด ที่ใช้อุปสมบทพระภิกษุและเป็นที่ชุมนุมของชาวบ้าน[N][TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]ของอยุธยา
+
+@LOC_BUILDING_LTH_PRANG_NAME
+en: Prang
+th: พระปรางค์
+
+@LOC_BUILDING_LTH_PRANG_DESCRIPTION
+en: Ayutthaya [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Culture Building[/TIP]. +6[icon:YIELD_CULTURE] Culture. +1[icon:YIELD_CULTURE] Culture Adjacency for Navigable Rivers and [TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]Wonders[/TIP].
+th: [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างที่ให้วัฒนธรรมเฉพาะตัว[/TIP]ของอยุธยา +6[icon:YIELD_CULTURE] วัฒนธรรม +1[icon:YIELD_CULTURE] วัฒนธรรมจากการอยู่ติดกับแม่น้ำที่เดินเรือได้และ[TIP:LOC_PEDIA_CONCEPTS_WONDERS_TOOLTIP]สิ่งมหัศจรรย์[/TIP]
+
+@LOC_BUILDING_LTH_PRANG_TOOLTIP
+en: A tall corncob-shaped tower inherited from Khmer temple-mountains, rising over the river.[N]Ayutthaya [TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]Unique Building[/TIP].
+th: ปรางค์ทรงฝักข้าวโพดที่สืบมาจากปราสาทขอม ตั้งตระหง่านริมแม่น้ำ[N][TIP:LOC_PEDIA_CONCEPTS_UNIQUE_BUILDING_TOOLTIP]สิ่งก่อสร้างเฉพาะตัว[/TIP]ของอยุธยา
+
+# ---------------------------------------------------------------- units
+@LOC_UNIT_LTH_BANG_RACHAN_NAME
+en: Bang Rachan Villager
+th: ชาวบ้านบางระจัน
+
+@LOC_UNIT_LTH_BANG_RACHAN_BASE_DESCRIPTION
+en: Ayutthayan Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when fighting inside your own territory.
+th: [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวของอยุธยา +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้ในดินแดนของตนเอง
+
+@LOC_UNIT_LTH_BANG_RACHAN_DESCRIPTION
+en: Tier 1 Ayutthayan Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when fighting inside your own territory.
+th: [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 1 ของอยุธยา +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้ในดินแดนของตนเอง
+
+@LOC_UNIT_LTH_BANG_RACHAN_2_DESCRIPTION
+en: Tier 2 Ayutthayan Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when fighting inside your own territory.
+th: [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 2 ของอยุธยา +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้ในดินแดนของตนเอง
+
+@LOC_UNIT_LTH_BANG_RACHAN_3_DESCRIPTION
+en: Tier 3 Ayutthayan Unique [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]Infantry Unit[/TIP]. +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when fighting inside your own territory.
+th: [TIP:LOC_PEDIA_CONCEPTS_INFANTRY_UNITS_TOOLTIP]ยูนิตทหารราบ[/TIP]เฉพาะตัวระดับ 3 ของอยุธยา +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้ในดินแดนของตนเอง
+
+@LOC_ABILITY_LTH_BANG_RACHAN_DESCRIPTION
+en: +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]Combat Strength[/TIP] when fighting inside your own territory.
+th: +5 [icon:NAR_REW_COMBAT] [TIP:LOC_PEDIA_CONCEPTS_COMBAT_STRENGTH_TOOLTIP]พลังการรบ[/TIP]เมื่อต่อสู้ในดินแดนของตนเอง
+
+@LOC_ABILITY_LTH_BANG_RACHAN_PREVIEW
+en: +{1_Amount} fighting for their homeland
+th: +{1_Amount} เมื่อสู้เพื่อปกป้องบ้านเกิด
+
+@LOC_UNIT_LTH_THAMMATHUT_NAME
+en: Thammathut
+th: พระธรรมทูต
+
+@LOC_UNIT_LTH_THAMMATHUT_DESCRIPTION
+en: Ayutthayan Unique Missionary, a monk sent to carry the Dhamma abroad. A Unit that has the Spread Religion action. Receive 25[icon:YIELD_SCIENCE] Science when you convert a [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP] for the first time.
+th: มิชชันนารีเฉพาะตัวของอยุธยา คือพระภิกษุที่ได้รับมอบหมายให้นำพระธรรมไปเผยแผ่ต่างแดน ยูนิตที่มีปฏิบัติการเผยแผ่ศาสนา ได้รับ 25[icon:YIELD_SCIENCE] วิทยาศาสตร์เมื่อคุณเปลี่ยนศาสนาของ[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ได้เป็นครั้งแรก
+
+@LOC_ABILITY_LTH_THAMMATHUT_DESCRIPTION
+en: Receive {1_Amount}[icon:YIELD_SCIENCE] Science when you convert a [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP] for the first time.
+th: รับ {1_Amount}[icon:YIELD_SCIENCE] วิทยาศาสตร์ เมื่อคุณเปลี่ยนศาสนาของ[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ได้เป็นครั้งแรก
+
+# ---------------------------------------------------------------- civic tree and traditions
+@LOC_TREE_CIVICS_EX_LTH_AYUTTHAYA_NAME
+en: Ayutthaya
+th: อยุธยา
+
+@LOC_CIVIC_LTH_AYU_KHLONG_NAME
+en: Khlong
+th: คูคลอง
+
+@LOC_CIVIC_LTH_AYU_SANGHA_NAME
+en: Sangha
+th: คณะสงฆ์
+
+@LOC_CIVIC_LTH_AYU_KRUNG_SI_NAME
+en: Krung Si
+th: กรุงศรี
+
+@LOC_TRADITION_LTH_KUNG_MAE_NAM_NAME
+en: River Prawns
+th: กุ้งแม่น้ำ
+
+@LOC_TRADITION_LTH_KUNG_MAE_NAM_DESCRIPTION
+en: [B]+1 [icon:YIELD_GOLD][/B] Gold on Navigable River tiles.
+th: [B]+1 [icon:YIELD_GOLD][/B] ทองบนช่องแม่น้ำที่เดินเรือได้
+
+@LOC_TRADITION_LTH_RONG_RIAN_WAT_NAME
+en: Temple Schools
+th: โรงเรียนวัด
+
+@LOC_TRADITION_LTH_RONG_RIAN_WAT_DESCRIPTION
+en: [B]+2 [icon:YIELD_SCIENCE][/B] Science on Temples.
+th: [B]+2 [icon:YIELD_SCIENCE][/B] วิทยาศาสตร์จากวิหาร
+
+@LOC_TRADITION_LTH_PHRA_KHLANG_NAME
+en: Phra Khlang Sinkha
+th: พระคลังสินค้า
+
+@LOC_TRADITION_LTH_PHRA_KHLANG_DESCRIPTION
+en: [B]+2 [icon:YIELD_GOLD][/B] Gold and [B]+1 [icon:YIELD_DIPLOMACY][/B] Influence for every active [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]Trade Route[/TIP].
+th: [B]+2 [icon:YIELD_GOLD][/B] ทองและ [B]+1 [icon:YIELD_DIPLOMACY][/B] อิทธิพล ต่อ [icon:TRADE_ROUTE] [TIP:LOC_PEDIA_CONCEPTS_TRADE_ROUTE_TOOLTIP]เส้นทางการค้า[/TIP]ที่ยังดำเนินอยู่ทุกเส้นทาง
+
+# ---------------------------------------------------------------- unlocks
+@LOC_UNLOCK_LTH_PLAY_AS_KHMER_AYUTTHAYA_TOOLTIP
+en: After 1431 [B]Ayutthaya[/B] took in the court, rituals and craftsmen of Angkor.
+th: หลังปี พ.ศ. 1974 [B]อยุธยา[/B]รับเอาราชสำนัก พิธีกรรม และช่างฝีมือจากนครธมมาไว้
+@LOC_UNLOCK_LTH_RIVER_AYUTTHAYA_TOOLTIP
+en: [B]Navigable Rivers[/B] are the lifeblood of [B]Ayutthaya[/B].
+th: [B]แม่น้ำที่เดินเรือได้[/B]คือสายเลือดของ[B]อยุธยา[/B]
+
+@LOC_UNLOCK_LTH_RIVER_AYUTTHAYA_NARRATIVE
+en: Boats crowd every bend of the {1_Civilization_Adj} rivers: rice barges, traders' sampans, monks paddling out at dawn to receive alms. A city could grow here that lives on the water itself.
+th: เรือเบียดเสียดกันทุกคุ้งน้ำของแม่น้ำ{1_Civilization_Adj} ทั้งเรือข้าว เรือแจวของพ่อค้า และเรือของพระที่พายออกรับบิณฑบาตยามเช้า เมืองที่ใช้ชีวิตอยู่บนสายน้ำอาจเติบโตขึ้นได้ที่นี่
+
+@LOC_UNLOCK_LTH_PLAY_AS_AYUTTHAYA_DESCRIPTION
+en: Play as [B]Ayutthaya[/B]
+th: เล่นเป็น [B]อยุธยา[/B]
+
+@LOC_UNLOCK_LTH_PLAY_AS_AYUTTHAYA_SIAM_TOOLTIP
+en: Bangkok was raised as a new Ayutthaya: [B]Siam[/B] is its heir.
+th: กรุงเทพฯ ถูกสร้างขึ้นเป็นดั่งอยุธยาแห่งใหม่ [B]สยาม[/B]จึงเป็นผู้สืบทอด
+
+# ---------------------------------------------------------------- loading screen
+@LOC_LOADING_CIV_INTRO_TEXT_LTH_AYUTTHAYA
+en: Three rivers meet around an island, and on it rises Ayutthaya. Gilded prangs catch the morning sun, monks glide between houses on rafts, and ships from Persia, Japan, China and Portugal anchor beside rice barges. Visitors will call it the Venice of the East. To the people who live here, it is simply Krung Si: the glorious city.
+th: แม่น้ำสามสายโอบล้อมเกาะแห่งหนึ่ง และบนเกาะนั้นคืออยุธยา พระปรางค์สีทองรับแสงอรุณ พระภิกษุพายเรือผ่านหมู่เรือนแพ เรือจากเปอร์เซีย ญี่ปุ่น จีน และโปรตุเกสทอดสมออยู่เคียงข้างเรือข้าว ชาวต่างชาติจะเรียกที่นี่ว่าเวนิสตะวันออก แต่สำหรับชาวเมืองแล้ว ที่นี่คือกรุงศรี นครอันรุ่งโรจน์
+
+@LOC_LOADING_CIV_TIPS_TEXT_LTH_AYUTTHAYA
+en: Settle on Navigable Rivers and build the Wat early: its Science and Culture grow with every river tile and wonder beside it.
+th: ตั้งถิ่นฐานริมแม่น้ำที่เดินเรือได้และสร้างวัดแต่เนิ่น ๆ เพราะวิทยาศาสตร์และวัฒนธรรมของวัดเพิ่มขึ้นตามแม่น้ำและสิ่งมหัศจรรย์ที่อยู่ติดกัน
+
+# ---------------------------------------------------------------- narrative: the legend of Bang Rachan
+@LOC_LTH_AYU_01A_STORYTITLE
+en: The Legend of Bang Rachan
+th: ตำนานบางระจัน
+
+@LOC_LTH_AYU_01A_NAME
+en: The Legend of Bang Rachan
+th: ตำนานบางระจัน
+
+@LOC_LTH_AYU_01A_DESCRIPTION
+en: Field two Bang Rachan Villagers.
+th: มีชาวบ้านบางระจัน 2 หน่วย
+
+@LOC_LTH_AYU_01A_COMPLETION
+en: The old songs tell of a village that would not kneel. Farmers raised a stockade of logs, a revered monk tied blessed cloths around their wrists, and for months they turned back an army many times their number. Nai Thong Men, the story goes, charged the enemy riding a water buffalo. Today your villagers ask how they should honor that memory.
+th: เพลงเก่าเล่าถึงหมู่บ้านที่ไม่ยอมก้มหัว ชาวนาตั้งค่ายไม้ล้อมหมู่บ้าน พระอาจารย์ผู้เป็นที่เคารพผูกผ้าประเจียดให้ที่ข้อมือ แล้วพวกเขาก็ต้านทัพที่ใหญ่กว่าหลายเท่าไว้ได้นานหลายเดือน ตำนานเล่าว่านายทองเหม็นขี่ควายบุกเข้าใส่ข้าศึก วันนี้ชาวบ้านของคุณถามว่าควรรำลึกถึงพวกเขาอย่างไร
+
+@LOC_LTH_AYU_01B_NAME
+en: Raise a new stockade, as they did.
+th: ตั้งค่ายใหม่ อย่างที่บรรพชนเคยทำ
+
+@LOC_LTH_AYU_01B_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_01B_COMPLETION
+en: Young men and women gather at the stockade. Another band of villagers takes up arms.
+th: หนุ่มสาวมารวมกันที่ค่าย ชาวบ้านอีกกลุ่มหนึ่งจับอาวุธขึ้นสู้
+
+@LOC_LTH_AYU_01C_NAME
+en: Ask the monks to tell the story at every wat.
+th: ขอให้พระเล่าเรื่องนี้ในทุกวัด
+
+@LOC_LTH_AYU_01C_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_01C_COMPLETION
+en: Children who cannot yet read learn the names of the eleven leaders by heart.
+th: เด็กที่ยังอ่านหนังสือไม่ออกก็ท่องชื่อสิบเอ็ดผู้นำได้ขึ้นใจ
+
+# ---------------------------------------------------------------- narrative: the floating market at Wat Doem
+@LOC_LTH_AYU_02A_STORYTITLE
+en: The Floating Market at Wat Doem
+th: ตลาดน้ำวัดเดิม
+
+@LOC_LTH_AYU_02A_NAME
+en: The Floating Market at Wat Doem
+th: ตลาดน้ำวัดเดิม
+
+@LOC_LTH_AYU_02A_DESCRIPTION
+en: Complete a Wat in any Settlement.
+th: สร้างวัดให้เสร็จในถิ่นฐานใดก็ได้
+
+@LOC_LTH_AYU_02A_COMPLETION
+en: Every morning boats gather in the canal before the new wat: women selling fruit, river prawns and betel, monks receiving alms, traders from distant ports. The abbot asks what the market should give back to the town.
+th: ทุกเช้าเรือจะมารวมกันในคลองหน้าวัดแห่งใหม่ แม่ค้าขายผลไม้ กุ้งแม่น้ำ และหมาก พระออกรับบิณฑบาต พ่อค้าจากเมืองท่าไกลก็แวะมา เจ้าอาวาสถามว่าตลาดแห่งนี้ควรตอบแทนอะไรแก่เมือง
+
+@LOC_LTH_AYU_02B_NAME
+en: Let the market grow. Trade feeds the town.
+th: ปล่อยให้ตลาดเติบโต การค้าหล่อเลี้ยงเมือง
+
+@LOC_LTH_AYU_02B_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_02B_COMPLETION
+en: More boats arrive each season, and the market tax fills the treasury.
+th: เรือมาเพิ่มขึ้นทุกฤดู และภาษีตลาดก็เติมท้องพระคลัง
+
+@LOC_LTH_AYU_02C_NAME
+en: Hold a temple fair for everyone.
+th: จัดงานวัดให้ทุกคน
+
+@LOC_LTH_AYU_02C_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_02C_COMPLETION
+en: Lanterns float on the water, and the whole town comes by boat to make merit.
+th: โคมลอยอยู่บนผิวน้ำ ทั้งเมืองพายเรือมาทำบุญ
+
+# ---------------------------------------------------------------- visual remap options
+@LOC_REMAP_LTH_BANG_RACHAN
+en: Ayutthaya: Bang Rachan Villager uses Swordsman art
+th: อยุธยา: ชาวบ้านบางระจันใช้ภาพพลดาบ
+
+@LOC_REMAP_LTH_BANG_RACHAN_2
+en: Ayutthaya: Bang Rachan Villager (tier 2) uses Man-at-Arms art
+th: อยุธยา: ชาวบ้านบางระจัน (ระดับ 2) ใช้ภาพทหารราบหุ้มเกราะ
+
+@LOC_REMAP_LTH_BANG_RACHAN_3
+en: Ayutthaya: Bang Rachan Villager (tier 3) uses Pikeman art
+th: อยุธยา: ชาวบ้านบางระจัน (ระดับ 3) ใช้ภาพพลหอก
+
+@LOC_REMAP_LTH_THAMMATHUT
+en: Ayutthaya: Thammathut uses Missionary art
+th: อยุธยา: พระธรรมทูตใช้ภาพมิชชันนารี
+
+@LOC_REMAP_LTH_UBOSOT
+en: Ayutthaya: Ubosot uses Vihara art
+th: อยุธยา: อุโบสถใช้ภาพวิหาร
+
+@LOC_REMAP_LTH_PRANG
+en: Ayutthaya: Prang uses Meru art
+th: อยุธยา: พระปรางค์ใช้ภาพเมรุ
+
+# ---------------------------------------------------------------- Civilopedia
+@LOC_PEDIA_PAGE_CIVILIZATION_LTH_AYUTTHAYA_CHAPTER_HISTORY_PARA_1
+en: The chronicles date the founding of Ayutthaya to 1351, when King U Thong built a capital on an island where the Chao Phraya, Lopburi and Pa Sak rivers meet. The site was chosen for water: the rivers carried rice down from the plains and trade up from the Gulf of Siam, and every rainy season the floods turned the island into a fortress.
+th: พงศาวดารระบุว่ากรุงศรีอยุธยาสถาปนาขึ้นในปี พ.ศ. 1893 เมื่อพระเจ้าอู่ทองทรงสร้างราชธานีบนเกาะที่แม่น้ำเจ้าพระยา ลพบุรี และป่าสักไหลมาบรรจบกัน ที่ตั้งนี้เลือกเพราะน้ำ แม่น้ำนำข้าวลงมาจากที่ราบและนำการค้าขึ้นมาจากอ่าวสยาม และทุกฤดูน้ำหลาก น้ำก็เปลี่ยนเกาะให้กลายเป็นป้อมปราการ
+
+@LOC_PEDIA_PAGE_CIVILIZATION_LTH_AYUTTHAYA_CHAPTER_HISTORY_PARA_2
+en: Ayutthaya inherited much from Angkor, which it took in 1431: court ritual, the idea of the king as a divine ruler, and the prang towers that still mark its temples. Its people were Theravada Buddhists, and the wat stood at the center of every community as temple, school and meeting hall.
+th: อยุธยารับมรดกหลายอย่างจากนครธม ซึ่งยึดได้ในปี พ.ศ. 1974 ทั้งพระราชพิธีในราชสำนัก คติกษัตริย์ในฐานะสมมติเทพ และพระปรางค์ที่ยังเป็นสัญลักษณ์ของวัดมาจนทุกวันนี้ ชาวอยุธยานับถือพระพุทธศาสนาเถรวาท และวัดเป็นศูนย์กลางของทุกชุมชน เป็นทั้งศาสนสถาน โรงเรียน และที่ประชุม
+
+@LOC_PEDIA_PAGE_CIVILIZATION_LTH_AYUTTHAYA_CHAPTER_HISTORY_PARA_3
+en: By the seventeenth century it was one of the great ports of Asia. Persian, Chinese, Japanese, Portuguese, Dutch and French communities lived in their own quarters, and the royal warehouse, the Phra Khlang Sinkha, controlled the trade in forest goods. European visitors such as Nicolas Gervaise compared its canals to Venice. Floating markets gathered at temple landings such as Wat Doem.
+th: เมื่อถึงคริสต์ศตวรรษที่ 17 อยุธยาเป็นเมืองท่าสำคัญแห่งหนึ่งของเอเชีย ชุมชนชาวเปอร์เซีย จีน ญี่ปุ่น โปรตุเกส ฮอลันดา และฝรั่งเศสอาศัยอยู่ในย่านของตนเอง และพระคลังสินค้าควบคุมการค้าของป่า ชาวยุโรปอย่างนีโกลาส์ แฌร์แวซ เปรียบคูคลองของอยุธยากับเวนิส ส่วนตลาดน้ำก็รวมตัวกันที่ท่าน้ำหน้าวัด เช่น ตลาดน้ำวัดเดิม
+
+@LOC_PEDIA_PAGE_CIVILIZATION_LTH_AYUTTHAYA_CHAPTER_HISTORY_PARA_4
+en: Ayutthaya fell in 1767 after a long war with the Konbaung kingdom, and the city was left in ruins. Its memory did not die: within a few years Thonburi, and then Bangkok, rose downstream, and Bangkok was deliberately built as a new Ayutthaya. The ruins of the old capital are now a UNESCO World Heritage Site.
+th: อยุธยาเสียกรุงในปี พ.ศ. 2310 หลังสงครามอันยาวนานกับราชวงศ์โกนบอง ตัวเมืองกลายเป็นซากปรักหักพัง แต่ความทรงจำไม่ได้ตายไปด้วย ไม่กี่ปีต่อมากรุงธนบุรีและกรุงเทพฯ ก็ถือกำเนิดขึ้นทางปลายน้ำ และกรุงเทพฯ ถูกสร้างขึ้นโดยตั้งใจให้เป็นดั่งอยุธยาแห่งใหม่ ปัจจุบันซากเมืองเก่าเป็นมรดกโลกขององค์การยูเนสโก
+
+@LOC_PEDIA_PAGE_UNIT_LTH_BANG_RACHAN_CHAPTER_HISTORY_PARA_1
+en: In 1765 and 1766, as invading armies closed on the capital, the villagers of Bang Rachan built a stockade and held out for about five months. The tradition names eleven leaders, among them Nai Chan Nuat Khiao and Nai Thong Men, and a monk, Phra Ajarn Thammachot, who blessed the fighters. Historians think the story joins several real episodes with local legend. In Thailand it remains a byword for ordinary people defending their home against impossible odds.
+th: ระหว่าง พ.ศ. 2308 ถึง 2309 ขณะที่กองทัพข้าศึกรุกเข้าใกล้ราชธานี ชาวบ้านบางระจันตั้งค่ายและต้านทานไว้ได้ราวห้าเดือน ตำนานกล่าวถึงผู้นำสิบเอ็ดคน เช่น นายจันหนวดเขี้ยวและนายทองเหม็น และพระอาจารย์ธรรมโชติผู้ให้พรแก่ผู้สู้รบ นักประวัติศาสตร์เห็นว่าเรื่องนี้น่าจะรวมเหตุการณ์จริงหลายครั้งเข้ากับตำนานท้องถิ่น แต่ในประเทศไทย บางระจันยังเป็นสัญลักษณ์ของคนธรรมดาที่ลุกขึ้นปกป้องบ้านเกิดแม้จะเสียเปรียบเพียงใด
+
+@LOC_PEDIA_PAGE_UNIT_LTH_THAMMATHUT_CHAPTER_HISTORY_PARA_1
+en: A thammathut is a monk sent to carry the Dhamma to other lands. In 1753 King Borommakot of Ayutthaya sent a mission of monks led by Phra Upali to Kandy, where Buddhist ordination had lapsed. They restored it, and the order they founded in Sri Lanka is still called the Siam Nikaya.
+th: พระธรรมทูตคือพระภิกษุที่ได้รับมอบหมายให้นำพระธรรมไปเผยแผ่ในต่างแดน ในปี พ.ศ. 2296 สมเด็จพระเจ้าอยู่หัวบรมโกศทรงส่งคณะสงฆ์นำโดยพระอุบาลีไปยังเมืองแคนดี ซึ่งการอุปสมบทได้ขาดช่วงไป คณะสงฆ์ไทยได้ฟื้นฟูการอุปสมบทขึ้นใหม่ และนิกายที่ก่อตั้งขึ้นในศรีลังกาครั้งนั้นยังคงเรียกว่าสยามนิกายจนถึงทุกวันนี้
+
+@LOC_PEDIA_PAGE_BUILDING_LTH_UBOSOT_CHAPTER_HISTORY_PARA_1
+en: The ubosot, or bot, is the ordination hall of a wat, marked off by eight boundary stones called sema. Only here can monks be ordained, and in Ayutthaya the hall also served as the heart of village life, where people gathered for festivals, sermons and lessons.
+th: อุโบสถหรือโบสถ์คืออาคารสำหรับประกอบพิธีอุปสมบทของวัด ล้อมรอบด้วยใบเสมาแปดทิศ การบวชพระทำได้ที่นี่เท่านั้น และในสมัยอยุธยา โบสถ์ยังเป็นหัวใจของชีวิตหมู่บ้าน เป็นที่ชาวบ้านมารวมตัวกันในงานบุญ ฟังเทศน์ และเรียนหนังสือ
+
+@LOC_PEDIA_PAGE_BUILDING_LTH_PRANG_CHAPTER_HISTORY_PARA_1
+en: The prang is a tall tower with a rounded, corncob-like profile, descended from the sanctuary towers of Angkor. Ayutthaya's builders made it their own: the prangs of Wat Ratchaburana and Wat Chaiwatthanaram still rise over the old island city.
+th: พระปรางค์คือสถูปทรงสูงที่มีรูปทรงโค้งมนคล้ายฝักข้าวโพด สืบทอดมาจากปราสาทของนครธม ช่างอยุธยาพัฒนาให้เป็นแบบเฉพาะของตน พระปรางค์ของวัดราชบูรณะและวัดไชยวัฒนารามยังคงตั้งตระหง่านเหนือเกาะเมืองเก่าจนทุกวันนี้
+
+# ---------------------------------------------------------------- city names (RTGS spelling)
+@LOC_CITY_NAME_LTH_AYUTTHAYA1
+en: Krung Si Ayutthaya
+th: กรุงศรีอยุธยา
+@LOC_CITY_NAME_LTH_AYUTTHAYA2
+en: Lop Buri
+th: ลพบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA3
+en: Phitsanulok
+th: พิษณุโลก
+@LOC_CITY_NAME_LTH_AYUTTHAYA4
+en: Sukhothai
+th: สุโขทัย
+@LOC_CITY_NAME_LTH_AYUTTHAYA5
+en: Suphan Buri
+th: สุพรรณบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA6
+en: Nakhon Si Thammarat
+th: นครศรีธรรมราช
+@LOC_CITY_NAME_LTH_AYUTTHAYA7
+en: Kamphaeng Phet
+th: กำแพงเพชร
+@LOC_CITY_NAME_LTH_AYUTTHAYA8
+en: Phetchaburi
+th: เพชรบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA9
+en: Ratchaburi
+th: ราชบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA10
+en: Nakhon Ratchasima
+th: นครราชสีมา
+@LOC_CITY_NAME_LTH_AYUTTHAYA11
+en: Chanthaburi
+th: จันทบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA12
+en: Sing Buri
+th: สิงห์บุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA13
+en: Chai Nat
+th: ชัยนาท
+@LOC_CITY_NAME_LTH_AYUTTHAYA14
+en: Nakhon Sawan
+th: นครสวรรค์
+@LOC_CITY_NAME_LTH_AYUTTHAYA15
+en: Phichai
+th: พิชัย
+@LOC_CITY_NAME_LTH_AYUTTHAYA16
+en: Sawankhalok
+th: สวรรคโลก
+@LOC_CITY_NAME_LTH_AYUTTHAYA17
+en: Phichit
+th: พิจิตร
+@LOC_CITY_NAME_LTH_AYUTTHAYA18
+en: Tak
+th: ตาก
+@LOC_CITY_NAME_LTH_AYUTTHAYA19
+en: Kanchanaburi
+th: กาญจนบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA20
+en: Nakhon Nayok
+th: นครนายก
+@LOC_CITY_NAME_LTH_AYUTTHAYA21
+en: Prachin Buri
+th: ปราจีนบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA22
+en: Chachoengsao
+th: ฉะเชิงเทรา
+@LOC_CITY_NAME_LTH_AYUTTHAYA23
+en: Chon Buri
+th: ชลบุรี
+@LOC_CITY_NAME_LTH_AYUTTHAYA24
+en: Rayong
+th: ระยอง
+@LOC_CITY_NAME_LTH_AYUTTHAYA25
+en: Songkhla
+th: สงขลา
+@LOC_CITY_NAME_LTH_AYUTTHAYA26
+en: Phatthalung
+th: พัทลุง
+@LOC_CITY_NAME_LTH_AYUTTHAYA27
+en: Chaiya
+th: ไชยา
+@LOC_CITY_NAME_LTH_AYUTTHAYA28
+en: Chumphon
+th: ชุมพร
+@LOC_CITY_NAME_LTH_AYUTTHAYA29
+en: Thalang
+th: ถลาง
+@LOC_CITY_NAME_LTH_AYUTTHAYA30
+en: Bang Kok
+th: บางกอก
+
+# ---------------------------------------------------------------- rivers
+@LOC_LTH_RIVER_CHAO_PHRAYA_NAME
+en: Chao Phraya
+th: แม่น้ำเจ้าพระยา
+@LOC_LTH_RIVER_LOPBURI_NAME
+en: Lop Buri River
+th: แม่น้ำลพบุรี
+@LOC_LTH_RIVER_PA_SAK_NAME
+en: Pa Sak River
+th: แม่น้ำป่าสัก
+@LOC_LTH_RIVER_NOI_NAME
+en: Noi River
+th: แม่น้ำน้อย
+@LOC_LTH_RIVER_THA_CHIN_NAME
+en: Tha Chin River
+th: แม่น้ำท่าจีน
+@LOC_LTH_RIVER_PING_NAME
+en: Ping River
+th: แม่น้ำปิง
+@LOC_LTH_RIVER_WANG_NAME
+en: Wang River
+th: แม่น้ำวัง
+@LOC_LTH_RIVER_YOM_NAME
+en: Yom River
+th: แม่น้ำยม
+@LOC_LTH_RIVER_NAN_NAME
+en: Nan River
+th: แม่น้ำน่าน
+@LOC_LTH_RIVER_BANG_PAKONG_NAME
+en: Bang Pakong River
+th: แม่น้ำบางปะกง
+
+# ---------------------------------------------------------------- citizen names
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_1
+en: Thong
+th: ทอง
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_2
+en: Chan
+th: จัน
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_3
+en: Mi
+th: มี
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_4
+en: Dok
+th: ดอก
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_5
+en: In
+th: อิน
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_6
+en: Kaeo
+th: แก้ว
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_7
+en: Ngoen
+th: เงิน
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_8
+en: Bun
+th: บุญ
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_9
+en: Phum
+th: พุ่ม
+@LOC_CITIZEN_LTH_AYUTTHAYA_MALE_10
+en: Saeng
+th: แสง
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_1
+en: Bua
+th: บัว
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_2
+en: Duang
+th: ดวง
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_3
+en: Phuang
+th: พวง
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_4
+en: Pheng
+th: เพ็ง
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_5
+en: Yaem
+th: แย้ม
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_6
+en: Chaem
+th: แช่ม
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_7
+en: Prik
+th: พริก
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_8
+en: Si
+th: ศรี
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_9
+en: Thongdi
+th: ทองดี
+@LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_10
+en: Klin
+th: กลิ่น

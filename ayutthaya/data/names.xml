@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Rivers and citizens. Pattern: DLC dai-viet named-places.xml + citizen-names.xml. Own IDs (Siam's rivers belong to Siam). -->
+<Database>
+	<NamedRivers>
+		<Row NamedRiverType="LTH_RIVER_CHAO_PHRAYA" Name="LOC_LTH_RIVER_CHAO_PHRAYA_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_LOPBURI" Name="LOC_LTH_RIVER_LOPBURI_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_PA_SAK" Name="LOC_LTH_RIVER_PA_SAK_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_NOI" Name="LOC_LTH_RIVER_NOI_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_THA_CHIN" Name="LOC_LTH_RIVER_THA_CHIN_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_PING" Name="LOC_LTH_RIVER_PING_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_WANG" Name="LOC_LTH_RIVER_WANG_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_YOM" Name="LOC_LTH_RIVER_YOM_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_NAN" Name="LOC_LTH_RIVER_NAN_NAME"/>
+		<Row NamedRiverType="LTH_RIVER_BANG_PAKONG" Name="LOC_LTH_RIVER_BANG_PAKONG_NAME"/>
+	</NamedRivers>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="LTH_RIVER_CHAO_PHRAYA" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_LOPBURI" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_PA_SAK" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_NOI" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_THA_CHIN" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_PING" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_WANG" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_YOM" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_NAN" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row NamedRiverType="LTH_RIVER_BANG_PAKONG" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+	</NamedRiverCivilizations>
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_1"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_2"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_3"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_4"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_5"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_6"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_7"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_8"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_9"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_MALE_10"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_1" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_2" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_3" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_4" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_5" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_6" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_7" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_8" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_9" Female="true"/>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CitizenName="LOC_CITIZEN_LTH_AYUTTHAYA_FEMALE_10" Female="true"/>
+	</CivilizationCitizenNames>
+</Database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Always loaded: lets later Ages remember that a player was Ayutthaya. Pattern: DLC dai-viet civilizations-legacy.xml -->
+<Database>
+	<Types>
+		<Row Type="TRAIT_LTH_AYUTTHAYA" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_LTH_AYUTTHAYA" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Name="LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME" FullName="LOC_CIVILIZATION_LTH_AYUTTHAYA_FULLNAME" Adjective="LOC_CIVILIZATION_LTH_AYUTTHAYA_ADJECTIVE" Age="AGE_EXPLORATION"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA" InternalOnly="true"/>
+	</Traits>
+	<LegacyLeaderCivPriorities>
+		<Row Leader="LEADER_ASHOKA" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row Leader="LEADER_TRUNG_TRAC" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA"/>
+	</LegacyLeaderCivPriorities>
+</Database>

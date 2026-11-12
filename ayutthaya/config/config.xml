@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shell (game setup) data. Pattern: age-exploration config/config.xml (Majapahit) + civics-traditions.xml. -->
+<Database>
+	<Civilizations>
+		<Row Domain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" CivilizationName="LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME" CivilizationFullName="LOC_CIVILIZATION_LTH_AYUTTHAYA_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_LTH_AYUTTHAYA_DESCRIPTION" CivilizationIcon="civ_sym_siam.png" CivilizationIntroText="LOC_LOADING_CIV_INTRO_TEXT_LTH_AYUTTHAYA"/>
+	</Civilizations>
+	<CivilizationItems>
+		<!-- One row per Age: the setup screen shows the ability of the Age being previewed (core civ-details.js). -->
+		<Row CivilizationDomain="AntiquityAgeCivilizations" AgeType="AGE_ANTIQUITY" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="TRAIT_LTH_AYUTTHAYA_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME" Description="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_AQ_DESCRIPTION"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" AgeType="AGE_EXPLORATION" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="TRAIT_LTH_AYUTTHAYA_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME" Description="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="ModernAgeCivilizations" AgeType="AGE_MODERN" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="TRAIT_LTH_AYUTTHAYA_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME" Description="LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_MO_DESCRIPTION"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="UNIT_LTH_BANG_RACHAN" Kind="KIND_UNIT" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_BASE_DESCRIPTION" Icon="UNIT_LTH_BANG_RACHAN"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="UNIT_LTH_THAMMATHUT" Kind="KIND_UNIT" Name="LOC_UNIT_LTH_THAMMATHUT_NAME" Description="LOC_UNIT_LTH_THAMMATHUT_DESCRIPTION" Icon="UNIT_LTH_THAMMATHUT" CanSyncretize="0"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="QUARTER_LTH_WAT" Kind="KIND_QUARTER" Name="LOC_QUARTER_LTH_WAT_NAME" Description="LOC_QUARTER_LTH_WAT_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="BUILDING_LTH_UBOSOT" Kind="KIND_BUILDING" Name="LOC_BUILDING_LTH_UBOSOT_NAME" Description="LOC_BUILDING_LTH_UBOSOT_DESCRIPTION" Icon="BUILDING_LTH_UBOSOT"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" Type="BUILDING_LTH_PRANG" Kind="KIND_BUILDING" Name="LOC_BUILDING_LTH_PRANG_NAME" Description="LOC_BUILDING_LTH_PRANG_DESCRIPTION" Icon="BUILDING_LTH_PRANG"/>
+	</CivilizationItems>
+	<CivilizationTags>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TagType="TAG_APEX_AGE_EXPLORATION"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" TagType="TAG_TRAIT_ECONOMIC"/>
+	</CivilizationTags>
+	<CivilizationUnlocks>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_KHMER" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_LTH_AYUTTHAYA" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_LTH_AYUTTHAYA_NAME" Description="LOC_CIVILIZATION_LTH_AYUTTHAYA_DESCRIPTION" Icon="CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" AgeDomain="StandardAges" AgeType="AGE_MODERN" Type="CIVILIZATION_SIAM" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_SIAM_NAME" Description="LOC_CIVILIZATION_SIAM_DESCRIPTION" Icon="CIVILIZATION_SIAM"/>
+	</CivilizationUnlocks>
+	<Traditions>
+		<Row TraditionType="TRADITION_LTH_KUNG_MAE_NAM" Name="LOC_TRADITION_LTH_KUNG_MAE_NAM_NAME" Description="LOC_TRADITION_LTH_KUNG_MAE_NAM_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+		<Row TraditionType="TRADITION_LTH_RONG_RIAN_WAT" Name="LOC_TRADITION_LTH_RONG_RIAN_WAT_NAME" Description="LOC_TRADITION_LTH_RONG_RIAN_WAT_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+		<Row TraditionType="TRADITION_LTH_PHRA_KHLANG" Name="LOC_TRADITION_LTH_PHRA_KHLANG_NAME" Description="LOC_TRADITION_LTH_PHRA_KHLANG_DESCRIPTION" TraitType="TRAIT_LTH_AYUTTHAYA" AgeType="AGE_EXPLORATION" CultureSlotType="TRADITION_CULTURE_SLOT"/>
+	</Traditions>
+	<ProgressionTreeNodes>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KHLONG" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="800" Name="LOC_CIVIC_LTH_AYU_KHLONG_NAME" IconString="cult_siam"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_SANGHA" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="800" Name="LOC_CIVIC_LTH_AYU_SANGHA_NAME" IconString="cult_siam"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" ProgressionTree="TREE_CIVICS_EX_LTH_AYUTTHAYA" Cost="1200" Name="LOC_CIVIC_LTH_AYU_KRUNG_SI_NAME" IconString="cult_siam"/>
+	</ProgressionTreeNodes>
+	<ProgressionTreeNodeUnlocks>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KHLONG" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_KUNG_MAE_NAM" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_SANGHA" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_RONG_RIAN_WAT" UnlockDepth="1"/>
+		<Row ProgressionTreeNodeType="NODE_CIVIC_EX_LTH_AYU_KRUNG_SI" TargetKind="KIND_TRADITION" TargetType="TRADITION_LTH_PHRA_KHLANG" UnlockDepth="1"/>
+	</ProgressionTreeNodeUnlocks>
+</Database>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="lth-ayutthaya" version="1" xmlns="ModInfo">
+	<Properties>
+		<!-- ASCII ONLY: Thai here is drawn on the Add-Ons screen before any Thai font is loaded. -->
+		<Name>Ayutthaya Civilization</Name>
+		<Description>Ayutthaya, the river capital of the Thai kingdom (1351-1767), as an Exploration Age civilization. Fills the gap between Khmer and Siam. Unique Wat quarter, Bang Rachan villagers, Thammathut monks, its own civic tree and a narrative event. English and Thai (Thai with the Thai Language Pack). Source: github.com/narasak/civilization-vii-mods</Description>
+		<Authors>narasak</Authors>
+		<Package>Mod</Package>
+		<AffectsSavedGames>1</AffectsSavedGames>
+		<EnabledByDefault>1</EnabledByDefault>
+	</Properties>
+	<Dependencies>
+		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="always">
+			<AlwaysMet></AlwaysMet>
+		</Criteria>
+		<Criteria id="antiquity-age-current">
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+		</Criteria>
+		<Criteria id="modern-age-current">
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-current">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-persist" any="true">
+			<AgeAtOrBefore>AGE_EXPLORATION</AgeAtOrBefore>
+		</Criteria>
+		<Criteria id="asia-wonders-exploration">
+			<ModInUse>asia-wonders</ModInUse>
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+		</Criteria>
+		<Criteria id="thai-pack">
+			<ModInUse>lth-thai-language</ModInUse>
+		</Criteria>
+	</ActionCriteria>
+	<ActionGroups>
+		<ActionGroup id="lth-ayu-art" scope="game" criteria="always">
+			<Actions>
+				<ImportFiles>
+					<!-- Panel art. The setup screen asks for "bg-panel-lth_ayutthaya" with no extension
+					     (core civ-select-model.js); the narrative panel asks for the .png. Both shipped until a test shows which resolves. -->
+					<Item>art/bg-panel-lth_ayutthaya</Item>
+					<Item>art/bg-panel-lth_ayutthaya.png</Item>
+					<Item>art/lth_ayutthaya_vert.png</Item>
+				</ImportFiles>
+				<UpdateIcons>
+					<Item>data/icons/icons.xml</Item>
+				</UpdateIcons>
+				<UpdateVisualRemaps>
+					<Item>data/visual-remaps.xml</Item>
+				</UpdateVisualRemaps>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-data" scope="game" criteria="always">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/civilizations-legacy.xml</Item>
+					<Item>data/civilizations-shared.xml</Item>
+					<Item>data/unlocks.xml</Item>
+					<Item>data/unlocks-syncretism.xml</Item>
+					<Item>data/narrative-stories-common-gameeffects.xml</Item>
+					<Item>data/names.xml</Item>
+					<Item>data/loading-info.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-persist" scope="game" criteria="exploration-age-persist">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/constructibles.xml</Item>
+					<Item>data/constructibles-gameeffects.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-exploration" scope="game" criteria="exploration-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/civilizations-exploration.xml</Item>
+					<Item>data/civilizations-gameeffects.xml</Item>
+					<Item>data/traditions.xml</Item>
+					<Item>data/traditions-gameeffects.xml</Item>
+					<Item>data/progression-trees.xml</Item>
+					<Item>data/units.xml</Item>
+					<Item>data/units-gameeffects.xml</Item>
+					<Item>data/narrative-display.xml</Item>
+					<Item>data/narrative-stories.xml</Item>
+					<Item>data/narrative-stories-gameeffects.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-antiquity" scope="game" criteria="antiquity-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/civilizations-antiquity.xml</Item>
+					<Item>data/civilizations-antiquity-gameeffects.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-modern" scope="game" criteria="modern-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/civilizations-modern.xml</Item>
+					<Item>data/civilizations-modern-gameeffects.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-wonder" scope="game" criteria="asia-wonders-exploration">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/favored-wonder.xml</Item>
+					<Item>data/favored-wonder-gameeffects.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-text" scope="game" criteria="always">
+			<Actions>
+				<UpdateText>
+					<Item>text/gen/en_us.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-text-th" scope="game" criteria="thai-pack">
+			<Properties>
+				<!-- After the Thai Language Pack (1000), so our Thai replaces our English. -->
+				<LoadOrder>1100</LoadOrder>
+			</Properties>
+			<Actions>
+				<UpdateText>
+					<Item>text/gen/th.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-shell" scope="shell" criteria="always">
+			<Actions>
+				<UIScripts>
+					<Item>ui/lth-ayu-panel.js</Item>
+				</UIScripts>
+				<ImportFiles>
+					<!-- Panel art. The setup screen asks for "bg-panel-lth_ayutthaya" with no extension
+					     (core civ-select-model.js); the narrative panel asks for the .png. Both shipped until a test shows which resolves. -->
+					<Item>art/bg-panel-lth_ayutthaya</Item>
+					<Item>art/bg-panel-lth_ayutthaya.png</Item>
+					<Item>art/lth_ayutthaya_vert.png</Item>
+				</ImportFiles>
+				<UpdateIcons>
+					<Item>data/icons/icons.xml</Item>
+				</UpdateIcons>
+				<UpdateVisualRemaps>
+					<Item>data/visual-remaps.xml</Item>
+				</UpdateVisualRemaps>
+				<UpdateDatabase>
+					<Item>config/config.xml</Item>
+					<Item>data/unlocks-syncretism.xml</Item>
+				</UpdateDatabase>
+				<UpdateText>
+					<Item>text/gen/en_us.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="lth-ayu-shell-th" scope="shell" criteria="thai-pack">
+			<Properties>
+				<LoadOrder>1100</LoadOrder>
+			</Properties>
+			<Actions>
+				<UpdateText>
+					<Item>text/gen/th.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+	</ActionGroups>
+</Mod>

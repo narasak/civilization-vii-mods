@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exploration Age only. Pattern: age-exploration civilizations-exploration.xml (Majapahit). -->
+<Database>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_LTH_AYUTTHAYA"/>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_LTH_AYU_RIVER_FOOD"/>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_LTH_AYU_BAZAAR_GOLD"/>
+	</TraitModifiers>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_PLAYER_IS_LTH_AYUTTHAYA" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_PLAYER_IS_LTH_AYUTTHAYA" RequirementId="REQ_PLAYER_HAS_TRAIT_LTH_AYUTTHAYA"/>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_LTH_AYUTTHAYA" RequirementType="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_LTH_AYUTTHAYA" Name="TraitType" Value="TRAIT_LTH_AYUTTHAYA"/>
+	</RequirementArguments>
+</Database>

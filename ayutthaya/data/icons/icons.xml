@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- v1 borrows official art (no new art packages can be built on macOS). Pattern: DLC dai-viet data/icons/icons.xml. -->
+<Database>
+	<IconDefinitions>
+		<Row>
+			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
+			<Path>blp:civ_sym_siam</Path>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
+			<Context>BACKGROUND</Context>
+			<Path>blp:lsbg_siam_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
+			<Context>BACKGROUND</Context>
+			<Path>blp:lsbg_siam_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_LTH_AYUTTHAYA</ID>
+			<Context>BACKGROUND_VERT</Context>
+			<Path>fs://game/lth-ayutthaya/art/lth_ayutthaya_vert.png</Path>
+		</Row>
+		<Row>
+			<ID>UNIT_LTH_BANG_RACHAN</ID>
+			<Path>blp:unitflag_swordsman</Path>
+		</Row>
+		<Row>
+			<ID>UNIT_LTH_BANG_RACHAN_2</ID>
+			<Path>blp:unitflag_swordsman</Path>
+		</Row>
+		<Row>
+			<ID>UNIT_LTH_BANG_RACHAN_3</ID>
+			<Path>blp:unitflag_swordsman</Path>
+		</Row>
+		<Row>
+			<ID>UNIT_LTH_THAMMATHUT</ID>
+			<Path>blp:unitflag_pedanda</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_LTH_UBOSOT</ID>
+			<Path>blp:buildicon_vihara</Path>
+		</Row>
+		<Row>
+			<ID>BUILDING_LTH_PRANG</ID>
+			<Path>blp:buildicon_meru</Path>
+		</Row>
+	</IconDefinitions>
+	<IconAliases>
+		<Row ID="LTH_KUNG_MAE_NAM_RIVER_GOLD" OtherID="MOD_TILE_YIELD_BONUS"/>
+		<Row ID="LTH_RONG_RIAN_WAT_TEMPLE_SCIENCE" OtherID="MOD_GENERIC_BONUS"/>
+		<Row ID="LTH_PHRA_KHLANG_TRADE_GOLD" OtherID="MOD_GENERIC_BONUS"/>
+		<Row ID="LTH_PHRA_KHLANG_TRADE_INFLUENCE" OtherID="MOD_GENERIC_BONUS"/>
+	</IconAliases>
+</Database>

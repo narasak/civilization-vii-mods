@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Wat quarter. Exploration Age and later (AGELESS), like Majapahit's Pura (age-exploration constructibles.xml). -->
+<Database>
+	<Types>
+		<Row Type="BUILDING_LTH_UBOSOT" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_LTH_PRANG" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="QUARTER_LTH_WAT" Kind="KIND_QUARTER"/>
+	</Types>
+	<Constructibles>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" Name="LOC_BUILDING_LTH_UBOSOT_NAME" Description="LOC_BUILDING_LTH_UBOSOT_DESCRIPTION" Tooltip="LOC_BUILDING_LTH_UBOSOT_TOOLTIP" ConstructibleClass="BUILDING" Cost="290" Population="1" Age="AGE_EXPLORATION" CostProgressionModel="COST_PROGRESSION_PREVIOUS_BUILDINGS_CITY"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" Name="LOC_BUILDING_LTH_PRANG_NAME" Description="LOC_BUILDING_LTH_PRANG_DESCRIPTION" Tooltip="LOC_BUILDING_LTH_PRANG_TOOLTIP" ConstructibleClass="BUILDING" Cost="290" Population="1" Age="AGE_EXPLORATION" CostProgressionModel="COST_PROGRESSION_PREVIOUS_BUILDINGS_CITY"/>
+	</Constructibles>
+	<Buildings>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" Movable="false" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" Movable="false" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+	</Buildings>
+	<TypeTags>
+		<Row Type="BUILDING_LTH_UBOSOT" Tag="HAPPINESS"/>
+		<Row Type="BUILDING_LTH_UBOSOT" Tag="UNIQUE"/>
+		<Row Type="BUILDING_LTH_UBOSOT" Tag="AGELESS"/>
+		<Row Type="BUILDING_LTH_PRANG" Tag="CULTURE"/>
+		<Row Type="BUILDING_LTH_PRANG" Tag="UNIQUE"/>
+		<Row Type="BUILDING_LTH_PRANG" Tag="AGELESS"/>
+	</TypeTags>
+	<Constructible_ValidDistricts>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" DistrictType="DISTRICT_URBAN"/>
+	</Constructible_ValidDistricts>
+	<Constructible_YieldChanges>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" YieldType="YIELD_HAPPINESS" YieldChange="6"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" YieldType="YIELD_CULTURE" YieldChange="6"/>
+	</Constructible_YieldChanges>
+	<Constructible_Maintenances>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" YieldType="YIELD_GOLD" Amount="3"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" YieldType="YIELD_GOLD" Amount="3"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" YieldType="YIELD_HAPPINESS" Amount="3"/>
+	</Constructible_Maintenances>
+	<Adjacency_YieldChanges>
+		<Row ID="LthUbosotRiverHappiness" YieldType="YIELD_HAPPINESS" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_NAVIGABLE_RIVER"/>
+		<Row ID="LthPrangRiverCulture" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_NAVIGABLE_RIVER"/>
+	</Adjacency_YieldChanges>
+	<Constructible_Adjacencies>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" YieldChangeId="LthUbosotRiverHappiness"/>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" YieldChangeId="WonderHappiness"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" YieldChangeId="LthPrangRiverCulture"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" YieldChangeId="WonderCulture"/>
+	</Constructible_Adjacencies>
+	<Constructible_Plunders>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" PlunderType="PLUNDER_CULTURE" Amount="80"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" PlunderType="PLUNDER_CULTURE" Amount="80"/>
+	</Constructible_Plunders>
+	<Constructible_BuildingCostProgressions>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" Percent="5"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" Percent="5"/>
+	</Constructible_BuildingCostProgressions>
+	<UniqueQuarters>
+		<Row UniqueQuarterType="QUARTER_LTH_WAT" BuildingType1="BUILDING_LTH_UBOSOT" BuildingType2="BUILDING_LTH_PRANG" Name="LOC_QUARTER_LTH_WAT_NAME" Description="LOC_QUARTER_LTH_WAT_DESCRIPTION" Tooltip="LOC_QUARTER_LTH_WAT_TOOLTIP" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+	</UniqueQuarters>
+	<UniqueQuarterModifiers>
+		<Row UniqueQuarterType="QUARTER_LTH_WAT" ModifierId="MOD_LTH_WAT_SCIENCE"/>
+		<Row UniqueQuarterType="QUARTER_LTH_WAT" ModifierId="MOD_LTH_WAT_CULTURE"/>
+	</UniqueQuarterModifiers>
+	<Constructible_Advisories>
+		<Row ConstructibleType="BUILDING_LTH_UBOSOT" AdvisoryClassType="ADVISORY_CLASS_HAPPINESS"/>
+		<Row ConstructibleType="BUILDING_LTH_PRANG" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
+	</Constructible_Advisories>
+</Database>

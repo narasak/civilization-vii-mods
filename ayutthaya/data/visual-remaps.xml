@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Draw our unique types with official art. Format: base-standard data/visual-remaps.xml. -->
+<Database>
+	<VisualRemaps>
+		<Row>
+			<ID>REMAP_LTH_BANG_RACHAN</ID>
+			<DisplayName>LOC_REMAP_LTH_BANG_RACHAN</DisplayName>
+			<Kind>UNIT</Kind>
+			<From>UNIT_LTH_BANG_RACHAN</From>
+			<To>UNIT_SWORDSMAN</To>
+		</Row>
+		<Row>
+			<ID>REMAP_LTH_BANG_RACHAN_2</ID>
+			<DisplayName>LOC_REMAP_LTH_BANG_RACHAN_2</DisplayName>
+			<Kind>UNIT</Kind>
+			<From>UNIT_LTH_BANG_RACHAN_2</From>
+			<To>UNIT_MAN_AT_ARMS</To>
+		</Row>
+		<Row>
+			<ID>REMAP_LTH_BANG_RACHAN_3</ID>
+			<DisplayName>LOC_REMAP_LTH_BANG_RACHAN_3</DisplayName>
+			<Kind>UNIT</Kind>
+			<From>UNIT_LTH_BANG_RACHAN_3</From>
+			<To>UNIT_PIKEMAN</To>
+		</Row>
+		<Row>
+			<ID>REMAP_LTH_THAMMATHUT</ID>
+			<DisplayName>LOC_REMAP_LTH_THAMMATHUT</DisplayName>
+			<Kind>UNIT</Kind>
+			<From>UNIT_LTH_THAMMATHUT</From>
+			<To>UNIT_MISSIONARY</To>
+		</Row>
+		<Row>
+			<ID>REMAP_LTH_UBOSOT</ID>
+			<DisplayName>LOC_REMAP_LTH_UBOSOT</DisplayName>
+			<Kind>BUILDING</Kind>
+			<From>BUILDING_LTH_UBOSOT</From>
+			<To>BUILDING_VIHARA</To>
+		</Row>
+		<Row>
+			<ID>REMAP_LTH_PRANG</ID>
+			<DisplayName>LOC_REMAP_LTH_PRANG</DisplayName>
+			<Kind>BUILDING</Kind>
+			<From>BUILDING_LTH_PRANG</From>
+			<To>BUILDING_MERU</To>
+		</Row>
+	</VisualRemaps>
+</Database>

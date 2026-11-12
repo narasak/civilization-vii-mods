@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Same shapes as the Exploration ability (civilizations-gameeffects.xml), scaled to the Age. -->
+<GameEffects xmlns="GameEffects">
+	<Modifier id="MOD_LTH_AYU_MO_RIVER_FOOD" collection="COLLECTION_PLAYER_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES">
+				<Argument name="TerrainType">TERRAIN_NAVIGABLE_RIVER</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+		<Argument name="Amount">2</Argument>
+		<Argument name="Tooltip">LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME</Argument>
+	</Modifier>
+	<Modifier id="MOD_LTH_AYU_MO_MARKET_GOLD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_TERRAIN">
+				<Argument name="TerrainType">TERRAIN_NAVIGABLE_RIVER</Argument>
+				<Argument name="Amount">1</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ConstructibleType">BUILDING_PORT</Argument>
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount">4</Argument>
+		<Argument name="Tooltip">LOC_TRAIT_LTH_AYUTTHAYA_ABILITY_NAME</Argument>
+	</Modifier>
+</GameEffects>

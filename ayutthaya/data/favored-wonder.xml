@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only with the asia-wonders DLC (Wat Xieng Thong lives there). Pattern: MOD_CIV_WONDER_PRODUCTION_MAJAPAHIT. -->
+<Database>
+	<CivilizationFavoredWonders>
+		<Row CivilizationType="CIVILIZATION_LTH_AYUTTHAYA" FavoredWonderType="WONDER_WAT_XIENG_THONG" FavoredWonderName="LOC_WONDER_WAT_XIENG_THONG_NAME"/>
+	</CivilizationFavoredWonders>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LTH_AYUTTHAYA_ABILITY" ModifierId="MOD_CIV_WONDER_PRODUCTION_LTH_AYUTTHAYA"/>
+	</TraitModifiers>
+</Database>
