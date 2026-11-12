@@ -2,7 +2,8 @@
 // Workshop copy can be diffed against dist/lth-thai-language. Steam did not auto-download the item
 // while it was Hidden (2026-11-06), and an installed older copy makes installInfo() look "done" early.
 //
-//   cd tools/steam && node download_item.mjs <version>      (version = modinfo version, e.g. 12)
+//   cd tools/steam && node download_item.mjs <version> [itemId]   (version = modinfo version, e.g. 12;
+//   itemId defaults to workshop/published_id.txt)
 import { createRequire } from 'node:module';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -11,8 +12,8 @@ import { fileURLToPath } from 'node:url';
 const require = createRequire(import.meta.url);
 const steamworks = require('steamworks.js');
 const MOD = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
-const itemId = BigInt(readFileSync(join(MOD, 'workshop', 'published_id.txt'), 'utf8').trim());
 const want = process.argv[2];
+const itemId = BigInt(process.argv[3] || readFileSync(join(MOD, 'workshop', 'published_id.txt'), 'utf8').trim());
 if (!/^\d+$/.test(want || '')) { console.error('usage: node download_item.mjs <version>'); process.exit(1); }
 
 let c;

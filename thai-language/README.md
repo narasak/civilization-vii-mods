@@ -22,7 +22,7 @@ python3 tools/prune_stale.py     # drop rows whose English changed or was remove
 
 ## Install
 
-- **Steam Workshop:** [subscribe to Thai Language Pack - ภาษาไทย](https://steamcommunity.com/sharedfiles/filedetails/?id=3834574849).
+- **Steam Workshop:** [subscribe to Thai Language Pack - ภาษาไทย](https://steamcommunity.com/sharedfiles/filedetails/?id=3838278744).
 - **Manual:** download `thai-language-pack-v<N>.zip` from [Releases](https://github.com/narasak/civilization-vii-mods/releases) and unzip it into your Mods folder
   (macOS `~/Library/Application Support/Civilization VII/Mods/`, Windows `%LOCALAPPDATA%\Firaxis Games\Sid Meier's Civilization VII\Mods\`).
 

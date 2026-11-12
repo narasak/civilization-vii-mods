@@ -1,0 +1,77 @@
+[h1]ย้ายไปที่ม็อดตัวใหม่แล้ว - This mod has moved[/h1]
+[b]Thai Language Pack ย้ายไปอยู่ที่ลิงก์ใหม่นี้:[/b]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3838278744]https://steamcommunity.com/sharedfiles/filedetails/?id=3838278744[/url]
+
+กรุณา [b]Subscribe ตัวใหม่[/b] แล้ว [b]Unsubscribe ตัวนี้[/b] ตัวนี้จะไม่อัปเดตอีกแล้ว อย่าเปิดใช้ทั้งสองตัวพร้อมกัน
+Please [b]subscribe to the new item[/b] above and [b]unsubscribe from this one[/b]. This item will no longer be updated. Do not enable both at once.
+
+[h1]Thai Language Pack - ภาษาไทยสำหรับ Civilization VII[/h1]
+
+เล่น Civilization VII เป็นภาษาไทยได้ทั้งเกม ตั้งแต่เมนูหลักจนถึงบทสนทนาของผู้นำ
+ม็อดนี้แปลข้อความในเกมกว่า 46,000 รายการ และมาพร้อมฟอนต์ไทยในตัว ติดตั้งแล้วใช้ได้ทันที
+
+[h2]สิ่งที่แปล[/h2]
+[list]
+[*][b]เกมหลักครบทั้ง 3 ยุค[/b] ยุคโบราณ ยุคแห่งการสำรวจ และยุคสมัยใหม่
+[*][b]DLC ทุกตัว[/b] รวมผู้นำ อารยธรรม และสิ่งมหัศจรรย์จากทุกแพ็ก
+[*]เมนู ตัวเลือก หน้าจอโหลด และคำแนะนำของที่ปรึกษา
+[*]คำอธิบายยูนิต สิ่งก่อสร้าง เทคโนโลยี หลักการพลเมือง และขนบธรรมเนียม
+[*]ซีวิโลพีเดียทั้งเล่ม เหตุการณ์เรื่องราว และบทสนทนาของผู้นำ
+[*]ภารกิจท้าทาย ตำนาน และของที่ระลึก
+[/list]
+
+[h2]จุดเด่น[/h2]
+[list]
+[*][b]ฟอนต์ไทยในตัว[/b] ใช้ Sarabun สำหรับเนื้อความ และ Kanit สำหรับหัวข้อ อ่านง่ายเข้ากับธีมเกม
+[*][b]ตัดคำไทยถูกต้อง[/b] ข้อความยาวขึ้นบรรทัดใหม่ตรงรอยต่อคำ ไม่ตัดกลางคำ
+[*][b]ศัพท์สม่ำเสมอทั้งเกม[/b] ใช้อภิธานศัพท์กลางกว่า 170 คำ เช่น City = นคร, Town = เมือง, Settlement = ถิ่นฐาน
+[*][b]ชื่อเฉพาะถอดเสียงตามหลักราชบัณฑิตยสถาน[/b] ชื่อที่มีคำไทยใช้กันอยู่แล้วใช้ตามนั้น เช่น อียิปต์ ขงจื๊อ พีระมิด
+[*][b]ไม่กระทบเซฟเกม[/b] เปิดหรือปิดม็อดได้ทุกเมื่อ เซฟเดิมยังเล่นต่อได้
+[/list]
+
+[h2]วิธีใช้[/h2]
+[olist]
+[*]กด [b]Subscribe[/b] ด้านบน
+[*]เปิดเกม ไปที่ [b]Add-Ons[/b] แล้วเปิดใช้ [b]Thai Language Pack[/b]
+[*]ตั้งภาษาของเกมเป็น [b]English[/b] ไว้ตามเดิม
+[/olist]
+เกมไม่มีภาษาไทยให้เลือกในตัวเลือกภาษา ม็อดนี้จึงแทนที่ข้อความภาษาอังกฤษด้วยภาษาไทย
+หากตั้งภาษาอื่นที่ไม่ใช่ English ข้อความจะไม่เปลี่ยนเป็นไทย
+
+[h2]คำถามที่พบบ่อย[/h2]
+[b]ทำไมหน้า Add-Ons ยังเป็นภาษาอังกฤษ[/b]
+หน้านี้แสดงก่อนที่ม็อดจะโหลด ชื่อและคำอธิบายของม็อดในหน้านี้จึงต้องเป็นภาษาอังกฤษ
+
+[b]เกมอัปเดตแล้วจะเป็นอย่างไร[/b]
+ข้อความใหม่ที่เกมเพิ่มเข้ามาจะเป็นภาษาอังกฤษ และข้อความที่เกมแก้ไขอาจยังแสดงคำแปลเดิมชั่วคราว จนกว่าม็อดจะอัปเดตตามเกม ซึ่งจะอัปเดตทุกครั้งที่เกมออกแพตช์
+
+[b]ใช้ร่วมกับม็อดอื่นได้ไหม[/b]
+ได้ ข้อความที่มาจากม็อดอื่นจะยังเป็นภาษาของม็อดนั้น
+
+[h2]สถานะและการแจ้งปัญหา[/h2]
+รุ่น 12: แปลแล้ว 46,766 จาก 46,781 ข้อความ (99.97%) ตรงกับเกมรุ่นล่าสุด (build 26334429) รวม DLC ทุกตัว
+หากพบคำแปลผิด ข้อความล้นกรอบ หรือบรรทัดทับกัน
+แจ้งได้ที่แท็บ [b]Discussions[/b] หรือ GitHub Issues พร้อมภาพหน้าจอ จะแก้ให้ในเวอร์ชันถัดไป
+
+[hr][/hr]
+
+[h2]English[/h2]
+Play Civilization VII entirely in Thai. Over 46,000 game strings are translated, from menus to leader
+dialog, with Thai fonts built in. Nothing else to install.
+
+[list]
+[*][b]Everything:[/b] base game, all three Ages and all DLC; menus, tooltips, Civilopedia, narrative
+events, leader dialog, challenges and mementos.
+[*][b]Bundled fonts:[/b] Sarabun for body text, Kanit for titles. Thai line breaking at word boundaries.
+[*][b]Consistent terminology[/b] from a shared glossary of 170+ terms.
+[*][b]Save-game safe:[/b] enable or disable at any time.
+[/list]
+
+[b]How to use:[/b] subscribe, enable [b]Thai Language Pack[/b] under Add-Ons, and keep the game language
+set to [b]English[/b]. Thai is not a selectable language in Civ VII, so this mod replaces the English text.
+
+Source code, glossary and issue tracker:
+[url=https://github.com/narasak/civilization-vii-mods]github.com/narasak/civilization-vii-mods[/url]
+
+[i]Unofficial fan project, not affiliated with Firaxis Games or 2K. Fonts: Sarabun and Kanit by Cadson
+Demak, SIL Open Font License 1.1.[/i]
