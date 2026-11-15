@@ -28,10 +28,10 @@ function lthAyuFix() {
         if (bg.includes('blp:') && bg.includes('lth_ayutthaya')) {
             el.style.backgroundImage = LTH_AYU_ART;
             lthAyuFixed++;
-            console.log(`LTH-AYU: panel art set (${lthAyuFixed})`);
+            console.error(`LTH-AYU: panel art set (${lthAyuFixed})`);
         }
     }
 }
 
 setInterval(lthAyuFix, 1000);
-console.log('LTH-AYU: panel art helper loaded');
+console.error('LTH-AYU: panel art helper loaded');

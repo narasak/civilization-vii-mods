@@ -2,10 +2,19 @@
  * @file lth-ayu-portrait.js
  * @description Give Ayutthaya's unique units a portrait in the selected-unit panel.
  *
- * The panel draws a live 3D render: unit-actions.js calls WorldUI.requestPortrait(unitType, unitType, bg)
- * and shows url("live:/<unitType>"). Visual remaps do not reach that render, so our units showed an empty
- * black square (seen 2026-11-12). We re-request the same live texture name, rendered from the unit whose
- * model the remap borrows. One element lookup per second, game only; no MutationObserver.
+ * base-standard unit-actions.js (line ~710) calls WorldUI.requestPortrait(unitType, unitType, bg) and
+ * shows url("live:/<unitType>"). Visual remaps do not reach that render, so our units showed an empty
+ * black square (2026-11-12, again 2026-11-15).
+ *
+ * v1 re-requested live:/UNIT_LTH_* with the model unit as 2nd argument: still black, so the render
+ * follows the FIRST argument. v2 used our own texture name: "Failed loading resource:
+ * live:/LTH_PORTRAIT_..." (UI.log 2026-11-15), so the name must be a real unit type. v3 shows the
+ * borrowed unit's own portrait, live:/<model>, exactly as the panel does for that unit. The panel
+ * puts live:/UNIT_LTH_* back on every refresh; the next tick swaps it again.
+ * One element lookup every 500 ms, game only; no MutationObserver.
+ *
+ * Logging uses console.error: this build writes only console.error to UI.log (the Thai pack's
+ * lth-thai-fonts.js logs the same way); console.log lines never appeared, which hid v1's state.
  */
 const LTH_AYU_PORTRAIT_MODEL = {
     UNIT_LTH_BANG_RACHAN: 'UNIT_SWORDSMAN',
@@ -13,32 +22,36 @@ const LTH_AYU_PORTRAIT_MODEL = {
     UNIT_LTH_BANG_RACHAN_3: 'UNIT_PIKEMAN',
     UNIT_LTH_THAMMATHUT: 'UNIT_MISSIONARY',
 };
-let lthAyuLastPortrait = '';
+const lthAyuRendered = new Set();
+const lthAyuLog = (msg) => console.error(`LTH-AYU: ${msg}`);
 
 function lthAyuPortrait() {
     if (typeof WorldUI === 'undefined' || !WorldUI.requestPortrait) {
         return;
     }
     const img = document.querySelector('.unit-actions__unit-portrait-image');
-    const bg = img?.style.backgroundImage || '';
-    const m = /live:\/(UNIT_LTH_[A-Z0-9_]+)/.exec(bg);
+    const m = /live:\/(UNIT_LTH_[A-Z0-9_]+)/.exec(img?.style.backgroundImage || '');
     if (!m) {
-        lthAyuLastPortrait = '';
         return;
     }
     const type = m[1];
     const model = LTH_AYU_PORTRAIT_MODEL[type];
-    if (!model || lthAyuLastPortrait === type) {
+    if (!model) {
         return;
     }
     try {
-        WorldUI.requestPortrait(type, model, 'UnitPortraitsBG_UNIQUE');
-        lthAyuLastPortrait = type;
-        console.log(`LTH-AYU: portrait ${type} rendered from ${model}`);
+        // Requested on every swap (swaps happen only when the panel resets it), in case the renderer
+        // released the texture; logged once per model.
+        WorldUI.requestPortrait(model, model, 'UnitPortraitsBG_UNIQUE');
+        if (!lthAyuRendered.has(model)) {
+            lthAyuRendered.add(model);
+            lthAyuLog(`portrait ${type} shown as ${model}`);
+        }
+        img.style.backgroundImage = `url("live:/${model}")`;
     } catch (e) {
-        console.error(`LTH-AYU: portrait request failed for ${type}: ${e}`);
+        lthAyuLog(`portrait request failed for ${type}: ${e}`);
     }
 }
 
-setInterval(lthAyuPortrait, 1000);
-console.log('LTH-AYU: portrait helper loaded');
+setInterval(lthAyuPortrait, 500);
+lthAyuLog('portrait helper v3 loaded');
