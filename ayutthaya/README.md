@@ -29,9 +29,10 @@ conditional bonus). Design and sources: [`docs/superpowers/specs/2026-11-12-ayut
 
 ## Known limits (v1)
 
-- The Ubosot and Prang have **no 3D model**, and a mod cannot give them one today. Visual remaps work for
-  units only, and the game loads art packages only from its own DLC folders, never from a mod folder
-  (tested 2026-11-16: a package inside the mod logged `No Packages found` in `ArtDef.log`).
+- The Ubosot and Prang borrow the game's **Vihara** and **Meru** models. A mod cannot ship building
+  art (the game loads art packages only from its own DLC folders: `No Packages found` in `ArtDef.log`,
+  2026-11-16), so `ui/lth-ayu-models.js` places the existing models on those plots from the UI with
+  `WorldUI.createModelGroup` / `addModelAtPlot`. They are scenery only: no construction or pillaged look.
 - The civilization-details screen background stays dark for the same reason (it is a packed 3D texture).
   The civ card and setup hub show the mod's own panel art.
 

@@ -16,7 +16,7 @@ Ayutthaya, the river capital of the Thai kingdom (1351-1767), joins the Explorat
 [/list]
 
 [h2]Known limits[/h2]
-The Ubosot and Prang have no 3D model: their plots stay empty on the map, though the quarter and all its bonuses work. The game loads building art only from its own DLC folders, never from a mod, so no mod can add it today. Units borrow existing game models. Icons and panel art are original 2D work.
+The Ubosot and Prang borrow the game's Vihara and Meru models, placed on their plots by the mod (no construction or pillaged look). New 3D models are not possible: the game loads building art only from its own DLC folders. Units also borrow existing game models. Icons and panel art are original 2D work.
 
 Thai text appears automatically with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3838278744]Thai Language Pack[/url].
 
@@ -34,7 +34,7 @@ Thai text appears automatically with the [url=https://steamcommunity.com/sharedf
 [*][b]ช้างทรง[/b] ได้จากการรับคำท้าในเหตุการณ์ยุทธหัตถี ยูนิตทหารม้าที่แข็งแกร่งแต่เคลื่อนที่ช้า สร้างหรือซื้อไม่ได้
 [*]ต้นไม้หลักการพลเมือง ชื่อเมืองและซีวิโลพีเดียทั้งภาษาไทยและอังกฤษ
 [/list]
-ข้อความภาษาไทยจะแสดงเมื่อเปิดม็อด Thai Language Pack ด้วย อุโบสถและพระปรางค์ยังไม่มีโมเดล 3D บนแผนที่ (ช่องจะว่างไว้ แต่ย่านวัดและโบนัสทำงานครบ) เพราะเกมโหลดภาพสิ่งก่อสร้างจากโฟลเดอร์ DLC ของเกมเท่านั้น ม็อดจึงยังใส่ภาพให้ไม่ได้
+ข้อความภาษาไทยจะแสดงเมื่อเปิดม็อด Thai Language Pack ด้วย อุโบสถและพระปรางค์ยืมโมเดลวิหารและเมรุของเกมมาแสดงบนแผนที่ (ไม่มีภาพตอนกำลังสร้างหรือถูกปล้น) ส่วนโมเดล 3D ใหม่ยังทำไม่ได้ เพราะเกมโหลดภาพสิ่งก่อสร้างจากโฟลเดอร์ DLC ของเกมเท่านั้น
 
 Source: https://github.com/narasak/civilization-vii-mods
 [i]Unofficial fan project, not affiliated with Firaxis Games or 2K.[/i]

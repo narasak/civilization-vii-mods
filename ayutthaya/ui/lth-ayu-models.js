@@ -8,13 +8,18 @@
  * params). The base game does this itself (unit-flags/unit-info.js, tuner-input.js, world-vfx.js).
  * Learned from reading Sloth's "Custom Civ Art Fixes" (no licence: idea only, no code copied).
  *
- * TRIAL (2026-11-16): asset names, offsets and scale are first guesses to be judged in game.
+ * Verified in game 2026-11-16: the Vihara and Meru models appear on the Wat plot (trial 2).
+ * Offsets are in tile units; positions and scale are tuned by eye.
  * Only completed buildings on plots the local player has revealed get a model.
  * Logging uses console.error, the only level this build writes to UI.log.
  */
 const LTH_AYU_MODELS = {
-    BUILDING_LTH_UBOSOT: { asset: 'BIN_Vihara_Scaled', offset: { x: -14, y: 6, z: 0 } },
-    BUILDING_LTH_PRANG: { asset: 'BIN_Meru_Scaled', offset: { x: 14, y: -6, z: 0 } },
+    // Offsets are in tile units: the base game's movement pips sit at ~0.45 from the centre (unit-info.js).
+    // Trial 1 used 14 and put the models 14 tiles away (UI.log said 6 placed, none visible).
+    // Trial 2 (2026-11-16, ±0.18): both visible on the Wat plot; the Meru's right side crossed the hex
+    // edge, so it moves in and both are drawn at 0.9 scale.
+    BUILDING_LTH_UBOSOT: { asset: 'BIN_Vihara_Scaled', offset: { x: -0.15, y: 0.06, z: 0 }, scale: 0.9 },
+    BUILDING_LTH_PRANG: { asset: 'BIN_Meru_Scaled', offset: { x: 0.11, y: -0.1, z: 0 }, scale: 0.9 },
 };
 const lthAyuModelLog = (msg) => console.error(`LTH-AYU: ${msg}`);
 const lthAyuPlots = new Map();          // "x,y" -> [{ asset, offset }]
@@ -59,7 +64,7 @@ function lthAyuRebuild() {
         const [x, y] = key.split(',').map(Number);
         for (const m of models) {
             try {
-                const params = { placement: PlacementMode.TERRAIN, angle: 0, scale: 1, needsShadows: true, initialState: 'IDLE' };
+                const params = { placement: PlacementMode.TERRAIN, angle: 0, scale: m.scale ?? 1, needsShadows: true, initialState: 'IDLE' };
                 const model = lthAyuGroup.addModelAtPlot(m.asset, { i: x, j: y }, m.offset, params);
                 if (model === undefined || model === null) {
                     if (!lthAyuRejected.has(m.asset)) {
@@ -115,7 +120,7 @@ function lthAyuModelsInit() {
     }
     engine.on('LocalPlayerChanged', lthAyuFullScan);
     lthAyuFullScan();
-    lthAyuModelLog('models helper (trial) loaded');
+    lthAyuModelLog('models helper loaded');
 }
 
 // The map and gameplay APIs are ready once the game has loaded; wait for that before scanning.
