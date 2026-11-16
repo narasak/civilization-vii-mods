@@ -1,6 +1,6 @@
 # Ayutthaya: Elephant Duel, Kosa Pan, Building Models — Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [x]`) syntax for tracking.
 
 **Goal:** Add stories 03 (Yutthahatthi) and 04 (embassy to Versailles), the royal war elephant they grant, and then try an art package that gives the Ubosot and the Prang existing game models.
 
@@ -34,16 +34,16 @@
 
 **Produces:** unit class tag `UNIT_CLASS_LTH_CHANG_SONG`, used by Task 2's grant.
 
-- [ ] Add rows to `units.xml`:
+- [x] Add rows to `units.xml`:
   - `Units`: `Tier="2" Maintenance="0" BaseSightRange="2" BaseMoves="2"`, mounted, land combat, `CanTrain="false" CanPurchase="false"`, `TraitType="TRAIT_LTH_AYUTTHAYA"`.
   - `Unit_Stats`: Combat 50.
   - `TypeTags`: COMBAT, MELEE (or the cavalry class the knight uses), UNIQUE, `UNIT_CLASS_LTH_CHANG_SONG`.
   - `Unit_Advisories`: military.
-- [ ] Remap the unit to `UNIT_DANTINAS_TATHA` in `visual-remaps.xml`.
-- [ ] Draw an elephant silhouette flag with `make_icons.py` (`chang_song()`), add it to `icons.xml` and to the modinfo `ImportFiles`.
-- [ ] Add `UNIT_LTH_CHANG_SONG: 'UNIT_DANTINAS_TATHA'` to `LTH_AYU_PORTRAIT_MODEL`.
-- [ ] Add strings: `LOC_UNIT_LTH_CHANG_SONG_NAME` ("Royal War Elephant" / "ช้างทรง"), `_DESCRIPTION`, `LOC_REMAP_LTH_CHANG_SONG`.
-- [ ] Run `python3 tools/build.py --check`. Expected: 0 findings.
+- [x] Remap the unit to `UNIT_DANTINAS_TATHA` in `visual-remaps.xml`.
+- [x] Draw an elephant silhouette flag with `make_icons.py` (`chang_song()`), add it to `icons.xml` and to the modinfo `ImportFiles`.
+- [x] Add `UNIT_LTH_CHANG_SONG: 'UNIT_DANTINAS_TATHA'` to `LTH_AYU_PORTRAIT_MODEL`.
+- [x] Add strings: `LOC_UNIT_LTH_CHANG_SONG_NAME` ("Royal War Elephant" / "ช้างทรง"), `_DESCRIPTION`, `LOC_REMAP_LTH_CHANG_SONG`.
+- [x] Run `python3 tools/build.py --check`. Expected: 0 findings.
 
 ### Task 2: Stories 03 and 04
 
@@ -51,25 +51,25 @@
 
 **Consumes:** `UNIT_CLASS_LTH_CHANG_SONG`.
 
-- [ ] Add 03A/B/C and 04A/B/C rows to every table that 01/02 use: Types, NarrativeStories, Rewards, Story_Rewards, RewardIcons (03B UNIT, 03C YIELD_CULTURE, 04B YIELD_DIPLOMACY, 04C YIELD_SCIENCE), TextReplacements and Links.
-- [ ] Requirement sets:
+- [x] Add 03A/B/C and 04A/B/C rows to every table that 01/02 use: Types, NarrativeStories, Rewards, Story_Rewards, RewardIcons (03B UNIT, 03C YIELD_CULTURE, 04B YIELD_DIPLOMACY, 04C YIELD_SCIENCE), TextReplacements and Links.
+- [x] Requirement sets:
   - `REQSET_LTH_AYU_03A_NARRATIVE` = civ check + `REQUIREMENT_PLAYER_HAS_X_WARS` (Amount 1) + `REQUIREMENT_PLAYER_HAS_COMMANDERS_WITH_X_LEVELS` (LevelCount 2, CommanderCount 1).
   - `REQSET_LTH_AYU_04A_NARRATIVE` = civ check + `REQUIREMENT_PLAYER_MET_NUM_CIVS` (Amount 3).
-- [ ] Modifiers:
+- [x] Modifiers:
   - 03B: `EFFECT_CITY_GRANT_UNIT` on the capital, UnitTag `UNIT_CLASS_LTH_CHANG_SONG`, run-once.
   - 03C, 04B, 04C: `EFFECT_PLAYER_GRANT_YIELD_NARRATIVE` with `REWARD_TYPE_MEDIUM_EARLY`.
-- [ ] Add strings for STORYTITLE, NAME, DESCRIPTION and COMPLETION on 03A–04C, with history as in the spec.
-- [ ] Run `python3 tools/build.py --check`. Expected: 0 findings.
-- [ ] Commit Tasks 1 and 2 together.
+- [x] Add strings for STORYTITLE, NAME, DESCRIPTION and COMPLETION on 03A–04C, with history as in the spec.
+- [x] Run `python3 tools/build.py --check`. Expected: 0 findings.
+- [x] Commit Tasks 1 and 2 together.
 
 ### Task 3: Install and test in game (the owner plays)
 
-- [ ] Run `LTH_PYTHON=<venv python> tools/install.sh`. Expected: `installed -> …/Mods/lth-ayutthaya`.
-- [ ] The owner plays. Story 04 should fire after meeting 3 civilizations. Story 03 should fire when at war with a level-2 commander. Check that choice 03B gives an elephant with the elephant model, a portrait and a flag, and that the elephant appears in no build or buy list.
-- [ ] Read `UI.log`, `Database.log` and `Modding.log`. Expected: no LTH errors.
+- [x] Run `LTH_PYTHON=<venv python> tools/install.sh`. Expected: `installed -> …/Mods/lth-ayutthaya`.
+- [ ] (story 04 not yet seen in game; story 03 and the elephant verified 2026-11-16) The owner plays. Story 04 should fire after meeting 3 civilizations. Story 03 should fire when at war with a level-2 commander. Check that choice 03B gives an elephant with the elephant model, a portrait and a flag, and that the elephant appears in no build or buy list.
+- [x] Read `UI.log`, `Database.log` and `Modding.log`. Expected: no LTH errors.
 
 ### Task 4 (Part 2): Building-model art package experiment
 
-- [ ] Write `ayutthaya/tools/blp/` (our own `.blp` writer) and generate a package with two `BIN_Hero_Building_Footprint` rows: `BUILDING_LTH_UBOSOT` → the Vihara asset, `BUILDING_LTH_PRANG` → the Meru asset. Add `<UpdateArt>` to the modinfo.
-- [ ] Install it, have the owner start a game, and read `ArtDef.log`.
-- [ ] Stop rule: "No Packages found", or no models, means drop Part 2 and report back.
+- [x] (replaced by a cheaper first test: a renamed copy of a small DLC package inside the mod; no writer was built) Write `ayutthaya/tools/blp/` (our own `.blp` writer) and generate a package with two `BIN_Hero_Building_Footprint` rows: `BUILDING_LTH_UBOSOT` → the Vihara asset, `BUILDING_LTH_PRANG` → the Meru asset. Add `<UpdateArt>` to the modinfo.
+- [x] Install it, have the owner start a game, and read `ArtDef.log`.
+- [x] (FIRED 2026-11-16: `No Packages found`; Part 2 dropped, building remaps removed) Stop rule: "No Packages found", or no models, means drop Part 2 and report back.
