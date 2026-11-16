@@ -47,6 +47,7 @@
 			<Actions>
 				<UIScripts>
 					<Item>ui/lth-ayu-portrait.js</Item>
+					<Item>ui/lth-ayu-models.js</Item>
 				</UIScripts>
 				<ImportFiles>
 					<!-- Panel art. The setup screen asks for "bg-panel-lth_ayutthaya" with no extension
