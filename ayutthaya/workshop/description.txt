@@ -8,14 +8,15 @@ Ayutthaya, the river capital of the Thai kingdom (1351-1767), joins the Explorat
 [*][b]Bang Rachan Villager[/b] (unique unit, Swordsman line): +5 Combat Strength inside your own territory.
 [*][b]Thammathut[/b] (unique Missionary): +25 Science for each Settlement converted, honouring the 1753 mission of Ayutthaya monks that founded the Siam Nikaya in Sri Lanka.
 [*][b]Civic tree[/b] Khlong, Sangha, Krung Si with the traditions River Prawns, Temple Schools and Phra Khlang Sinkha.
-[*][b]Narrative events[/b]: The Legend of Bang Rachan, and The Floating Market at Wat Doem.
+[*][b]Narrative events[/b]: The Legend of Bang Rachan, The Floating Market at Wat Doem, [b]Yutthahatthi[/b] (King Naresuan's elephant duel, 1592) and [b]The Embassy to Versailles[/b] (Kosa Pan at the court of Louis XIV, 1686).
+[*][b]Royal War Elephant[/b]: won by accepting the duel in Yutthahatthi. A strong, slow mounted unit that cannot be trained or bought.
 [*][b]Unlocks[/b]: play as Khmer, or found 3 Settlements on Navigable Rivers in Antiquity. Ayutthaya unlocks Siam.
 [*]Wat Xieng Thong is the associated wonder when the Asia wonders DLC is enabled.
 [*]30 city names, rivers, citizens and Civilopedia history, all in English and Thai.
 [/list]
 
 [h2]Known limits[/h2]
-Firaxis' Art Tools are not released yet, so the Ubosot and Prang have no 3D model (their plots stay empty) and units borrow existing models. Icons and panel art are original 2D work. This will improve when the Art Tools ship.
+The Ubosot and Prang have no 3D model: their plots stay empty on the map, though the quarter and all its bonuses work. The game loads building art only from its own DLC folders, never from a mod, so no mod can add it today. Units borrow existing game models. Icons and panel art are original 2D work.
 
 Thai text appears automatically with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3838278744]Thai Language Pack[/url].
 
@@ -29,9 +30,11 @@ Thai text appears automatically with the [url=https://steamcommunity.com/sharedf
 [*][b]วัด[/b] ย่านเฉพาะตัว ประกอบด้วยอุโบสถและพระปรางค์ สร้างครบในเขตเดียวกันได้ +4 วิทยาศาสตร์ +2 วัฒนธรรม เพราะวัดคือโรงเรียนของหมู่บ้าน
 [*][b]ชาวบ้านบางระจัน[/b] +5 พลังการรบเมื่อสู้ในดินแดนของตนเอง
 [*][b]พระธรรมทูต[/b] ได้วิทยาศาสตร์ทุกครั้งที่เผยแผ่ศาสนาสำเร็จ รำลึกถึงคณะสงฆ์อยุธยาที่ไปฟื้นฟูการอุปสมบทในศรีลังกา พ.ศ. 2296 จนเกิดสยามนิกาย
-[*]ต้นไม้หลักการพลเมือง เหตุการณ์ตำนานบางระจันและตลาดน้ำวัดเดิม ชื่อเมืองและซีวิโลพีเดียทั้งภาษาไทยและอังกฤษ
+[*][b]เหตุการณ์[/b] ตำนานบางระจัน ตลาดน้ำวัดเดิม [b]ยุทธหัตถี[/b] (พ.ศ. 2135) และ[b]คณะราชทูตสู่แวร์ซาย[/b] (โกษาปาน พ.ศ. 2229)
+[*][b]ช้างทรง[/b] ได้จากการรับคำท้าในเหตุการณ์ยุทธหัตถี ยูนิตทหารม้าที่แข็งแกร่งแต่เคลื่อนที่ช้า สร้างหรือซื้อไม่ได้
+[*]ต้นไม้หลักการพลเมือง ชื่อเมืองและซีวิโลพีเดียทั้งภาษาไทยและอังกฤษ
 [/list]
-ข้อความภาษาไทยจะแสดงเมื่อเปิดม็อด Thai Language Pack ด้วย ส่วนโมเดล 3D ของอุโบสถและพระปรางค์ต้องรอเครื่องมือ Art Tools ของ Firaxis
+ข้อความภาษาไทยจะแสดงเมื่อเปิดม็อด Thai Language Pack ด้วย อุโบสถและพระปรางค์ยังไม่มีโมเดล 3D บนแผนที่ (ช่องจะว่างไว้ แต่ย่านวัดและโบนัสทำงานครบ) เพราะเกมโหลดภาพสิ่งก่อสร้างจากโฟลเดอร์ DLC ของเกมเท่านั้น ม็อดจึงยังใส่ภาพให้ไม่ได้
 
 Source: https://github.com/narasak/civilization-vii-mods
 [i]Unofficial fan project, not affiliated with Firaxis Games or 2K.[/i]

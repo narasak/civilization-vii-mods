@@ -381,14 +381,6 @@ th: อยุธยา: พระธรรมทูตใช้ภาพมิ�
 en: Ayutthaya: Royal War Elephant uses Dantinas Tatha art
 th: อยุธยา: ช้างทรงใช้ภาพช้างศึกดันตินาส ตาธา
 
-@LOC_REMAP_LTH_UBOSOT
-en: Ayutthaya: Ubosot uses Vihara art
-th: อยุธยา: อุโบสถใช้ภาพวิหาร
-
-@LOC_REMAP_LTH_PRANG
-en: Ayutthaya: Prang uses Meru art
-th: อยุธยา: พระปรางค์ใช้ภาพเมรุ
-
 # ---------------------------------------------------------------- Civilopedia
 @LOC_PEDIA_PAGE_CIVILIZATION_LTH_AYUTTHAYA_CHAPTER_HISTORY_PARA_1
 en: The chronicles date the founding of Ayutthaya to 1351, when King U Thong built a capital on an island where the Chao Phraya, Lopburi and Pa Sak rivers meet. The site was chosen for water: the rivers carried rice down from the plains and trade up from the Gulf of Siam, and every rainy season the floods turned the island into a fortress.

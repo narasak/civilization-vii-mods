@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!-- Draw our unique types with official art. Format: base-standard data/visual-remaps.xml. -->
+<!-- Draw our unique UNITS with official art. Building remaps were removed 2026-11-16: the game ignores them
+     (art is looked up only in packaged DLC art, and mods cannot ship that: ArtDef.log "No Packages found"). Format: base-standard data/visual-remaps.xml. -->
 <Database>
 	<VisualRemaps>
 		<Row>
@@ -36,20 +37,6 @@
 			<Kind>UNIT</Kind>
 			<From>UNIT_LTH_CHANG_SONG</From>
 			<To>UNIT_DANTINAS_TATHA</To>
-		</Row>
-		<Row>
-			<ID>REMAP_LTH_UBOSOT</ID>
-			<DisplayName>LOC_REMAP_LTH_UBOSOT</DisplayName>
-			<Kind>BUILDING</Kind>
-			<From>BUILDING_LTH_UBOSOT</From>
-			<To>BUILDING_VIHARA</To>
-		</Row>
-		<Row>
-			<ID>REMAP_LTH_PRANG</ID>
-			<DisplayName>LOC_REMAP_LTH_PRANG</DisplayName>
-			<Kind>BUILDING</Kind>
-			<From>BUILDING_LTH_PRANG</From>
-			<To>BUILDING_MERU</To>
 		</Row>
 	</VisualRemaps>
 </Database>

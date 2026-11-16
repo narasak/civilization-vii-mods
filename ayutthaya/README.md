@@ -15,7 +15,8 @@ the gap in the game's Thai line: Khmer (Antiquity) → **Ayutthaya** (Exploratio
 | **Bang Rachan Villager** | Replaces the Swordsman line (35/40/45). +5 Combat Strength inside your own territory. |
 | **Thammathut** | Replaces the Missionary. +25 Science per settlement converted. Honours the 1753 mission that founded the Siam Nikaya in Sri Lanka. |
 | **Civic tree** | Khlong, Sangha, Krung Si: traditions River Prawns, Temple Schools, Phra Khlang Sinkha; +1 settlement cap. |
-| **Narrative** | The Legend of Bang Rachan; The Floating Market at Wat Doem. |
+| **Narrative** | The Legend of Bang Rachan; The Floating Market at Wat Doem; Yutthahatthi (the elephant duel of 1592); The Embassy to Versailles (Kosa Pan, 1686). |
+| **Royal War Elephant** | Granted only by Yutthahatthi: mounted, 50 Combat Strength, 2 moves, no upkeep. Cannot be trained or bought. Uses the Khmer war elephant model. |
 | **Unlocks** | Play as Khmer, or found 3 settlements on Navigable Rivers in Antiquity. Ayutthaya unlocks Siam. |
 | **Wonder** | Wat Xieng Thong is the associated wonder when the Asia wonders DLC is enabled. |
 
@@ -28,8 +29,9 @@ conditional bonus). Design and sources: [`docs/superpowers/specs/2026-11-12-ayut
 
 ## Known limits (v1)
 
-- The Ubosot and Prang have **no 3D model yet**: the game's visual remaps work for units but not for new
-  building types, and new art packages can only be built with Firaxis' Windows-only Development Tools.
+- The Ubosot and Prang have **no 3D model**, and a mod cannot give them one today. Visual remaps work for
+  units only, and the game loads art packages only from its own DLC folders, never from a mod folder
+  (tested 2026-11-16: a package inside the mod logged `No Packages found` in `ArtDef.log`).
 - The civilization-details screen background stays dark for the same reason (it is a packed 3D texture).
   The civ card and setup hub show the mod's own panel art.
 
