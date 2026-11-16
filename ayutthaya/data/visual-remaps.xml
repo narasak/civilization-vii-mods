@@ -31,6 +31,13 @@
 			<To>UNIT_MISSIONARY</To>
 		</Row>
 		<Row>
+			<ID>REMAP_LTH_CHANG_SONG</ID>
+			<DisplayName>LOC_REMAP_LTH_CHANG_SONG</DisplayName>
+			<Kind>UNIT</Kind>
+			<From>UNIT_LTH_CHANG_SONG</From>
+			<To>UNIT_DANTINAS_TATHA</To>
+		</Row>
+		<Row>
 			<ID>REMAP_LTH_UBOSOT</ID>
 			<DisplayName>LOC_REMAP_LTH_UBOSOT</DisplayName>
 			<Kind>BUILDING</Kind>

@@ -7,6 +7,7 @@ Writes icons/*.png at 256x256, drawn at 4x and downsampled for clean edges:
   civ_sym_lth_ayutthaya   white emblem: a prang rising over river waves (like the game's civ symbols)
   unitflag_lth_bang_rachan white: crossed Thai swords (daap song mue) - the villagers' weapon
   unitflag_lth_thammathut  white: a monk's alms bowl with its lid and stand
+  unitflag_lth_chang_song  white: a royal war elephant in profile
   buildicon_lth_ubosot     round gold-on-navy: tiered-roof ordination hall with chofa finials
   buildicon_lth_prang      round gold-on-navy: corncob prang on its stepped plinth
 data/icons/icons.xml points the game at these through fs://game/lth-ayutthaya/icons/<name>.png
@@ -109,6 +110,21 @@ def thammathut():
     save(img, 'unitflag_lth_thammathut')
 
 
+def chang_song():
+    """A war elephant in profile, facing left, with a howdah-like saddle cloth (original silhouette)."""
+    img, d = canvas()
+    d.ellipse([p(70, 92), p(206, 176)], fill=WHITE)                          # body
+    d.ellipse([p(38, 70), p(112, 140)], fill=WHITE)                          # head
+    d.polygon([p(46, 112), p(30, 150), p(30, 200), p(46, 204), p(48, 160), p(62, 128)], fill=WHITE)  # trunk
+    d.polygon([p(44, 132), p(16, 128), p(20, 138), p(46, 142)], fill=WHITE)  # tusk
+    for x in (84, 116, 156, 182):                                            # legs
+        d.rectangle([p(x, 150), p(x + 20, 214)], fill=WHITE)
+    d.polygon([p(204, 120), p(222, 160), p(214, 162), p(200, 132)], fill=WHITE)  # tail
+    d.polygon([p(104, 92), p(176, 92), p(170, 66), p(110, 66)], fill=WHITE)  # saddle seat
+    d.polygon([p(124, 66), p(156, 66), p(140, 34)], fill=WHITE)             # parasol tip (royal mount)
+    save(img, 'unitflag_lth_chang_song')
+
+
 def round_base(d):
     d.ellipse([p(6, 6), p(250, 250)], fill=RING)
     d.ellipse([p(14, 14), p(242, 242)], fill=NAVY)
@@ -145,5 +161,6 @@ if __name__ == '__main__':
     civ_symbol()
     bang_rachan()
     thammathut()
+    chang_song()
     ubosot_icon()
     prang_icon()

@@ -118,6 +118,14 @@ th: มิชชันนารีเฉพาะตัวของอยุธ�
 en: Receive {1_Amount}[icon:YIELD_SCIENCE] Science when you convert a [TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]Settlement[/TIP] for the first time.
 th: รับ {1_Amount}[icon:YIELD_SCIENCE] วิทยาศาสตร์ เมื่อคุณเปลี่ยนศาสนาของ[TIP:LOC_PEDIA_CONCEPTS_SETTLEMENT_TOOLTIP]ถิ่นฐาน[/TIP]ได้เป็นครั้งแรก
 
+@LOC_UNIT_LTH_CHANG_SONG_NAME
+en: Royal War Elephant
+th: ช้างทรง
+
+@LOC_UNIT_LTH_CHANG_SONG_DESCRIPTION
+en: The king's own war elephant, in memory of Chao Phraya Chaiyanuphap, the elephant King Naresuan rode in the duel of 1592. A strong, slow mounted unit. It cannot be trained or bought: only the story "Yutthahatthi" grants it.
+th: ช้างศึกคู่พระบารมี เพื่อรำลึกถึงเจ้าพระยาไชยานุภาพ ช้างทรงของสมเด็จพระนเรศวรในการกระทำยุทธหัตถีเมื่อ พ.ศ. 2135 เป็นยูนิตทหารม้าที่แข็งแกร่งแต่เคลื่อนที่ช้า สร้างหรือซื้อไม่ได้ ได้มาจากเรื่องราว "ยุทธหัตถี" เท่านั้น
+
 # ---------------------------------------------------------------- civic tree and traditions
 @LOC_TREE_CIVICS_EX_LTH_AYUTTHAYA_NAME
 en: Ayutthaya
@@ -270,6 +278,88 @@ th: {1_reward}
 en: Lanterns float on the water, and the whole town comes by boat to make merit.
 th: โคมลอยอยู่บนผิวน้ำ ทั้งเมืองพายเรือมาทำบุญ
 
+# ---------------------------------------------------------------- narrative: Yutthahatthi, the elephant duel
+@LOC_LTH_AYU_03A_STORYTITLE
+en: Yutthahatthi
+th: ยุทธหัตถี
+
+@LOC_LTH_AYU_03A_NAME
+en: Yutthahatthi
+th: ยุทธหัตถี
+
+@LOC_LTH_AYU_03A_DESCRIPTION
+en: Be at war with a Commander of level 2 or higher.
+th: อยู่ในภาวะสงคราม และมีผู้บัญชาการระดับ 2 ขึ้นไป
+
+@LOC_LTH_AYU_03A_COMPLETION
+en: In 1592 two armies met at Nong Sarai. King Naresuan, his elephant charging ahead of his own lines, called out to the enemy crown prince to come and fight him alone, elephant against elephant, as kings of old had done. Today a prince of the enemy army sends the same challenge to your general.
+th: เมื่อ พ.ศ. 2135 ทัพสองฝ่ายปะทะกันที่หนองสาหร่าย ช้างทรงของสมเด็จพระนเรศวรตกมันพาพระองค์ฝ่าเข้าไปกลางทัพข้าศึก พระองค์ตรัสเชิญพระมหาอุปราชาออกมากระทำยุทธหัตถีตัวต่อตัวดังกษัตริย์แต่โบราณ วันนี้เจ้าชายของทัพฝ่ายตรงข้ามส่งคำท้าเดียวกันนี้มายังแม่ทัพของคุณ
+
+@LOC_LTH_AYU_03B_NAME
+en: Ride out and accept the duel.
+th: ไสช้างออกไปรับคำท้า
+
+@LOC_LTH_AYU_03B_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_03B_COMPLETION
+en: The two elephants clash. When the dust settles, your general's mount stands, and the royal stables send a war elephant fit for a king.
+th: ช้างทั้งสองปะทะกัน เมื่อฝุ่นจางลง ช้างของแม่ทัพคุณยังยืนหยัด โรงช้างหลวงจึงส่งช้างศึกที่คู่ควรกับกษัตริย์มาให้
+
+@LOC_LTH_AYU_03C_NAME
+en: Raise a great chedi for victory.
+th: สร้างเจดีย์องค์ใหญ่เฉลิมฉลองชัยชนะ
+
+@LOC_LTH_AYU_03C_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_03C_COMPLETION
+en: As King Naresuan's victory is remembered at the great chedi of Wat Yai Chai Mongkhon, your people raise a chedi that can be seen from the river.
+th: ดังที่ชัยชนะของสมเด็จพระนเรศวรได้รับการรำลึกถึงที่เจดีย์องค์ใหญ่ของวัดใหญ่ชัยมงคล ประชาชนของคุณก็สร้างเจดีย์ที่มองเห็นได้จากแม่น้ำ
+
+# ---------------------------------------------------------------- narrative: the embassy to Versailles
+@LOC_LTH_AYU_04A_STORYTITLE
+en: The Embassy to Versailles
+th: คณะราชทูตสู่แวร์ซาย
+
+@LOC_LTH_AYU_04A_NAME
+en: The Embassy to Versailles
+th: คณะราชทูตสู่แวร์ซาย
+
+@LOC_LTH_AYU_04A_DESCRIPTION
+en: Meet 3 other civilizations.
+th: พบอารยธรรมอื่น 3 ชาติ
+
+@LOC_LTH_AYU_04A_COMPLETION
+en: In 1686 King Narai sent Kosa Pan across the oceans to the court of Louis XIV. Paris crowded the streets to see the Siamese envoys, and at Versailles they bowed before the throne carrying the king's letter on a golden tray. Now a distant court asks for an embassy, and your finest envoy is ready to sail.
+th: เมื่อ พ.ศ. 2229 สมเด็จพระนารายณ์ทรงส่งออกพระวิสูตรสุนทร (โกษาปาน) ข้ามมหาสมุทรไปยังราชสำนักของพระเจ้าหลุยส์ที่ 14 ชาวปารีสออกมาเบียดเสียดกันตามถนนเพื่อชมคณะทูตสยาม และที่แวร์ซายคณะทูตได้เชิญพระราชสาส์นบนพานทองเข้าเฝ้า บัดนี้ราชสำนักแดนไกลขอให้ส่งคณะทูต และราชทูตที่ดีที่สุดของคุณก็พร้อมออกเดินทางแล้ว
+
+@LOC_LTH_AYU_04B_NAME
+en: Send the embassy with royal gifts.
+th: ส่งคณะทูตพร้อมเครื่องราชบรรณาการ
+
+@LOC_LTH_AYU_04B_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_04B_COMPLETION
+en: Lacquerware, silk and porcelain dazzle the foreign court. Your name is spoken with respect in palaces far away.
+th: เครื่องเขิน ผ้าไหม และเครื่องลายครามทำให้ราชสำนักต่างแดนตื่นตา นามของคุณถูกกล่าวถึงด้วยความเคารพในพระราชวังแดนไกล
+
+@LOC_LTH_AYU_04C_NAME
+en: Bring back the knowledge of the West.
+th: นำความรู้จากตะวันตกกลับมา
+
+@LOC_LTH_AYU_04C_DESCRIPTION
+en: {1_reward}.
+th: {1_reward}
+
+@LOC_LTH_AYU_04C_COMPLETION
+en: The envoys return with maps, clocks, telescopes and careful notes on everything they saw.
+th: คณะทูตกลับมาพร้อมแผนที่ นาฬิกา กล้องส่องทางไกล และบันทึกอย่างละเอียดถึงทุกสิ่งที่ได้พบเห็น
+
 # ---------------------------------------------------------------- visual remap options
 @LOC_REMAP_LTH_BANG_RACHAN
 en: Ayutthaya: Bang Rachan Villager uses Swordsman art
@@ -286,6 +376,10 @@ th: อยุธยา: ชาวบ้านบางระจัน (ระด
 @LOC_REMAP_LTH_THAMMATHUT
 en: Ayutthaya: Thammathut uses Missionary art
 th: อยุธยา: พระธรรมทูตใช้ภาพมิชชันนารี
+
+@LOC_REMAP_LTH_CHANG_SONG
+en: Ayutthaya: Royal War Elephant uses Dantinas Tatha art
+th: อยุธยา: ช้างทรงใช้ภาพช้างศึกดันตินาส ตาธา
 
 @LOC_REMAP_LTH_UBOSOT
 en: Ayutthaya: Ubosot uses Vihara art

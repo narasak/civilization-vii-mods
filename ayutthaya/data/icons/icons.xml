@@ -40,6 +40,10 @@
 			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_thammathut.png</Path>
 		</Row>
 		<Row>
+			<ID>UNIT_LTH_CHANG_SONG</ID>
+			<Path>fs://game/lth-ayutthaya/icons/unitflag_lth_chang_song.png</Path>
+		</Row>
+		<Row>
 			<ID>BUILDING_LTH_UBOSOT</ID>
 			<Path>fs://game/lth-ayutthaya/icons/buildicon_lth_ubosot.png</Path>
 		</Row>

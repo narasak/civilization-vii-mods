@@ -41,4 +41,38 @@
 		<Argument name="YieldType">YIELD_HAPPINESS</Argument>
 		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
 	</Modifier>
+	<!-- 03: Yutthahatthi, the elephant duel of 1592. Fires at war with a commander of level 2+. -->
+	<RequirementSet id="REQSET_LTH_AYU_03A_NARRATIVE">
+		<Requirement xref="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Requirement type="REQUIREMENT_PLAYER_HAS_X_WARS">
+			<Argument name="Amount">1</Argument>
+		</Requirement>
+		<Requirement type="REQUIREMENT_PLAYER_HAS_COMMANDERS_WITH_X_LEVELS">
+			<Argument name="LevelCount">2</Argument>
+			<Argument name="CommanderCount">1</Argument>
+		</Requirement>
+	</RequirementSet>
+	<Modifier id="LTH_AYU_03B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_GRANT_UNIT" run-once="true" permanent="true">
+		<Argument name="UnitTag">UNIT_CLASS_LTH_CHANG_SONG</Argument>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+	<Modifier id="LTH_AYU_03C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
+	<!-- 04: Kosa Pan's embassy to Versailles, 1686. Fires once you have met 3 other civilizations. -->
+	<RequirementSet id="REQSET_LTH_AYU_04A_NARRATIVE">
+		<Requirement xref="REQ_STORY_CIVILIZATION_LTH_AYUTTHAYA"/>
+		<Requirement type="REQUIREMENT_PLAYER_MET_NUM_CIVS">
+			<Argument name="Amount">3</Argument>
+		</Requirement>
+	</RequirementSet>
+	<Modifier id="LTH_AYU_04B_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
+	<Modifier id="LTH_AYU_04C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">
+		<Argument name="YieldType">YIELD_SCIENCE</Argument>
+		<Argument name="MultiplierType">REWARD_TYPE_MEDIUM_EARLY</Argument>
+	</Modifier>
 </GameEffects>

@@ -7,6 +7,7 @@
 		<Row Type="UNIT_LTH_BANG_RACHAN_2" Kind="KIND_UNIT"/>
 		<Row Type="UNIT_LTH_BANG_RACHAN_3" Kind="KIND_UNIT"/>
 		<Row Type="UNIT_LTH_THAMMATHUT" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Kind="KIND_UNIT"/>
 		<Row Type="ABILITY_LTH_BANG_RACHAN" Kind="KIND_ABILITY"/>
 		<Row Type="ABILITY_LTH_THAMMATHUT" Kind="KIND_ABILITY"/>
 	</Types>
@@ -15,11 +16,14 @@
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_2_DESCRIPTION" Tier="2" Maintenance="4" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_LTH_AYUTTHAYA"/>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_UNIT_LTH_BANG_RACHAN_3_DESCRIPTION" Tier="3" Maintenance="6" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_LTH_AYUTTHAYA"/>
 		<Row UnitType="UNIT_LTH_THAMMATHUT" Name="LOC_UNIT_LTH_THAMMATHUT_NAME" Description="LOC_UNIT_LTH_THAMMATHUT_DESCRIPTION" BaseSightRange="1" BaseMoves="4" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" SpreadCharges="3" ZoneOfControl="false" TraitType="TRAIT_LTH_AYUTTHAYA"/>
+		<!-- Royal War Elephant: granted only by story 03 (Yutthahatthi), never trained or bought. Stronger and slower than the Knight (45, 3 moves). -->
+		<Row UnitType="UNIT_LTH_CHANG_SONG" Name="LOC_UNIT_LTH_CHANG_SONG_NAME" Description="LOC_UNIT_LTH_CHANG_SONG_DESCRIPTION" Tier="2" Maintenance="0" BaseSightRange="2" BaseMoves="2" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" CanTrain="false" CanPurchase="false" TraitType="TRAIT_LTH_AYUTTHAYA"/>
 	</Units>
 	<Unit_Stats>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN" Combat="35"/>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" Combat="40"/>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" Combat="45"/>
+		<Row UnitType="UNIT_LTH_CHANG_SONG" Combat="50"/>
 	</Unit_Stats>
 	<Unit_Costs>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN" YieldType="YIELD_PRODUCTION" Cost="130"/>
@@ -43,6 +47,7 @@
 	<Tags>
 		<Row Tag="UNIT_CLASS_LTH_BANG_RACHAN" Category="UNIT_CLASS"/>
 		<Row Tag="UNIT_CLASS_LTH_THAMMATHUT" Category="UNIT_CLASS"/>
+		<Row Tag="UNIT_CLASS_LTH_CHANG_SONG" Category="UNIT_CLASS"/>
 	</Tags>
 	<TypeTags>
 		<Row Type="UNIT_LTH_BANG_RACHAN" Tag="UNIT_CLASS_COMBAT"/>
@@ -63,6 +68,11 @@
 		<Row Type="UNIT_LTH_BANG_RACHAN_3" Tag="UNIT_CLASS_ELITE_INFANTRY"/>
 		<Row Type="UNIT_LTH_THAMMATHUT" Tag="UNIT_CLASS_LTH_THAMMATHUT"/>
 		<Row Type="UNIT_LTH_THAMMATHUT" Tag="UNIT_CLASS_RELIGIOUS"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Tag="UNIT_CLASS_LTH_CHANG_SONG"/>
+		<Row Type="UNIT_LTH_CHANG_SONG" Tag="UNIT_CLASS_UNIQUE"/>
 	</TypeTags>
 	<UnitAbilities>
 		<Row UnitAbilityType="ABILITY_LTH_BANG_RACHAN" Name="LOC_UNIT_LTH_BANG_RACHAN_NAME" Description="LOC_ABILITY_LTH_BANG_RACHAN_DESCRIPTION"/>
@@ -81,6 +91,7 @@
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
 		<Row UnitType="UNIT_LTH_BANG_RACHAN_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
 		<Row UnitType="UNIT_LTH_THAMMATHUT" AdvisoryClassType="ADVISORY_CLASS_CULTURE"/>
+		<Row UnitType="UNIT_LTH_CHANG_SONG" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
 	</Unit_Advisories>
 	<!-- Tier 2 and 3 arrive with the same techs as every Swordsman-line unique (Leiomano rows in progression-trees-tech.xml). -->
 	<ProgressionTreeNodeUnlocks>

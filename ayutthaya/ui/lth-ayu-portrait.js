@@ -21,6 +21,7 @@ const LTH_AYU_PORTRAIT_MODEL = {
     UNIT_LTH_BANG_RACHAN_2: 'UNIT_MAN_AT_ARMS',
     UNIT_LTH_BANG_RACHAN_3: 'UNIT_PIKEMAN',
     UNIT_LTH_THAMMATHUT: 'UNIT_MISSIONARY',
+    UNIT_LTH_CHANG_SONG: 'UNIT_DANTINAS_TATHA',
 };
 const lthAyuRendered = new Set();
 const lthAyuLog = (msg) => console.error(`LTH-AYU: ${msg}`);

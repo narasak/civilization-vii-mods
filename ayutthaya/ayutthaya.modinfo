@@ -57,6 +57,7 @@
 					<Item>icons/civ_sym_lth_ayutthaya.png</Item>
 					<Item>icons/unitflag_lth_bang_rachan.png</Item>
 					<Item>icons/unitflag_lth_thammathut.png</Item>
+					<Item>icons/unitflag_lth_chang_song.png</Item>
 					<Item>icons/buildicon_lth_ubosot.png</Item>
 					<Item>icons/buildicon_lth_prang.png</Item>
 				</ImportFiles>

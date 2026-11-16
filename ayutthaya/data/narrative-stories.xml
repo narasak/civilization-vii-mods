@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Two Ayutthaya stories, each a prompt (A) with two choices (B, C). Pattern: DLC dai-viet narrative-stories-exploration.xml. -->
+<!-- Four Ayutthaya stories, each a prompt (A) with two choices (B, C). Pattern: DLC dai-viet narrative-stories-exploration.xml. -->
 <Database>
 	<Types>
 		<Row Type="LTH_AYU_01A" Kind="KIND_NARRATIVE_STORY"/>
@@ -8,6 +8,12 @@
 		<Row Type="LTH_AYU_02A" Kind="KIND_NARRATIVE_STORY"/>
 		<Row Type="LTH_AYU_02B" Kind="KIND_NARRATIVE_STORY"/>
 		<Row Type="LTH_AYU_02C" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_03A" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_03B" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_03C" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_04A" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_04B" Kind="KIND_NARRATIVE_STORY"/>
+		<Row Type="LTH_AYU_04C" Kind="KIND_NARRATIVE_STORY"/>
 	</Types>
 	<NarrativeStories>
 		<Row NarrativeStoryType="LTH_AYU_01A" Name="LOC_LTH_AYU_01A_NAME" Description="LOC_LTH_AYU_01A_DESCRIPTION" Completion="LOC_LTH_AYU_01A_COMPLETION" StoryTitle="LOC_LTH_AYU_01A_STORYTITLE" Age="AGE_EXPLORATION" Activation="REQUISITE" RequirementSetId="REQSET_LTH_AYU_01A_NARRATIVE" ActivationRequirementSetId="REQSET_LTH_AYU_NARRATIVE_REQUISITE" UIActivation="STANDARD"/>
@@ -16,35 +22,61 @@
 		<Row NarrativeStoryType="LTH_AYU_02A" Name="LOC_LTH_AYU_02A_NAME" Description="LOC_LTH_AYU_02A_DESCRIPTION" Completion="LOC_LTH_AYU_02A_COMPLETION" StoryTitle="LOC_LTH_AYU_02A_STORYTITLE" Age="AGE_EXPLORATION" Activation="REQUISITE" RequirementSetId="REQSET_LTH_AYU_02A_NARRATIVE" ActivationRequirementSetId="REQSET_LTH_AYU_NARRATIVE_REQUISITE" UIActivation="STANDARD"/>
 		<Row NarrativeStoryType="LTH_AYU_02B" Name="LOC_LTH_AYU_02B_NAME" Description="LOC_LTH_AYU_02B_DESCRIPTION" Completion="LOC_LTH_AYU_02B_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
 		<Row NarrativeStoryType="LTH_AYU_02C" Name="LOC_LTH_AYU_02C_NAME" Description="LOC_LTH_AYU_02C_DESCRIPTION" Completion="LOC_LTH_AYU_02C_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_03A" Name="LOC_LTH_AYU_03A_NAME" Description="LOC_LTH_AYU_03A_DESCRIPTION" Completion="LOC_LTH_AYU_03A_COMPLETION" StoryTitle="LOC_LTH_AYU_03A_STORYTITLE" Age="AGE_EXPLORATION" Activation="REQUISITE" RequirementSetId="REQSET_LTH_AYU_03A_NARRATIVE" ActivationRequirementSetId="REQSET_LTH_AYU_NARRATIVE_REQUISITE" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_03B" Name="LOC_LTH_AYU_03B_NAME" Description="LOC_LTH_AYU_03B_DESCRIPTION" Completion="LOC_LTH_AYU_03B_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_03C" Name="LOC_LTH_AYU_03C_NAME" Description="LOC_LTH_AYU_03C_DESCRIPTION" Completion="LOC_LTH_AYU_03C_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_04A" Name="LOC_LTH_AYU_04A_NAME" Description="LOC_LTH_AYU_04A_DESCRIPTION" Completion="LOC_LTH_AYU_04A_COMPLETION" StoryTitle="LOC_LTH_AYU_04A_STORYTITLE" Age="AGE_EXPLORATION" Activation="REQUISITE" RequirementSetId="REQSET_LTH_AYU_04A_NARRATIVE" ActivationRequirementSetId="REQSET_LTH_AYU_NARRATIVE_REQUISITE" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_04B" Name="LOC_LTH_AYU_04B_NAME" Description="LOC_LTH_AYU_04B_DESCRIPTION" Completion="LOC_LTH_AYU_04B_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
+		<Row NarrativeStoryType="LTH_AYU_04C" Name="LOC_LTH_AYU_04C_NAME" Description="LOC_LTH_AYU_04C_DESCRIPTION" Completion="LOC_LTH_AYU_04C_COMPLETION" Age="AGE_EXPLORATION" Activation="LINKED" Hidden="TRUE" RequirementSetId="Met" UIActivation="STANDARD"/>
 	</NarrativeStories>
 	<NarrativeRewards>
 		<Row NarrativeRewardType="LTH_AYU_01B_REWARD" ModifierID="LTH_AYU_01B_NARRATIVE_MODIFIER"/>
 		<Row NarrativeRewardType="LTH_AYU_01C_REWARD" ModifierID="LTH_AYU_01C_NARRATIVE_MODIFIER"/>
 		<Row NarrativeRewardType="LTH_AYU_02B_REWARD" ModifierID="LTH_AYU_02B_NARRATIVE_MODIFIER"/>
 		<Row NarrativeRewardType="LTH_AYU_02C_REWARD" ModifierID="LTH_AYU_02C_NARRATIVE_MODIFIER"/>
+		<Row NarrativeRewardType="LTH_AYU_03B_REWARD" ModifierID="LTH_AYU_03B_NARRATIVE_MODIFIER"/>
+		<Row NarrativeRewardType="LTH_AYU_03C_REWARD" ModifierID="LTH_AYU_03C_NARRATIVE_MODIFIER"/>
+		<Row NarrativeRewardType="LTH_AYU_04B_REWARD" ModifierID="LTH_AYU_04B_NARRATIVE_MODIFIER"/>
+		<Row NarrativeRewardType="LTH_AYU_04C_REWARD" ModifierID="LTH_AYU_04C_NARRATIVE_MODIFIER"/>
 	</NarrativeRewards>
 	<NarrativeStory_Rewards>
 		<Row NarrativeStoryType="LTH_AYU_01B" NarrativeRewardType="LTH_AYU_01B_REWARD" Activation="START"/>
 		<Row NarrativeStoryType="LTH_AYU_01C" NarrativeRewardType="LTH_AYU_01C_REWARD" Activation="START"/>
 		<Row NarrativeStoryType="LTH_AYU_02B" NarrativeRewardType="LTH_AYU_02B_REWARD" Activation="START"/>
 		<Row NarrativeStoryType="LTH_AYU_02C" NarrativeRewardType="LTH_AYU_02C_REWARD" Activation="START"/>
+		<Row NarrativeStoryType="LTH_AYU_03B" NarrativeRewardType="LTH_AYU_03B_REWARD" Activation="START"/>
+		<Row NarrativeStoryType="LTH_AYU_03C" NarrativeRewardType="LTH_AYU_03C_REWARD" Activation="START"/>
+		<Row NarrativeStoryType="LTH_AYU_04B" NarrativeRewardType="LTH_AYU_04B_REWARD" Activation="START"/>
+		<Row NarrativeStoryType="LTH_AYU_04C" NarrativeRewardType="LTH_AYU_04C_REWARD" Activation="START"/>
 	</NarrativeStory_Rewards>
 	<NarrativeRewardIcons>
 		<Row NarrativeStoryType="LTH_AYU_01B" RewardIconType="UNIT"/>
 		<Row NarrativeStoryType="LTH_AYU_01C" RewardIconType="YIELD_CULTURE"/>
 		<Row NarrativeStoryType="LTH_AYU_02B" RewardIconType="YIELD_GOLD"/>
 		<Row NarrativeStoryType="LTH_AYU_02C" RewardIconType="YIELD_HAPPINESS"/>
+		<Row NarrativeStoryType="LTH_AYU_03B" RewardIconType="UNIT"/>
+		<Row NarrativeStoryType="LTH_AYU_03C" RewardIconType="YIELD_CULTURE"/>
+		<Row NarrativeStoryType="LTH_AYU_04B" RewardIconType="YIELD_DIPLOMACY"/>
+		<Row NarrativeStoryType="LTH_AYU_04C" RewardIconType="YIELD_SCIENCE"/>
 	</NarrativeRewardIcons>
 	<NarrativeStory_TextReplacements>
 		<Row NarrativeStoryType="LTH_AYU_01B" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
 		<Row NarrativeStoryType="LTH_AYU_01C" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
 		<Row NarrativeStoryType="LTH_AYU_02B" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
 		<Row NarrativeStoryType="LTH_AYU_02C" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
+		<Row NarrativeStoryType="LTH_AYU_03B" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
+		<Row NarrativeStoryType="LTH_AYU_03C" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
+		<Row NarrativeStoryType="LTH_AYU_04B" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
+		<Row NarrativeStoryType="LTH_AYU_04C" NarrativeStoryTextType="REWARD" NarrativeTextReplacementType="REWARD" Priority="1"/>
 	</NarrativeStory_TextReplacements>
 	<NarrativeStory_Links>
 		<Row FromNarrativeStoryType="LTH_AYU_01A" ToNarrativeStoryType="LTH_AYU_01B" Priority="0" Name="LOC_LTH_AYU_01B_NAME" Description="LOC_LTH_AYU_01B_DESCRIPTION"/>
 		<Row FromNarrativeStoryType="LTH_AYU_01A" ToNarrativeStoryType="LTH_AYU_01C" Priority="1" Name="LOC_LTH_AYU_01C_NAME" Description="LOC_LTH_AYU_01C_DESCRIPTION"/>
 		<Row FromNarrativeStoryType="LTH_AYU_02A" ToNarrativeStoryType="LTH_AYU_02B" Priority="0" Name="LOC_LTH_AYU_02B_NAME" Description="LOC_LTH_AYU_02B_DESCRIPTION"/>
 		<Row FromNarrativeStoryType="LTH_AYU_02A" ToNarrativeStoryType="LTH_AYU_02C" Priority="1" Name="LOC_LTH_AYU_02C_NAME" Description="LOC_LTH_AYU_02C_DESCRIPTION"/>
+		<Row FromNarrativeStoryType="LTH_AYU_03A" ToNarrativeStoryType="LTH_AYU_03B" Priority="0" Name="LOC_LTH_AYU_03B_NAME" Description="LOC_LTH_AYU_03B_DESCRIPTION"/>
+		<Row FromNarrativeStoryType="LTH_AYU_03A" ToNarrativeStoryType="LTH_AYU_03C" Priority="1" Name="LOC_LTH_AYU_03C_NAME" Description="LOC_LTH_AYU_03C_DESCRIPTION"/>
+		<Row FromNarrativeStoryType="LTH_AYU_04A" ToNarrativeStoryType="LTH_AYU_04B" Priority="0" Name="LOC_LTH_AYU_04B_NAME" Description="LOC_LTH_AYU_04B_DESCRIPTION"/>
+		<Row FromNarrativeStoryType="LTH_AYU_04A" ToNarrativeStoryType="LTH_AYU_04C" Priority="1" Name="LOC_LTH_AYU_04C_NAME" Description="LOC_LTH_AYU_04C_DESCRIPTION"/>
 	</NarrativeStory_Links>
 </Database>
