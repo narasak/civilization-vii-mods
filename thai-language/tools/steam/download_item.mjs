@@ -4,6 +4,7 @@
 //
 //   cd tools/steam && node download_item.mjs <version> [itemId]   (version = modinfo version, e.g. 12;
 //   itemId defaults to workshop/published_id.txt)
+//   node download_item.mjs <version> <itemId> <modinfo>   (another mod, e.g. 2 3838292054 ayutthaya.modinfo)
 import { createRequire } from 'node:module';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -13,6 +14,7 @@ const require = createRequire(import.meta.url);
 const steamworks = require('steamworks.js');
 const MOD = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const want = process.argv[2];
+const MODINFO = process.argv[4] || 'thai-language.modinfo';
 const itemId = BigInt(process.argv[3] || readFileSync(join(MOD, 'workshop', 'published_id.txt'), 'utf8').trim());
 if (!/^\d+$/.test(want || '')) { console.error('usage: node download_item.mjs <version>'); process.exit(1); }
 
@@ -24,7 +26,7 @@ try { c = steamworks.init(1295660); } catch (e) {
 const version = () => {
     try {
         const info = c.workshop.installInfo(itemId);
-        return /version="(\d+)"/.exec(readFileSync(join(info.folder, 'thai-language.modinfo'), 'utf8'))[1];
+        return /version="(\d+)"/.exec(readFileSync(join(info.folder, MODINFO), 'utf8'))[1];
     } catch { return null; }
 };
 console.log(`local version ${version() ?? 'none'}; DownloadItem -> ${c.workshop.download(itemId, true)}`);

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="lth-ayutthaya" version="1" xmlns="ModInfo">
+<Mod id="lth-ayutthaya" version="2" xmlns="ModInfo">
 	<Properties>
 		<!-- ASCII ONLY: Thai here is drawn on the Add-Ons screen before any Thai font is loaded. -->
 		<Name>Ayutthaya Civilization</Name>
