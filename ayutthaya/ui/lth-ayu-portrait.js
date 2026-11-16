@@ -11,7 +11,8 @@
  * live:/LTH_PORTRAIT_..." (UI.log 2026-11-15), so the name must be a real unit type. v3 shows the
  * borrowed unit's own portrait, live:/<model>, exactly as the panel does for that unit. The panel
  * puts live:/UNIT_LTH_* back on every refresh; the next tick swaps it again.
- * One element lookup every 500 ms, game only; no MutationObserver.
+ * v4 (2026-11-16): swaps every element carrying live:/UNIT_LTH_* (the army panel slots too), via one
+ * attribute-selector query every 500 ms, game only; no MutationObserver.
  *
  * Logging uses console.error: this build writes only console.error to UI.log (the Thai pack's
  * lth-thai-fonts.js logs the same way); console.log lines never appeared, which hid v1's state.
@@ -26,12 +27,8 @@ const LTH_AYU_PORTRAIT_MODEL = {
 const lthAyuRendered = new Set();
 const lthAyuLog = (msg) => console.error(`LTH-AYU: ${msg}`);
 
-function lthAyuPortrait() {
-    if (typeof WorldUI === 'undefined' || !WorldUI.requestPortrait) {
-        return;
-    }
-    const img = document.querySelector('.unit-actions__unit-portrait-image');
-    const m = /live:\/(UNIT_LTH_[A-Z0-9_]+)/.exec(img?.style.backgroundImage || '');
+function lthAyuSwap(el) {
+    const m = /live:\/(UNIT_LTH_[A-Z0-9_]+)/.exec(el.style.backgroundImage || '');
     if (!m) {
         return;
     }
@@ -41,18 +38,38 @@ function lthAyuPortrait() {
         return;
     }
     try {
-        // Requested on every swap (swaps happen only when the panel resets it), in case the renderer
+        // Requested on every swap (swaps happen only when a panel resets it), in case the renderer
         // released the texture; logged once per model.
         WorldUI.requestPortrait(model, model, 'UnitPortraitsBG_UNIQUE');
         if (!lthAyuRendered.has(model)) {
             lthAyuRendered.add(model);
             lthAyuLog(`portrait ${type} shown as ${model}`);
         }
-        img.style.backgroundImage = `url("live:/${model}")`;
+        el.style.backgroundImage = `url("live:/${model}")`;
     } catch (e) {
         lthAyuLog(`portrait request failed for ${type}: ${e}`);
     }
 }
 
+function lthAyuPortrait() {
+    if (typeof WorldUI === 'undefined' || !WorldUI.requestPortrait) {
+        return;
+    }
+    // Every element showing one of our live portraits: the selected-unit panel AND the slots of a
+    // commander's army panel (black squares there on 2026-11-16). Matches inline style only.
+    let els;
+    try {
+        els = document.querySelectorAll('[style*="live:/UNIT_LTH_"]');
+    } catch (e) {
+        // If the UI engine rejects the attribute selector, keep v3's behaviour (selected-unit panel only).
+        if (!lthAyuRendered.has('#fallback')) {
+            lthAyuRendered.add('#fallback');
+            lthAyuLog(`attribute selector unsupported (${e}); selected-unit panel only`);
+        }
+        els = document.querySelectorAll('.unit-actions__unit-portrait-image');
+    }
+    els.forEach(lthAyuSwap);
+}
+
 setInterval(lthAyuPortrait, 500);
-lthAyuLog('portrait helper v3 loaded');
+lthAyuLog('portrait helper v4 loaded');

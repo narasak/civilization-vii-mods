@@ -53,7 +53,8 @@
 		</Requirement>
 	</RequirementSet>
 	<Modifier id="LTH_AYU_03B_NARRATIVE_MODIFIER" collection="COLLECTION_PLAYER_CAPITAL_CITY" effect="EFFECT_CITY_GRANT_UNIT" run-once="true" permanent="true">
-		<Argument name="UnitTag">UNIT_CLASS_LTH_CHANG_SONG</Argument>
+		<!-- By UnitType, not UnitTag: a tag grant picks only units the city can train, and the elephant is CanTrain="false" (2026-11-16: the reward read "+1" and no unit came). -->
+		<Argument name="UnitType">UNIT_LTH_CHANG_SONG</Argument>
 		<Argument name="Amount">1</Argument>
 	</Modifier>
 	<Modifier id="LTH_AYU_03C_NARRATIVE_MODIFIER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_GRANT_YIELD_NARRATIVE" run-once="false" permanent="true">

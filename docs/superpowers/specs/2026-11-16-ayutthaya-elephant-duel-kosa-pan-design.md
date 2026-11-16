@@ -100,6 +100,14 @@ holds: use models already in the game, and make no new ones.
   buildings as they are. We do not pursue a DLC-folder install, because players could not get it from
   the Workshop.
 
+**Result, 2026-11-16: stopped by the stop rule.** A minimal package (`lth-ayutthaya-arttest.dep` plus
+`Platforms/Mac/BLPs/StandardAsset.blp` inside the installed mod, named by `<UpdateArt>`) was looked up
+in only three places, as `ArtDef.log` shows:
+`…/Resources/DLC/<name>/Platforms/Mac/BLPs`, `~/Library/Application Support/Civilization VII/Branch/DLC/<name>/…`
+and `…/Local/DLC/<name>/…`. Then it logged `No Packages found for project "lth-ayutthaya-arttest" in any
+of the enumerated package directories`. The game never looks in a mod's folder, so building art cannot
+ship through the Workshop. The test files were removed. The Ubosot and the Prang stay without models.
+
 Order: Part 1 (the stories and the elephant) first, then Part 2. They are independent, so a failure in
 Part 2 does not hold back Part 1.
 
