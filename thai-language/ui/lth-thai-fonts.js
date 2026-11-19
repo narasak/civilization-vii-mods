@@ -18,7 +18,7 @@
  * single read-only audit in the front end that logs to UI.log ("LTH: audit") if a gap ever appears.
  */
 
-const BUILD = 'v10';
+const BUILD = 'v11';
 const FAMILY_BODY = 'LTH-Sarabun';
 const FAMILY_TITLE = 'LTH-Kanit';
 const MOD_ID = 'lth-thai-language';
@@ -150,7 +150,46 @@ function scheduleLeading() {
     leadingTimer = setTimeout(leadingScan, wait);
 }
 
+/*
+ * Charts (v11, 2026-11-19). Chart.js draws text on a <canvas>, which our stylesheet never reaches. Both
+ * game charts set `Chart.defaults.font.family` in code: "BodyFont" in ui-next/components/line-graph.js
+ * (the Economic victory tab's graph) and BODY_FONTS in core/ui/components/fxs-hof-chart.js. BodyFont has
+ * no Thai, so Thai labels drew as squares (reported by a player on the Workshop page, 2026-11-19).
+ * We make that one property always lead with our family. Sarabun also has Latin and digits, so the
+ * result does not depend on the canvas falling back glyph by glyph. The game's value stays in the list.
+ */
+function patchChart() {
+    if (typeof Chart === 'undefined' || !Chart.defaults || !Chart.defaults.font) return false;
+    const font = Chart.defaults.font;
+    if (font.__lth) return true;
+    let value = font.family;
+    try {
+        Object.defineProperty(font, 'family', {
+            configurable: true,
+            enumerable: true,
+            get: () => value,
+            set: (v) => {
+                const s = String(v ?? '');
+                value = s.includes(FAMILY_BODY) ? s : (s ? `"${FAMILY_BODY}", ${s}` : `"${FAMILY_BODY}"`);
+            },
+        });
+        font.family = value;
+        Object.defineProperty(font, '__lth', { value: true });
+        log('chart-font', font.family);
+    } catch (e) {
+        log('chart-font-failed', String(e));
+    }
+    return true;
+}
+
+function watchChart() {
+    if (patchChart()) return;
+    let tries = 0;
+    const t = setInterval(() => { if (patchChart() || ++tries > 60) clearInterval(t); }, 1000);
+}
+
 function start() {
+    watchChart();
     const style = document.createElement('style');
     style.id = 'lth-fonts';
     style.textContent = css();
