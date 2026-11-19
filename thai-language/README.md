@@ -1,7 +1,7 @@
 # Thai Language for Civilization VII (ม็อดภาษาไทย)
 
 แปลข้อความในเกม Civilization VII เป็นภาษาไทยทั้งหมด: เมนู คำแนะนำ ซีวิโลพีเดีย เหตุการณ์เรื่องราว
-บทสนทนาผู้นำ ทั้งเกมหลัก 3 ยุค และ DLC ทุกตัว พร้อมฟอนต์ไทย (Sarabun, Kanit) ในตัว
+บทสนทนาผู้นำ ทั้งเกมหลัก 3 ยุค และ DLC ทุกตัว พร้อมฟอนต์ไทย Boon ในตัว
 
 Translates the whole game into Thai. Thai is not a selectable language in Civ VII, so the mod replaces the
 English text: keep the game language on English.
@@ -46,6 +46,8 @@ install if any check fails. `tools/package.sh` builds the release zip from the s
   A changed English string no longer matches its hash, so a game update cannot silently show stale Thai.
 - `tools/build_text.py` writes `text/gen/*.xml`, putting each row under the same load condition (Age,
   shell or game) as the English it replaces, and inserting word-break points for Thai line wrapping.
+- Font: Boon v3.0 by fontuni (SIL OFL 1.1, github.com/fontuni/boon), suggested and tested by SongThailand.
+  Since v13 it is also bound to the game's BodyFont/TitleFont names, so other mods' Thai renders too.
 - `ui/lth-thai-fonts.js` and an early stylesheet give every game font stack a Thai fallback, from the
   loading screen on.
 - `tools/check.py` is the gate: placeholders and markup preserved, characters the fonts can draw, no

@@ -14,7 +14,7 @@ DEST="${LTH_DEST:-$HOME/Library/Application Support/Civilization VII/Mods/lth-th
 # A syntax error stops a UIScript from loading at all, silently. node --check caught a comment that
 # closed itself early ("BodyFont*/") on 2026-11-06.
 for f in "$HERE"/ui/*.js; do node --check "$f" || { echo "SYNTAX ERROR: $f"; exit 1; }; done
-for f in lth-Sarabun-Regular lth-Sarabun-SemiBold lth-Kanit-Medium lth-Kanit-SemiBold; do
+for f in lth-Boon-Regular lth-Boon-Medium lth-Boon-SemiBold; do
   [ -f "$HERE/fonts/$f.ttf" ] || { echo "MISSING fonts/$f.ttf — run tools/build-fonts.py"; exit 1; }
 done
 

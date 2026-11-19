@@ -53,7 +53,7 @@ def js_const(js, name):
 
 def faces(family, regular, bold, src):
     """One @font-face per CSS weight 100-900. With only 400/700 declared, the loading screen's
-    font-medium (500) title found no face ("LTH-Kanit ... Medium (500) hasn't been loaded")."""
+    font-medium (500) title found no face ("LTH-Kanit ... Medium (500) hasn't been loaded", 2026-11-06)."""
     return [f'@font-face {{ font-family: "{family}"; src: {src(regular if w <= 500 else bold)}; font-weight: {w}; }}'
             for w in range(100, 1000, 100)]
 
@@ -61,6 +61,7 @@ def faces(family, regular, bold, src):
 def block(js, marker):
     body, title = js_const(js, 'FAMILY_BODY'), js_const(js, 'FAMILY_TITLE')
     mod_id = js_const(js, 'MOD_ID')
+    fb, ft, fbold = js_const(js, 'FONT_BODY'), js_const(js, 'FONT_TITLE'), js_const(js, 'FONT_BOLD')
     sizes = js_list(js, 'SIZES')
     sb, st = js_list(js, 'STATIC_BODY'), js_list(js, 'STATIC_TITLE')
 
@@ -73,8 +74,10 @@ def block(js, marker):
     j = lambda xs: ',\n'.join(f'html {x}' for x in xs)
     return '\n'.join([
         '', MARK,
-        *faces(body, 'lth-Sarabun-Regular.ttf', 'lth-Sarabun-SemiBold.ttf', src),
-        *faces(title, 'lth-Kanit-Medium.ttf', 'lth-Kanit-SemiBold.ttf', src),
+        *faces(body, fb, fbold, src),
+        *faces(title, ft, fbold, src),
+        *faces(js_const(js, 'NATIVE_BODY'), fb, fbold, src),
+        *faces(js_const(js, 'NATIVE_TITLE'), ft, fbold, src),
         f'{j(t_sel)} {{ font-family: {stitle}; }}',
         f'{j(b_sel)} {{ font-family: {sbody}; }}',
         f'html, body {{ font-family: {sbody}; }}',

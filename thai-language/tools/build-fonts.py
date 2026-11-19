@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """Build the mod's fonts from the pristine OFL originals in fonts/src/.
 
-Why the originals cannot ship as-is (measured 2026-11-06):
+Since 2026-11-19 the one family is Boon v3.0 by fontuni (OFL 1.1, github.com/fontuni/boon), suggested by
+a player (SongThailand); it replaced Sarabun (body) and Kanit (titles). Boon already maps U+200B, so the
+step below adds nothing to it today; it stays so a future font cannot regress the line breaking.
+
+Why the originals could not ship as-is (measured 2026-11-06 on Sarabun and Kanit):
   * Neither Sarabun, Kanit nor any font the game ships has a glyph for U+200B ZERO WIDTH SPACE.
     Long Thai text needs U+200B to wrap (Gameface does not segment Thai: the 6a test line overflowed,
     6b with U+200B wrapped). With no glyph, each U+200B drew a visible gap in the letter-spaced main
@@ -22,10 +26,9 @@ FONTS = os.path.join(os.path.dirname(HERE), 'fonts')
 
 # (source file, output file, new family name, style)
 BUILDS = [
-    ('Sarabun-Regular.ttf',  'lth-Sarabun-Regular.ttf',  'LTH Sarabun', 'Regular'),
-    ('Sarabun-SemiBold.ttf', 'lth-Sarabun-SemiBold.ttf', 'LTH Sarabun', 'SemiBold'),
-    ('Kanit-Medium.ttf',     'lth-Kanit-Medium.ttf',     'LTH Kanit',   'Medium'),
-    ('Kanit-SemiBold.ttf',   'lth-Kanit-SemiBold.ttf',   'LTH Kanit',   'SemiBold'),
+    ('Boon-Regular.ttf',  'lth-Boon-Regular.ttf',  'LTH Boon', 'Regular'),
+    ('Boon-Medium.ttf',   'lth-Boon-Medium.ttf',   'LTH Boon', 'Medium'),
+    ('Boon-SemiBold.ttf', 'lth-Boon-SemiBold.ttf', 'LTH Boon', 'SemiBold'),
 ]
 # ZERO WIDTH SPACE, ZW NON-JOINER, ZW JOINER, WORD JOINER, ZW NO-BREAK SPACE (BOM)
 ZERO_WIDTH = [0x200B, 0x200C, 0x200D, 0x2060, 0xFEFF]

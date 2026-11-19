@@ -15,7 +15,7 @@
 
 [h2]จุดเด่น[/h2]
 [list]
-[*][b]ฟอนต์ไทยในตัว[/b] ใช้ Sarabun สำหรับเนื้อความ และ Kanit สำหรับหัวข้อ อ่านง่ายเข้ากับธีมเกม
+[*][b]ฟอนต์ไทยในตัว[/b] ใช้ฟอนต์ Boon ของ fontuni อ่านสบายตา เข้ากับธีมเกม และช่วยให้ข้อความไทยในม็อดอื่นแสดงผลได้ด้วย
 [*][b]ตัดคำไทยถูกต้อง[/b] ข้อความยาวขึ้นบรรทัดใหม่ตรงรอยต่อคำ ไม่ตัดกลางคำ
 [*][b]ศัพท์สม่ำเสมอทั้งเกม[/b] ใช้อภิธานศัพท์กลางกว่า 170 คำ เช่น City = นคร, Town = เมือง, Settlement = ถิ่นฐาน
 [*][b]ชื่อเฉพาะถอดเสียงตามหลักราชบัณฑิตยสถาน[/b] ชื่อที่มีคำไทยใช้กันอยู่แล้วใช้ตามนั้น เช่น อียิปต์ ขงจื๊อ พีระมิด
@@ -55,7 +55,7 @@ dialog, with Thai fonts built in. Nothing else to install.
 [list]
 [*][b]Everything:[/b] base game, all three Ages and all DLC; menus, tooltips, Civilopedia, narrative
 events, leader dialog, challenges and mementos.
-[*][b]Bundled fonts:[/b] Sarabun for body text, Kanit for titles. Thai line breaking at word boundaries.
+[*][b]Bundled font:[/b] Boon by fontuni, which also lets Thai text in other mods render. Thai line breaking at word boundaries.
 [*][b]Consistent terminology[/b] from a shared glossary of 170+ terms.
 [*][b]Save-game safe:[/b] enable or disable at any time.
 [/list]
@@ -66,5 +66,5 @@ set to [b]English[/b]. Thai is not a selectable language in Civ VII, so this mod
 Source code, glossary and issue tracker:
 [url=https://github.com/narasak/civilization-vii-mods]github.com/narasak/civilization-vii-mods[/url]
 
-[i]Unofficial fan project, not affiliated with Firaxis Games or 2K. Fonts: Sarabun and Kanit by Cadson
-Demak, SIL Open Font License 1.1.[/i]
+[i]Unofficial fan project, not affiliated with Firaxis Games or 2K. Font: Boon by fontuni (Sungsit Sawaiwan),
+SIL Open Font License 1.1. Thanks to SongThailand for suggesting and testing it.[/i]

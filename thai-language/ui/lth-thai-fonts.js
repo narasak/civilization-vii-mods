@@ -3,10 +3,15 @@
  * @description Make Thai renderable, at no ongoing cost to the UI thread.
  *
  * What the Phase 0 runs established (2026-11-06, build 1.5.0 / 1311346):
- *  - The game ships no font with Thai glyphs; we bundle Sarabun (body) and Kanit (title), OFL 1.1,
- *    rebuilt by tools/build-fonts.py with a zero-width U+200B glyph.
- *  - Gameface does not parse `unicode-range`, so a face must never be added to the native
- *    "BodyFont"/"TitleFont" families (it would replace the game's Latin font).
+ *  - The game ships no font with Thai glyphs; we bundle one, rebuilt by tools/build-fonts.py.
+ *    Since v12 (2026-11-19) that is Boon v3.0 by fontuni (OFL 1.1), for body and titles alike; it
+ *    replaced Sarabun and Kanit at a player's suggestion (SongThailand, Workshop page and GitHub).
+ *  - Gameface does not parse `unicode-range`, so a face added to the native "BodyFont"/"TitleFont"
+ *    families replaces the game's Latin font. Until v11 we never did that. Since v12 we DO, on purpose
+ *    (owner's choice, 2026-11-19): other mods style their own text with BodyFont/TitleFont directly
+ *    (e.g. Leader XP Tracker), and only binding those names to Boon lets their Thai render instead of
+ *    squares. The cost, accepted: English and digits draw in Boon's Latin too. Boon covers all of
+ *    Latin-1 and 121/128 of Latin Extended-A, and every character in our text (4.67M checked).
  *  - Gameface does fall back glyph by glyph along a font-family list, and scripts cannot read or edit
  *    the game's stylesheets (147/147 rules "unreadable"). So we out-rank the game's font rules with our
  *    own stylesheet: the same selectors, prefixed with `html`, with our family inserted in each stack.
@@ -18,9 +23,14 @@
  * single read-only audit in the front end that logs to UI.log ("LTH: audit") if a gap ever appears.
  */
 
-const BUILD = 'v11';
-const FAMILY_BODY = 'LTH-Sarabun';
-const FAMILY_TITLE = 'LTH-Kanit';
+const BUILD = 'v12';
+const FAMILY_BODY = 'LTH-Boon';
+const FAMILY_TITLE = 'LTH-BoonTitle';
+const FONT_BODY = 'lth-Boon-Regular.ttf';
+const FONT_TITLE = 'lth-Boon-Medium.ttf';
+const FONT_BOLD = 'lth-Boon-SemiBold.ttf';
+const NATIVE_BODY = 'BodyFont';   // bound to Boon too, see the header
+const NATIVE_TITLE = 'TitleFont';
 const MOD_ID = 'lth-thai-language';
 
 function src(file) {
@@ -65,8 +75,10 @@ function css() {
     const title = ['.font-title', ...SIZES.map(z => `.font-title-${z}`), ...STATIC_TITLE];
     const body = ['.font-body', ...SIZES.map(z => `.font-body-${z}`), ...STATIC_BODY];
     return [
-        ...faces(FAMILY_BODY, 'lth-Sarabun-Regular.ttf', 'lth-Sarabun-SemiBold.ttf'),
-        ...faces(FAMILY_TITLE, 'lth-Kanit-Medium.ttf', 'lth-Kanit-SemiBold.ttf'),
+        ...faces(FAMILY_BODY, FONT_BODY, FONT_BOLD),
+        ...faces(FAMILY_TITLE, FONT_TITLE, FONT_BOLD),
+        ...faces(NATIVE_BODY, FONT_BODY, FONT_BOLD),
+        ...faces(NATIVE_TITLE, FONT_TITLE, FONT_BOLD),
         `${sel(title)} { font-family: ${STACK_TITLE}; }`,
         `${sel(body)} { font-family: ${STACK_BODY}; }`,
         `html, body { font-family: ${STACK_BODY}; }`,
@@ -155,7 +167,7 @@ function scheduleLeading() {
  * game charts set `Chart.defaults.font.family` in code: "BodyFont" in ui-next/components/line-graph.js
  * (the Economic victory tab's graph) and BODY_FONTS in core/ui/components/fxs-hof-chart.js. BodyFont has
  * no Thai, so Thai labels drew as squares (reported by a player on the Workshop page, 2026-11-19).
- * We make that one property always lead with our family. Sarabun also has Latin and digits, so the
+ * We make that one property always lead with our family. Boon also has Latin and digits, so the
  * result does not depend on the canvas falling back glyph by glyph. The game's value stays in the list.
  */
 function patchChart() {
